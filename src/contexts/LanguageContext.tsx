@@ -45,8 +45,16 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     document.documentElement.lang = locale;
     const dict = getDictionary(locale);
     document.title = dict.meta.title;
-    const meta = document.querySelector('meta[name="description"]');
-    if (meta) meta.setAttribute("content", dict.meta.description);
+    const desc = document.querySelector('meta[name="description"]');
+    if (desc) desc.setAttribute("content", dict.meta.description);
+    const keywordsContent = dict.meta.keywords.join(", ");
+    let keywordsMeta = document.querySelector('meta[name="keywords"]');
+    if (!keywordsMeta) {
+      keywordsMeta = document.createElement("meta");
+      keywordsMeta.setAttribute("name", "keywords");
+      document.head.appendChild(keywordsMeta);
+    }
+    keywordsMeta.setAttribute("content", keywordsContent);
   }, [locale]);
 
   const setLocale = useCallback((next: Locale) => {
