@@ -13,6 +13,30 @@ const SLUG_ALTERNATES: Record<string, string> = {
   "llanta-ponchada-domingo-military-trail": "flat-tire-sunday-military-trail",
   "wheel-balancing-no-hidden-fees": "balanceo-sin-sorpresas",
   "balanceo-sin-sorpresas": "wheel-balancing-no-hidden-fees",
+  "why-drivers-trust-los-paisas-west-palm-beach":
+    "por-que-confiar-en-los-paisas-west-palm-beach",
+  "por-que-confiar-en-los-paisas-west-palm-beach":
+    "why-drivers-trust-los-paisas-west-palm-beach",
+  "wheel-alignment-military-trail-west-palm-beach":
+    "alineacion-geometria-military-trail-west-palm-beach",
+  "alineacion-geometria-military-trail-west-palm-beach":
+    "wheel-alignment-military-trail-west-palm-beach",
+  "tire-repair-vulcanization-west-palm-beach":
+    "reparacion-vulcanizacion-llantas-west-palm-beach",
+  "reparacion-vulcanizacion-llantas-west-palm-beach":
+    "tire-repair-vulcanization-west-palm-beach",
+  "install-customer-tires-west-palm-beach":
+    "instalacion-llantas-del-cliente-west-palm-beach",
+  "instalacion-llantas-del-cliente-west-palm-beach":
+    "install-customer-tires-west-palm-beach",
+  "mobile-tire-service-west-palm-beach":
+    "servicio-movil-llantas-west-palm-beach",
+  "servicio-movil-llantas-west-palm-beach":
+    "mobile-tire-service-west-palm-beach",
+  "new-tires-west-palm-beach-military-trail":
+    "llantas-nuevas-west-palm-beach-military-trail",
+  "llantas-nuevas-west-palm-beach-military-trail":
+    "new-tires-west-palm-beach-military-trail",
 };
 
 /** Path to switch to when changing UI language while on a blog route. */
