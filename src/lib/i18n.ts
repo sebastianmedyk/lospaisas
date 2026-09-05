@@ -27,6 +27,8 @@ export const translations = {
       ctaWhatsApp: "WhatsApp",
       ctaDirections: "Get Directions",
       sundayHighlight: "Open Sunday",
+      floatingCall: "Call",
+      floatingCallAria: "Call Los Paisas Tires Shop",
     },
     trust: {
       title: "Trusted on Military Trail",

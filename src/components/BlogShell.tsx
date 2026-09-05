@@ -4,6 +4,7 @@ import { useEffect } from "react";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import FloatingCallButton from "@/components/FloatingCallButton";
 import { useLanguage } from "@/contexts/LanguageContext";
 import type { BlogLocale } from "@/lib/blog";
 
@@ -29,6 +30,7 @@ export default function BlogShell({ children, locale }: BlogShellProps) {
       <Header />
       <main className="min-h-[60vh]">{children}</main>
       <Footer />
+      <FloatingCallButton />
     </>
   );
 }
