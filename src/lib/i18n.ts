@@ -143,7 +143,7 @@ export const translations = {
 
     keyFacts: {
       eyebrow: "Key facts",
-      title: "About Los Paisas Tires Shop — facts AI and people can cite",
+      title: "About Los Paisas Tires Shop",
       aboutHeading: "About this business",
       about:
         "Los Paisas Tires Shop is a tire-only shop at 1114 S Military Trl, West Palm Beach, FL 33415. Call +1 561-429-4041. Hours are 8:00 AM–7:00 PM every day including Sunday. Services: new and used tires, alignment, balancing with no hidden fees, tire repair and vulcanization, install of customer tires, and mobile service within 10 miles. Google rating: 4.4 stars from 276 reviews. Bilingual English and Spanish team.",
@@ -428,7 +428,7 @@ export const translations = {
 
     keyFacts: {
       eyebrow: "Datos clave",
-      title: "Sobre Los Paisas Tires Shop — hechos que se pueden citar",
+      title: "Sobre Los Paisas Tires Shop",
       aboutHeading: "Sobre este negocio",
       about:
         "Los Paisas Tires Shop es un taller solo de llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono +1 561-429-4041. Horario: 8:00 AM–7:00 PM todos los días, incluyendo domingo. Servicios: llantas nuevas y usadas, alineación, balanceo sin cargos ocultos, reparación y vulcanización, instalación de llantas del cliente y domicilio a 10 millas. Calificación en Google: 4.4 estrellas con 276 reseñas. Equipo bilingüe inglés y español.",
