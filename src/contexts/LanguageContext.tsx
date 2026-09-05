@@ -43,6 +43,10 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     document.documentElement.lang = locale;
+    const dict = getDictionary(locale);
+    document.title = dict.meta.title;
+    const meta = document.querySelector('meta[name="description"]');
+    if (meta) meta.setAttribute("content", dict.meta.description);
   }, [locale]);
 
   const setLocale = useCallback((next: Locale) => {

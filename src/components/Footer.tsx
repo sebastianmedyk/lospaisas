@@ -26,19 +26,19 @@ export default function Footer() {
         <div className="flex flex-col gap-8 sm:flex-row sm:items-start sm:justify-between">
           <div>
             <p className="headline text-xl text-white">
-              {t.footer.napName}
+              {BUSINESS.name}
             </p>
             <p className="mt-2 max-w-sm text-sm text-white/55">
               {t.footer.tagline}
             </p>
             <address className="mt-4 not-italic text-sm text-white/75">
-              <p>{t.footer.napAddress}</p>
+              <p>{BUSINESS.address}</p>
               <p className="mt-1">
                 <a
                   href={BUSINESS.phoneTel}
                   className="hover:text-brand-gold"
                 >
-                  {t.footer.napPhone}
+                  {BUSINESS.phoneDisplay}
                 </a>
               </p>
             </address>
@@ -113,7 +113,7 @@ export default function Footer() {
               {BUSINESS.instagramHandle}
             </a>
             <p className="text-xs text-white/40">
-              © {year} {t.footer.napName}. {t.footer.rights}
+              © {year} {BUSINESS.name}. {t.footer.rights}
             </p>
           </div>
         </div>

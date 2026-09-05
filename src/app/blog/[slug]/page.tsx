@@ -11,7 +11,7 @@ const OG_IMAGE = {
   url: "/brand/promo-sunday.png",
   width: 1200,
   height: 900,
-  alt: "Los Paisas Tires Shop — S Military Trail, West Palm Beach",
+  alt: "Los Paisas Tires Shop — S Military Trl, West Palm Beach",
 } as const;
 
 export function generateStaticParams() {

@@ -14,7 +14,7 @@ const OG_IMAGE = {
 export const metadata: Metadata = {
   title: "Blog — Tire Tips for West Palm Beach",
   description:
-    "Local tire guides from Los Paisas Tires Shop on S Military Trail: used tires, Sunday flat repair, wheel balancing with no hidden fees, and more for West Palm Beach drivers.",
+    "Local tire guides from Los Paisas Tires Shop on S Military Trl: used tires, Sunday flat repair, wheel balancing with no hidden fees, and more for West Palm Beach drivers.",
   alternates: {
     canonical: "/blog",
     languages: blogLanguageAlternates("en"),
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Los Paisas Tires Shop Blog | West Palm Beach",
     description:
-      "Practical tire tips for Military Trail and Palm Beach County drivers.",
+      "Practical tire tips for Military Trl and Palm Beach County drivers.",
     url: absoluteUrl("/blog"),
     locale: "en_US",
     alternateLocale: "es_US",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Los Paisas Tires Shop Blog | West Palm Beach",
     description:
-      "Practical tire tips for Military Trail and Palm Beach County drivers.",
+      "Practical tire tips for Military Trl and Palm Beach County drivers.",
     images: [OG_IMAGE.url],
   },
 };

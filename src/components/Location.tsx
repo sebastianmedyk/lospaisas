@@ -30,7 +30,7 @@ export default function Location() {
                 </span>
               </div>
               <p className="text-lg font-semibold text-white">
-                {t.location.address}
+                {BUSINESS.address}
               </p>
               <p className="mt-2 text-sm text-white/55">{t.location.servingNote}</p>
               <a
@@ -78,7 +78,7 @@ export default function Location() {
                 href={BUSINESS.phoneTel}
                 className="text-lg font-semibold text-white hover:text-brand-gold"
               >
-                {t.location.phone}
+                {BUSINESS.phoneDisplay}
               </a>
             </div>
           </div>

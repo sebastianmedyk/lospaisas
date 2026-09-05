@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { BUSINESS } from "@/lib/constants";
 
 export default function KeyFacts() {
   const { t, locale } = useLanguage();
@@ -66,9 +67,14 @@ export default function KeyFacts() {
               {kf.napHeading}
             </h3>
             <ul className="mt-3 space-y-1.5 text-sm text-white/75">
-              {kf.napLines.map((line) => (
-                <li key={line}>{line}</li>
-              ))}
+              <li>{BUSINESS.name}</li>
+              <li>{BUSINESS.address}</li>
+              <li>{BUSINESS.phoneDisplay}</li>
+              <li>
+                {locale === "es"
+                  ? `Abierto 7 días · ${BUSINESS.hours} (incluyendo domingo)`
+                  : `Open 7 days · ${BUSINESS.hours} (including Sunday)`}
+              </li>
             </ul>
           </div>
         </div>

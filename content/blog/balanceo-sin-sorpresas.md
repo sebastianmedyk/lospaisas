@@ -1,16 +1,16 @@
 ---
 title: "Balanceo de llantas sin sorpresas en West Palm Beach"
-description: "¿Cansado de cargos sorpresa? Los Paisas Tires Shop en S Military Trail ofrece balanceo honesto — precios transparentes para conductores de West Palm Beach."
+description: "¿Cansado de cargos sorpresa? Los Paisas Tires Shop en S Military Trl ofrece balanceo honesto — precios transparentes para conductores de West Palm Beach."
 date: "2026-09-01"
 locale: es
 slug: balanceo-sin-sorpresas
 keywords:
   - balanceo de llantas West Palm Beach
   - balanceo sin cargos ocultos
-  - tienda de llantas Military Trail
+  - tienda de llantas Military Trl
 ---
 
-La vibración en el volante o el asiento suele indicar que las llantas necesitan **balanceo**. En **Los Paisas Tires Shop** en **S Military Trail, West Palm Beach**, mantenemos el balanceo **honesto y claro — sin cargos ocultos**.
+La vibración en el volante o el asiento suele indicar que las llantas necesitan **balanceo**. En **Los Paisas Tires Shop** en **S Military Trl, West Palm Beach**, mantenemos el balanceo **honesto y claro — sin cargos ocultos**.
 
 ## Por qué importa el balanceo
 
@@ -28,7 +28,7 @@ Te decimos el precio del balanceo de antemano. Sin extras misteriosos después d
 
 ## Combina el balanceo con el resto del cuidado de llantas
 
-Mientras estás en **1114 S Military Trail**, también podemos ayudarte con:
+Mientras estás en **1114 S Military Trl**, también podemos ayudarte con:
 
 - Llantas nuevas y usadas
 - Alineación / geometría

@@ -14,7 +14,7 @@ const OG_IMAGE = {
 export const metadata: Metadata = {
   title: "Blog — Consejos de llantas en West Palm Beach",
   description:
-    "Guías locales de Los Paisas Tires Shop en S Military Trail: llantas usadas, ponchaduras en domingo, balanceo sin sorpresas y más para conductores de West Palm Beach.",
+    "Guías locales de Los Paisas Tires Shop en S Military Trl: llantas usadas, ponchaduras en domingo, balanceo sin sorpresas y más para conductores de West Palm Beach.",
   alternates: {
     canonical: "/es/blog",
     languages: blogLanguageAlternates("es"),
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Blog Los Paisas Tires Shop | West Palm Beach",
     description:
-      "Consejos prácticos de llantas para Military Trail y Palm Beach County.",
+      "Consejos prácticos de llantas para Military Trl y Palm Beach County.",
     url: absoluteUrl("/es/blog"),
     locale: "es_US",
     alternateLocale: "en_US",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Blog Los Paisas Tires Shop | West Palm Beach",
     description:
-      "Consejos prácticos de llantas para Military Trail y Palm Beach County.",
+      "Consejos prácticos de llantas para Military Trl y Palm Beach County.",
     images: [OG_IMAGE.url],
   },
 };

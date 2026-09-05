@@ -9,22 +9,22 @@ export const AREA_SERVED = [
   "Palm Beach County",
 ] as const;
 
-/** Approximate shop coordinates near 1114 S Military Trail, WPB */
+/** Verified Google Maps / GBP pin for 1114 S Military Trl */
 export const GEO = {
-  latitude: 26.6785,
-  longitude: -80.1128,
+  latitude: BUSINESS.geo.latitude,
+  longitude: BUSINESS.geo.longitude,
 } as const;
 
 export const SERVICE_OFFERS = [
   {
     name: "New & Used Tires",
     description:
-      "Quality new and used tires for every budget at Los Paisas Tires Shop, 1114 S Military Trail, West Palm Beach, FL 33415.",
+      "Quality new and used tires for every budget at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.",
   },
   {
     name: "Wheel Alignment",
     description:
-      "Precision wheel alignment (geometría) for safer handling and even tire wear on the S Military Trail corridor in West Palm Beach.",
+      "Precision wheel alignment (geometría) for safer handling and even tire wear on the S Military Trl corridor in West Palm Beach.",
   },
   {
     name: "Tire Balancing",
@@ -39,43 +39,42 @@ export const SERVICE_OFFERS = [
   {
     name: "Install Customer Tires",
     description:
-      "Mount and install tires you already purchased — careful install by the Los Paisas Tires Shop team on S Military Trail.",
+      "Mount and install tires you already purchased — careful install by the Los Paisas Tires Shop team on S Military Trl.",
   },
   {
     name: "Mobile Tire Service Within 10 Miles",
     description:
-      "Mobile tire service within 10 miles of 1114 S Military Trail, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
+      "Mobile tire service within 10 miles of 1114 S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
   },
 ] as const;
 
 function postalAddress() {
   return {
     "@type": "PostalAddress" as const,
-    streetAddress: "1114 S Military Trail",
-    addressLocality: "West Palm Beach",
-    addressRegion: "FL",
-    postalCode: "33415",
-    addressCountry: "US",
+    streetAddress: BUSINESS.streetAddress,
+    addressLocality: BUSINESS.addressLocality,
+    addressRegion: BUSINESS.addressRegion,
+    postalCode: BUSINESS.postalCode,
+    addressCountry: BUSINESS.addressCountry,
   };
 }
 
 function openingHoursSpec() {
-  return [
-    {
-      "@type": "OpeningHoursSpecification" as const,
-      dayOfWeek: [
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday",
-        "Sunday",
-      ],
-      opens: "08:00",
-      closes: "19:00",
-    },
-  ];
+  const days = [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+  ] as const;
+  return days.map((dayOfWeek) => ({
+    "@type": "OpeningHoursSpecification" as const,
+    dayOfWeek,
+    opens: "08:00",
+    closes: "19:00",
+  }));
 }
 
 function organizationPublisher() {
@@ -98,14 +97,14 @@ export function localBusinessJsonLd() {
     "@id": `${SITE_URL}/#business`,
     name: BUSINESS.name,
     description:
-      "Los Paisas Tires Shop at 1114 S Military Trail, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call +1 561-429-4041.",
+      "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call +1 561-429-4041.",
     image: [
       absoluteUrl("/brand/promo-sunday.png"),
       absoluteUrl("/brand/promo-trust.png"),
       absoluteUrl("/brand/promo-balanceo.png"),
     ],
     url: SITE_URL,
-    telephone: "+15614294041",
+    telephone: BUSINESS.phoneE164,
     priceRange: "$$",
     currenciesAccepted: "USD",
     paymentAccepted: "Cash, Credit Card, Debit Card",
@@ -121,6 +120,8 @@ export function localBusinessJsonLd() {
       BUSINESS.facebook,
       BUSINESS.tiktok,
       BUSINESS.mapsUrl,
+      BUSINESS.mapsPlaceUrl,
+      BUSINESS.mapsCidUrl,
     ],
     areaServed: [
       ...AREA_SERVED.map((name) => ({
@@ -137,11 +138,11 @@ export function localBusinessJsonLd() {
         geoRadius: "16093",
       },
     ],
-    hasMap: BUSINESS.mapsUrl,
+    hasMap: BUSINESS.mapsPlaceUrl,
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.4",
-      reviewCount: "276",
+      ratingValue: BUSINESS.ratingValue,
+      reviewCount: BUSINESS.reviewCount,
       bestRating: "5",
       worstRating: "1",
     },
@@ -187,7 +188,7 @@ export function serviceJsonLdList() {
       "@type": "TireShop",
       "@id": `${SITE_URL}/#business`,
       name: BUSINESS.name,
-      telephone: "+15614294041",
+      telephone: BUSINESS.phoneE164,
       address: postalAddress(),
     },
     areaServed: AREA_SERVED.map((name) => ({
@@ -207,7 +208,7 @@ export function webSiteJsonLd() {
     url: SITE_URL,
     inLanguage: ["en-US", "es-US"],
     description:
-      "Official website for Los Paisas Tires Shop — new & used tires, alignment, balancing, repair & vulcanization on S Military Trail, West Palm Beach, FL.",
+      "Official website for Los Paisas Tires Shop — new & used tires, alignment, balancing, repair & vulcanization on S Military Trl, West Palm Beach, FL.",
     publisher: organizationPublisher(),
     about: { "@id": `${SITE_URL}/#business` },
   };
@@ -281,7 +282,7 @@ export function flatTireSundayHowToJsonLd() {
     "@type": "HowTo",
     name: "What to do if you get a flat tire on Sunday in West Palm Beach",
     description:
-      "Step-by-step guide to get a flat tire fixed on Sunday at Los Paisas Tires Shop, 1114 S Military Trail, West Palm Beach, FL 33415 — open 8:00 AM–7:00 PM every day including Sunday.",
+      "Step-by-step guide to get a flat tire fixed on Sunday at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415 — open 8:00 AM–7:00 PM every day including Sunday.",
     totalTime: "PT30M",
     inLanguage: "en-US",
     supply: [
@@ -308,7 +309,7 @@ export function flatTireSundayHowToJsonLd() {
         "@type": "HowToStep",
         position: 2,
         name: "Come in or request mobile service",
-        text: "Drive to 1114 S Military Trail, West Palm Beach, FL 33415 if the vehicle is safe to move. If not, ask about mobile tire service within 10 miles of the shop covering West Palm Beach and nearby Palm Beach County cities.",
+        text: "Drive to 1114 S Military Trl, West Palm Beach, FL 33415 if the vehicle is safe to move. If not, ask about mobile tire service within 10 miles of the shop covering West Palm Beach and nearby Palm Beach County cities.",
         url: absoluteUrl("/#location"),
       },
       {

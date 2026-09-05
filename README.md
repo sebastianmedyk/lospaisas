@@ -115,7 +115,7 @@ Body in Markdown. Prefer an **answer-first first paragraph** with NAP when relev
 ## Business facts (source of truth)
 
 - **Name:** Los Paisas Tires Shop
-- **Address:** 1114 S Military Trail, West Palm Beach, FL 33415
+- **Address:** 1114 S Military Trl, West Palm Beach, FL 33415
 - **Phone / WhatsApp:** +1 561-429-4041 / `tel:+15614294041`
 - **Hours:** 7 days, 8:00 AM – 7:00 PM (Sunday open)
 - **Instagram / TikTok:** @tireshop_lospaisas
