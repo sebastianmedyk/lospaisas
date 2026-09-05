@@ -6,13 +6,20 @@ export default function Faq() {
   const { t } = useLanguage();
 
   return (
-    <section id="faq" className="section-pad relative border-t border-white/10">
+    <section
+      id="faq"
+      className="section-pad relative border-t border-white/10"
+      aria-labelledby="faq-heading"
+    >
       <div className="container-site relative">
         <div className="mx-auto mb-10 max-w-2xl text-center">
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             FAQ
           </p>
-          <h2 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
+          <h2
+            id="faq-heading"
+            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+          >
             {t.faq.title}
           </h2>
           <p className="mt-4 text-white/70">{t.faq.subtitle}</p>

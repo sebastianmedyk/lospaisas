@@ -8,7 +8,7 @@ export default function WhyUs() {
   const { t, locale } = useLanguage();
 
   return (
-    <section id="why-us" className="section-pad relative border-y border-white/10 bg-black/40">
+    <section id="why-us" className="section-pad relative border-y border-white/10 bg-black/40" aria-labelledby="why-us-heading">
       <div className="speed-stripes pointer-events-none absolute inset-0 opacity-20" aria-hidden />
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
         <div className="relative order-2 lg:order-1">
@@ -22,7 +22,10 @@ export default function WhyUs() {
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             Los Paisas
           </p>
-          <h2 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
+          <h2
+            id="why-us-heading"
+            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+          >
             {t.whyUs.title}
           </h2>
           <p className="mt-4 text-white/70">{t.whyUs.subtitle}</p>

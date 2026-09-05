@@ -4,7 +4,7 @@ import { blogPath } from "@/lib/blog";
 import { getDictionary } from "@/lib/i18n";
 import JsonLd from "@/components/JsonLd";
 import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
-import { articleJsonLd } from "@/lib/seo";
+import { articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
 
 type Props = {
@@ -14,6 +14,7 @@ type Props = {
 export default function BlogArticle({ post }: Props) {
   const t = getDictionary(post.locale);
   const url = absoluteUrl(blogPath(post.locale, post.slug));
+  const listingUrl = absoluteUrl(blogPath(post.locale));
 
   return (
     <BlogShell locale={post.locale}>
@@ -26,7 +27,14 @@ export default function BlogArticle({ post }: Props) {
           locale: post.locale,
         })}
       />
-      <article className="section-pad">
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: t.nav.home, url: absoluteUrl("/") },
+          { name: t.nav.blog, url: listingUrl },
+          { name: post.title, url },
+        ])}
+      />
+      <article className="section-pad" aria-labelledby="article-heading">
         <div className="container-site max-w-3xl">
           <BlogBackLinks
             locale={post.locale}
@@ -46,7 +54,10 @@ export default function BlogArticle({ post }: Props) {
                 {post.date}
               </time>
             </div>
-            <h1 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
+            <h1
+              id="article-heading"
+              className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+            >
               {post.title}
             </h1>
             <p className="mt-4 text-base leading-relaxed text-white/70 sm:text-lg">

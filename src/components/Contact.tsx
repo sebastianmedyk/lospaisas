@@ -85,14 +85,17 @@ export default function Contact() {
   ] as const;
 
   return (
-    <section id="contact" className="section-pad relative border-t border-white/10 bg-black/50">
+    <section id="contact" className="section-pad relative border-t border-white/10 bg-black/50" aria-labelledby="contact-heading">
       <div className="speed-stripes pointer-events-none absolute inset-0 opacity-15" aria-hidden />
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2">
         <div>
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             {t.nav.contact}
           </p>
-          <h2 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
+          <h2
+            id="contact-heading"
+            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+          >
             {t.contact.title}
           </h2>
           <p className="mt-4 max-w-lg text-white/70">{t.contact.subtitle}</p>

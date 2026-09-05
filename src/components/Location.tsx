@@ -8,13 +8,13 @@ export default function Location() {
   const { t } = useLanguage();
 
   return (
-    <section id="location" className="section-pad relative">
+    <section id="location" aria-labelledby="location-heading" className="section-pad relative">
       <div className="container-site">
         <div className="mx-auto mb-10 max-w-2xl text-center">
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             {t.nav.location}
           </p>
-          <h2 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
+          <h2 id="location-heading" className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
             {t.location.title}
           </h2>
           <p className="mt-4 text-white/70">{t.location.subtitle}</p>

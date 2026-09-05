@@ -3,6 +3,9 @@ import type { BlogLocale, BlogPostMeta } from "@/lib/blog";
 import { blogPath } from "@/lib/blog";
 import { getDictionary } from "@/lib/i18n";
 import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
+import JsonLd from "@/components/JsonLd";
+import { breadcrumbJsonLd } from "@/lib/seo";
+import { absoluteUrl } from "@/lib/site";
 
 type Props = {
   locale: BlogLocale;
@@ -11,10 +14,17 @@ type Props = {
 
 export default function BlogListing({ locale, posts }: Props) {
   const t = getDictionary(locale);
+  const listingUrl = absoluteUrl(blogPath(locale));
 
   return (
     <BlogShell locale={locale}>
-      <section className="section-pad">
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: t.nav.home, url: absoluteUrl("/") },
+          { name: t.nav.blog, url: listingUrl },
+        ])}
+      />
+      <section className="section-pad" aria-labelledby="blog-listing-heading">
         <div className="container-site">
           <BlogBackLinks
             locale={locale}
@@ -24,7 +34,10 @@ export default function BlogListing({ locale, posts }: Props) {
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             {t.nav.blog}
           </p>
-          <h1 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
+          <h1
+            id="blog-listing-heading"
+            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+          >
             {t.blog.title}
           </h1>
           <p className="mt-4 max-w-2xl text-white/70">{t.blog.subtitle}</p>

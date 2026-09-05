@@ -31,6 +31,12 @@ No hacemos cambio de aceite, frenos ni A/C — nos enfocamos en llantas para hac
 
 - Llama o WhatsApp: **+1 561-429-4041**
 - Cómo llegar: [Google Maps a 1114 S Military Trail](https://www.google.com/maps/dir/?api=1&destination=1114+S+Military+Trail,+West+Palm+Beach,+FL+33415)
-- Instagram: [@lospaisaswpb](https://instagram.com/lospaisaswpb)
+- Instagram: [@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)
+
+## Puntos clave
+
+- Los Paisas Tires Shop abre el domingo de 8:00 AM a 7:00 PM en 1114 S Military Trail, West Palm Beach, FL 33415.
+- Llama o WhatsApp **+1 561-429-4041** para reparación, vulcanización, llantas nuevas/usadas o instalación.
+- Servicio a domicilio a 10 millas del taller.
 
 Guarda este número antes del próximo imprevisto. Cuando busques un **taller de llantas abierto el domingo cerca de mí** en West Palm Beach, estamos en Military Trail listos para ayudar.

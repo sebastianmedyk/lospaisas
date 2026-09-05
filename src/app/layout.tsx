@@ -1,8 +1,12 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Oswald } from "next/font/google";
 import Providers from "@/components/Providers";
 import JsonLd from "@/components/JsonLd";
-import { localBusinessJsonLd, faqPageJsonLd } from "@/lib/seo";
+import {
+  localBusinessJsonLd,
+  faqPageJsonLd,
+  webSiteJsonLd,
+} from "@/lib/seo";
 import { translations } from "@/lib/i18n";
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
@@ -18,6 +22,14 @@ const displayFont = Oswald({
   variable: "--font-display",
   display: "swap",
 });
+
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: dark)", color: "#0D0D0D" },
+    { media: "(prefers-color-scheme: light)", color: "#F4C20D" },
+  ],
+  colorScheme: "dark",
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -36,9 +48,14 @@ export const metadata: Metadata = {
     "tire repair Sunday open",
     "Los Paisas Tires",
     "llantas West Palm Beach",
+    "mobile tire service West Palm Beach",
   ],
   alternates: {
     canonical: "/",
+    languages: {
+      en: "/",
+      es: "/",
+    },
   },
   openGraph: {
     title: "Los Paisas Tires Shop | S Military Trail, West Palm Beach, FL",
@@ -68,7 +85,16 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
   },
+  manifest: "/manifest.webmanifest",
+  category: "automotive",
 };
 
 /** EN FAQ answers for SSR FAQPage JSON-LD (ES stays in client i18n UI). */
@@ -86,6 +112,7 @@ export default function RootLayout({
     <html lang="en" className={`${bodyFont.variable} ${displayFont.variable}`}>
       <body className="font-body antialiased">
         <JsonLd data={localBusinessJsonLd()} />
+        <JsonLd data={webSiteJsonLd()} />
         <JsonLd data={faqPageJsonLd(enFaqs)} />
         <Providers>{children}</Providers>
       </body>

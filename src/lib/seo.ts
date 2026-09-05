@@ -15,12 +15,90 @@ export const GEO = {
   longitude: -80.1128,
 } as const;
 
+export const SERVICE_OFFERS = [
+  {
+    name: "New & Used Tires",
+    description:
+      "Quality new and used tires for every budget at Los Paisas Tires Shop, 1114 S Military Trail, West Palm Beach, FL 33415.",
+  },
+  {
+    name: "Wheel Alignment",
+    description:
+      "Precision wheel alignment (geometría) for safer handling and even tire wear on the S Military Trail corridor in West Palm Beach.",
+  },
+  {
+    name: "Tire Balancing",
+    description:
+      "Wheel balancing with transparent pricing and no hidden fees at Los Paisas Tires Shop in West Palm Beach.",
+  },
+  {
+    name: "Tire Repair & Vulcanization",
+    description:
+      "Professional tire repair and vulcanization to get West Palm Beach and Palm Beach County drivers back on the road safely.",
+  },
+  {
+    name: "Install Customer Tires",
+    description:
+      "Mount and install tires you already purchased — careful install by the Los Paisas Tires Shop team on S Military Trail.",
+  },
+  {
+    name: "Mobile Tire Service Within 10 Miles",
+    description:
+      "Mobile tire service within 10 miles of 1114 S Military Trail, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
+  },
+] as const;
+
+function postalAddress() {
+  return {
+    "@type": "PostalAddress" as const,
+    streetAddress: "1114 S Military Trail",
+    addressLocality: "West Palm Beach",
+    addressRegion: "FL",
+    postalCode: "33415",
+    addressCountry: "US",
+  };
+}
+
+function openingHoursSpec() {
+  return [
+    {
+      "@type": "OpeningHoursSpecification" as const,
+      dayOfWeek: [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+      ],
+      opens: "08:00",
+      closes: "19:00",
+    },
+  ];
+}
+
+function organizationPublisher() {
+  return {
+    "@type": "Organization" as const,
+    "@id": `${SITE_URL}/#organization`,
+    name: BUSINESS.name,
+    url: SITE_URL,
+    logo: {
+      "@type": "ImageObject" as const,
+      url: absoluteUrl("/brand/promo-trust.png"),
+    },
+  };
+}
+
 export function localBusinessJsonLd() {
   return {
     "@context": "https://schema.org",
-    "@type": ["LocalBusiness", "AutomotiveBusiness"],
+    "@type": ["TireShop", "AutomotiveBusiness", "LocalBusiness"],
     "@id": `${SITE_URL}/#business`,
     name: BUSINESS.name,
+    description:
+      "Los Paisas Tires Shop at 1114 S Military Trail, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call +1 561-429-4041.",
     image: [
       absoluteUrl("/brand/promo-sunday.png"),
       absoluteUrl("/brand/promo-trust.png"),
@@ -29,41 +107,115 @@ export function localBusinessJsonLd() {
     url: SITE_URL,
     telephone: "+15614294041",
     priceRange: "$$",
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: "1114 S Military Trail",
-      addressLocality: "West Palm Beach",
-      addressRegion: "FL",
-      postalCode: "33415",
-      addressCountry: "US",
-    },
+    currenciesAccepted: "USD",
+    paymentAccepted: "Cash, Credit Card, Debit Card",
+    address: postalAddress(),
     geo: {
       "@type": "GeoCoordinates",
       latitude: GEO.latitude,
       longitude: GEO.longitude,
     },
-    openingHoursSpecification: [
+    openingHoursSpecification: openingHoursSpec(),
+    sameAs: [
+      BUSINESS.instagram,
+      BUSINESS.facebook,
+      BUSINESS.tiktok,
+      BUSINESS.mapsUrl,
+    ],
+    areaServed: [
+      ...AREA_SERVED.map((name) => ({
+        "@type": "City",
+        name,
+      })),
       {
-        "@type": "OpeningHoursSpecification",
-        dayOfWeek: [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday",
-        ],
-        opens: "08:00",
-        closes: "19:00",
+        "@type": "GeoCircle",
+        geoMidpoint: {
+          "@type": "GeoCoordinates",
+          latitude: GEO.latitude,
+          longitude: GEO.longitude,
+        },
+        geoRadius: "16093",
       },
     ],
-    sameAs: [BUSINESS.instagram, BUSINESS.facebook, BUSINESS.tiktok],
+    hasMap: BUSINESS.mapsUrl,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "4.4",
+      reviewCount: "276",
+      bestRating: "5",
+      worstRating: "1",
+    },
+    knowsLanguage: ["en", "es"],
+    hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: "Tire services at Los Paisas Tires Shop",
+      itemListElement: SERVICE_OFFERS.map((service, index) => ({
+        "@type": "OfferCatalog",
+        name: service.name,
+        itemListElement: [
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: service.name,
+              description: service.description,
+              provider: { "@id": `${SITE_URL}/#business` },
+              areaServed: AREA_SERVED.map((name) => ({
+                "@type": "City",
+                name,
+              })),
+            },
+          },
+        ],
+        position: index + 1,
+      })),
+    },
+    makesOffer: SERVICE_OFFERS.map((service) => ({
+      "@type": "Offer",
+      itemOffered: {
+        "@type": "Service",
+        name: service.name,
+        description: service.description,
+        provider: { "@id": `${SITE_URL}/#business` },
+      },
+    })),
+  };
+}
+
+/** Standalone Service schemas for homepage injection */
+export function serviceJsonLdList() {
+  return SERVICE_OFFERS.map((service) => ({
+    "@context": "https://schema.org",
+    "@type": "Service",
+    name: service.name,
+    description: service.description,
+    provider: {
+      "@type": "TireShop",
+      "@id": `${SITE_URL}/#business`,
+      name: BUSINESS.name,
+      telephone: "+15614294041",
+      address: postalAddress(),
+    },
     areaServed: AREA_SERVED.map((name) => ({
       "@type": "City",
       name,
     })),
-    hasMap: BUSINESS.mapsUrl,
+    url: absoluteUrl("/#services"),
+  }));
+}
+
+export function webSiteJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${SITE_URL}/#website`,
+    name: BUSINESS.name,
+    url: SITE_URL,
+    inLanguage: ["en-US", "es-US"],
+    description:
+      "Official website for Los Paisas Tires Shop — new & used tires, alignment, balancing, repair & vulcanization on S Military Trail, West Palm Beach, FL.",
+    publisher: organizationPublisher(),
+    about: { "@id": `${SITE_URL}/#business` },
   };
 }
 
@@ -102,18 +254,75 @@ export function articleJsonLd(input: {
     author: {
       "@type": "Organization",
       name: BUSINESS.name,
+      url: SITE_URL,
     },
-    publisher: {
-      "@type": "Organization",
-      name: BUSINESS.name,
-      logo: {
-        "@type": "ImageObject",
-        url: absoluteUrl("/brand/promo-trust.png"),
-      },
-    },
+    publisher: organizationPublisher(),
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": input.url,
     },
+  };
+}
+
+export function breadcrumbJsonLd(
+  items: { name: string; url: string }[],
+) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: items.map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: item.name,
+      item: item.url,
+    })),
+  };
+}
+
+/** HowTo: flat tire on Sunday in West Palm Beach — EN, homepage / GEO citation */
+export function flatTireSundayHowToJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    name: "What to do if you get a flat tire on Sunday in West Palm Beach",
+    description:
+      "Step-by-step guide to get a flat tire fixed on Sunday at Los Paisas Tires Shop, 1114 S Military Trail, West Palm Beach, FL 33415 — open 8:00 AM–7:00 PM every day including Sunday.",
+    totalTime: "PT30M",
+    inLanguage: "en-US",
+    supply: [
+      {
+        "@type": "HowToSupply",
+        name: "Your vehicle with a flat or damaged tire",
+      },
+    ],
+    tool: [
+      {
+        "@type": "HowToTool",
+        name: "Phone or WhatsApp to reach Los Paisas Tires Shop",
+      },
+    ],
+    step: [
+      {
+        "@type": "HowToStep",
+        position: 1,
+        name: "Call or WhatsApp the shop",
+        text: "Call or WhatsApp Los Paisas Tires Shop at +1 561-429-4041. Confirm you need tire repair, vulcanization, a new or used tire, or an install — and whether you can drive in or need mobile service within 10 miles.",
+        url: absoluteUrl("/#contact"),
+      },
+      {
+        "@type": "HowToStep",
+        position: 2,
+        name: "Come in or request mobile service",
+        text: "Drive to 1114 S Military Trail, West Palm Beach, FL 33415 if the vehicle is safe to move. If not, ask about mobile tire service within 10 miles of the shop covering West Palm Beach and nearby Palm Beach County cities.",
+        url: absoluteUrl("/#location"),
+      },
+      {
+        "@type": "HowToStep",
+        position: 3,
+        name: "Get repair, vulcanization, or a replacement tire",
+        text: "The Los Paisas Tires Shop team inspects the tire and repairs or vulcanizes when possible, or mounts a new or used tire, installs customer-owned tires, and balances as needed with no hidden fees. Open Sunday 8:00 AM–7:00 PM — same hours as every other day.",
+        url: absoluteUrl("/#services"),
+      },
+    ],
   };
 }

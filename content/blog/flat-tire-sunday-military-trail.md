@@ -31,6 +31,13 @@ Cannot make it to Military Trail? Ask about **mobile tire service within 10 mile
 
 - Call or WhatsApp: **+1 561-429-4041**
 - Directions: [Google Maps to 1114 S Military Trail](https://www.google.com/maps/dir/?api=1&destination=1114+S+Military+Trail,+West+Palm+Beach,+FL+33415)
-- Instagram: [@lospaisaswpb](https://instagram.com/lospaisaswpb)
+- Instagram: [@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)
+
+
+## Key takeaways
+
+- Los Paisas Tires Shop is open Sunday 8:00 AM–7:00 PM at 1114 S Military Trail, West Palm Beach, FL 33415.
+- Call or WhatsApp **+1 561-429-4041** for repair, vulcanization, new/used tires, or customer-tire install.
+- Mobile tire service is available within 10 miles of the shop.
 
 Save this number before the next roadside surprise. When you search for a **tire shop open Sunday near me** in West Palm Beach, we are on the Military Trail corridor ready to help.

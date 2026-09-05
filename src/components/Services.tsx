@@ -24,14 +24,17 @@ export default function Services() {
   const { t } = useLanguage();
 
   return (
-    <section id="services" className="section-pad relative">
+    <section id="services" className="section-pad relative" aria-labelledby="services-heading">
       <div className="speed-stripes pointer-events-none absolute inset-0 opacity-10" aria-hidden />
       <div className="container-site relative">
         <div className="mx-auto mb-10 max-w-2xl text-center">
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             {t.nav.services}
           </p>
-          <h2 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
+          <h2
+            id="services-heading"
+            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+          >
             {t.services.title}
           </h2>
           <p className="mt-4 text-white/70">{t.services.subtitle}</p>
