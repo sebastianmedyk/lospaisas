@@ -16,6 +16,7 @@ const config: Config = {
         },
       },
       fontFamily: {
+        sans: ["var(--font-body)", "system-ui", "sans-serif"],
         display: ["var(--font-display)", "Impact", "Arial Black", "sans-serif"],
         body: ["var(--font-body)", "system-ui", "sans-serif"],
       },

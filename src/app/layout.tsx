@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Oswald } from "next/font/google";
+import { Barlow_Condensed, DM_Sans } from "next/font/google";
 import Providers from "@/components/Providers";
 import JsonLd from "@/components/JsonLd";
 import {
@@ -9,17 +9,17 @@ import {
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
-const bodyFont = Inter({
+const bodyFont = DM_Sans({
   subsets: ["latin"],
-  weight: ["400", "600", "700"],
+  weight: ["400", "500", "600", "700"],
   variable: "--font-body",
   display: "swap",
   fallback: ["system-ui", "Segoe UI", "Roboto", "sans-serif"],
 });
 
-const displayFont = Oswald({
+const displayFont = Barlow_Condensed({
   subsets: ["latin"],
-  weight: ["500", "700"],
+  weight: ["600", "700"],
   variable: "--font-display",
   display: "swap",
   fallback: ["Impact", "Arial Black", "sans-serif"],
@@ -108,7 +108,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${bodyFont.variable} ${displayFont.variable}`}>
-      <body className="font-body antialiased">
+      <body className="font-sans antialiased">
         <JsonLd data={localBusinessJsonLd()} />
         <JsonLd data={webSiteJsonLd()} />
         <Providers>{children}</Providers>

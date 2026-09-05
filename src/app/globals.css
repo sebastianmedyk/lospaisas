@@ -62,7 +62,7 @@ main[id] {
 }
 
 @layer components {
-  /* Oswald 700 — automotive uppercase / tracking */
+  /* Barlow Condensed 600/700 — automotive uppercase / tracking */
   .headline {
     @apply font-display font-bold uppercase tracking-wide;
   }
