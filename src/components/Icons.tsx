@@ -48,10 +48,16 @@ export function InstagramIcon(props: IconProps) {
 
 export function TireIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
-      <circle cx="12" cy="12" r="9" />
-      <circle cx="12" cy="12" r="4" />
-      <path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M5.6 18.4l1.4-1.4M17 7l1.4-1.4" strokeLinecap="round" />
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+      {/* Tire with tread + hub — New & Used Tires */}
+      <circle cx="12" cy="12" r="9" strokeLinecap="round" />
+      <circle cx="12" cy="12" r="5.25" strokeLinecap="round" />
+      <circle cx="12" cy="12" r="1.75" strokeLinecap="round" />
+      <path
+        d="M12 3.15v1.7M12 19.15v1.7M3.15 12h1.7M19.15 12h1.7M5.05 5.05l1.2 1.2M17.75 17.75l1.2 1.2M5.05 18.95l1.2-1.2M17.75 6.25l1.2-1.2"
+        strokeLinecap="round"
+      />
+      <path d="M9.2 9.2l1.1 1.1M13.7 13.7l1.1 1.1M9.2 14.8l1.1-1.1M13.7 10.3l1.1-1.1" strokeLinecap="round" />
     </svg>
   );
 }
@@ -74,42 +80,85 @@ export function StarIcon(props: IconProps) {
 
 export function AlignIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
-      <path d="M4 6h16M7 12h10M9 18h6" strokeLinecap="round" />
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+      {/* Front wheels + toe arrows — Wheel Alignment */}
+      <path
+        d="M7 5.5v13M17 5.5v13"
+        strokeLinecap="round"
+      />
+      <rect x="4.25" y="7.5" width="5.5" height="9" rx="2.2" strokeLinecap="round" strokeLinejoin="round" />
+      <rect x="14.25" y="7.5" width="5.5" height="9" rx="2.2" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M9.75 12h4.5" strokeLinecap="round" />
+      <path d="M3.4 12H2.2M20.6 12h1.2" strokeLinecap="round" />
+      <path d="M4.2 10.6 2.8 12l1.4 1.4M19.8 10.6 21.2 12l-1.4 1.4" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
 }
 
 export function BalanceIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
-      <path d="M12 3v18M5 8h14M5 8l-2 6h6L5 8zM19 8l-2 6h6l-4-6z" strokeLinecap="round" strokeLinejoin="round" />
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+      {/* Wheel with rim weights — Tire Balancing */}
+      <circle cx="12" cy="12" r="9" strokeLinecap="round" />
+      <circle cx="12" cy="12" r="4.25" strokeLinecap="round" />
+      <circle cx="12" cy="12" r="1.35" strokeLinecap="round" />
+      {/* Balance weight clips on rim */}
+      <path d="M10.35 3.35h3.3v1.55h-3.3z" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M18.9 10.2l1.1 1.9-1.55.9-1.1-1.9z" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M5.1 10.2l-1.1 1.9 1.55.9 1.1-1.9z" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M12 7.75v2M12 14.25v2M9.75 12h2M12.25 12h2" strokeLinecap="round" />
     </svg>
   );
 }
 
 export function WrenchIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
-      <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" strokeLinecap="round" strokeLinejoin="round" />
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+      {/* Tire + wrench — Repair & Vulcanization */}
+      <circle cx="9.25" cy="13.25" r="6.5" strokeLinecap="round" />
+      <circle cx="9.25" cy="13.25" r="2.6" strokeLinecap="round" />
+      <path
+        d="M14.2 5.2a3.4 3.4 0 0 1 4.6 4.6l-5.35 5.35a1.15 1.15 0 0 1-1.63 0l-.97-.97a1.15 1.15 0 0 1 0-1.63L16.2 7.2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path d="M17.35 4.05l2.6 2.6" strokeLinecap="round" />
     </svg>
   );
 }
 
 export function TruckIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
-      <path d="M1 3h15v13H1zM16 8h4l3 3v5h-7V8z" strokeLinecap="round" strokeLinejoin="round" />
-      <circle cx="5.5" cy="18.5" r="2.5" />
-      <circle cx="18.5" cy="18.5" r="2.5" />
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+      {/* Service van with tire mark — Mobile Within 10 Miles */}
+      <path
+        d="M2 15.5V7.5A1.5 1.5 0 0 1 3.5 6H14v9.5H2z"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M14 10h3.2l2.8 2.6V15.5H14V10z"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path d="M3.5 6V4.75A.75.75 0 0 1 4.25 4H8.5" strokeLinecap="round" />
+      <circle cx="6.25" cy="17.75" r="2.15" />
+      <circle cx="17.5" cy="17.75" r="2.15" />
+      <path d="M8.5 17.75h6.8" strokeLinecap="round" />
+      <path d="M5.2 11.2h5.2M5.2 13.2h3.4" strokeLinecap="round" />
     </svg>
   );
 }
 
 export function InstallIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
-      <path d="M12 3v12M8 11l4 4 4-4M5 21h14" strokeLinecap="round" strokeLinejoin="round" />
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+      {/* Two tires + mount mark — Install Your Tires */}
+      <circle cx="8" cy="13" r="6" strokeLinecap="round" />
+      <circle cx="8" cy="13" r="2.35" strokeLinecap="round" />
+      <circle cx="17.25" cy="9.25" r="4.35" strokeLinecap="round" />
+      <circle cx="17.25" cy="9.25" r="1.65" strokeLinecap="round" />
+      <path d="M17.25 3.4v2.2M17.25 13v2.2M11.4 9.25h2.2M20.9 9.25h2.2" strokeLinecap="round" />
     </svg>
   );
 }
