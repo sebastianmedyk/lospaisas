@@ -35,4 +35,4 @@ We are open **7 days a week, 8:00 AM – 7:00 PM**, including Sunday. If you can
 
 Call or WhatsApp **+1 561-429-4041**, stop by the shop, or [see our services](/#services) for alignment, balancing with no hidden fees, repair & vulcanization, and customer-tire install.
 
-**Los Paisas Tires Shop** — your tire shop near me on Military Trl in West Palm Beach.
+**Los Paisas Tires Shop** — local tire help on Military Trl in West Palm Beach.

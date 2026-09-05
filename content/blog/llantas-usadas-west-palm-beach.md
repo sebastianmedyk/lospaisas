@@ -35,4 +35,4 @@ Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**, incluyendo domingo. Si no 
 
 Llama o escribe por WhatsApp al **+1 561-429-4041**, visita el taller o [mira nuestros servicios](/#services): alineación, balanceo sin cargos ocultos, reparación y vulcanización, e instalación de llantas del cliente.
 
-**Los Paisas Tires Shop** — tu tienda de llantas cerca de ti en Military Trl, West Palm Beach.
+**Los Paisas Tires Shop** — ayuda local con llantas en Military Trl, West Palm Beach.

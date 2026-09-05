@@ -34,10 +34,10 @@ Cannot make it to Military Trl? Ask about **mobile tire service within 10 miles*
 - Instagram: [@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)
 
 
-## Key takeaways
+## Good to know
 
 - Los Paisas Tires Shop is open Sunday 8:00 AM–7:00 PM at 1114 S Military Trl, West Palm Beach, FL 33415.
 - Call or WhatsApp **+1 561-429-4041** for repair, vulcanization, new/used tires, or customer-tire install.
 - Mobile tire service is available within 10 miles of the shop.
 
-Save this number before the next roadside surprise. When you search for a **tire shop open Sunday near me** in West Palm Beach, we are on the Military Trl corridor ready to help.
+Save this number before the next roadside surprise. Need a Sunday tire fix in West Palm Beach? We are on Military Trl and ready to help.
