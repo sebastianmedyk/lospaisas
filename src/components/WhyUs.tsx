@@ -10,7 +10,7 @@ export default function WhyUs() {
   return (
     <section
       id="why-us"
-      className="section-pad relative overflow-hidden border-y border-white/10 bg-black/40"
+      className="section-pad relative overflow-hidden border-y border-white/15 bg-[#141414]"
       aria-labelledby="why-us-heading"
     >
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
@@ -22,7 +22,7 @@ export default function WhyUs() {
         </div>
 
         <div className="order-1 lg:order-2">
-          <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
+          <p className="section-label mb-3">
             Los Paisas
           </p>
           <h2
@@ -31,7 +31,7 @@ export default function WhyUs() {
           >
             {t.whyUs.title}
           </h2>
-          <p className="mt-4 text-white/70">{t.whyUs.subtitle}</p>
+          <p className="mt-4 text-white/80">{t.whyUs.subtitle}</p>
 
           <ul className="mt-8 space-y-3">
             {t.whyUs.points.map((point) => (
@@ -43,7 +43,7 @@ export default function WhyUs() {
                   <span className="headline block text-base text-white">
                     {point.title}
                   </span>
-                  <span className="mt-1 block text-sm text-white/65">
+                  <span className="mt-1 block text-sm text-white/70">
                     {point.text}
                   </span>
                 </span>

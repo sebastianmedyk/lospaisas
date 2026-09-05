@@ -4,6 +4,7 @@
 
 :root {
   --brand-bg: #0d0d0d;
+  --brand-surface: #141414;
   --brand-gold: #f4c20d;
   --brand-red: #e01e1e;
 }
@@ -61,12 +62,13 @@ main[id] {
 }
 
 @layer components {
+  /* Oswald 700 — automotive uppercase / tracking */
   .headline {
-    @apply font-display font-black italic uppercase tracking-tight;
+    @apply font-display font-bold uppercase tracking-wide;
   }
 
   .gold-gradient {
-    background: linear-gradient(135deg, #f4c20d 0%, #ffd84d 45%, #c9a008 100%);
+    background: linear-gradient(135deg, #f4c20d 0%, #e6b60c 50%, #c9a008 100%);
   }
 
   .section-pad {
@@ -82,26 +84,29 @@ main[id] {
     @apply mx-auto max-w-6xl;
   }
 
+  /* Primary CTA: solid gold + near-black text */
   .btn-gold {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-gold px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-bg transition duration-200 hover:bg-[#ffd84d] focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-gold px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-bg transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
+  /* Directions / secondary: sharp gold outline */
   .btn-outline {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/25 bg-white/[0.04] px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:border-brand-gold/60 hover:bg-brand-gold/10 hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-brand-gold bg-transparent px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-gold transition duration-200 hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
   /* Red reserved for urgent only (Sunday badge) — not channel CTAs */
   .btn-red {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-red px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:bg-[#ff2a2a] focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-red px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
   /* Quiet secondary actions — WhatsApp / social / tertiary */
   .btn-quiet {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-transparent px-4 py-2.5 text-sm font-semibold tracking-wide text-white/70 transition duration-200 hover:border-white/25 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/15 bg-transparent px-4 py-2.5 text-sm font-semibold tracking-wide text-white/75 transition duration-200 hover:border-white/30 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
+  /* Deep surface cards — no washed pastel gray */
   .card-dark {
-    @apply relative rounded-xl border border-white/10 bg-white/[0.03] p-5 transition hover:border-white/20 hover:bg-white/[0.05];
+    @apply relative rounded-xl border border-white/10 bg-[#141414] p-5 transition hover:border-brand-gold/40 hover:bg-[#1a1a1a];
   }
 
   .promo-panel {
@@ -110,8 +115,13 @@ main[id] {
 
   .hero-bleed {
     background:
-      radial-gradient(ellipse 70% 50% at 90% 0%, rgba(244, 194, 13, 0.12), transparent 55%),
-      linear-gradient(180deg, #0d0d0d 0%, #0a0a0a 100%);
+      radial-gradient(ellipse 65% 45% at 92% 0%, rgba(244, 194, 13, 0.1), transparent 55%),
+      linear-gradient(180deg, #0d0d0d 0%, #0d0d0d 100%);
+  }
+
+  /* Section label — gold, dense tracking */
+  .section-label {
+    @apply text-[0.65rem] font-bold uppercase tracking-[0.28em] text-brand-gold;
   }
 }
 
@@ -123,13 +133,13 @@ main[id] {
     @apply headline mt-8 mb-2 text-xl text-white;
   }
   .blog-prose p {
-    @apply mb-4 leading-relaxed text-white/75;
+    @apply mb-4 leading-relaxed text-white/80;
   }
   .blog-prose ul {
-    @apply mb-4 list-disc space-y-2 pl-5 text-white/75;
+    @apply mb-4 list-disc space-y-2 pl-5 text-white/80;
   }
   .blog-prose ol {
-    @apply mb-4 list-decimal space-y-2 pl-5 text-white/75;
+    @apply mb-4 list-decimal space-y-2 pl-5 text-white/80;
   }
   .blog-prose a {
     @apply font-semibold text-brand-gold underline-offset-4 hover:underline;

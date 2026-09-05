@@ -22,7 +22,7 @@ export default function LanguageToggle() {
 
   return (
     <div
-      className="inline-flex rounded-full border border-white/15 bg-white/[0.04] p-0.5"
+      className="inline-flex rounded-xl border border-white/15 bg-[#141414] p-0.5"
       role="group"
       aria-label={t.a11y.language}
     >
@@ -33,10 +33,10 @@ export default function LanguageToggle() {
             key={code}
             type="button"
             onClick={() => switchTo(code)}
-            className={`min-w-[2.5rem] rounded-full px-2.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-wider transition focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg ${
+            className={`min-w-[2.5rem] rounded-lg px-2.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-wider transition focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg ${
               active
                 ? "bg-brand-gold text-brand-bg"
-                : "text-white/70 hover:text-white"
+                : "text-white/75 hover:text-white"
             }`}
             aria-pressed={active}
           >
