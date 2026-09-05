@@ -6,7 +6,7 @@ import { MapPinIcon, PhoneIcon, WhatsAppIcon } from "./Icons";
 import PromoPanel from "./PromoPanel";
 
 export default function Hero() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
 
   return (
     <section id="top" className="relative overflow-hidden border-b border-white/10 hero-bleed">
@@ -50,7 +50,7 @@ export default function Hero() {
               {t.hero.ctaWhatsApp}
             </a>
             <a
-              href={BUSINESS.mapsUrl}
+              href={BUSINESS.mapsDirectionsUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-outline"
@@ -63,9 +63,9 @@ export default function Hero() {
 
         <div className="relative mx-auto w-full max-w-md lg:max-w-none">
           <PromoPanel
-            headline={t.promo.sunday}
-            textureSrc="/brand/promo-sunday.png"
-            accent="gold"
+            imageSrc={`/brand/locale/sunday-${locale}.png`}
+            alt={t.promo.sunday}
+            priority
           />
         </div>
       </div>

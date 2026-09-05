@@ -5,7 +5,7 @@ import { CheckIcon } from "./Icons";
 import PromoPanel from "./PromoPanel";
 
 export default function WhyUs() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
 
   return (
     <section id="why-us" className="section-pad relative border-y border-white/10 bg-black/40">
@@ -13,9 +13,8 @@ export default function WhyUs() {
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
         <div className="relative order-2 lg:order-1">
           <PromoPanel
-            headline={t.promo.trust}
-            textureSrc="/brand/promo-trust.png"
-            accent="red"
+            imageSrc={`/brand/locale/trust-${locale}.png`}
+            alt={t.promo.trust}
           />
         </div>
 

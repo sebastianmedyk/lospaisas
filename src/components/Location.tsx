@@ -32,6 +32,16 @@ export default function Location() {
               <p className="text-lg font-semibold text-white">
                 {t.location.address}
               </p>
+              <p className="mt-2 text-sm text-white/55">{t.location.servingNote}</p>
+              <a
+                href={BUSINESS.mapsDirectionsUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-gold mt-4 w-full sm:w-auto"
+              >
+                <MapPinIcon className="h-4 w-4" />
+                {t.location.getDirections}
+              </a>
               <a
                 href={BUSINESS.mapsUrl}
                 target="_blank"
@@ -77,7 +87,7 @@ export default function Location() {
             <iframe
               title={t.location.mapTitle}
               src={BUSINESS.mapsEmbed}
-              className="h-[360px] w-full border-0 sm:h-full sm:min-h-[420px]"
+              className="h-[360px] w-full border-0 sm:h-full sm:min-h-[480px]"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               allowFullScreen

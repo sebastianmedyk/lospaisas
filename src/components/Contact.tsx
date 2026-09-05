@@ -6,7 +6,7 @@ import { InstagramIcon, PhoneIcon, WhatsAppIcon } from "./Icons";
 import PromoPanel from "./PromoPanel";
 
 export default function Contact() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
 
   return (
     <section id="contact" className="section-pad relative border-t border-white/10 bg-black/50">
@@ -52,9 +52,8 @@ export default function Contact() {
 
         <div className="relative mx-auto w-full max-w-md lg:max-w-none">
           <PromoPanel
-            headline={t.promo.balance}
-            textureSrc="/brand/promo-balanceo.png"
-            accent="gold"
+            imageSrc={`/brand/locale/balance-${locale}.png`}
+            alt={t.promo.balance}
           />
         </div>
       </div>

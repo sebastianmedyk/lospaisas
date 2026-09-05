@@ -30,6 +30,9 @@ export default function TrustBar() {
             </li>
           ))}
         </ul>
+        <p className="mt-4 text-center text-[0.7rem] leading-relaxed text-white/55 sm:text-xs">
+          {t.trust.serving}
+        </p>
       </div>
     </section>
   );

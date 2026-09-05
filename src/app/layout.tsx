@@ -16,14 +16,15 @@ const displayFont = Oswald({
 });
 
 export const metadata: Metadata = {
-  title: "Los Paisas Tires Shop | New & Used Tires in West Palm Beach, FL",
+  title:
+    "Los Paisas Tires Shop | New & Used Tires on S Military Trail, West Palm Beach, FL",
   description:
-    "Los Paisas Tires Shop — new & used tires, alignment, balancing, repair & vulcanization, and mobile service within 10 miles. Open 7 days, 8 AM–7 PM. Call or WhatsApp +1 561-429-4041.",
+    "Los Paisas Tires Shop at 1114 S Military Trail, West Palm Beach — new & used tires, alignment, balancing, repair & vulcanization. Serving West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & Palm Beach County. Mobile within 10 miles. Open 7 days, 8 AM–7 PM. Call or WhatsApp +1 561-429-4041.",
   metadataBase: new URL("https://lospaisastires.local"),
   openGraph: {
-    title: "Los Paisas Tires Shop | West Palm Beach, FL",
+    title: "Los Paisas Tires Shop | S Military Trail, West Palm Beach, FL",
     description:
-      "New & used tires, alignment, balancing, repair & vulcanization. Open 7 days including Sunday. Call +1 561-429-4041.",
+      "New & used tires, alignment, balancing, repair & vulcanization on Military Trail. Serving West Palm Beach & Palm Beach County. Open 7 days including Sunday. Call +1 561-429-4041.",
     type: "website",
     locale: "en_US",
     alternateLocale: "es_US",
@@ -31,9 +32,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Los Paisas Tires Shop",
+    title: "Los Paisas Tires Shop | West Palm Beach",
     description:
-      "New & used tires in West Palm Beach. Open 7 days, 8 AM–7 PM.",
+      "New & used tires on S Military Trail, West Palm Beach. Open 7 days, 8 AM–7 PM. Mobile within 10 miles.",
   },
 };
 

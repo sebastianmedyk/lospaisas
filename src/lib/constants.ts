@@ -7,7 +7,9 @@ export const BUSINESS = {
   instagram: "https://instagram.com/lospaisaswpb",
   mapsUrl:
     "https://www.google.com/maps/search/?api=1&query=1114+S+Military+Trail,+West+Palm+Beach,+FL+33415",
+  mapsDirectionsUrl:
+    "https://www.google.com/maps/dir/?api=1&destination=1114+S+Military+Trail,+West+Palm+Beach,+FL+33415",
   mapsEmbed:
-    "https://www.google.com/maps?q=1114+S+Military+Trail,+West+Palm+Beach,+FL+33415&output=embed",
+    "https://www.google.com/maps?q=1114+S+Military+Trail,+West+Palm+Beach,+FL+33415&z=15&output=embed",
   hours: "8:00 AM – 7:00 PM",
 } as const;
