@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-bg: #0d0d0d;
+  --brand-gold: #f4c20d;
+  --brand-red: #e01e1e;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--brand-bg);
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer components {
+  .headline {
+    @apply font-display font-black italic uppercase tracking-tight;
+  }
+
+  .gold-gradient {
+    background: linear-gradient(135deg, #f4c20d 0%, #ffd84d 45%, #c9a008 100%);
+  }
+
+  .section-pad {
+    @apply px-4 sm:px-6 lg:px-8 py-16 sm:py-20 lg:py-24;
+  }
+
+  .container-site {
+    @apply mx-auto max-w-6xl;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center justify-center gap-2 rounded-md gold-gradient px-5 py-3 text-sm font-bold uppercase tracking-wide text-brand-bg transition hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-md border-2 border-brand-gold bg-transparent px-5 py-3 text-sm font-bold uppercase tracking-wide text-brand-gold transition hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+  }
+
+  .btn-red {
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-brand-red px-5 py-3 text-sm font-bold uppercase tracking-wide text-white transition hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+  }
+
+  .card-dark {
+    @apply rounded-xl border border-white/10 bg-white/[0.03] p-6 backdrop-blur-sm transition hover:border-brand-gold/40 hover:bg-white/[0.05];
+  }
+}
