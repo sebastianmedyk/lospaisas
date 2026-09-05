@@ -24,10 +24,9 @@ export default function Services() {
   const { t } = useLanguage();
 
   return (
-    <section id="services" className="section-pad relative overflow-hidden" aria-labelledby="services-heading">
-      <div className="speed-stripes pointer-events-none absolute inset-0 opacity-10" aria-hidden />
+    <section id="services" className="section-pad relative" aria-labelledby="services-heading">
       <div className="container-site relative">
-        <div className="mx-auto mb-10 max-w-2xl text-center">
+        <div className="mx-auto mb-8 max-w-2xl text-center">
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             {t.nav.services}
           </p>
@@ -37,7 +36,7 @@ export default function Services() {
           >
             {t.services.title}
           </h2>
-          <p className="mt-4 text-white/70">{t.services.subtitle}</p>
+          <p className="mt-3 text-white/70">{t.services.subtitle}</p>
         </div>
 
         <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 lg:gap-4">
@@ -45,13 +44,13 @@ export default function Services() {
             const Icon = ICONS[index] ?? TireIcon;
             return (
               <li key={service.title} className="card-dark group !p-5">
-                <span className="mb-3 inline-flex h-11 w-11 items-center justify-center rounded-lg border border-brand-gold/40 bg-brand-gold/10 text-brand-gold transition group-hover:border-brand-gold group-hover:bg-brand-gold group-hover:text-brand-bg">
+                <span className="mb-3 inline-flex h-10 w-10 items-center justify-center rounded-xl border border-brand-gold/40 bg-brand-gold/10 text-brand-gold transition group-hover:border-brand-gold group-hover:bg-brand-gold group-hover:text-brand-bg">
                   <Icon className="h-5 w-5" />
                 </span>
                 <h3 className="headline text-base text-white sm:text-lg">
                   {service.title}
                 </h3>
-                <p className="mt-2 text-sm leading-relaxed text-white/60">
+                <p className="mt-1.5 text-sm leading-snug text-white/60">
                   {service.description}
                 </p>
               </li>

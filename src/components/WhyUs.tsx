@@ -8,8 +8,11 @@ export default function WhyUs() {
   const { t, locale } = useLanguage();
 
   return (
-    <section id="why-us" className="section-pad relative overflow-hidden border-y border-white/10 bg-black/40" aria-labelledby="why-us-heading">
-      <div className="speed-stripes pointer-events-none absolute inset-0 opacity-20" aria-hidden />
+    <section
+      id="why-us"
+      className="section-pad relative overflow-hidden border-y border-white/10 bg-black/40"
+      aria-labelledby="why-us-heading"
+    >
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
         <div className="relative order-2 lg:order-1">
           <PromoPanel
@@ -32,11 +35,8 @@ export default function WhyUs() {
 
           <ul className="mt-8 space-y-3">
             {t.whyUs.points.map((point) => (
-              <li
-                key={point.title}
-                className="card-dark flex gap-4 !p-4"
-              >
-                <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-brand-gold text-brand-bg">
+              <li key={point.title} className="card-dark flex gap-4 !p-4">
+                <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-brand-gold text-brand-bg">
                   <CheckIcon className="h-4 w-4" />
                 </span>
                 <span>

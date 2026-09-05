@@ -70,9 +70,10 @@ export default function Header() {
 
         <div className="flex shrink-0 items-center gap-2 sm:gap-3">
           <LanguageToggle />
+          {/* Desktop only — mobile uses FloatingCallButton, avoid competing bars */}
           <a
             href={BUSINESS.phoneTel}
-            className={`hidden items-center gap-1.5 rounded-lg border border-white/20 px-3 py-2 text-[0.65rem] font-black uppercase tracking-wide text-white transition hover:border-brand-gold hover:text-brand-gold sm:inline-flex ${focusRing}`}
+            className={`hidden items-center gap-1.5 rounded-lg bg-brand-gold px-3 py-2 text-[0.65rem] font-black uppercase tracking-wide text-brand-bg transition hover:bg-[#ffd84d] md:inline-flex ${focusRing}`}
           >
             <PhoneIcon className="h-3.5 w-3.5" />
             {t.nav.call}
@@ -81,7 +82,7 @@ export default function Header() {
             href={BUSINESS.whatsapp}
             target="_blank"
             rel="noopener noreferrer"
-            className={`hidden items-center gap-1.5 rounded-lg bg-[#25D366] px-3 py-2 text-[0.65rem] font-black uppercase tracking-wide text-white transition hover:brightness-110 sm:inline-flex ${focusRing}`}
+            className={`hidden items-center gap-1.5 rounded-lg border border-white/20 px-3 py-2 text-[0.65rem] font-black uppercase tracking-wide text-white/80 transition hover:border-brand-gold/50 hover:text-brand-gold lg:inline-flex ${focusRing}`}
           >
             <WhatsAppIcon className="h-3.5 w-3.5" />
             {t.nav.whatsapp}
@@ -128,8 +129,8 @@ export default function Header() {
                 </a>
               )
             )}
-            <div className="mt-3 flex flex-col gap-2 sm:flex-row">
-              <a href={BUSINESS.phoneTel} className="btn-outline flex-1 py-2.5 text-xs">
+            <div className="mt-3 flex flex-col gap-2">
+              <a href={BUSINESS.phoneTel} className="btn-gold flex-1 min-h-[48px] py-2.5 text-xs">
                 <PhoneIcon className="h-3.5 w-3.5" />
                 {t.nav.call}
               </a>
@@ -137,7 +138,7 @@ export default function Header() {
                 href={BUSINESS.whatsapp}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="btn-gold flex-1 py-2.5 text-xs"
+                className="btn-quiet flex-1 min-h-[44px] py-2.5 text-xs"
               >
                 <WhatsAppIcon className="h-3.5 w-3.5" />
                 {t.nav.whatsapp}

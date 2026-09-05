@@ -28,7 +28,7 @@ main[id] {
 /* FloatingCallButton on mobile — keep footer/content clear of the CTA */
 @media (max-width: 767px) {
   body {
-    padding-bottom: 5.75rem;
+    padding-bottom: 6.25rem;
   }
 }
 
@@ -37,7 +37,7 @@ main[id] {
   left: 1rem;
   top: -100px;
   z-index: 100;
-  border-radius: 0.5rem;
+  border-radius: 0.75rem;
   background: #f4c20d;
   color: #0d0d0d;
   padding: 0.65rem 1rem;
@@ -70,7 +70,12 @@ main[id] {
   }
 
   .section-pad {
-    @apply px-4 sm:px-6 lg:px-8 py-14 sm:py-20 lg:py-24;
+    @apply px-4 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20;
+  }
+
+  /* Tighter hero — less empty vertical space */
+  .section-pad-sm {
+    @apply px-4 sm:px-6 lg:px-8 py-10 sm:py-14 lg:py-16;
   }
 
   .container-site {
@@ -78,64 +83,34 @@ main[id] {
   }
 
   .btn-gold {
-    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-brand-gold px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-bg transition duration-200 hover:bg-[#ffd84d] focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-gold px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-bg transition duration-200 hover:bg-[#ffd84d] focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
   .btn-outline {
-    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-white/25 bg-white/[0.04] px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:border-brand-gold/60 hover:bg-brand-gold/10 hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/25 bg-white/[0.04] px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:border-brand-gold/60 hover:bg-brand-gold/10 hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
+  /* Red reserved for urgent only (Sunday badge) — not channel CTAs */
   .btn-red {
-    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-brand-red px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:bg-[#ff2a2a] focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-red px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:bg-[#ff2a2a] focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+  }
+
+  /* Quiet secondary actions — WhatsApp / social / tertiary */
+  .btn-quiet {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-transparent px-4 py-2.5 text-sm font-semibold tracking-wide text-white/70 transition duration-200 hover:border-white/25 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
   .card-dark {
-    @apply relative rounded-lg border border-white/10 bg-white/[0.03] p-5 transition hover:border-white/20 hover:bg-white/[0.05];
+    @apply relative rounded-xl border border-white/10 bg-white/[0.03] p-5 transition hover:border-white/20 hover:bg-white/[0.05];
   }
 
   .promo-panel {
     /* clean — no offset frame */
   }
 
-  .speed-stripes {
-    background: repeating-linear-gradient(
-      -28deg,
-      transparent,
-      transparent 18px,
-      rgba(244, 194, 13, 0.07) 18px,
-      rgba(244, 194, 13, 0.07) 20px,
-      transparent 20px,
-      transparent 34px,
-      rgba(224, 30, 30, 0.08) 34px,
-      rgba(224, 30, 30, 0.08) 36px
-    );
-  }
-
-  .checker-strip {
-    background-image:
-      linear-gradient(45deg, #f4c20d 25%, transparent 25%),
-      linear-gradient(-45deg, #f4c20d 25%, transparent 25%),
-      linear-gradient(45deg, transparent 75%, #f4c20d 75%),
-      linear-gradient(-45deg, transparent 75%, #f4c20d 75%);
-    background-size: 16px 16px;
-    background-position: 0 0, 0 8px, 8px -8px, -8px 0;
-    background-color: #0d0d0d;
-    opacity: 0.85;
-    mask-image: linear-gradient(to left, black, transparent);
-    -webkit-mask-image: linear-gradient(to left, black, transparent);
-  }
-
-  .trust-strip {
-    background:
-      linear-gradient(90deg, rgba(244, 194, 13, 0.95) 0%, rgba(244, 194, 13, 0.95) 4px, transparent 4px),
-      linear-gradient(90deg, transparent calc(100% - 4px), rgba(224, 30, 30, 0.95) calc(100% - 4px)),
-      #111;
-  }
-
   .hero-bleed {
     background:
-      radial-gradient(ellipse 80% 60% at 85% 10%, rgba(244, 194, 13, 0.16), transparent 55%),
-      radial-gradient(ellipse 60% 50% at 5% 90%, rgba(224, 30, 30, 0.14), transparent 50%),
+      radial-gradient(ellipse 70% 50% at 90% 0%, rgba(244, 194, 13, 0.12), transparent 55%),
       linear-gradient(180deg, #0d0d0d 0%, #0a0a0a 100%);
   }
 }

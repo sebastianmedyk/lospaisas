@@ -11,14 +11,18 @@ import "./globals.css";
 
 const bodyFont = Inter({
   subsets: ["latin"],
+  weight: ["400", "600", "700"],
   variable: "--font-body",
   display: "swap",
+  fallback: ["system-ui", "Segoe UI", "Roboto", "sans-serif"],
 });
 
 const displayFont = Oswald({
   subsets: ["latin"],
+  weight: ["500", "700"],
   variable: "--font-display",
   display: "swap",
+  fallback: ["Impact", "Arial Black", "sans-serif"],
 });
 
 export const viewport: Viewport = {
@@ -67,7 +71,7 @@ export const metadata: Metadata = {
     url: SITE_URL,
     images: [
       {
-        url: "/brand/promo-sunday.png",
+        url: "/brand/promo-sunday.jpg",
         width: 1200,
         height: 900,
         alt: "Los Paisas Tires Shop — open Sunday on S Military Trl, West Palm Beach",
@@ -79,7 +83,7 @@ export const metadata: Metadata = {
     title: "Los Paisas Tires Shop | West Palm Beach",
     description:
       "New & used tires on S Military Trl, West Palm Beach. Open 7 days, 8 AM–7 PM. Mobile within 10 miles.",
-    images: ["/brand/promo-sunday.png"],
+    images: ["/brand/promo-sunday.jpg"],
   },
   robots: {
     index: true,

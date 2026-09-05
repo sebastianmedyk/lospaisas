@@ -21,84 +21,81 @@ export const translations = {
     },
     hero: {
       badge: "On S Military Trl · West Palm Beach",
-      title: "Your Tires. Our Expertise.",
+      title: "Same-day tires on S Military Trl",
       subtitle:
-        "New & used tires, precision alignment, balancing with no hidden fees, repair & vulcanization — right on the Military Trl corridor in West Palm Beach. Mobile service within 10 miles of the shop. Open every day, including Sunday.",
+        "West Palm Beach shop open today — flats, used & new tires. Call now.",
       ctaCall: "Call Now",
       ctaWhatsApp: "WhatsApp",
-      ctaDirections: "Get Directions",
+      ctaDirections: "Directions",
       sundayHighlight: "Open Sunday",
       floatingCall: "Call",
       floatingCallAria: "Call Los Paisas Tires Shop",
     },
     trust: {
       title: "Trusted on Military Trl",
+      ratingLabel: "Google rating",
+      reviewsLabel: "reviews",
+      hoursLabel: "Open daily",
+      hoursValue: "8 AM – 7 PM",
+      areaLabel: "Service area",
       serving:
-        "Serving West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & nearby Palm Beach County",
+        "West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & nearby",
       items: [
         { label: "Open 7 Days", detail: "8 AM – 7 PM" },
         { label: "No Hidden Fees", detail: "Honest balancing" },
-        { label: "Mobile Service", detail: "Within 10 miles of shop" },
-        { label: "Sunday Open", detail: "Same great hours" },
+        { label: "Mobile Service", detail: "Within 10 miles" },
+        { label: "Sunday Open", detail: "Same hours" },
       ],
     },
     services: {
       title: "Our Services",
-      subtitle:
-        "Everything your tires need on the Military Trl corridor — done right by our West Palm Beach team.",
+      subtitle: "Tire-only shop on Military Trl — clear work, no upsells.",
       items: [
         {
           title: "New & Used Tires",
-          description:
-            "Quality new and used tires for every budget in West Palm Beach and Palm Beach County. We help you find the right fit for your vehicle.",
+          description: "Quality tires for every budget. We help you pick the right fit.",
         },
         {
           title: "Wheel Alignment",
-          description:
-            "Precision alignment (geometría) to keep your ride straight, safe, and tire wear even — trusted along S Military Trl.",
+          description: "Precision alignment (geometría) for a straight, even ride.",
         },
         {
           title: "Tire Balancing",
-          description:
-            "Smooth, vibration-free driving for West Palm Beach roads. Transparent pricing — no hidden fees.",
+          description: "Smooth ride. Transparent pricing — no hidden fees.",
         },
         {
-          title: "Tire Repair & Vulcanization",
-          description:
-            "Professional repair and vulcanization to get you back on Palm Beach County roads safely.",
+          title: "Repair & Vulcanization",
+          description: "Professional patch and vulcanization to get you rolling.",
         },
         {
-          title: "Install Your Own Tires",
-          description:
-            "Brought your own tires? Our Military Trl crew installs them with care and precision.",
+          title: "Install Your Tires",
+          description: "Brought your own? We mount and install with care.",
         },
         {
           title: "Mobile Within 10 Miles",
-          description:
-            "Can't come to 1114 S Military Trl? We come to you — mobile tire service within 10 miles of the shop across West Palm Beach and nearby cities.",
+          description: "Can't come in? We come to you within 10 miles of the shop.",
         },
       ],
     },
     whyUs: {
       title: "Why Choose Us",
-      subtitle:
-        "Premium tire care from a local West Palm Beach shop you can trust on Military Trl.",
+      subtitle: "Local West Palm Beach tire shop — honest work on Military Trl.",
       points: [
         {
           title: "Honest Pricing",
-          text: "We keep it transparent — especially balancing with no hidden fees. Neighbors across Palm Beach County count on us for straight talk.",
+          text: "Transparent balancing — no hidden fees. Straight talk you can trust.",
         },
         {
           title: "Open When You Need Us",
-          text: "Seven days a week, 8:00 AM – 7:00 PM on S Military Trl. Yes, we're open on Sunday.",
+          text: "Seven days a week, 8 AM – 7 PM. Yes, we're open Sunday.",
         },
         {
           title: "Full Tire Focus",
-          text: "From new and used tires to alignment, balancing, repair, and mobile service — we specialize in tires for West Palm Beach drivers.",
+          text: "New & used tires, alignment, balancing, repair, mobile — tires only.",
         },
         {
           title: "We Come to You",
-          text: "Mobile service within 10 miles of our shop at 1114 S Military Trl — covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
+          text: "Mobile within 10 miles of 1114 S Military Trl — WPB and nearby.",
         },
       ],
     },
@@ -116,16 +113,19 @@ export const translations = {
       getDirections: "Get directions",
       directions: "Open in Google Maps",
       mapTitle: "Los Paisas Tires Shop map — S Military Trl, West Palm Beach",
+      mapShow: "Show map",
+      mapHide: "Hide map",
+      mapPreviewLabel: "Map preview — tap to load interactive map",
       servingNote:
         "Mobile within 10 miles · West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & nearby",
     },
     contact: {
       title: "Contact Us",
       subtitle:
-        "Call, text, WhatsApp, or stop by our shop on S Military Trl in West Palm Beach — our team is ready to help Palm Beach County drivers.",
+        "Need tires now? Call first — or stop by on S Military Trl in West Palm Beach.",
       call: "Call +1 561-429-4041",
       whatsapp: "WhatsApp",
-      sms: "SMS / Text",
+      sms: "SMS",
       instagram: "Instagram",
       tiktok: "TikTok",
       facebook: "Facebook",
@@ -133,6 +133,7 @@ export const translations = {
       appleMaps: "Apple Maps",
       catalogue: "Catalogue",
       hours: "Open daily 8:00 AM – 7:00 PM · Military Trl, WPB",
+      secondaryLabel: "More channels",
     },
     promo: {
       sunday: "Flat tire Sunday open — Los Paisas Tires Shop on S Military Trl, West Palm Beach",
@@ -305,9 +306,9 @@ export const translations = {
     },
     hero: {
       badge: "En S Military Trl · West Palm Beach",
-      title: "Tus Llantas. Nuestra Experiencia.",
+      title: "Llantas el mismo día en S Military Trl",
       subtitle:
-        "Llantas nuevas y usadas, alineación de precisión, balanceo sin cargos ocultos, reparación y vulcanización — en el corredor de Military Trl en West Palm Beach. Servicio a domicilio a 10 millas del taller. Abierto todos los días, incluyendo domingo.",
+        "Taller en West Palm Beach abierto hoy — ponchaduras, nuevas y usadas. Llama ahora.",
       ctaCall: "Llamar Ahora",
       ctaWhatsApp: "WhatsApp",
       ctaDirections: "Cómo Llegar",
@@ -317,72 +318,69 @@ export const translations = {
     },
     trust: {
       title: "Confianza en Military Trl",
+      ratingLabel: "Calificación en Google",
+      reviewsLabel: "reseñas",
+      hoursLabel: "Abierto diario",
+      hoursValue: "8 AM – 7 PM",
+      areaLabel: "Área de servicio",
       serving:
-        "Atendemos West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y zonas cercanas de Palm Beach County",
+        "West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y cercanías",
       items: [
         { label: "Abierto 7 Días", detail: "8 AM – 7 PM" },
         { label: "Sin Cargos Ocultos", detail: "Balanceo honesto" },
-        { label: "Servicio Móvil", detail: "A 10 millas del taller" },
+        { label: "Servicio Móvil", detail: "A 10 millas" },
         { label: "Domingo Abierto", detail: "Mismo horario" },
       ],
     },
     services: {
       title: "Nuestros Servicios",
-      subtitle:
-        "Todo lo que tus llantas necesitan en el corredor de Military Trl — hecho bien por nuestro equipo en West Palm Beach.",
+      subtitle: "Solo llantas en Military Trl — trabajo claro, sin ventas cruzadas.",
       items: [
         {
           title: "Llantas Nuevas y Usadas",
-          description:
-            "Llantas nuevas y usadas de calidad para todo presupuesto en West Palm Beach y Palm Beach County. Te ayudamos a encontrar el ajuste ideal.",
+          description: "Llantas de calidad para todo presupuesto. Te ayudamos a elegir.",
         },
         {
           title: "Alineación / Geometría",
-          description:
-            "Alineación de precisión para que tu vehículo vaya derecho, seguro y con desgaste uniforme — de confianza en S Military Trl.",
+          description: "Alineación de precisión para un manejo derecho y uniforme.",
         },
         {
           title: "Balanceo",
-          description:
-            "Manejo suave, sin vibraciones, en las calles de West Palm Beach. Precios transparentes — sin cargos ocultos.",
+          description: "Manejo suave. Precios transparentes — sin cargos ocultos.",
         },
         {
           title: "Reparación y Vulcanización",
-          description:
-            "Reparación y vulcanización profesional para que vuelvas a las calles de Palm Beach County con seguridad.",
+          description: "Parche y vulcanización profesional para que vuelvas a rodar.",
         },
         {
-          title: "Instalamos Tus Propias Llantas",
-          description:
-            "¿Trajiste tus llantas? Nuestro equipo en Military Trl las instala con cuidado y precisión.",
+          title: "Instalamos Tus Llantas",
+          description: "¿Trajiste las tuyas? Las montamos e instalamos con cuidado.",
         },
         {
           title: "Domicilio a 10 Millas",
-          description:
-            "¿No puedes venir a 1114 S Military Trl? Vamos a ti — servicio de llantas a domicilio a 10 millas del taller en West Palm Beach y ciudades cercanas.",
+          description: "¿No puedes venir? Vamos a ti a 10 millas del taller.",
         },
       ],
     },
     whyUs: {
       title: "Por Qué Elegirnos",
-      subtitle:
-        "Cuidado premium de llantas de un taller local en West Palm Beach de confianza en Military Trl.",
+      subtitle: "Taller local en West Palm Beach — trabajo honesto en Military Trl.",
       points: [
         {
           title: "Precios Honestos",
-          text: "Transparencia total — especialmente en balanceo sin cargos ocultos. Vecinos de Palm Beach County confían en nuestra franqueza.",
+          text: "Balanceo transparente — sin cargos ocultos. Habla clara y directa.",
         },
         {
           title: "Abiertos Cuando Nos Necesitas",
-          text: "Siete días a la semana, 8:00 AM – 7:00 PM en S Military Trl. Sí, abrimos el domingo.",
+          text: "Siete días, 8 AM – 7 PM. Sí, abrimos el domingo.",
         },
         {
           title: "Enfocados en Llantas",
-          text: "Desde llantas nuevas y usadas hasta alineación, balanceo, reparación y domicilio — nos especializamos en llantas para conductores de West Palm Beach.",
+          text: "Nuevas y usadas, alineación, balanceo, reparación, domicilio — solo llantas.",
         },
         {
           title: "Vamos a Ti",
-          text: "Servicio móvil a 10 millas de nuestro taller en 1114 S Military Trl — cubriendo West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y alrededores.",
+          text: "Domicilio a 10 millas de 1114 S Military Trl — WPB y cercanías.",
         },
       ],
     },
@@ -400,16 +398,19 @@ export const translations = {
       getDirections: "Cómo llegar",
       directions: "Abrir en Google Maps",
       mapTitle: "Mapa de Los Paisas Tires Shop — S Military Trl, West Palm Beach",
+      mapShow: "Ver mapa",
+      mapHide: "Ocultar mapa",
+      mapPreviewLabel: "Vista previa del mapa — toca para cargar el mapa interactivo",
       servingNote:
         "Domicilio a 10 millas · West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y cercanías",
     },
     contact: {
       title: "Contáctanos",
       subtitle:
-        "Llama, envía SMS, escribe por WhatsApp o visítanos en S Military Trl en West Palm Beach — nuestro equipo está listo para ayudar a conductores de Palm Beach County.",
+        "¿Necesitas llantas ahora? Llama primero — o visítanos en S Military Trl en West Palm Beach.",
       call: "Llamar +1 561-429-4041",
       whatsapp: "WhatsApp",
-      sms: "SMS / Texto",
+      sms: "SMS",
       instagram: "Instagram",
       tiktok: "TikTok",
       facebook: "Facebook",
@@ -417,6 +418,7 @@ export const translations = {
       appleMaps: "Apple Maps",
       catalogue: "Catálogo",
       hours: "Abierto diario 8:00 AM – 7:00 PM · Military Trl, WPB",
+      secondaryLabel: "Más canales",
     },
     promo: {
       sunday: "Llanta ponchada el domingo — Los Paisas Tires Shop en S Military Trl, West Palm Beach",
