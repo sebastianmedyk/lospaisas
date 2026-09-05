@@ -83,7 +83,7 @@ export default function Location() {
             </div>
           </div>
 
-          <div className="overflow-hidden border border-white/10 border-l-[3px] border-l-brand-gold bg-black/40 shadow-[6px_6px_0_0_rgba(224,30,30,0.25)]">
+          <div className="overflow-hidden rounded-xl border border-white/10 bg-black/40">
             <iframe
               title={t.location.mapTitle}
               src={BUSINESS.mapsEmbed}

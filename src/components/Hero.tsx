@@ -19,10 +19,10 @@ export default function Hero() {
       <div className="container-site relative grid items-center gap-10 section-pad lg:grid-cols-2 lg:gap-12">
         <div>
           <div className="mb-5 flex flex-wrap items-center gap-2">
-            <span className="border border-brand-gold/50 bg-brand-gold/10 px-3 py-1 text-[0.65rem] font-black uppercase tracking-[0.2em] text-brand-gold">
+            <span className="rounded-full border border-brand-gold/40 bg-brand-gold/10 px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.18em] text-brand-gold">
               {t.hero.badge}
             </span>
-            <span className="inline-flex items-center gap-1.5 bg-brand-red px-3 py-1 text-[0.65rem] font-black uppercase tracking-[0.2em] text-white shadow-[2px_2px_0_0_#F4C20D]">
+            <span className="inline-flex items-center gap-1.5 rounded-full bg-brand-red px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.18em] text-white">
               {t.hero.sundayHighlight}
             </span>
           </div>

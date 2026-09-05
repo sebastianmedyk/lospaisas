@@ -16,9 +16,9 @@ export default function TrustBar() {
           {t.trust.items.map((item) => (
             <li
               key={item.label}
-              className="flex items-start gap-3 border border-white/10 border-l-[3px] border-l-brand-gold bg-black/60 px-3 py-3"
+              className="flex items-start gap-3 rounded-xl border border-white/10 bg-black/40 px-3 py-3"
             >
-              <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center bg-brand-gold text-brand-bg">
+              <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-gold text-brand-bg">
                 <CheckIcon className="h-3.5 w-3.5" />
               </span>
               <span>

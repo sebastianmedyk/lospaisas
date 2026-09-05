@@ -25,7 +25,7 @@ export default function Header() {
       <div className="h-0.5 w-full bg-gradient-to-r from-brand-gold via-brand-red to-brand-gold" aria-hidden />
       <div className="container-site flex items-center justify-between gap-3 px-4 py-3 sm:gap-4 sm:px-6 lg:px-8">
         <Link href="/" className="group flex min-w-0 items-center gap-2.5">
-          <span className="relative flex h-10 w-10 shrink-0 items-center justify-center border-2 border-brand-gold bg-black text-xs font-black italic text-brand-gold shadow-[2px_2px_0_0_#E01E1E]">
+          <span className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-brand-gold/70 bg-black text-xs font-black italic text-brand-gold">
             LP
             <span className="absolute -bottom-0.5 -right-0.5 h-2 w-2 bg-brand-red" aria-hidden />
           </span>
