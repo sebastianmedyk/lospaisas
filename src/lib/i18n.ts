@@ -13,8 +13,10 @@ export const translations = {
       whyUs: "Why Us",
       location: "Location",
       contact: "Contact",
+      blog: "Blog",
       call: "Call",
       whatsapp: "WhatsApp",
+      home: "Home",
     },
     hero: {
       badge: "On S Military Trail · West Palm Beach",
@@ -124,9 +126,61 @@ export const translations = {
       hours: "Open daily 8:00 AM – 7:00 PM · Military Trail, WPB",
     },
     promo: {
-      sunday: "FLAT TIRE ON SUNDAY? WE'RE OPEN",
-      trust: "WHY THEY TRUST OUR TIRE SHOP",
-      balance: "BALANCING WITH NO HIDDEN FEES",
+      sunday: "Flat tire Sunday open — Los Paisas Tires Shop on S Military Trail, West Palm Beach",
+      trust: "Trusted tire shop on Military Trail, West Palm Beach — Los Paisas Tires Shop",
+      balance: "Wheel balancing with no hidden fees — West Palm Beach tire shop on Military Trail",
+    },
+
+    faq: {
+      title: "Frequently Asked Questions",
+      subtitle:
+        "Quick answers for drivers searching for a tire shop near me in West Palm Beach and along Military Trail.",
+      items: [
+        {
+          question: "Where is Los Paisas Tires Shop located?",
+          answer:
+            "We are at 1114 S Military Trail, West Palm Beach, FL 33415 — easy to reach from Greenacres, Palm Springs, Lake Worth Beach, and across Palm Beach County.",
+        },
+        {
+          question: "What are your hours? Are you open on Sunday?",
+          answer:
+            "Yes. We are open 7 days a week, 8:00 AM – 7:00 PM, including Sunday. Call or WhatsApp +1 561-429-4041.",
+        },
+        {
+          question: "Do you sell used tires in West Palm Beach?",
+          answer:
+            "Yes. We offer new and used tires for every budget, plus alignment, balancing with no hidden fees, repair & vulcanization, and install of customer-owned tires.",
+        },
+        {
+          question: "Do you offer mobile tire service?",
+          answer:
+            "Yes — mobile within 10 miles of our shop on S Military Trail, covering West Palm Beach and nearby cities.",
+        },
+        {
+          question: "Do you do oil changes, brakes, or A/C?",
+          answer:
+            "No. We specialize in tires only: new & used tires, alignment, balancing, repair/vulcanization, customer tire install, and mobile service within 10 miles.",
+        },
+      ],
+    },
+    seoArea: {
+      eyebrow: "Service area",
+      title: "Tire shop near me on Military Trail, West Palm Beach",
+      paragraphs: [
+        "Looking for a tire shop near me in West Palm Beach? Los Paisas Tires Shop sits on the S Military Trail corridor at 1114 S Military Trail — a convenient stop for drivers from Greenacres, Palm Springs, Lake Worth Beach, and Palm Beach County.",
+        "Whether you need used tires on Military Trail, a Sunday flat-tire fix, wheel balancing with no hidden fees, alignment, vulcanization, or someone to install tires you already bought, our team keeps the focus on tires — no oil change, brakes, or A/C upsells.",
+        "Open 7 days, 8 AM–7 PM. Mobile within 10 miles of the shop. Call or WhatsApp +1 561-429-4041, or follow @lospaisaswpb on Instagram for updates.",
+      ],
+    },
+    blog: {
+      title: "Tire Tips & Local Guides",
+      subtitle:
+        "Practical articles for West Palm Beach and Palm Beach County drivers — from used tires to Sunday flats.",
+      readMore: "Read article",
+      backToBlog: "Back to blog",
+      backHome: "Back to home",
+      localeBadge: "EN",
+      empty: "No posts yet.",
     },
     footer: {
       tagline:
@@ -149,8 +203,10 @@ export const translations = {
       whyUs: "Por Qué Nosotros",
       location: "Ubicación",
       contact: "Contacto",
+      blog: "Blog",
       call: "Llamar",
       whatsapp: "WhatsApp",
+      home: "Inicio",
     },
     hero: {
       badge: "En S Military Trail · West Palm Beach",
@@ -260,9 +316,61 @@ export const translations = {
       hours: "Abierto diario 8:00 AM – 7:00 PM · Military Trail, WPB",
     },
     promo: {
-      sunday: "¿LLANTA PONCHADA EN DOMINGO? ABRIMOS",
-      trust: "POR QUÉ CONFÍAN EN NUESTRA TIENDA DE LLANTAS",
-      balance: "BALANCEO SIN SORPRESAS EN EL PRECIO",
+      sunday: "Llanta ponchada el domingo — abrimos en S Military Trail, West Palm Beach",
+      trust: "Tienda de llantas de confianza en Military Trail, West Palm Beach — Los Paisas",
+      balance: "Balanceo sin cargos ocultos — tienda de llantas en West Palm Beach, Military Trail",
+    },
+
+    faq: {
+      title: "Preguntas frecuentes",
+      subtitle:
+        "Respuestas rápidas para quien busca una tienda de llantas cerca de mí en West Palm Beach y Military Trail.",
+      items: [
+        {
+          question: "¿Dónde está Los Paisas Tires Shop?",
+          answer:
+            "Estamos en 1114 S Military Trail, West Palm Beach, FL 33415 — fácil de llegar desde Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County.",
+        },
+        {
+          question: "¿Cuál es el horario? ¿Abren el domingo?",
+          answer:
+            "Sí. Abrimos 7 días a la semana, 8:00 AM – 7:00 PM, incluyendo domingo. Llama o WhatsApp +1 561-429-4041.",
+        },
+        {
+          question: "¿Venden llantas usadas en West Palm Beach?",
+          answer:
+            "Sí. Ofrecemos llantas nuevas y usadas para todo presupuesto, más alineación, balanceo sin cargos ocultos, reparación y vulcanización, e instalación de llantas del cliente.",
+        },
+        {
+          question: "¿Ofrecen servicio de llantas a domicilio?",
+          answer:
+            "Sí — a domicilio a 10 millas de nuestro taller en S Military Trail, cubriendo West Palm Beach y ciudades cercanas.",
+        },
+        {
+          question: "¿Hacen cambio de aceite, frenos o A/C?",
+          answer:
+            "No. Nos especializamos solo en llantas: nuevas y usadas, alineación, balanceo, reparación/vulcanización, instalación de llantas del cliente y domicilio a 10 millas.",
+        },
+      ],
+    },
+    seoArea: {
+      eyebrow: "Área de servicio",
+      title: "Tienda de llantas cerca de mí en Military Trail, West Palm Beach",
+      paragraphs: [
+        "¿Buscas una tienda de llantas cerca de mí en West Palm Beach? Los Paisas Tires Shop está en el corredor de S Military Trail en 1114 S Military Trail — conveniente para conductores de Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County.",
+        "Si necesitas llantas usadas en Military Trail, arreglo de ponchadura en domingo, balanceo sin cargos ocultos, alineación, vulcanización o instalar llantas que ya compraste, nuestro equipo se enfoca en llantas — sin cambio de aceite, frenos ni A/C.",
+        "Abierto 7 días, 8 AM–7 PM. Domicilio a 10 millas del taller. Llama o WhatsApp +1 561-429-4041, o sigue @lospaisaswpb en Instagram.",
+      ],
+    },
+    blog: {
+      title: "Consejos de llantas y guías locales",
+      subtitle:
+        "Artículos prácticos para conductores de West Palm Beach y Palm Beach County — desde llantas usadas hasta ponchaduras en domingo.",
+      readMore: "Leer artículo",
+      backToBlog: "Volver al blog",
+      backHome: "Volver al inicio",
+      localeBadge: "ES",
+      empty: "Aún no hay publicaciones.",
     },
     footer: {
       tagline:

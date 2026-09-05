@@ -87,7 +87,7 @@ export default function Location() {
             <iframe
               title={t.location.mapTitle}
               src={BUSINESS.mapsEmbed}
-              className="h-[360px] w-full border-0 sm:h-full sm:min-h-[480px]"
+              className="h-[280px] w-full min-h-[280px] border-0 sm:h-full sm:min-h-[420px] lg:min-h-[480px]"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               allowFullScreen

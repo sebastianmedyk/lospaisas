@@ -1,12 +1,14 @@
 "use client";
 
+import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { InstagramIcon } from "./Icons";
 
 export default function Footer() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
   const year = new Date().getFullYear();
+  const blogHref = locale === "es" ? "/es/blog" : "/blog";
 
   return (
     <footer className="border-t border-white/10 bg-black">
@@ -31,6 +33,20 @@ export default function Footer() {
                 </a>
               </p>
             </address>
+            <nav className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-xs font-bold uppercase tracking-wider text-white/55">
+              <a href="/#services" className="hover:text-brand-gold">
+                {t.nav.services}
+              </a>
+              <a href="/#location" className="hover:text-brand-gold">
+                {t.nav.location}
+              </a>
+              <a href="/#faq" className="hover:text-brand-gold">
+                FAQ
+              </a>
+              <Link href={blogHref} className="hover:text-brand-gold">
+                {t.nav.blog}
+              </Link>
+            </nav>
           </div>
 
           <div className="flex flex-col items-start gap-3 sm:items-end">

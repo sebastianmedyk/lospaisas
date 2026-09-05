@@ -1,0 +1,36 @@
+---
+title: "Flat Tire on Sunday? We're Open on S Military Trail"
+description: "Got a flat tire on Sunday in West Palm Beach? Los Paisas Tires Shop on S Military Trail is open 7 days, 8 AM–7 PM — repair, vulcanization, and installs."
+date: "2026-08-25"
+locale: en
+slug: flat-tire-sunday-military-trail
+keywords:
+  - flat tire Sunday West Palm Beach
+  - tire shop open Sunday Military Trail
+  - tire repair West Palm Beach
+---
+
+A **flat tire on Sunday** should not strand you until Monday. **Los Paisas Tires Shop** at **1114 S Military Trail, West Palm Beach** is open **every day, including Sunday**, from **8:00 AM to 7:00 PM**.
+
+## What we can do for a Sunday flat
+
+Depending on the damage, we can:
+
+- **Repair** and **vulcanize** when the puncture is repairable
+- Mount **new or used tires** if the casing is done
+- **Install tires you already bought**
+- Help with **balancing** (transparent pricing — no hidden fees)
+
+We do not do oil changes, brakes, or A/C — we stay focused on tires so the work is done right.
+
+## Mobile help within 10 miles
+
+Cannot make it to Military Trail? Ask about **mobile tire service within 10 miles** of the shop. We regularly serve drivers in West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby Palm Beach County.
+
+## How to reach us fast
+
+- Call or WhatsApp: **+1 561-429-4041**
+- Directions: [Google Maps to 1114 S Military Trail](https://www.google.com/maps/dir/?api=1&destination=1114+S+Military+Trail,+West+Palm+Beach,+FL+33415)
+- Instagram: [@lospaisaswpb](https://instagram.com/lospaisaswpb)
+
+Save this number before the next roadside surprise. When you search for a **tire shop open Sunday near me** in West Palm Beach, we are on the Military Trail corridor ready to help.

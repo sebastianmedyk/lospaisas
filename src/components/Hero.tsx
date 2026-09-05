@@ -35,8 +35,8 @@ export default function Hero() {
             {t.hero.subtitle}
           </p>
 
-          <div className="mt-8 flex flex-wrap gap-3">
-            <a href={BUSINESS.phoneTel} className="btn-gold">
+          <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
+            <a href={BUSINESS.phoneTel} className="btn-gold w-full sm:w-auto">
               <PhoneIcon className="h-4 w-4" />
               {t.hero.ctaCall}
             </a>
@@ -44,7 +44,7 @@ export default function Hero() {
               href={BUSINESS.whatsapp}
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-red"
+              className="btn-red w-full sm:w-auto"
             >
               <WhatsAppIcon className="h-4 w-4" />
               {t.hero.ctaWhatsApp}
@@ -53,7 +53,7 @@ export default function Hero() {
               href={BUSINESS.mapsDirectionsUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-outline"
+              className="btn-outline w-full sm:w-auto"
             >
               <MapPinIcon className="h-4 w-4" />
               {t.hero.ctaDirections}

@@ -103,3 +103,27 @@ body {
       linear-gradient(180deg, #0d0d0d 0%, #0a0a0a 100%);
   }
 }
+
+@layer components {
+  .blog-prose h2 {
+    @apply headline mt-10 mb-3 text-2xl text-white;
+  }
+  .blog-prose h3 {
+    @apply headline mt-8 mb-2 text-xl text-white;
+  }
+  .blog-prose p {
+    @apply mb-4 leading-relaxed text-white/75;
+  }
+  .blog-prose ul {
+    @apply mb-4 list-disc space-y-2 pl-5 text-white/75;
+  }
+  .blog-prose ol {
+    @apply mb-4 list-decimal space-y-2 pl-5 text-white/75;
+  }
+  .blog-prose a {
+    @apply font-semibold text-brand-gold underline-offset-4 hover:underline;
+  }
+  .blog-prose strong {
+    @apply font-bold text-white;
+  }
+}
