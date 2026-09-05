@@ -1,41 +1,40 @@
 "use client";
 
-import Image from "next/image";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { CheckIcon } from "./Icons";
+import PromoPanel from "./PromoPanel";
 
 export default function WhyUs() {
   const { t } = useLanguage();
 
   return (
-    <section id="why-us" className="section-pad border-y border-white/10 bg-black/30">
-      <div className="container-site grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
+    <section id="why-us" className="section-pad relative border-y border-white/10 bg-black/40">
+      <div className="speed-stripes pointer-events-none absolute inset-0 opacity-20" aria-hidden />
+      <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
         <div className="relative order-2 lg:order-1">
-          <div className="absolute -inset-3 rounded-2xl bg-brand-red/10 blur-xl" />
-          <div className="relative overflow-hidden rounded-2xl border border-white/10">
-            <Image
-              src="/brand/promo-trust.png"
-              alt="Los Paisas Tires Shop — trusted tire experts"
-              width={800}
-              height={1000}
-              className="h-auto w-full object-cover"
-            />
-          </div>
+          <PromoPanel
+            headline={t.promo.trust}
+            textureSrc="/brand/promo-trust.png"
+            accent="red"
+          />
         </div>
 
         <div className="order-1 lg:order-2">
-          <h2 className="headline text-3xl text-white sm:text-4xl lg:text-5xl">
+          <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
+            Los Paisas
+          </p>
+          <h2 className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl">
             {t.whyUs.title}
           </h2>
           <p className="mt-4 text-white/70">{t.whyUs.subtitle}</p>
 
-          <ul className="mt-8 space-y-4">
+          <ul className="mt-8 space-y-3">
             {t.whyUs.points.map((point) => (
               <li
                 key={point.title}
-                className="flex gap-4 rounded-xl border border-white/10 bg-white/[0.03] p-4"
+                className="card-dark flex gap-4 !p-4"
               >
-                <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-brand-gold text-brand-bg">
+                <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center bg-brand-gold text-brand-bg">
                   <CheckIcon className="h-4 w-4" />
                 </span>
                 <span>

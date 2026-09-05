@@ -10,6 +10,7 @@ export default function Footer() {
 
   return (
     <footer className="border-t border-white/10 bg-black">
+      <div className="h-1 w-full bg-gradient-to-r from-brand-gold via-brand-red to-brand-gold" aria-hidden />
       <div className="container-site px-4 py-10 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-8 sm:flex-row sm:items-start sm:justify-between">
           <div>
@@ -37,7 +38,7 @@ export default function Footer() {
               href={BUSINESS.instagram}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 text-sm font-semibold text-white/80 transition hover:text-brand-gold"
+              className="inline-flex items-center gap-2 border border-white/15 px-3 py-2 text-sm font-bold text-white/80 transition hover:border-brand-gold hover:text-brand-gold"
             >
               <InstagramIcon className="h-5 w-5" />
               @lospaisaswpb

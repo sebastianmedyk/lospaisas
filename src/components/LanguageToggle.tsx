@@ -10,7 +10,7 @@ export default function LanguageToggle() {
 
   return (
     <div
-      className="inline-flex rounded-md border border-white/15 bg-black/40 p-0.5"
+      className="inline-flex border border-white/20 bg-black/60 p-0.5"
       role="group"
       aria-label="Language"
     >
@@ -21,7 +21,7 @@ export default function LanguageToggle() {
             key={code}
             type="button"
             onClick={() => setLocale(code)}
-            className={`min-w-[2.5rem] rounded px-2.5 py-1.5 text-xs font-bold uppercase tracking-wider transition ${
+            className={`min-w-[2.5rem] px-2.5 py-1.5 text-[0.65rem] font-black uppercase tracking-wider transition ${
               active
                 ? "bg-brand-gold text-brand-bg"
                 : "text-white/70 hover:text-white"

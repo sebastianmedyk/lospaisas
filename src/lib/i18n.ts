@@ -113,6 +113,11 @@ export const translations = {
       instagram: "Follow on Instagram",
       hours: "Open daily 8:00 AM – 7:00 PM",
     },
+    promo: {
+      sunday: "FLAT TIRE ON SUNDAY? WE'RE OPEN",
+      trust: "WHY THEY TRUST OUR TIRE SHOP",
+      balance: "BALANCING WITH NO HIDDEN FEES",
+    },
     footer: {
       tagline: "New & used tires · Alignment · Balancing · Repair · Mobile",
       rights: "All rights reserved.",
@@ -232,6 +237,11 @@ export const translations = {
       whatsapp: "Escribir por WhatsApp",
       instagram: "Síguenos en Instagram",
       hours: "Abierto diario 8:00 AM – 7:00 PM",
+    },
+    promo: {
+      sunday: "¿LLANTA PONCHADA EN DOMINGO? ABRIMOS",
+      trust: "POR QUÉ CONFÍAN EN NUESTRA TIENDA DE LLANTAS",
+      balance: "BALANCEO SIN SORPRESAS EN EL PRECIO",
     },
     footer: {
       tagline: "Llantas nuevas y usadas · Alineación · Balanceo · Reparación · Domicilio",
