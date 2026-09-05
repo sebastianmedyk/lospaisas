@@ -16,7 +16,7 @@ export default function BlogArticle({ post }: Props) {
   const url = absoluteUrl(blogPath(post.locale, post.slug));
 
   return (
-    <BlogShell>
+    <BlogShell locale={post.locale}>
       <JsonLd
         data={articleJsonLd({
           title: post.title,

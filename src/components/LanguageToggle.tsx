@@ -1,12 +1,24 @@
 "use client";
 
+import { usePathname, useRouter } from "next/navigation";
 import { useLanguage } from "@/contexts/LanguageContext";
 import type { Locale } from "@/lib/i18n";
+import { getAlternateBlogPath } from "@/lib/blog-routes";
 
 export default function LanguageToggle() {
   const { locale, setLocale } = useLanguage();
+  const pathname = usePathname() || "/";
+  const router = useRouter();
 
   const options: Locale[] = ["en", "es"];
+
+  function switchTo(code: Locale) {
+    setLocale(code);
+    const nextPath = getAlternateBlogPath(pathname, code);
+    if (nextPath && nextPath !== pathname) {
+      router.push(nextPath);
+    }
+  }
 
   return (
     <div
@@ -20,7 +32,7 @@ export default function LanguageToggle() {
           <button
             key={code}
             type="button"
-            onClick={() => setLocale(code)}
+            onClick={() => switchTo(code)}
             className={`min-w-[2.5rem] rounded-full px-2.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-wider transition ${
               active
                 ? "bg-brand-gold text-brand-bg"

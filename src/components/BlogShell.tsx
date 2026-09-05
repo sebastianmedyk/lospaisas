@@ -1,15 +1,31 @@
+"use client";
+
+import { useEffect } from "react";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { useLanguage } from "@/contexts/LanguageContext";
+import type { BlogLocale } from "@/lib/blog";
 
 type BlogShellProps = {
   children: React.ReactNode;
+  /** Forces UI language to match the blog route (en|/es/blog). */
+  locale?: BlogLocale;
 };
 
+function BlogLocaleSync({ locale }: { locale: BlogLocale }) {
+  const { locale: current, setLocale } = useLanguage();
+  useEffect(() => {
+    if (current !== locale) setLocale(locale);
+  }, [locale, current, setLocale]);
+  return null;
+}
+
 /** Shared chrome for blog listing & article pages. */
-export default function BlogShell({ children }: BlogShellProps) {
+export default function BlogShell({ children, locale }: BlogShellProps) {
   return (
     <>
+      {locale ? <BlogLocaleSync locale={locale} /> : null}
       <Header />
       <main className="min-h-[60vh]">{children}</main>
       <Footer />

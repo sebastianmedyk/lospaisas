@@ -13,7 +13,7 @@ export default function BlogListing({ locale, posts }: Props) {
   const t = getDictionary(locale);
 
   return (
-    <BlogShell>
+    <BlogShell locale={locale}>
       <section className="section-pad">
         <div className="container-site">
           <BlogBackLinks

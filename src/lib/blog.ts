@@ -94,7 +94,4 @@ export function getPostSlugs(locale: BlogLocale): string[] {
   return getAllPosts(locale).map((p) => p.slug);
 }
 
-export function blogPath(locale: BlogLocale, slug?: string): string {
-  const base = locale === "es" ? "/es/blog" : "/blog";
-  return slug ? `${base}/${slug}` : base;
-}
+export { blogPath } from "@/lib/blog-routes";
