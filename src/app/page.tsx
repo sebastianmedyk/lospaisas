@@ -13,12 +13,22 @@ import FloatingCallButton from "@/components/FloatingCallButton";
 import JsonLd from "@/components/JsonLd";
 import {
   flatTireSundayHowToJsonLd,
+  faqPageJsonLd,
   serviceJsonLdList,
 } from "@/lib/seo";
+import { translations } from "@/lib/i18n";
 
 export default function HomePage() {
   return (
     <>
+      <JsonLd
+        data={faqPageJsonLd(
+          translations.en.faq.items.map((item) => ({
+            question: item.question,
+            answer: item.answer,
+          })),
+        )}
+      />
       <JsonLd data={flatTireSundayHowToJsonLd()} />
       {serviceJsonLdList().map((schema) => (
         <JsonLd key={String(schema.name)} data={schema} />

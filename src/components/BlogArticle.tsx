@@ -40,19 +40,20 @@ export default function BlogArticle({ post }: Props) {
             locale={post.locale}
             homeLabel={t.nav.home}
             blogLabel={t.nav.blog}
+            breadcrumbLabel={t.a11y.breadcrumb}
           />
 
           <header className="mb-8 border-b border-white/10 pb-8">
             <div className="mb-4 flex flex-wrap items-center gap-2">
-              <span className="border border-brand-gold/40 bg-brand-gold/10 px-2 py-0.5 text-[0.6rem] font-black uppercase tracking-wider text-brand-gold">
+              <span className="rounded-md border border-brand-gold/40 bg-brand-gold/10 px-2 py-0.5 text-[0.6rem] font-black uppercase tracking-wider text-brand-gold">
                 {post.locale.toUpperCase()}
               </span>
-              <time
-                dateTime={post.date}
-                className="text-[0.7rem] uppercase tracking-wide text-white/45"
-              >
-                {post.date}
-              </time>
+              <p className="text-[0.7rem] uppercase tracking-wide text-white/45">
+                {t.blog.lastUpdated}:{" "}
+                <time dateTime={post.date} className="text-white/60">
+                  {post.date}
+                </time>
+              </p>
             </div>
             <h1
               id="article-heading"
@@ -80,12 +81,12 @@ export default function BlogArticle({ post }: Props) {
             <Link href="/" className="btn-gold py-2.5 text-xs">
               {t.blog.backHome}
             </Link>
-            <a href="/#services" className="btn-outline py-2.5 text-xs">
+            <Link href="/#services" className="btn-outline py-2.5 text-xs">
               {t.nav.services}
-            </a>
-            <a href="/#location" className="btn-outline py-2.5 text-xs">
+            </Link>
+            <Link href="/#location" className="btn-outline py-2.5 text-xs">
               {t.nav.location}
-            </a>
+            </Link>
           </div>
         </div>
       </article>

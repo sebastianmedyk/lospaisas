@@ -37,3 +37,35 @@ export function getAlternateBlogPath(
   if (!altSlug) return blogPath(nextLocale);
   return blogPath(nextLocale, altSlug);
 }
+
+/** hreflang map for blog listing or a paired article. */
+export function blogLanguageAlternates(
+  locale: BlogLocale,
+  slug?: string
+): Record<string, string> {
+  if (!slug) {
+    return {
+      en: "/blog",
+      es: "/es/blog",
+      "x-default": "/blog",
+    };
+  }
+
+  const altSlug = SLUG_ALTERNATES[slug];
+  if (!altSlug) {
+    return {
+      en: "/blog",
+      es: "/es/blog",
+      "x-default": "/blog",
+    };
+  }
+
+  const enSlug = locale === "en" ? slug : altSlug;
+  const esSlug = locale === "es" ? slug : altSlug;
+
+  return {
+    en: blogPath("en", enSlug),
+    es: blogPath("es", esSlug),
+    "x-default": blogPath("en", enSlug),
+  };
+}

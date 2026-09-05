@@ -72,6 +72,8 @@ Do **not** block AI crawlers.
 
 Skipped: `ai-plugin.json` (llms.txt is preferred; plugin not required).
 
+Internal QA: optional five-pass self-QA (SEO → copy → UX/a11y → i18n parity → GEO polish) before release; keep `bun run build` green.
+
 ## Features
 
 - EN | ES language toggle (localStorage; default EN)

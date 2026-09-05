@@ -14,6 +14,7 @@ export const translations = {
       location: "Location",
       contact: "Contact",
       blog: "Blog",
+      faq: "FAQ",
       call: "Call",
       whatsapp: "WhatsApp",
       home: "Home",
@@ -59,7 +60,7 @@ export const translations = {
         {
           title: "Tire Balancing",
           description:
-            "Smooth, vibration-free driving. Transparent pricing — no hidden fees.",
+            "Smooth, vibration-free driving for West Palm Beach roads. Transparent pricing — no hidden fees.",
         },
         {
           title: "Tire Repair & Vulcanization",
@@ -260,6 +261,20 @@ export const translations = {
       backHome: "Back to home",
       localeBadge: "EN",
       empty: "No posts yet.",
+      lastUpdated: "Last updated",
+    },
+    a11y: {
+      skipToContent: "Skip to content",
+      menu: "Menu",
+      primaryNav: "Primary",
+      mobileNav: "Mobile",
+      language: "Language",
+      breadcrumb: "Breadcrumb",
+      instagram: "Instagram",
+      facebook: "Facebook",
+      tiktok: "TikTok",
+      whatsapp: "WhatsApp",
+      call: "Call Los Paisas Tires Shop",
     },
     footer: {
       tagline:
@@ -283,6 +298,7 @@ export const translations = {
       location: "Ubicación",
       contact: "Contacto",
       blog: "Blog",
+      faq: "FAQ",
       call: "Llamar",
       whatsapp: "WhatsApp",
       home: "Inicio",
@@ -328,7 +344,7 @@ export const translations = {
         {
           title: "Balanceo",
           description:
-            "Manejo suave, sin vibraciones. Precios transparentes — sin cargos ocultos.",
+            "Manejo suave, sin vibraciones, en las calles de West Palm Beach. Precios transparentes — sin cargos ocultos.",
         },
         {
           title: "Reparación y Vulcanización",
@@ -403,9 +419,9 @@ export const translations = {
       hours: "Abierto diario 8:00 AM – 7:00 PM · Military Trail, WPB",
     },
     promo: {
-      sunday: "Llanta ponchada el domingo — abrimos en S Military Trail, West Palm Beach",
-      trust: "Tienda de llantas de confianza en Military Trail, West Palm Beach — Los Paisas",
-      balance: "Balanceo sin cargos ocultos — tienda de llantas en West Palm Beach, Military Trail",
+      sunday: "Llanta ponchada el domingo — Los Paisas Tires Shop en S Military Trail, West Palm Beach",
+      trust: "Tienda de llantas de confianza en Military Trail, West Palm Beach — Los Paisas Tires Shop",
+      balance: "Balanceo sin cargos ocultos — Los Paisas Tires Shop en West Palm Beach, Military Trail",
     },
 
     keyFacts: {
@@ -529,6 +545,20 @@ export const translations = {
       backHome: "Volver al inicio",
       localeBadge: "ES",
       empty: "Aún no hay publicaciones.",
+      lastUpdated: "Última actualización",
+    },
+    a11y: {
+      skipToContent: "Saltar al contenido",
+      menu: "Menú",
+      primaryNav: "Principal",
+      mobileNav: "Móvil",
+      language: "Idioma",
+      breadcrumb: "Ruta de navegación",
+      instagram: "Instagram",
+      facebook: "Facebook",
+      tiktok: "TikTok",
+      whatsapp: "WhatsApp",
+      call: "Llamar a Los Paisas Tires Shop",
     },
     footer: {
       tagline:

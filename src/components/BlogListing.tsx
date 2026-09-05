@@ -30,6 +30,7 @@ export default function BlogListing({ locale, posts }: Props) {
             locale={locale}
             homeLabel={t.nav.home}
             blogLabel={t.nav.blog}
+            breadcrumbLabel={t.a11y.breadcrumb}
           />
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             {t.nav.blog}
@@ -45,7 +46,7 @@ export default function BlogListing({ locale, posts }: Props) {
           <div className="mt-6 flex flex-wrap gap-2 text-xs font-bold uppercase tracking-wide">
             <Link
               href="/blog"
-              className={`border px-3 py-1.5 ${
+              className={`rounded-lg border px-3 py-1.5 ${
                 locale === "en"
                   ? "border-brand-gold bg-brand-gold/15 text-brand-gold"
                   : "border-white/20 text-white/60 hover:border-brand-gold hover:text-brand-gold"
@@ -55,7 +56,7 @@ export default function BlogListing({ locale, posts }: Props) {
             </Link>
             <Link
               href="/es/blog"
-              className={`border px-3 py-1.5 ${
+              className={`rounded-lg border px-3 py-1.5 ${
                 locale === "es"
                   ? "border-brand-gold bg-brand-gold/15 text-brand-gold"
                   : "border-white/20 text-white/60 hover:border-brand-gold hover:text-brand-gold"
@@ -76,15 +77,15 @@ export default function BlogListing({ locale, posts }: Props) {
                     className="block p-5 transition hover:bg-white/[0.04]"
                   >
                     <div className="mb-3 flex flex-wrap items-center gap-2">
-                      <span className="border border-brand-gold/40 bg-brand-gold/10 px-2 py-0.5 text-[0.6rem] font-black uppercase tracking-wider text-brand-gold">
+                      <span className="rounded-md border border-brand-gold/40 bg-brand-gold/10 px-2 py-0.5 text-[0.6rem] font-black uppercase tracking-wider text-brand-gold">
                         {post.locale.toUpperCase()}
                       </span>
-                      <time
-                        dateTime={post.date}
-                        className="text-[0.7rem] uppercase tracking-wide text-white/45"
-                      >
-                        {post.date}
-                      </time>
+                      <p className="text-[0.7rem] uppercase tracking-wide text-white/45">
+                        {t.blog.lastUpdated}:{" "}
+                        <time dateTime={post.date} className="text-white/55">
+                          {post.date}
+                        </time>
+                      </p>
                     </div>
                     <h2 className="headline text-lg text-white sm:text-xl">
                       {post.title}

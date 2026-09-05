@@ -17,7 +17,7 @@ export default function Footer() {
   const blogHref = locale === "es" ? "/es/blog" : "/blog";
 
   const socialClass =
-    "inline-flex items-center justify-center rounded-lg border border-white/15 p-2.5 text-white/80 transition hover:border-brand-gold hover:text-brand-gold";
+    "inline-flex items-center justify-center rounded-lg border border-white/15 p-2.5 text-white/80 transition hover:border-brand-gold hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
 
   return (
     <footer className="border-t border-white/10 bg-black">
@@ -43,15 +43,15 @@ export default function Footer() {
               </p>
             </address>
             <nav className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-xs font-bold uppercase tracking-wider text-white/55">
-              <a href="/#services" className="hover:text-brand-gold">
+              <Link href="/#services" className="hover:text-brand-gold">
                 {t.nav.services}
-              </a>
-              <a href="/#location" className="hover:text-brand-gold">
+              </Link>
+              <Link href="/#location" className="hover:text-brand-gold">
                 {t.nav.location}
-              </a>
-              <a href="/#faq" className="hover:text-brand-gold">
-                FAQ
-              </a>
+              </Link>
+              <Link href="/#faq" className="hover:text-brand-gold">
+                {t.nav.faq}
+              </Link>
               <Link href={blogHref} className="hover:text-brand-gold">
                 {t.nav.blog}
               </Link>
@@ -65,7 +65,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className={socialClass}
-                aria-label="Instagram"
+                aria-label={t.a11y.instagram}
               >
                 <InstagramIcon className="h-5 w-5" />
               </a>
@@ -74,7 +74,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className={socialClass}
-                aria-label="Facebook"
+                aria-label={t.a11y.facebook}
               >
                 <FacebookIcon className="h-5 w-5" />
               </a>
@@ -83,7 +83,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className={socialClass}
-                aria-label="TikTok"
+                aria-label={t.a11y.tiktok}
               >
                 <TikTokIcon className="h-5 w-5" />
               </a>
@@ -92,14 +92,14 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className={socialClass}
-                aria-label="WhatsApp"
+                aria-label={t.a11y.whatsapp}
               >
                 <WhatsAppIcon className="h-5 w-5" />
               </a>
               <a
                 href={BUSINESS.phoneTel}
                 className={socialClass}
-                aria-label="Call"
+                aria-label={t.a11y.call}
               >
                 <PhoneIcon className="h-5 w-5" />
               </a>

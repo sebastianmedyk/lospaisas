@@ -16,6 +16,42 @@ body {
   background: var(--brand-bg);
   color: #ffffff;
   min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Sticky header (~4.5rem) — keep in-page anchors (#contact, etc.) visible */
+section[id],
+main[id] {
+  scroll-margin-top: 5.5rem;
+}
+
+/* FloatingCallButton on mobile — keep footer/content clear of the CTA */
+@media (max-width: 767px) {
+  body {
+    padding-bottom: 5.75rem;
+  }
+}
+
+.skip-to-content {
+  position: absolute;
+  left: 1rem;
+  top: -100px;
+  z-index: 100;
+  border-radius: 0.5rem;
+  background: #f4c20d;
+  color: #0d0d0d;
+  padding: 0.65rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: top 0.15s ease;
+}
+
+.skip-to-content:focus {
+  top: 1rem;
+  outline: 2px solid #f4c20d;
+  outline-offset: 2px;
 }
 
 @layer utilities {

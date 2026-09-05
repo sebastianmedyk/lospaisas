@@ -150,24 +150,18 @@ export function localBusinessJsonLd() {
       "@type": "OfferCatalog",
       name: "Tire services at Los Paisas Tires Shop",
       itemListElement: SERVICE_OFFERS.map((service, index) => ({
-        "@type": "OfferCatalog",
-        name: service.name,
-        itemListElement: [
-          {
-            "@type": "Offer",
-            itemOffered: {
-              "@type": "Service",
-              name: service.name,
-              description: service.description,
-              provider: { "@id": `${SITE_URL}/#business` },
-              areaServed: AREA_SERVED.map((name) => ({
-                "@type": "City",
-                name,
-              })),
-            },
-          },
-        ],
+        "@type": "Offer",
         position: index + 1,
+        itemOffered: {
+          "@type": "Service",
+          name: service.name,
+          description: service.description,
+          provider: { "@id": `${SITE_URL}/#business` },
+          areaServed: AREA_SERVED.map((name) => ({
+            "@type": "City",
+            name,
+          })),
+        },
       })),
     },
     makesOffer: SERVICE_OFFERS.map((service) => ({
@@ -251,6 +245,7 @@ export function articleJsonLd(input: {
     datePublished: input.date,
     dateModified: input.date,
     inLanguage: input.locale === "es" ? "es-US" : "en-US",
+    image: [absoluteUrl("/brand/promo-sunday.png")],
     author: {
       "@type": "Organization",
       name: BUSINESS.name,

@@ -62,7 +62,7 @@ export default function Location() {
               <p className="text-lg font-semibold text-white">
                 {t.location.hoursValue}
               </p>
-              <p className="mt-2 inline-flex items-center gap-2 border border-brand-red/40 bg-brand-red/15 px-3 py-1.5 text-sm font-black text-brand-red">
+              <p className="mt-2 inline-flex items-center gap-2 rounded-lg border border-brand-red/40 bg-brand-red/15 px-3 py-1.5 text-sm font-black text-brand-red">
                 {t.location.sundayNote}
               </p>
             </div>

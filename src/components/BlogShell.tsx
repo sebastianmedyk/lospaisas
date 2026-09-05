@@ -28,7 +28,7 @@ export default function BlogShell({ children, locale }: BlogShellProps) {
     <>
       {locale ? <BlogLocaleSync locale={locale} /> : null}
       <Header />
-      <main className="min-h-[60vh]">{children}</main>
+      <main id="main-content" className="min-h-[60vh]">{children}</main>
       <Footer />
       <FloatingCallButton />
     </>
@@ -39,16 +39,18 @@ export function BlogBackLinks({
   locale,
   homeLabel,
   blogLabel,
+  breadcrumbLabel = "Breadcrumb",
 }: {
   locale: "en" | "es";
   homeLabel: string;
   blogLabel: string;
+  breadcrumbLabel?: string;
 }) {
   const blogHref = locale === "es" ? "/es/blog" : "/blog";
   return (
     <nav
       className="mb-8 flex flex-wrap gap-3 text-sm font-bold uppercase tracking-wide"
-      aria-label="Breadcrumb"
+      aria-label={breadcrumbLabel}
     >
       <Link href="/" className="text-white/55 hover:text-brand-gold">
         {homeLabel}

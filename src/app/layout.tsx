@@ -4,10 +4,8 @@ import Providers from "@/components/Providers";
 import JsonLd from "@/components/JsonLd";
 import {
   localBusinessJsonLd,
-  faqPageJsonLd,
   webSiteJsonLd,
 } from "@/lib/seo";
-import { translations } from "@/lib/i18n";
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
@@ -55,6 +53,7 @@ export const metadata: Metadata = {
     languages: {
       en: "/",
       es: "/",
+      "x-default": "/",
     },
   },
   openGraph: {
@@ -97,11 +96,6 @@ export const metadata: Metadata = {
   category: "automotive",
 };
 
-/** EN FAQ answers for SSR FAQPage JSON-LD (ES stays in client i18n UI). */
-const enFaqs = translations.en.faq.items.map((item) => ({
-  question: item.question,
-  answer: item.answer,
-}));
 
 export default function RootLayout({
   children,
@@ -113,7 +107,6 @@ export default function RootLayout({
       <body className="font-body antialiased">
         <JsonLd data={localBusinessJsonLd()} />
         <JsonLd data={webSiteJsonLd()} />
-        <JsonLd data={faqPageJsonLd(enFaqs)} />
         <Providers>{children}</Providers>
       </body>
     </html>

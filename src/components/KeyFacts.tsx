@@ -111,7 +111,7 @@ export default function KeyFacts() {
             href="#faq"
             className="font-bold text-brand-gold underline-offset-4 hover:underline"
           >
-            FAQ
+            {t.nav.faq}
           </a>
           <span className="text-white/30" aria-hidden>
             ·

@@ -71,7 +71,14 @@ export function getAllPosts(locale?: BlogLocale): BlogPostMeta[] {
     .filter((p) => (locale ? p.locale === locale : true))
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 
-  return posts.map(({ content: _c, html: _h, ...meta }) => meta);
+  return posts.map((post) => ({
+    title: post.title,
+    description: post.description,
+    date: post.date,
+    locale: post.locale,
+    slug: post.slug,
+    keywords: post.keywords,
+  }));
 }
 
 export function getPost(slug: string, locale: BlogLocale): BlogPost | null {

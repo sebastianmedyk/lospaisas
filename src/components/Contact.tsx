@@ -85,9 +85,9 @@ export default function Contact() {
   ] as const;
 
   return (
-    <section id="contact" className="section-pad relative border-t border-white/10 bg-black/50" aria-labelledby="contact-heading">
+    <section id="contact" className="section-pad relative overflow-hidden border-t border-white/10 bg-black/50" aria-labelledby="contact-heading">
       <div className="speed-stripes pointer-events-none absolute inset-0 opacity-15" aria-hidden />
-      <div className="container-site relative grid items-center gap-10 lg:grid-cols-2">
+      <div className="container-site relative grid min-w-0 items-center gap-10 lg:grid-cols-2">
         <div>
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
             {t.nav.contact}
@@ -99,24 +99,26 @@ export default function Contact() {
             {t.contact.title}
           </h2>
           <p className="mt-4 max-w-lg text-white/70">{t.contact.subtitle}</p>
-          <p className="mt-3 inline-block border-l-2 border-brand-red bg-brand-red/10 px-3 py-1.5 text-sm font-black uppercase tracking-wider text-brand-gold">
+          <p className="mt-3 inline-block rounded-r-lg border-l-2 border-brand-red bg-brand-red/10 px-3 py-1.5 text-sm font-black uppercase tracking-wider text-brand-gold">
             {t.contact.hours}
           </p>
 
-          <div className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 sm:max-w-xl">
+          <div className="mt-8 grid min-w-0 grid-cols-1 gap-3 min-[480px]:grid-cols-2 sm:max-w-xl">
             {channels.map((channel) => {
               const Icon = channel.icon;
               return (
                 <a
                   key={channel.href + channel.label}
                   href={channel.href}
-                  className={`${channel.className} w-full`}
+                  className={`${channel.className} w-full min-w-0 !px-3 text-xs sm:!px-5 sm:text-sm`}
                   {...(channel.external
                     ? { target: "_blank", rel: "noopener noreferrer" }
                     : {})}
                 >
                   <Icon className="h-4 w-4 shrink-0" />
-                  {channel.label}
+                  <span className="min-w-0 break-words text-center leading-snug">
+                    {channel.label}
+                  </span>
                 </a>
               );
             })}

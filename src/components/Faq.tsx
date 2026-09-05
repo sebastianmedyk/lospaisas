@@ -14,7 +14,7 @@ export default function Faq() {
       <div className="container-site relative">
         <div className="mx-auto mb-10 max-w-2xl text-center">
           <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
-            FAQ
+            {t.nav.faq}
           </p>
           <h2
             id="faq-heading"
