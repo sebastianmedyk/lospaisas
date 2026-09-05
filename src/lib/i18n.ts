@@ -125,9 +125,6 @@ export const translations = {
       getDirections: "Get directions",
       directions: "Open in Google Maps",
       mapTitle: "Los Paisas Tires Shop map — S Military Trl, West Palm Beach",
-      mapShow: "Show map",
-      mapHide: "Hide map",
-      mapPreviewLabel: "Map preview — tap to load interactive map",
       servingNote:
         "Mobile within 10 miles · West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & nearby",
     },
@@ -422,9 +419,6 @@ export const translations = {
       getDirections: "Cómo llegar",
       directions: "Abrir en Google Maps",
       mapTitle: "Mapa de Los Paisas Tires Shop — S Military Trl, West Palm Beach",
-      mapShow: "Ver mapa",
-      mapHide: "Ocultar mapa",
-      mapPreviewLabel: "Vista previa del mapa — toca para cargar el mapa interactivo",
       servingNote:
         "Domicilio a 10 millas · West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y cercanías",
     },
