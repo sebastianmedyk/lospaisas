@@ -58,7 +58,7 @@ body {
   }
 
   .promo-panel {
-    box-shadow: 0 0 0 1px rgba(244, 194, 13, 0.12), 8px 8px 0 0 rgba(224, 30, 30, 0.35);
+    /* clean — no offset frame */
   }
 
   .speed-stripes {
