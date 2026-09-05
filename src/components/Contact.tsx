@@ -2,11 +2,87 @@
 
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { InstagramIcon, PhoneIcon, WhatsAppIcon } from "./Icons";
+import {
+  AppleMapsIcon,
+  CatalogIcon,
+  FacebookIcon,
+  InstagramIcon,
+  MapPinIcon,
+  PhoneIcon,
+  SmsIcon,
+  TikTokIcon,
+  WhatsAppIcon,
+} from "./Icons";
 import PromoPanel from "./PromoPanel";
 
 export default function Contact() {
   const { t, locale } = useLanguage();
+
+  const channels = [
+    {
+      href: BUSINESS.phoneTel,
+      label: t.contact.call,
+      className: "btn-gold",
+      icon: PhoneIcon,
+      external: false,
+    },
+    {
+      href: BUSINESS.whatsapp,
+      label: t.contact.whatsapp,
+      className: "btn-red",
+      icon: WhatsAppIcon,
+      external: true,
+    },
+    {
+      href: BUSINESS.sms,
+      label: t.contact.sms,
+      className: "btn-outline",
+      icon: SmsIcon,
+      external: false,
+    },
+    {
+      href: BUSINESS.instagram,
+      label: t.contact.instagram,
+      className: "btn-outline",
+      icon: InstagramIcon,
+      external: true,
+    },
+    {
+      href: BUSINESS.tiktok,
+      label: t.contact.tiktok,
+      className: "btn-outline",
+      icon: TikTokIcon,
+      external: true,
+    },
+    {
+      href: BUSINESS.facebook,
+      label: t.contact.facebook,
+      className: "btn-outline",
+      icon: FacebookIcon,
+      external: true,
+    },
+    {
+      href: BUSINESS.mapsUrl,
+      label: t.contact.googleMaps,
+      className: "btn-outline",
+      icon: MapPinIcon,
+      external: true,
+    },
+    {
+      href: BUSINESS.appleMaps,
+      label: t.contact.appleMaps,
+      className: "btn-outline",
+      icon: AppleMapsIcon,
+      external: true,
+    },
+    {
+      href: BUSINESS.catalogue,
+      label: t.contact.catalogue,
+      className: "btn-outline",
+      icon: CatalogIcon,
+      external: true,
+    },
+  ] as const;
 
   return (
     <section id="contact" className="section-pad relative border-t border-white/10 bg-black/50">
@@ -24,29 +100,23 @@ export default function Contact() {
             {t.contact.hours}
           </p>
 
-          <div className="mt-8 flex flex-col gap-3 sm:max-w-md">
-            <a href={BUSINESS.phoneTel} className="btn-gold w-full">
-              <PhoneIcon className="h-4 w-4" />
-              {t.contact.call}
-            </a>
-            <a
-              href={BUSINESS.whatsapp}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-red w-full"
-            >
-              <WhatsAppIcon className="h-4 w-4" />
-              {t.contact.whatsapp}
-            </a>
-            <a
-              href={BUSINESS.instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-outline w-full"
-            >
-              <InstagramIcon className="h-4 w-4" />
-              {t.contact.instagram}
-            </a>
+          <div className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 sm:max-w-xl">
+            {channels.map((channel) => {
+              const Icon = channel.icon;
+              return (
+                <a
+                  key={channel.href + channel.label}
+                  href={channel.href}
+                  className={`${channel.className} w-full`}
+                  {...(channel.external
+                    ? { target: "_blank", rel: "noopener noreferrer" }
+                    : {})}
+                >
+                  <Icon className="h-4 w-4 shrink-0" />
+                  {channel.label}
+                </a>
+              );
+            })}
           </div>
         </div>
 

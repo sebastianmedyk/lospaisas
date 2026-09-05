@@ -58,7 +58,7 @@ export function localBusinessJsonLd() {
         closes: "19:00",
       },
     ],
-    sameAs: [BUSINESS.instagram],
+    sameAs: [BUSINESS.instagram, BUSINESS.facebook, BUSINESS.tiktok],
     areaServed: AREA_SERVED.map((name) => ({
       "@type": "City",
       name,
