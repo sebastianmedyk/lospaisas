@@ -1,7 +1,7 @@
 export const BUSINESS = {
   name: "Los Paisas Tires Shop",
   address: "1114 S Military Trail, West Palm Beach, FL 33415",
-  phoneDisplay: "(561) 429-4041",
+  phoneDisplay: "+1 561-429-4041",
   phoneTel: "tel:+15614294041",
   sms: "sms:+15614294041",
   whatsapp: "https://wa.me/15614294041",

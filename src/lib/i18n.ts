@@ -109,7 +109,7 @@ export const translations = {
       hoursValue: "7 days a week · 8:00 AM – 7:00 PM",
       sundayNote: "Open Sunday — same hours as every other day.",
       phoneLabel: "Phone / WhatsApp",
-      phone: "(561) 429-4041",
+      phone: "+1 561-429-4041",
       getDirections: "Get directions",
       directions: "Open in Google Maps",
       mapTitle: "Los Paisas Tires Shop map — S Military Trail, West Palm Beach",
@@ -120,7 +120,7 @@ export const translations = {
       title: "Contact Us",
       subtitle:
         "Call, text, WhatsApp, or stop by our shop on S Military Trail in West Palm Beach — our team is ready to help Palm Beach County drivers.",
-      call: "Call (561) 429-4041",
+      call: "Call +1 561-429-4041",
       whatsapp: "WhatsApp",
       sms: "SMS / Text",
       instagram: "Instagram",
@@ -194,7 +194,7 @@ export const translations = {
       rights: "All rights reserved.",
       napName: "Los Paisas Tires Shop",
       napAddress: "1114 S Military Trail, West Palm Beach, FL 33415",
-      napPhone: "(561) 429-4041",
+      napPhone: "+1 561-429-4041",
     },
   },
   es: {
@@ -305,7 +305,7 @@ export const translations = {
       hoursValue: "7 días a la semana · 8:00 AM – 7:00 PM",
       sundayNote: "Abierto el domingo — el mismo horario todos los días.",
       phoneLabel: "Teléfono / WhatsApp",
-      phone: "(561) 429-4041",
+      phone: "+1 561-429-4041",
       getDirections: "Cómo llegar",
       directions: "Abrir en Google Maps",
       mapTitle: "Mapa de Los Paisas Tires Shop — S Military Trail, West Palm Beach",
@@ -316,7 +316,7 @@ export const translations = {
       title: "Contáctanos",
       subtitle:
         "Llama, envía SMS, escribe por WhatsApp o visítanos en S Military Trail en West Palm Beach — nuestro equipo está listo para ayudar a conductores de Palm Beach County.",
-      call: "Llamar (561) 429-4041",
+      call: "Llamar +1 561-429-4041",
       whatsapp: "WhatsApp",
       sms: "SMS / Texto",
       instagram: "Instagram",
@@ -390,7 +390,7 @@ export const translations = {
       rights: "Todos los derechos reservados.",
       napName: "Los Paisas Tires Shop",
       napAddress: "1114 S Military Trail, West Palm Beach, FL 33415",
-      napPhone: "(561) 429-4041",
+      napPhone: "+1 561-429-4041",
     },
   },
 } as const;
