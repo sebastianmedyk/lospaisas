@@ -8,10 +8,10 @@ export default function Location() {
   const { t } = useLanguage();
 
   return (
-    <section id="location" aria-labelledby="location-heading" className="section-pad relative">
+    <section id="location" aria-labelledby="location-heading" className="section-pad relative border-b border-white/15">
       <div className="container-site">
         <div className="mx-auto mb-10 max-w-2xl text-center">
-          <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
+          <p className="section-label mb-3">
             {t.nav.location}
           </p>
           <h2
@@ -20,6 +20,7 @@ export default function Location() {
           >
             {t.location.title}
           </h2>
+          <span className="accent-rule accent-rule-center" aria-hidden />
           <p className="mt-4 text-white/70">{t.location.subtitle}</p>
         </div>
 
@@ -28,7 +29,7 @@ export default function Location() {
             <div className="card-dark">
               <div className="mb-2 flex items-center gap-2 text-brand-gold">
                 <MapPinIcon className="h-5 w-5" />
-                <span className="text-[0.65rem] font-black uppercase tracking-[0.2em]">
+                <span className="text-[0.65rem] font-bold uppercase tracking-[0.28em]">
                   {t.location.addressLabel}
                 </span>
               </div>
@@ -58,12 +59,12 @@ export default function Location() {
             <div className="card-dark">
               <div className="mb-2 flex items-center gap-2 text-brand-gold">
                 <ClockIcon className="h-5 w-5" />
-                <span className="text-[0.65rem] font-black uppercase tracking-[0.2em]">
+                <span className="text-[0.65rem] font-bold uppercase tracking-[0.28em]">
                   {t.location.hoursLabel}
                 </span>
               </div>
               <p className="text-lg font-semibold text-white">{t.location.hoursValue}</p>
-              <p className="mt-2 inline-flex items-center gap-2 rounded-xl border border-brand-red/40 bg-brand-red/15 px-3 py-1.5 text-sm font-black text-brand-red">
+              <p className="cut-sm mt-2 inline-flex items-center gap-2 rounded-none border border-brand-red bg-brand-red/15 px-3 py-1.5 text-sm font-bold text-brand-red">
                 {t.location.sundayNote}
               </p>
             </div>
@@ -71,7 +72,7 @@ export default function Location() {
             <div className="card-dark">
               <div className="mb-2 flex items-center gap-2 text-brand-gold">
                 <PhoneIcon className="h-5 w-5" />
-                <span className="text-[0.65rem] font-black uppercase tracking-[0.2em]">
+                <span className="text-[0.65rem] font-bold uppercase tracking-[0.28em]">
                   {t.location.phoneLabel}
                 </span>
               </div>
@@ -84,7 +85,7 @@ export default function Location() {
             </div>
           </div>
 
-          <div className="overflow-hidden rounded-xl border border-white/10 bg-black/40">
+          <div className="cut-md overflow-hidden rounded-none border border-white/20 bg-black/40">
             <iframe
               title={t.location.mapTitle}
               src={BUSINESS.mapsEmbed}

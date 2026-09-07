@@ -17,18 +17,19 @@ export default function Footer() {
   const blogHref = locale === "es" ? "/es/blog" : "/blog";
 
   const socialClass =
-    "inline-flex items-center justify-center rounded-xl border border-white/15 bg-[#141414] p-2.5 text-white/85 transition hover:border-brand-gold hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
+    "cut-tr inline-flex items-center justify-center rounded-none border border-white/20 bg-[#141414] p-2.5 text-white/85 transition hover:border-brand-gold hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
 
   return (
-    <footer className="border-t border-white/15 bg-brand-bg">
-      <div className="h-1 w-full bg-gradient-to-r from-brand-gold via-brand-red to-brand-gold" aria-hidden />
+    <footer className="border-t border-white/20 bg-brand-bg">
+      <div className="h-0.5 w-full bg-gradient-to-r from-brand-gold via-brand-red to-brand-gold" aria-hidden />
       <div className="container-site px-4 py-10 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-8 sm:flex-row sm:items-start sm:justify-between">
           <div>
             <p className="headline text-xl text-white">
               {BUSINESS.name}
             </p>
-            <p className="mt-2 max-w-sm text-sm text-white/70">
+            <span className="accent-rule" aria-hidden />
+            <p className="mt-3 max-w-sm text-sm text-white/70">
               {t.footer.tagline}
             </p>
             <address className="mt-4 not-italic text-sm text-white/85">
@@ -42,7 +43,7 @@ export default function Footer() {
                 </a>
               </p>
             </address>
-            <nav className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-xs font-bold uppercase tracking-wider text-white/70">
+            <nav className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-xs font-bold uppercase tracking-[0.16em] text-white/70">
               <Link href="/#services" className="hover:text-brand-gold">
                 {t.nav.services}
               </Link>

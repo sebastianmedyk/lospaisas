@@ -32,7 +32,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="section-pad relative overflow-hidden border-y border-white/15 bg-[#141414]"
+      className="section-pad relative overflow-hidden border-y border-white/20 bg-[#141414]"
       aria-labelledby="contact-heading"
     >
       <div className="container-site relative grid min-w-0 items-center gap-10 lg:grid-cols-2">
@@ -46,8 +46,9 @@ export default function Contact() {
           >
             {t.contact.title}
           </h2>
+          <span className="accent-rule" aria-hidden />
           <p className="mt-4 max-w-lg text-white/80">{t.contact.subtitle}</p>
-          <p className="mt-3 inline-block rounded-r-xl border-l-[3px] border-brand-gold bg-brand-gold/15 px-3 py-1.5 text-sm font-bold text-brand-gold">
+          <p className="cut-tr mt-3 inline-block rounded-none border-l-2 border-brand-gold bg-brand-gold/15 px-3 py-1.5 text-sm font-bold tracking-wide text-brand-gold">
             {t.contact.hours}
           </p>
 
@@ -71,7 +72,7 @@ export default function Contact() {
           </div>
 
           {/* Quieter secondary channel grid */}
-          <p className="mt-6 text-[0.65rem] font-bold uppercase tracking-[0.2em] text-white/55">
+          <p className="mt-6 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-white/55">
             {t.contact.secondaryLabel}
           </p>
           <div className="mt-3 grid min-w-0 grid-cols-2 gap-2 min-[480px]:grid-cols-4 sm:max-w-xl">

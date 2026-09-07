@@ -10,7 +10,7 @@ export default function WhyUs() {
   return (
     <section
       id="why-us"
-      className="section-pad relative overflow-hidden border-y border-white/15 bg-[#141414]"
+      className="section-pad relative overflow-hidden border-y border-white/20 bg-[#141414]"
       aria-labelledby="why-us-heading"
     >
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
@@ -31,12 +31,13 @@ export default function WhyUs() {
           >
             {t.whyUs.title}
           </h2>
+          <span className="accent-rule" aria-hidden />
           <p className="mt-4 text-white/80">{t.whyUs.subtitle}</p>
 
           <ul className="mt-8 space-y-3">
             {t.whyUs.points.map((point) => (
               <li key={point.title} className="card-dark flex gap-4 !p-4">
-                <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-brand-gold text-brand-bg">
+                <span className="cut-tr mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-none bg-brand-gold text-brand-bg">
                   <CheckIcon className="h-4 w-4" />
                 </span>
                 <span>

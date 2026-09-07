@@ -24,7 +24,7 @@ export default function Services() {
   const { t } = useLanguage();
 
   return (
-    <section id="services" className="section-pad relative border-b border-white/10" aria-labelledby="services-heading">
+    <section id="services" className="section-pad relative border-b border-white/15" aria-labelledby="services-heading">
       <div className="container-site relative">
         <div className="mx-auto mb-8 max-w-2xl text-center">
           <p className="section-label mb-3">
@@ -36,6 +36,7 @@ export default function Services() {
           >
             {t.services.title}
           </h2>
+          <span className="accent-rule accent-rule-center" aria-hidden />
           <p className="mt-3 text-white/80">{t.services.subtitle}</p>
         </div>
 
@@ -44,7 +45,7 @@ export default function Services() {
             const Icon = ICONS[index] ?? TireIcon;
             return (
               <li key={service.title} className="card-dark group !p-5">
-                <span className="mb-3 inline-flex h-10 w-10 items-center justify-center rounded-xl border border-brand-gold/60 bg-brand-gold/15 text-brand-gold transition group-hover:border-brand-gold group-hover:bg-brand-gold group-hover:text-brand-bg">
+                <span className="cut-tr mb-3 inline-flex h-10 w-10 items-center justify-center rounded-none border border-brand-gold bg-brand-gold/15 text-brand-gold transition group-hover:bg-brand-gold group-hover:text-brand-bg">
                   <Icon className="h-5 w-5" />
                 </span>
                 <h3 className="headline text-base text-white sm:text-lg">

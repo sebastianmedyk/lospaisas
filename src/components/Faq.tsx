@@ -8,12 +8,12 @@ export default function Faq() {
   return (
     <section
       id="faq"
-      className="section-pad relative border-t border-white/10"
+      className="section-pad relative border-t border-white/15"
       aria-labelledby="faq-heading"
     >
       <div className="container-site relative">
         <div className="mx-auto mb-10 max-w-2xl text-center">
-          <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
+          <p className="section-label mb-3">
             {t.nav.faq}
           </p>
           <h2
@@ -22,6 +22,7 @@ export default function Faq() {
           >
             {t.faq.title}
           </h2>
+          <span className="accent-rule accent-rule-center" aria-hidden />
           <p className="mt-4 text-white/70">{t.faq.subtitle}</p>
         </div>
 

@@ -9,7 +9,7 @@ export default function TrustBar() {
 
   return (
     <section
-      className="border-y border-brand-gold/40 bg-brand-bg"
+      className="border-y border-brand-gold/50 bg-brand-bg"
       aria-label={t.trust.title}
     >
       <div className="container-site px-4 py-5 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export default function TrustBar() {
             href={BUSINESS.mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-xl border border-brand-gold bg-brand-gold/15 px-3.5 py-2 text-sm font-bold text-brand-gold transition hover:bg-brand-gold/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg"
+            className="cut-sm inline-flex items-center gap-2 rounded-none border border-brand-gold bg-brand-gold/15 px-3.5 py-2 text-sm font-bold text-brand-gold transition hover:bg-brand-gold/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg"
           >
             <StarIcon className="h-4 w-4 fill-brand-gold text-brand-gold" />
             <span>
@@ -42,13 +42,13 @@ export default function TrustBar() {
           {t.trust.items.map((item) => (
             <li
               key={item.label}
-              className="flex items-start gap-2.5 rounded-xl border border-white/10 bg-[#141414] px-3 py-2.5"
+              className="cut-sm flex items-start gap-2.5 rounded-none border border-white/15 bg-[#141414] px-3 py-2.5"
             >
-              <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-brand-gold text-brand-bg">
+              <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-none bg-brand-gold text-brand-bg">
                 <CheckIcon className="h-3 w-3" />
               </span>
               <span>
-                <span className="block text-[0.7rem] font-bold uppercase tracking-wide text-white sm:text-xs">
+                <span className="block text-[0.7rem] font-bold uppercase tracking-[0.14em] text-white sm:text-xs">
                   {item.label}
                 </span>
                 <span className="text-[0.65rem] text-white/65 sm:text-[0.7rem]">

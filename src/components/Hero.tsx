@@ -9,19 +9,19 @@ export default function Hero() {
   const { t, locale } = useLanguage();
 
   return (
-    <section id="top" className="relative overflow-hidden border-b border-white/15 hero-bleed">
+    <section id="top" className="relative overflow-hidden border-b border-white/20 hero-bleed">
       <div
-        className="pointer-events-none absolute bottom-0 left-0 right-0 h-0.5 bg-gradient-to-r from-brand-gold via-brand-red to-brand-gold"
+        className="pointer-events-none absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-brand-gold to-transparent"
         aria-hidden
       />
 
       <div className="container-site relative grid items-center gap-8 section-pad-sm lg:grid-cols-2 lg:gap-12">
         <div>
           <div className="mb-4 flex flex-wrap items-center gap-2">
-            <span className="rounded-xl border border-brand-gold bg-brand-gold/15 px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.2em] text-brand-gold">
+            <span className="cut-sm inline-block rounded-none border border-brand-gold bg-brand-gold/15 px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-brand-gold">
               {t.hero.badge}
             </span>
-            <span className="inline-flex items-center gap-1.5 rounded-xl bg-brand-red px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.2em] text-white">
+            <span className="cut-sm inline-flex items-center gap-1.5 rounded-none bg-brand-red px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-white">
               {t.hero.sundayHighlight}
             </span>
           </div>
@@ -29,6 +29,7 @@ export default function Hero() {
           <h1 className="headline text-[2.15rem] leading-[0.95] tracking-wide text-white sm:text-5xl lg:text-6xl">
             {t.hero.title}
           </h1>
+          <span className="accent-rule accent-rule-lg" aria-hidden />
 
           <p className="mt-4 max-w-xl text-base leading-snug text-white/80 sm:text-lg">
             {t.hero.subtitle}

@@ -12,11 +12,11 @@ export default function KeyFacts() {
   return (
     <section
       id="key-facts"
-      className="section-pad relative border-t border-white/10 bg-black/25"
+      className="section-pad relative border-t border-white/15 bg-black/25"
       aria-labelledby="key-facts-heading"
     >
       <div className="container-site relative max-w-3xl">
-        <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
+        <p className="section-label mb-3">
           {kf.eyebrow}
         </p>
         <h2
@@ -25,8 +25,9 @@ export default function KeyFacts() {
         >
           {kf.title}
         </h2>
+        <span className="accent-rule" aria-hidden />
 
-        <div className="mt-8 rounded-xl border border-white/10 bg-white/[0.03] p-5 sm:p-6">
+        <div className="cut-md mt-8 rounded-none border border-white/15 bg-white/[0.03] p-5 sm:p-6">
           <h3 className="headline text-lg text-brand-gold sm:text-xl">
             {kf.aboutHeading}
           </h3>

@@ -7,6 +7,8 @@
   --brand-surface: #141414;
   --brand-gold: #f4c20d;
   --brand-red: #e01e1e;
+  --cut-sm: 8px;
+  --cut-md: 12px;
 }
 
 html {
@@ -38,14 +40,22 @@ main[id] {
   left: 1rem;
   top: -100px;
   z-index: 100;
-  border-radius: 0.75rem;
+  border-radius: 0;
   background: #f4c20d;
   color: #0d0d0d;
   padding: 0.65rem 1rem;
   font-size: 0.8rem;
   font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
+  clip-path: polygon(
+    0 0,
+    calc(100% - 8px) 0,
+    100% 8px,
+    100% 100%,
+    8px 100%,
+    0 calc(100% - 8px)
+  );
   transition: top 0.15s ease;
 }
 
@@ -58,6 +68,40 @@ main[id] {
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+  /* Industrial wycięcia — top-right + bottom-left */
+  .cut-sm {
+    clip-path: polygon(
+      0 0,
+      calc(100% - var(--cut-sm)) 0,
+      100% var(--cut-sm),
+      100% 100%,
+      var(--cut-sm) 100%,
+      0 calc(100% - var(--cut-sm))
+    );
+  }
+
+  .cut-md {
+    clip-path: polygon(
+      0 0,
+      calc(100% - var(--cut-md)) 0,
+      100% var(--cut-md),
+      100% 100%,
+      var(--cut-md) 100%,
+      0 calc(100% - var(--cut-md))
+    );
+  }
+
+  /* Single top-right notch — header accents / small badges */
+  .cut-tr {
+    clip-path: polygon(
+      0 0,
+      calc(100% - 8px) 0,
+      100% 8px,
+      100% 100%,
+      0 100%
+    );
   }
 }
 
@@ -84,29 +128,61 @@ main[id] {
     @apply mx-auto max-w-6xl;
   }
 
-  /* Primary CTA: solid gold + near-black text */
+  /* Primary CTA: solid gold + near-black text — sharp + cut corners */
   .btn-gold {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-gold px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-bg transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-none bg-brand-gold px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-bg transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    clip-path: polygon(
+      0 0,
+      calc(100% - var(--cut-sm)) 0,
+      100% var(--cut-sm),
+      100% 100%,
+      var(--cut-sm) 100%,
+      0 calc(100% - var(--cut-sm))
+    );
   }
 
   /* Directions / secondary: sharp gold outline */
   .btn-outline {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-brand-gold bg-transparent px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-gold transition duration-200 hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-none border border-brand-gold bg-transparent px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-gold transition duration-200 hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    clip-path: polygon(
+      0 0,
+      calc(100% - var(--cut-sm)) 0,
+      100% var(--cut-sm),
+      100% 100%,
+      var(--cut-sm) 100%,
+      0 calc(100% - var(--cut-sm))
+    );
   }
 
   /* Red reserved for urgent only (Sunday badge) — not channel CTAs */
   .btn-red {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-red px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-none bg-brand-red px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    clip-path: polygon(
+      0 0,
+      calc(100% - var(--cut-sm)) 0,
+      100% var(--cut-sm),
+      100% 100%,
+      var(--cut-sm) 100%,
+      0 calc(100% - var(--cut-sm))
+    );
   }
 
   /* Quiet secondary actions — WhatsApp / social / tertiary */
   .btn-quiet {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/15 bg-transparent px-4 py-2.5 text-sm font-semibold tracking-wide text-white/75 transition duration-200 hover:border-white/30 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-sm border border-white/20 bg-transparent px-4 py-2.5 text-sm font-semibold tracking-wide text-white/75 transition duration-200 hover:border-white/35 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
-  /* Deep surface cards — no washed pastel gray */
+  /* Deep surface cards — hard edges, subtle cut, crisp border */
   .card-dark {
-    @apply relative rounded-xl border border-white/10 bg-[#141414] p-5 transition hover:border-brand-gold/40 hover:bg-[#1a1a1a];
+    @apply relative rounded-none border border-white/15 bg-[#141414] p-5 transition hover:border-brand-gold/50 hover:bg-[#1a1a1a];
+    clip-path: polygon(
+      0 0,
+      calc(100% - var(--cut-md)) 0,
+      100% var(--cut-md),
+      100% 100%,
+      var(--cut-md) 100%,
+      0 calc(100% - var(--cut-md))
+    );
   }
 
   .promo-panel {
@@ -119,9 +195,37 @@ main[id] {
       linear-gradient(180deg, #0d0d0d 0%, #0d0d0d 100%);
   }
 
-  /* Section label — gold, dense tracking */
+  /* Section label — gold cut badge, denser tracking */
   .section-label {
-    @apply text-[0.65rem] font-bold uppercase tracking-[0.28em] text-brand-gold;
+    @apply inline-block border border-brand-gold/60 bg-brand-gold/10 px-3 py-1 text-[0.65rem] font-bold uppercase tracking-[0.32em] text-brand-gold;
+    clip-path: polygon(
+      0 0,
+      calc(100% - 6px) 0,
+      100% 6px,
+      100% 100%,
+      6px 100%,
+      0 calc(100% - 6px)
+    );
+  }
+
+  /* Angled gold accent under headlines */
+  .accent-rule {
+    display: block;
+    width: 3.25rem;
+    height: 2px;
+    margin-top: 0.85rem;
+    background: var(--brand-gold);
+    transform: skewX(-18deg);
+  }
+
+  .accent-rule-center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .accent-rule-lg {
+    width: 4.5rem;
+    height: 2px;
   }
 }
 
