@@ -191,8 +191,31 @@ main[id] {
 
   .hero-bleed {
     background:
-      radial-gradient(ellipse 65% 45% at 92% 0%, rgba(244, 194, 13, 0.1), transparent 55%),
+      radial-gradient(ellipse 55% 40% at 100% 0%, rgba(244, 194, 13, 0.12), transparent 58%),
+      radial-gradient(ellipse 40% 35% at 0% 100%, rgba(224, 30, 30, 0.06), transparent 55%),
       linear-gradient(180deg, #0d0d0d 0%, #0d0d0d 100%);
+  }
+
+  /* Hero promo — controlled cut frame, not a soft blob */
+  .promo-hero-frame {
+    border-color: rgba(244, 194, 13, 0.35) !important;
+    box-shadow: inset 0 0 0 1px rgba(13, 13, 13, 0.4);
+  }
+
+  .stat-panel {
+    position: relative;
+  }
+
+  .stat-panel::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.75rem;
+    height: 2px;
+    background: var(--brand-gold);
+    transform: skewX(-18deg);
+    transform-origin: left top;
   }
 
   /* Section label — gold cut badge, denser tracking */

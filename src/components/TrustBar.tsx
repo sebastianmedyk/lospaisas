@@ -1,57 +1,31 @@
 "use client";
 
-import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { CheckIcon, StarIcon } from "./Icons";
+import { CheckIcon } from "./Icons";
 
 export default function TrustBar() {
   const { t } = useLanguage();
 
   return (
     <section
-      className="border-y border-brand-gold/50 bg-brand-bg"
+      className="trust-strip border-b border-brand-gold/40 bg-[#101010]"
       aria-label={t.trust.title}
     >
-      <div className="container-site px-4 py-5 sm:px-6 lg:px-8">
-        {/* Compact rating + hours + area — near hero */}
-        <div className="mb-4 flex flex-col items-center gap-3 sm:flex-row sm:flex-wrap sm:justify-center sm:gap-x-6 sm:gap-y-2">
-          <a
-            href={BUSINESS.mapsUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="cut-sm inline-flex items-center gap-2 rounded-none border border-brand-gold bg-brand-gold/15 px-3.5 py-2 text-sm font-bold text-brand-gold transition hover:bg-brand-gold/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg"
-          >
-            <StarIcon className="h-4 w-4 fill-brand-gold text-brand-gold" />
-            <span>
-              {BUSINESS.ratingValue}
-              <span className="mx-1.5 text-white/50">·</span>
-              {BUSINESS.reviewCount} {t.trust.reviewsLabel}
-            </span>
-          </a>
-          <p className="text-sm text-white/80">
-            <span className="font-bold text-white">{t.trust.hoursLabel}</span>
-            <span className="mx-1.5 text-white/50">·</span>
-            {t.trust.hoursValue}
-          </p>
-          <p className="max-w-md text-center text-xs text-white/65 sm:text-left">
-            {t.trust.serving}
-          </p>
-        </div>
-
-        <ul className="grid grid-cols-2 gap-2 lg:grid-cols-4 lg:gap-3">
+      <div className="container-site px-4 py-4 sm:px-6 sm:py-5 lg:px-8">
+        <ul className="grid grid-cols-2 gap-px overflow-hidden border border-white/15 bg-white/15 lg:grid-cols-4">
           {t.trust.items.map((item) => (
             <li
               key={item.label}
-              className="cut-sm flex items-start gap-2.5 rounded-none border border-white/15 bg-[#141414] px-3 py-2.5"
+              className="flex items-start gap-2.5 bg-[#101010] px-3.5 py-3.5 sm:px-4 sm:py-4"
             >
-              <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-none bg-brand-gold text-brand-bg">
+              <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center bg-brand-gold text-brand-bg">
                 <CheckIcon className="h-3 w-3" />
               </span>
-              <span>
-                <span className="block text-[0.7rem] font-bold uppercase tracking-[0.14em] text-white sm:text-xs">
+              <span className="min-w-0">
+                <span className="block text-[0.7rem] font-bold uppercase tracking-[0.16em] text-white sm:text-xs">
                   {item.label}
                 </span>
-                <span className="text-[0.65rem] text-white/65 sm:text-[0.7rem]">
+                <span className="mt-0.5 block text-[0.65rem] leading-snug text-white/60 sm:text-[0.7rem]">
                   {item.detail}
                 </span>
               </span>
