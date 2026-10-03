@@ -17,7 +17,8 @@ html {
 
 body {
   background: var(--brand-bg);
-  color: #ffffff;
+  color: rgba(255, 255, 255, 0.78);
+  font-weight: 300;
   min-height: 100vh;
   overflow-x: hidden;
 }
@@ -106,9 +107,9 @@ main[id] {
 }
 
 @layer components {
-  /* Barlow Condensed 600/700 — automotive uppercase / tracking */
+  /* Barlow Condensed 200 — thin architectural headlines, still uppercase */
   .headline {
-    @apply font-display font-bold uppercase tracking-wide;
+    @apply font-display font-extralight uppercase tracking-wide;
   }
 
   .gold-gradient {
@@ -128,9 +129,9 @@ main[id] {
     @apply mx-auto max-w-6xl;
   }
 
-  /* Primary CTA: solid gold + near-black text — sharp + cut corners */
+  /* Primary CTA: 1px gold hairline, fill on hover — sharp + cut corners */
   .btn-gold {
-    @apply inline-flex items-center justify-center gap-2 rounded-none bg-brand-gold px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-bg transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-none border border-brand-gold/50 bg-transparent px-6 py-3.5 text-sm font-extrabold uppercase tracking-wider text-brand-gold transition duration-200 hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
     clip-path: polygon(
       0 0,
       calc(100% - var(--cut-sm)) 0,
@@ -143,7 +144,7 @@ main[id] {
 
   /* Directions / secondary: sharp gold outline */
   .btn-outline {
-    @apply inline-flex items-center justify-center gap-2 rounded-none border border-brand-gold bg-transparent px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-brand-gold transition duration-200 hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-none border border-white/20 bg-transparent px-6 py-3.5 text-sm font-extrabold uppercase tracking-wider text-white/80 transition duration-200 hover:border-brand-gold hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
     clip-path: polygon(
       0 0,
       calc(100% - var(--cut-sm)) 0,
@@ -156,7 +157,7 @@ main[id] {
 
   /* Red reserved for urgent only (Sunday badge) — not channel CTAs */
   .btn-red {
-    @apply inline-flex items-center justify-center gap-2 rounded-none bg-brand-red px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition duration-200 hover:brightness-110 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-none border border-brand-red/50 bg-transparent px-6 py-3.5 text-sm font-extrabold uppercase tracking-wider text-brand-red transition duration-200 hover:bg-brand-red hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-red focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
     clip-path: polygon(
       0 0,
       calc(100% - var(--cut-sm)) 0,
@@ -169,12 +170,12 @@ main[id] {
 
   /* Quiet secondary actions — WhatsApp / social / tertiary */
   .btn-quiet {
-    @apply inline-flex items-center justify-center gap-2 rounded-sm border border-white/20 bg-transparent px-4 py-2.5 text-sm font-semibold tracking-wide text-white/75 transition duration-200 hover:border-white/35 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply inline-flex items-center justify-center gap-2 rounded-none border border-white/15 bg-transparent px-4 py-2.5 text-sm font-extrabold uppercase tracking-wide text-white/70 transition duration-200 hover:border-white/30 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
   /* Deep surface cards — hard edges, subtle cut, crisp border */
   .card-dark {
-    @apply relative rounded-none border border-white/15 bg-[#141414] p-5 transition hover:border-brand-gold/50 hover:bg-[#1a1a1a];
+    @apply relative rounded-none border border-white/15 bg-[#141414] p-5 transition hover:border-brand-gold/35 hover:bg-[#1a1a1a];
     clip-path: polygon(
       0 0,
       calc(100% - var(--cut-md)) 0,
@@ -198,8 +199,7 @@ main[id] {
 
   /* Hero promo — controlled cut frame, not a soft blob */
   .promo-hero-frame {
-    border-color: rgba(244, 194, 13, 0.35) !important;
-    box-shadow: inset 0 0 0 1px rgba(13, 13, 13, 0.4);
+    border-color: rgba(244, 194, 13, 0.22) !important;
   }
 
   .stat-panel {
@@ -212,7 +212,7 @@ main[id] {
     top: 0;
     left: 0;
     width: 1.75rem;
-    height: 2px;
+    height: 1px;
     background: var(--brand-gold);
     transform: skewX(-18deg);
     transform-origin: left top;
@@ -220,7 +220,7 @@ main[id] {
 
   /* Section label — gold cut badge, denser tracking */
   .section-label {
-    @apply inline-block border border-brand-gold/60 bg-brand-gold/10 px-3 py-1 text-[0.65rem] font-bold uppercase tracking-[0.32em] text-brand-gold;
+    @apply inline-block border border-brand-gold/30 bg-transparent px-3 py-1 text-[0.65rem] font-extrabold uppercase tracking-[0.32em] text-brand-gold;
     clip-path: polygon(
       0 0,
       calc(100% - 6px) 0,
@@ -235,7 +235,7 @@ main[id] {
   .accent-rule {
     display: block;
     width: 3.25rem;
-    height: 2px;
+    height: 1px;
     margin-top: 0.85rem;
     background: var(--brand-gold);
     transform: skewX(-18deg);
@@ -248,7 +248,7 @@ main[id] {
 
   .accent-rule-lg {
     width: 4.5rem;
-    height: 2px;
+    height: 1px;
   }
 }
 

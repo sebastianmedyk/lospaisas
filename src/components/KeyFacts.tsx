@@ -12,7 +12,7 @@ export default function KeyFacts() {
   return (
     <section
       id="key-facts"
-      className="section-pad relative border-t border-white/15 bg-black/25"
+      className="section-pad relative bg-black/25"
       aria-labelledby="key-facts-heading"
     >
       <div className="container-site relative max-w-3xl">
@@ -40,7 +40,7 @@ export default function KeyFacts() {
           {kf.blocks.map((block) => (
             <article
               key={block.question}
-              className="border-l-2 border-brand-gold/50 pl-4"
+              className="border-l border-brand-gold/35 pl-4"
             >
               <h3 className="text-base font-bold text-white sm:text-lg">
                 {block.question}

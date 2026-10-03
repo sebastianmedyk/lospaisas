@@ -37,11 +37,7 @@ export default function Hero() {
     <section id="top" className="relative overflow-hidden border-b border-white/15 hero-bleed">
       {/* Thin gold angled accent rules */}
       <div
-        className="pointer-events-none absolute left-0 top-0 h-1 w-24 origin-left -skew-x-[18deg] bg-brand-gold sm:w-32"
-        aria-hidden
-      />
-      <div
-        className="pointer-events-none absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-brand-gold to-transparent"
+        className="pointer-events-none absolute left-0 top-0 h-px w-24 origin-left -skew-x-[18deg] bg-brand-gold/80 sm:w-32"
         aria-hidden
       />
 
@@ -49,7 +45,7 @@ export default function Hero() {
         {/* Left — copy + CTAs */}
         <div className="min-w-0">
           <div className="mb-4 flex flex-wrap items-center gap-2">
-            <span className="cut-sm inline-flex items-center gap-2 rounded-none border border-brand-gold bg-brand-gold/15 px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-brand-gold">
+            <span className="cut-sm inline-flex items-center gap-2 rounded-none border border-brand-gold/40 bg-transparent px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-brand-gold">
               <span
                 className="h-1.5 w-1.5 shrink-0 bg-brand-red"
                 aria-hidden
@@ -131,7 +127,7 @@ export default function Hero() {
               );
 
               const className =
-                "stat-panel cut-sm block rounded-none border border-white/20 bg-[#141414] px-3.5 py-3.5 transition hover:border-brand-gold/55";
+                "stat-panel cut-sm block rounded-none border border-white/15 bg-[#141414] px-3.5 py-3.5 transition hover:border-brand-gold/35";
 
               if ("href" in stat && stat.href) {
                 return (

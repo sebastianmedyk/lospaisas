@@ -22,7 +22,7 @@ export default function LanguageToggle() {
 
   return (
     <div
-      className="inline-flex rounded-sm border border-white/20 bg-[#141414] p-0.5"
+      className="inline-flex rounded-none border border-white/15 bg-[#141414] p-0.5"
       role="group"
       aria-label={t.a11y.language}
     >

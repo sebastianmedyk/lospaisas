@@ -10,7 +10,7 @@ export default function SeoArea() {
   return (
     <section
       id="service-area"
-      className="section-pad relative border-t border-white/10 bg-black/30"
+      className="section-pad relative border-t border-white/15 bg-black/30"
       aria-labelledby="service-area-heading"
     >
       <div className="container-site relative max-w-3xl">

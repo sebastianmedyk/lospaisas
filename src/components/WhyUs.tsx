@@ -10,7 +10,7 @@ export default function WhyUs() {
   return (
     <section
       id="why-us"
-      className="section-pad relative overflow-hidden border-y border-white/20 bg-[#141414]"
+      className="section-pad relative overflow-hidden border-b border-white/15 bg-[#141414]"
       aria-labelledby="why-us-heading"
     >
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">

@@ -64,7 +64,7 @@ export default function Location() {
                 </span>
               </div>
               <p className="text-lg font-semibold text-white">{t.location.hoursValue}</p>
-              <p className="cut-sm mt-2 inline-flex items-center gap-2 rounded-none border border-brand-red bg-brand-red/15 px-3 py-1.5 text-sm font-bold text-brand-red">
+              <p className="cut-sm mt-2 inline-flex items-center gap-2 rounded-none border border-brand-red/40 bg-transparent px-3 py-1.5 text-sm font-bold text-brand-red">
                 {t.location.sundayNote}
               </p>
             </div>
@@ -85,7 +85,7 @@ export default function Location() {
             </div>
           </div>
 
-          <div className="cut-md overflow-hidden rounded-none border border-white/20 bg-black/40">
+          <div className="cut-md overflow-hidden rounded-none border border-white/15 bg-black/40">
             <iframe
               title={t.location.mapTitle}
               src={BUSINESS.mapsEmbed}

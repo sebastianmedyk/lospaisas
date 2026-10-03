@@ -11,7 +11,7 @@ import "./globals.css";
 
 const bodyFont = DM_Sans({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
+  weight: ["300", "400", "500", "600", "700", "800"],
   variable: "--font-body",
   display: "swap",
   fallback: ["system-ui", "Segoe UI", "Roboto", "sans-serif"],
@@ -19,7 +19,7 @@ const bodyFont = DM_Sans({
 
 const displayFont = Barlow_Condensed({
   subsets: ["latin"],
-  weight: ["600", "700"],
+  weight: ["200", "700"],
   variable: "--font-display",
   display: "swap",
   fallback: ["Impact", "Arial Black", "sans-serif"],

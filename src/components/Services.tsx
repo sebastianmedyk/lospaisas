@@ -45,7 +45,7 @@ export default function Services() {
             const Icon = ICONS[index] ?? TireIcon;
             return (
               <li key={service.title} className="card-dark group !p-5">
-                <span className="cut-tr mb-3 inline-flex h-10 w-10 items-center justify-center rounded-none border border-brand-gold bg-brand-gold/15 text-brand-gold transition group-hover:bg-brand-gold group-hover:text-brand-bg">
+                <span className="cut-tr mb-3 inline-flex h-10 w-10 items-center justify-center rounded-none border border-brand-gold/40 bg-transparent text-brand-gold transition group-hover:bg-brand-gold group-hover:text-brand-bg">
                   <Icon className="h-5 w-5" />
                 </span>
                 <h3 className="headline text-base text-white sm:text-lg">

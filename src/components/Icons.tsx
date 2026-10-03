@@ -4,7 +4,7 @@ type IconProps = SVGProps<SVGSVGElement>;
 
 export function PhoneIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
@@ -20,7 +20,7 @@ export function WhatsAppIcon(props: IconProps) {
 
 export function MapPinIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" strokeLinecap="round" strokeLinejoin="round" />
       <circle cx="12" cy="10" r="3" />
     </svg>
@@ -29,7 +29,7 @@ export function MapPinIcon(props: IconProps) {
 
 export function ClockIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       <circle cx="12" cy="12" r="10" />
       <path d="M12 6v6l4 2" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
@@ -38,7 +38,7 @@ export function ClockIcon(props: IconProps) {
 
 export function InstagramIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
       <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
       <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" strokeLinecap="round" />
@@ -48,7 +48,7 @@ export function InstagramIcon(props: IconProps) {
 
 export function TireIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       {/* Tire with tread + hub — New & Used Tires */}
       <circle cx="12" cy="12" r="9" strokeLinecap="round" />
       <circle cx="12" cy="12" r="5.25" strokeLinecap="round" />
@@ -64,7 +64,7 @@ export function TireIcon(props: IconProps) {
 
 export function CheckIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" aria-hidden {...props}>
       <path d="M20 6 9 17l-5-5" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
@@ -80,7 +80,7 @@ export function StarIcon(props: IconProps) {
 
 export function AlignIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       {/* Front wheels + toe arrows — Wheel Alignment */}
       <path
         d="M7 5.5v13M17 5.5v13"
@@ -97,7 +97,7 @@ export function AlignIcon(props: IconProps) {
 
 export function BalanceIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       {/* Wheel with rim weights — Tire Balancing */}
       <circle cx="12" cy="12" r="9" strokeLinecap="round" />
       <circle cx="12" cy="12" r="4.25" strokeLinecap="round" />
@@ -113,7 +113,7 @@ export function BalanceIcon(props: IconProps) {
 
 export function WrenchIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       {/* Tire + wrench — Repair & Vulcanization */}
       <circle cx="9.25" cy="13.25" r="6.5" strokeLinecap="round" />
       <circle cx="9.25" cy="13.25" r="2.6" strokeLinecap="round" />
@@ -129,7 +129,7 @@ export function WrenchIcon(props: IconProps) {
 
 export function TruckIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       {/* Service van with tire mark — Mobile Within 10 Miles */}
       <path
         d="M2 15.5V7.5A1.5 1.5 0 0 1 3.5 6H14v9.5H2z"
@@ -152,7 +152,7 @@ export function TruckIcon(props: IconProps) {
 
 export function InstallIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.85" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       {/* Two tires + mount mark — Install Your Tires */}
       <circle cx="8" cy="13" r="6" strokeLinecap="round" />
       <circle cx="8" cy="13" r="2.35" strokeLinecap="round" />
@@ -165,7 +165,7 @@ export function InstallIcon(props: IconProps) {
 
 export function SmsIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" strokeLinecap="round" strokeLinejoin="round" />
       <path d="M8 9h8M8 13h5" strokeLinecap="round" />
     </svg>
@@ -190,7 +190,7 @@ export function TikTokIcon(props: IconProps) {
 
 export function CatalogIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" strokeLinecap="round" strokeLinejoin="round" />
       <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" strokeLinecap="round" strokeLinejoin="round" />
       <path d="M8 7h8M8 11h8M8 15h5" strokeLinecap="round" />
@@ -200,7 +200,7 @@ export function CatalogIcon(props: IconProps) {
 
 export function AppleMapsIcon(props: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden {...props}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
       <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" strokeLinecap="round" strokeLinejoin="round" />
       <circle cx="12" cy="9" r="2.5" />
     </svg>

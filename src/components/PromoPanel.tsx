@@ -19,7 +19,7 @@ export default function PromoPanel({
   priority = false,
 }: PromoPanelProps) {
   return (
-    <div className={`cut-md relative w-full overflow-hidden rounded-none border border-white/20 bg-brand-bg ${className}`}>
+    <div className={`cut-md relative w-full overflow-hidden rounded-none border border-white/15 bg-brand-bg ${className}`}>
       <Image
         src={imageSrc}
         alt={alt}

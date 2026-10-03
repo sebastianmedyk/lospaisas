@@ -30,7 +30,7 @@ export default function Faq() {
           {t.faq.items.map((item) => (
             <details
               key={item.question}
-              className="card-dark group !p-0 open:border-brand-gold/40"
+              className="card-dark group !p-0 open:border-brand-gold/30"
             >
               <summary className="cursor-pointer list-none px-5 py-4 font-bold text-white marker:content-none [&::-webkit-details-marker]:hidden">
                 <span className="flex items-start justify-between gap-3">
@@ -45,7 +45,7 @@ export default function Faq() {
                   </span>
                 </span>
               </summary>
-              <div className="border-t border-white/10 px-5 py-4 text-sm leading-relaxed text-white/70">
+              <div className="border-t border-white/15 px-5 py-4 text-sm leading-relaxed text-white/70">
                 {item.answer}
               </div>
             </details>

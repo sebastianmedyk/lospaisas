@@ -17,11 +17,10 @@ export default function Footer() {
   const blogHref = locale === "es" ? "/es/blog" : "/blog";
 
   const socialClass =
-    "cut-tr inline-flex items-center justify-center rounded-none border border-white/20 bg-[#141414] p-2.5 text-white/85 transition hover:border-brand-gold hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
+    "cut-tr inline-flex items-center justify-center rounded-none border border-white/15 bg-[#141414] p-2.5 text-white/85 transition hover:border-brand-gold/50 hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
 
   return (
-    <footer className="border-t border-white/20 bg-brand-bg">
-      <div className="h-0.5 w-full bg-gradient-to-r from-brand-gold via-brand-red to-brand-gold" aria-hidden />
+    <footer className="border-t border-white/15 bg-brand-bg">
       <div className="container-site px-4 py-10 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-8 sm:flex-row sm:items-start sm:justify-between">
           <div>

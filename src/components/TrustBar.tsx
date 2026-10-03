@@ -8,11 +8,11 @@ export default function TrustBar() {
 
   return (
     <section
-      className="trust-strip border-b border-brand-gold/40 bg-[#101010]"
+      className="trust-strip border-b border-white/15 bg-[#101010]"
       aria-label={t.trust.title}
     >
       <div className="container-site px-4 py-4 sm:px-6 sm:py-5 lg:px-8">
-        <ul className="grid grid-cols-2 gap-px overflow-hidden border border-white/15 bg-white/15 lg:grid-cols-4">
+        <ul className="grid grid-cols-2 gap-px overflow-hidden border border-white/15 bg-white/[0.12] lg:grid-cols-4">
           {t.trust.items.map((item) => (
             <li
               key={item.label}
