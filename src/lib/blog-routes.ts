@@ -37,6 +37,14 @@ const SLUG_ALTERNATES: Record<string, string> = {
     "llantas-nuevas-west-palm-beach-military-trail",
   "llantas-nuevas-west-palm-beach-military-trail":
     "new-tires-west-palm-beach-military-trail",
+  "used-tire-prices-west-palm-beach": "precio-llantas-usadas-west-palm-beach",
+  "precio-llantas-usadas-west-palm-beach": "used-tire-prices-west-palm-beach",
+  "used-vs-new-tires-florida-heat": "llantas-usadas-o-nuevas-calor-florida",
+  "llantas-usadas-o-nuevas-calor-florida": "used-vs-new-tires-florida-heat",
+  "driving-on-a-tire-patch-or-plug": "manejar-con-llanta-parcheada",
+  "manejar-con-llanta-parcheada": "driving-on-a-tire-patch-or-plug",
+  "tire-pressure-palm-beach-summer": "presion-llantas-verano-huracanes",
+  "presion-llantas-verano-huracanes": "tire-pressure-palm-beach-summer",
 };
 
 /** Path to switch to when changing UI language while on a blog route. */

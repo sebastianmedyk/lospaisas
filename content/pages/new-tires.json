@@ -1,0 +1,91 @@
+{
+  "path": "/new-tires",
+  "enPath": "/new-tires",
+  "esPath": "/es/llantas-nuevas",
+  "locale": "en",
+  "kind": "service",
+  "title": "New Tires in West Palm Beach | Los Paisas Tires Shop",
+  "description": "New tires in West Palm Beach at 1114 S Military Trl. We match size and load rating, then mount them. Open 7 days, 8 AM–7 PM. Call +1 561-429-4041.",
+  "h1": "New Tires in West Palm Beach",
+  "eyebrow": "Tire shop on S Military Trl",
+  "serviceName": "New tires",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "New tires in West Palm Beach start with the car in front of us, not with a slogan. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. We sell new tires and used tires, and we will tell you when a new tire is the right buy and when a checked used tire is enough.",
+    "We do not publish prices on this site. A new tire depends on the size the door placard calls for and on what you actually need the car to do. Call +1 561-429-4041, any day from 8:00 AM to 7:00 PM, and ask about the size before you assume we have it on the rack."
+  ],
+  "sections": [
+    {
+      "heading": "What buying new tires includes",
+      "paragraphs": [
+        "A new set is the tire, the mount, and a straight conversation about the other three corners. Replacing one bald tire and leaving three worn ones is how a car starts to feel wrong at highway speed. We look at all four, plus the spare if you still rely on it, and we say whether you need one tire or more.",
+        "Florida heat is hard on rubber that already lived a life in the sun. A new tire does not fix a bent wheel or a car that pulls. If the old tires wore on one shoulder, we will talk about alignment after the new tires are on, so you do not scrub the new tread off in a month. Balancing is part of a normal mount when the wheel needs it, and that work is quoted with no hidden fees."
+      ],
+      "bullets": [
+        "Size and load rating taken from the vehicle, not from a worn sidewall alone",
+        "A look at the other tires before we sell you one",
+        "Mounting at the shop on S Military Trl",
+        "Balancing quoted before we start, not added in the lot"
+      ]
+    },
+    {
+      "heading": "How we match a tire to the car",
+      "paragraphs": [
+        "Bring the car if you can. The placard in the door jamb is the reference for size and for the cold pressure that belongs to that vehicle. We do not invent a pressure number on a web page. If you only know the size printed on the old tire, call and read it to us. If that old tire was already the wrong size, we will say so.",
+        "The visit is simple. You pull in during open hours, Monday through Sunday, 8:00 AM to 7:00 PM. We confirm the size, show you the tire, mount it, and set you back on the road. English or Spanish, same counter. If you bought tires online and only need them mounted, use the install page. This page is for tires you buy from the shop."
+      ]
+    },
+    {
+      "heading": "The shop on S Military Trl",
+      "paragraphs": [
+        "The only address is 1114 S Military Trl, West Palm Beach, FL 33415. People drive here from Greenacres, Palm Springs, and Lake Worth Beach. All three are inside the 10-mile area around the shop. Come to the bay when the car can roll. If a tire is already flat and you should not drive, call and ask about the mobile van, which stays within those 10 miles and is not a second address.",
+        "We are a tire shop. The work on this page is new tires, mounted here, with balancing and alignment available in the same building when the car needs them."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions about new tires",
+  "faqs": [
+    {
+      "question": "Can I buy one new tire instead of four?",
+      "answer": "Sometimes yes. We look at the other tires first. If they are worn out or a very different tread depth, one new tire can make the car unstable, and we will tell you that."
+    },
+    {
+      "question": "Do you install tires I already bought?",
+      "answer": "Yes, but that is a separate service. Bring the tires to 1114 S Military Trl and we mount what you already own. This page is for new tires sold by the shop."
+    },
+    {
+      "question": "Are you open on Sunday for a new tire?",
+      "answer": "Yes. Hours are 8:00 AM to 7:00 PM every day, including Sunday. Call +1 561-429-4041 if you want to confirm the size before you come."
+    }
+  ],
+  "moreHeading": "Related work on the same visit",
+  "links": [
+    {
+      "href": "/used-tires",
+      "label": "Used tires when a new set is more than you need"
+    },
+    {
+      "href": "/wheel-alignment",
+      "label": "Wheel alignment after uneven wear"
+    },
+    {
+      "href": "/tire-balancing",
+      "label": "Balancing with no hidden fees"
+    },
+    {
+      "href": "/blog/new-tires-west-palm-beach-military-trail",
+      "label": "New tires on Military Trl"
+    },
+    {
+      "href": "/blog/used-vs-new-tires-florida-heat",
+      "label": "Used or new tires in Florida heat"
+    }
+  ]
+}

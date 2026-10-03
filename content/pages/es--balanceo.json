@@ -1,0 +1,87 @@
+{
+  "path": "/es/balanceo",
+  "enPath": "/tire-balancing",
+  "esPath": "/es/balanceo",
+  "locale": "es",
+  "kind": "service",
+  "title": "Balanceo de Llantas en West Palm Beach | Los Paisas",
+  "description": "Balanceo de llantas en West Palm Beach, sin cargos ocultos. El precio se dice antes, en 1114 S Military Trl. Abierto 8 AM–7 PM. Llama al +1 561-429-4041.",
+  "h1": "Balanceo en West Palm Beach",
+  "eyebrow": "Sin cargos ocultos",
+  "serviceName": "Balanceo de llantas",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "El balanceo en West Palm Beach es el arreglo cuando una rueda vibra en velocidad y el resto del carro está bien. Los Paisas Tires Shop balancea llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Sin cargos ocultos quiere decir esto: escuchas el precio del balanceo antes de poner los plomos, no después.",
+    "Llama al +1 561-429-4041. El taller abre de 8:00 AM a 7:00 PM todos los días, domingo incluido. No imprimimos un monto aquí, porque el trabajo depende del rin que tenemos enfrente."
+  ],
+  "sections": [
+    {
+      "heading": "Balanceo sin cargos ocultos",
+      "paragraphs": [
+        "Una llanta y un rin casi nunca quedan parejos solos. Los plomos corrigen eso para que el conjunto no brinque ni vibre al girar. Lo hacemos en la máquina del taller, con la llanta ya sentada en el rin. Si acabas de montar, reparar o pasar una llanta de otro carro, este es el paso que deja el volante tranquilo.",
+        "Sin cargos ocultos significa que no inventamos un segundo cobro en la caja por algo que el trabajo ya necesitaba. Si un rin está doblado y no balancea, paramos y te lo decimos. Si la llanta está separada por dentro, los plomos no la van a suavizar, y también te lo decimos. No deberías pagar un balanceo que no puede funcionar."
+      ],
+      "bullets": [
+        "El precio se dice antes de empezar",
+        "Plomos en un rin que sí se puede balancear",
+        "Una parada y una explicación si el problema es el rin o la llanta",
+        "La misma regla si compraste la llanta aquí o la trajiste"
+      ]
+    },
+    {
+      "heading": "Qué suele ser una vibración en velocidad",
+      "paragraphs": [
+        "Una vibración que aparece en la carretera y se calma cuando bajas la velocidad es la queja clásica de balanceo. Un jalón constante a la derecha o a la izquierda casi siempre es alineación. Preguntamos cuál de las dos sientes para no venderte las dos por costumbre. Si además las llantas se comen un hombro, la alineación entra en la conversación después de que las ruedas estén parejas.",
+        "Plomos perdidos, una llanta parchada que nunca se volvió a revisar, o un rin que pegó en la banqueta son razones normales para estar aquí. Trae el carro en el horario. Español o inglés. Puedes esperar mientras giramos las ruedas que vibran."
+      ]
+    },
+    {
+      "heading": "Horario y cómo llegar al taller",
+      "paragraphs": [
+        "El balanceo es trabajo de taller en 1114 S Military Trl. Llega gente de West Palm Beach y de Greenacres, Palm Springs y Lake Worth Beach, que están dentro de las 10 millas. No damos un estimado de minutos. Si no puedes traer el carro por una ponchadura, llama por el servicio móvil para la llanta. El balanceo que necesita la máquina se queda en el taller.",
+        "Siete días, de 8:00 AM a 7:00 PM. Teléfono y WhatsApp +1 561-429-4041. Una dirección, un solo mostrador."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas sobre balanceo",
+  "faqs": [
+    {
+      "question": "¿Qué significa sin cargos ocultos en un balanceo?",
+      "answer": "Te decimos el costo del balanceo antes de hacerlo. No agregamos una línea sorpresa por el mismo trabajo cuando pagas."
+    },
+    {
+      "question": "¿Toda vibración es falta de balanceo?",
+      "answer": "Muchas veces, cuando aparece en velocidad. Un jalón a un lado suele ser alineación. Describe lo que hace el carro y te decimos qué servicio corresponde."
+    },
+    {
+      "question": "¿Balancean llantas que compré en otro lado?",
+      "answer": "Sí. Trae el carro, o las llantas sueltas si todavía no están montadas, a 1114 S Military Trl. Montar llantas que ya son tuyas es otro servicio si aún hay que ponerlas en los rines."
+    }
+  ],
+  "moreHeading": "Si el balanceo es solo una parte",
+  "links": [
+    {
+      "href": "/es/alineacion",
+      "label": "Alineación cuando el carro jala"
+    },
+    {
+      "href": "/es/instalacion-de-llantas",
+      "label": "Instalar llantas que ya compraste"
+    },
+    {
+      "href": "/es/reparacion-de-llantas",
+      "label": "Reparar un clavo antes de balancear"
+    },
+    {
+      "href": "/es/blog/balanceo-sin-sorpresas",
+      "label": "Por qué hablamos de cargos ocultos"
+    }
+  ]
+}

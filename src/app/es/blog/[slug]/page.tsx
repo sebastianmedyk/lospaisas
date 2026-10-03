@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const url = absoluteUrl(blogPath("es", post.slug));
   return {
-    title: post.title,
+    title: post.absoluteTitle ? { absolute: post.title } : post.title,
     description: post.description,
     keywords: post.keywords,
     alternates: {

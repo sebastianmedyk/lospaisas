@@ -9,6 +9,7 @@ import {
   useState,
   type ReactNode,
 } from "react";
+import { usePathname } from "next/navigation";
 import {
   getDictionary,
   type Dictionary,
@@ -28,6 +29,7 @@ const LanguageContext = createContext<LanguageContextValue | null>(null);
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const [locale, setLocaleState] = useState<Locale>("en");
   const [ready, setReady] = useState(false);
+  const pathname = usePathname() || "/";
 
   useEffect(() => {
     try {
@@ -43,6 +45,8 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     document.documentElement.lang = locale;
+    // Homepage is one URL for both languages. Other routes own their <title>.
+    if (pathname !== "/") return;
     const dict = getDictionary(locale);
     document.title = dict.meta.title;
     const desc = document.querySelector('meta[name="description"]');
@@ -55,7 +59,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
       document.head.appendChild(keywordsMeta);
     }
     keywordsMeta.setAttribute("content", keywordsContent);
-  }, [locale]);
+  }, [locale, pathname]);
 
   const setLocale = useCallback((next: Locale) => {
     setLocaleState(next);

@@ -1,0 +1,91 @@
+{
+  "path": "/es/llantas-nuevas",
+  "enPath": "/new-tires",
+  "esPath": "/es/llantas-nuevas",
+  "locale": "es",
+  "kind": "service",
+  "title": "Llantas Nuevas en West Palm Beach | Los Paisas Tires Shop",
+  "description": "Llantas nuevas en West Palm Beach, en 1114 S Military Trl. Igualamos medida y carga, y las montamos. Abierto 7 días, 8 AM–7 PM. Llama al +1 561-429-4041.",
+  "h1": "Llantas Nuevas en West Palm Beach",
+  "eyebrow": "Taller en S Military Trl",
+  "serviceName": "Llantas nuevas",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Las llantas nuevas en West Palm Beach empiezan con el carro enfrente, no con un lema. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. Vendemos nuevas y usadas, y te decimos cuándo una nueva es la compra correcta y cuándo una usada revisada alcanza.",
+    "No publicamos precios en este sitio. Una llanta nueva depende de la medida que pide la placa de la puerta y de lo que el carro necesita de verdad. Llama al +1 561-429-4041, de 8:00 AM a 7:00 PM, y pregunta por la medida antes de dar por hecho que está en el estante."
+  ],
+  "sections": [
+    {
+      "heading": "Qué incluye comprar llantas nuevas",
+      "paragraphs": [
+        "Un juego nuevo es la llanta, el montaje y una conversación honesta sobre las otras tres esquinas. Cambiar una sola llanta pelona y dejar tres gastadas es como el carro empieza a sentirse mal en la vía. Miramos las cuatro, y la de repuesto si todavía cuentas con ella, y te decimos si necesitas una o más.",
+        "El calor de Florida castiga el hule que ya vivió al sol. Una llanta nueva no arregla un rin doblado ni un carro que jala. Si las viejas se comieron un hombro, hablamos de alineación después del montaje para que no borres el piso nuevo en un mes. El balanceo, cuando el rin lo necesita, se cotiza sin cargos ocultos."
+      ],
+      "bullets": [
+        "Medida y carga tomadas del vehículo, no solo del costado gastado",
+        "Una mirada a las otras llantas antes de venderte una",
+        "Montaje en el taller de S Military Trl",
+        "Balanceo dicho antes de empezar, no en el estacionamiento"
+      ]
+    },
+    {
+      "heading": "Cómo emparejamos la llanta con el carro",
+      "paragraphs": [
+        "Trae el carro si puedes. La placa del marco de la puerta es la referencia de medida y de la presión en frío que le toca a ese vehículo. No inventamos una presión en una página. Si solo conoces el número de la llanta vieja, llámanos y léelo. Si esa llanta ya era la medida equivocada, te lo decimos.",
+        "La visita es simple. Entras en el horario, de lunes a domingo, de 8:00 AM a 7:00 PM. Confirmamos la medida, te enseñamos la llanta, la montamos y sigues. Español o inglés, el mismo mostrador. Si compraste las llantas por internet y solo quieres montaje, esa es la página de instalación. Aquí se habla de llantas que compras en el taller."
+      ]
+    },
+    {
+      "heading": "El taller en S Military Trl",
+      "paragraphs": [
+        "La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Los tres están dentro de las 10 millas del taller. Ven al local cuando el carro pueda rodar. Si una llanta ya está ponchada y no debes manejar, llama y pregunta por la van, que se queda dentro de esas 10 millas y no es otra dirección.",
+        "Somos un taller de llantas. El trabajo de esta página es llantas nuevas, montadas aquí, con balanceo y alineación en el mismo edificio cuando el carro los necesita."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas sobre llantas nuevas",
+  "faqs": [
+    {
+      "question": "¿Puedo comprar una sola llanta nueva?",
+      "answer": "A veces sí. Primero vemos las otras. Si están acabadas o con un piso muy distinto, una sola llanta nueva puede dejar el carro inestable, y te lo decimos."
+    },
+    {
+      "question": "¿Instalan llantas que yo ya compré?",
+      "answer": "Sí, pero es otro servicio. Tráelas a 1114 S Military Trl y montamos lo que ya es tuyo. Esta página es para llantas nuevas vendidas en el taller."
+    },
+    {
+      "question": "¿Abren el domingo para una llanta nueva?",
+      "answer": "Sí. El horario es de 8:00 AM a 7:00 PM todos los días, domingo incluido. Llama al +1 561-429-4041 si quieres confirmar la medida antes de venir."
+    }
+  ],
+  "moreHeading": "Trabajo que cabe en la misma visita",
+  "links": [
+    {
+      "href": "/es/llantas-usadas",
+      "label": "Llantas usadas cuando no hace falta un juego nuevo"
+    },
+    {
+      "href": "/es/alineacion",
+      "label": "Alineación si el desgaste viene ladeado"
+    },
+    {
+      "href": "/es/balanceo",
+      "label": "Balanceo sin cargos ocultos"
+    },
+    {
+      "href": "/es/blog/llantas-nuevas-west-palm-beach-military-trail",
+      "label": "Llantas nuevas en Military Trl"
+    },
+    {
+      "href": "/es/blog/llantas-usadas-o-nuevas-calor-florida",
+      "label": "Usadas o nuevas con el calor de Florida"
+    }
+  ]
+}

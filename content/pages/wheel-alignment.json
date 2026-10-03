@@ -1,0 +1,87 @@
+{
+  "path": "/wheel-alignment",
+  "enPath": "/wheel-alignment",
+  "esPath": "/es/alineacion",
+  "locale": "en",
+  "kind": "service",
+  "title": "Wheel Alignment in West Palm Beach | Los Paisas Tires Shop",
+  "description": "Wheel alignment in West Palm Beach at 1114 S Military Trl. We set the geometry so the car tracks straight. Open daily 8 AM–7 PM. Call +1 561-429-4041.",
+  "h1": "Wheel Alignment in West Palm Beach",
+  "eyebrow": "Alignment and geometría",
+  "serviceName": "Wheel alignment",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Wheel alignment in West Palm Beach is the job when the car drifts, the wheel sits off-center, or the tires are wearing on one edge. Los Paisas Tires Shop does that work at 1114 S Military Trl, West Palm Beach, FL 33415. Spanish-speaking drivers often ask for geometría. It is the same service: we measure how the wheels sit and adjust them to the way the car should track.",
+    "Alignment happens in the shop, not in a driveway. Call +1 561-429-4041. We are open every day, 8:00 AM to 7:00 PM, including Sunday. This page does not list a price, because the adjustment depends on the car."
+  ],
+  "sections": [
+    {
+      "heading": "What wheel alignment covers",
+      "paragraphs": [
+        "The wheels have to point the same way the car is going. When they do not, you feel a pull, you correct with the steering wheel all the time, and the tread scrubs off one shoulder. A pothole, a curb, or a set of new tires on a car that was already crooked are the usual reasons people end up here.",
+        "We put the car on the alignment equipment in the bay and read the angles. Then we adjust what the suspension allows us to adjust. If a part is worn so the reading will not hold, we tell you. We do not sell an alignment that cannot stay where we set it, Tires and the geometry that protects them are the work."
+      ],
+      "bullets": [
+        "A pull to one side or a crooked steering wheel",
+        "Inside or outside shoulder wear on the tires",
+        "A check after new tires, so the new tread is not wasted",
+        "Geometría, if that is the word you use at home"
+      ]
+    },
+    {
+      "heading": "How an alignment visit goes",
+      "paragraphs": [
+        "Drive in if the car is safe to drive. Tell us what you feel: pull, vibration, or a tire that went bald on one edge. Vibration by itself is often balance, not alignment. A pull or feathered tread is the alignment complaint. We will say which one we are looking at so you are not paying for the wrong job.",
+        "The car stays at 1114 S Military Trl for the measurement and the adjustment. You do not need to bring special tools. Hours do not change on Saturday or Sunday. If you want both alignment and balancing, we can do them in one stop and we will say what each part of the work is before we start. Balancing is quoted with no hidden fees."
+      ]
+    },
+    {
+      "heading": "Drivers who come to S Military Trl",
+      "paragraphs": [
+        "The rack is only at the shop. Greenacres, Palm Springs, and Lake Worth Beach are close enough that people drive here, and all three towns are inside 10 miles of the address, but the alignment itself is not a mobile job. If a tire is flat and you cannot reach us, call about mobile tire service for the flat. Come to the bay for the geometry.",
+        "There is no second address and no other Los Paisas bay for this work. Use 1114 S Military Trl, West Palm Beach, FL 33415, and the phone +1 561-429-4041."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions about alignment",
+  "faqs": [
+    {
+      "question": "Is geometría the same as wheel alignment?",
+      "answer": "Yes. Geometría is the Spanish name drivers use for the same alignment work at this shop."
+    },
+    {
+      "question": "Will alignment stop a steering-wheel shake?",
+      "answer": "A shake at speed is usually a balance problem. A pull or uneven edge wear is the alignment problem. We will tell you which one the car is doing."
+    },
+    {
+      "question": "Can you align the car at my house?",
+      "answer": "No. Alignment is done on the equipment at 1114 S Military Trl. Mobile service is for tire work within 10 miles, not for geometry."
+    }
+  ],
+  "moreHeading": "Work that often goes with alignment",
+  "links": [
+    {
+      "href": "/tire-balancing",
+      "label": "Tire balancing when the wheel shakes"
+    },
+    {
+      "href": "/new-tires",
+      "label": "New tires before they wear crooked"
+    },
+    {
+      "href": "/used-tires",
+      "label": "Used tires after we see the wear"
+    },
+    {
+      "href": "/blog/wheel-alignment-military-trail-west-palm-beach",
+      "label": "Alignment on Military Trl"
+    }
+  ]
+}

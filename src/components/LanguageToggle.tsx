@@ -4,6 +4,7 @@ import { usePathname, useRouter } from "next/navigation";
 import { useLanguage } from "@/contexts/LanguageContext";
 import type { Locale } from "@/lib/i18n";
 import { getAlternateBlogPath } from "@/lib/blog-routes";
+import { getAlternateLocalPath } from "@/lib/local-routes";
 
 export default function LanguageToggle() {
   const { locale, setLocale, t } = useLanguage();
@@ -14,7 +15,8 @@ export default function LanguageToggle() {
 
   function switchTo(code: Locale) {
     setLocale(code);
-    const nextPath = getAlternateBlogPath(pathname, code);
+    const nextPath =
+      getAlternateBlogPath(pathname, code) ?? getAlternateLocalPath(pathname, code);
     if (nextPath && nextPath !== pathname) {
       router.push(nextPath);
     }

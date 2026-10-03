@@ -1,0 +1,91 @@
+{
+  "path": "/es/reparacion-de-llantas",
+  "enPath": "/tire-repair",
+  "esPath": "/es/reparacion-de-llantas",
+  "locale": "es",
+  "kind": "service",
+  "title": "Reparación de Llantas en West Palm Beach | Los Paisas",
+  "description": "Reparación de llantas en West Palm Beach: clavo, parche o plug. Vulcanización si la llanta se puede salvar. 1114 S Military Trl. Llama al +1 561-429-4041.",
+  "h1": "Reparación de Llantas en West Palm Beach",
+  "eyebrow": "Parche, plug, vulcanización",
+  "serviceName": "Reparación de llantas y vulcanización",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "La reparación de llantas en West Palm Beach sirve cuando un clavo o un tornillo está en el piso y el resto de la llanta todavía tiene vida. Los Paisas Tires Shop, en 1114 S Military Trl, West Palm Beach, FL 33415, repara cuando el daño está en un lugar seguro. Cuando no lo está, te lo decimos y hablamos de una usada o una nueva, no de un parche que va a fallar.",
+    "En el taller a la reparación por dentro le decimos vulcanización. Un plug de guantera no es el mismo trabajo. Llama al +1 561-429-4041 cualquier día, de 8:00 AM a 7:00 PM, domingo incluido, antes de seguir lejos con una llanta que sigue perdiendo aire."
+  ],
+  "sections": [
+    {
+      "heading": "Parche, plug y vulcanización",
+      "paragraphs": [
+        "Un hoyo reparable suele ser una ponchadura pequeña en el piso, no un corte en el costado ni una llanta que ya llegó a las marcas de desgaste. Quitamos la llanta del rin cuando hay que ver por dentro. La vulcanización es esa reparación interior: se limpia el daño y se sella desde el forro, que es la forma del taller, no un plug metido en el estacionamiento.",
+        "Si el hoyo es muy grande, está muy cerca del hombro o cae en el costado, no lo parchamos. Una reparación vieja en mal lugar también puede cerrar la conversación. No es un discurso para venderte de más. Una llanta que no va a aguantar es una llanta que se cambia."
+      ],
+      "bullets": [
+        "Clavo o tornillo en el piso, si la carcasa sigue sana",
+        "Revisión por dentro, no un cálculo desde afuera",
+        "Vulcanización cuando la ponchadura se puede sellar",
+        "Un no claro cuando el daño es el costado o el hombro"
+      ]
+    },
+    {
+      "heading": "Qué hacemos con un clavo o una ponchadura",
+      "paragraphs": [
+        "Si la llanta todavía aguanta aire para llegar con cuidado, ven al taller. Si ya va en el rin, no la sigas rodando. Un tramo corto así puede acabar una llanta que aún se podía reparar. Usa la de repuesto si la tienes, o llama y pregunta si la van puede encontrarte. Solo sale a 10 millas de 1114 S Military Trl, y confirmamos la dirección primero.",
+        "En el taller encontramos la fuga, decidimos reparar o cambiar, y volvemos a montar. Después es común balancear para que la rueda reparada no vibre, y ese precio se dice antes, sin cargos ocultos. Si el piso ya está demasiado bajo para salvarla, te enseñamos usadas y nuevas en la misma visita."
+      ]
+    },
+    {
+      "heading": "Cuándo venir y cuándo pedir la van",
+      "paragraphs": [
+        "El taller abre siete días, de 8:00 AM a 7:00 PM. Una dirección: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs y Lake Worth Beach están dentro de las 10 millas, así que mucha gente simplemente llega al local. No inventamos un tiempo de camino. Si no estás seguro de que la llanta aguante, llama.",
+        "La reparación móvil es para un carro que debe quedarse quieto, dentro de ese mismo radio de 10 millas. No prometemos que cualquier estacionamiento sea un lugar seguro para trabajar. Si la calle no sirve, te pedimos que vengas al taller."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas sobre reparación de llantas",
+  "faqs": [
+    {
+      "question": "¿Parchan un costado?",
+      "answer": "No. Un corte o un chipote en el costado no es vulcanización. Te decimos que esa llanta hay que cambiarla."
+    },
+    {
+      "question": "¿Un plug es lo mismo que vulcanizar?",
+      "answer": "No. Un plug solo no es como terminamos una reparación que respaldamos. Vulcanizar es reparar por dentro, con la llanta fuera del rin."
+    },
+    {
+      "question": "¿Puedo esperar si el clavo todavía aguanta aire?",
+      "answer": "No dejes una fuga lenta como plan. Llama al +1 561-429-4041 y ven mientras la llanta tiene aire. Rodarla vacía daña el costado."
+    }
+  ],
+  "moreHeading": "Si la llanta no se puede salvar",
+  "links": [
+    {
+      "href": "/es/llantas-usadas",
+      "label": "Llantas usadas cuando no se puede reparar"
+    },
+    {
+      "href": "/es/llantas-nuevas",
+      "label": "Llantas nuevas del mismo taller"
+    },
+    {
+      "href": "/es/servicio-movil",
+      "label": "Servicio móvil a 10 millas"
+    },
+    {
+      "href": "/es/blog/reparacion-vulcanizacion-llantas-west-palm-beach",
+      "label": "Cómo decidimos reparar o cambiar"
+    },
+    {
+      "href": "/es/blog/manejar-con-llanta-parcheada",
+      "label": "Manejar con parche o plug"
+    }
+  ]
+}

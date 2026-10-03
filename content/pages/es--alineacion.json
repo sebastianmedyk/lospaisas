@@ -1,0 +1,87 @@
+{
+  "path": "/es/alineacion",
+  "enPath": "/wheel-alignment",
+  "esPath": "/es/alineacion",
+  "locale": "es",
+  "kind": "service",
+  "title": "Alineación en West Palm Beach | Los Paisas Tires Shop",
+  "description": "Alineación en West Palm Beach, en 1114 S Military Trl. Ajustamos la geometría para que el carro vaya derecho. Abierto 8 AM–7 PM. Llama al +1 561-429-4041.",
+  "h1": "Alineación en West Palm Beach",
+  "eyebrow": "Alineación y geometría",
+  "serviceName": "Alineación",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "La alineación en West Palm Beach es el trabajo cuando el carro se va de lado, el volante queda chueco o las llantas se comen un borde. Los Paisas Tires Shop lo hace en 1114 S Military Trl, West Palm Beach, FL 33415. Muchos clientes piden geometría. Es el mismo servicio: medimos cómo están las ruedas y las ajustamos para que el carro ruede como debe.",
+    "La alineación se hace en el taller, no en una entrada de casa. Llama al +1 561-429-4041. Abrimos todos los días de 8:00 AM a 7:00 PM, domingo incluido. Aquí no hay precio, porque el ajuste depende del carro."
+  ],
+  "sections": [
+    {
+      "heading": "Qué cubre la alineación",
+      "paragraphs": [
+        "Las ruedas tienen que apuntar hacia donde va el carro. Cuando no lo hacen, sientes el jalón, corriges el volante todo el tiempo y el piso se borra de un hombro. Un bache, una banqueta o unas llantas nuevas en un carro que ya venía chueco son las razones de siempre.",
+        "Subimos el carro al equipo de alineación y leemos los ángulos. Luego ajustamos lo que la suspensión deja ajustar. Si una pieza está gastada y la medida no va a aguantar, te lo decimos. No vendemos una alineación que no se puede quedar donde la dejamos. El trabajo es de llantas y de la geometría que las cuida."
+      ],
+      "bullets": [
+        "Un jalón a un lado o un volante descentrado",
+        "Desgaste del hombro interior o exterior",
+        "Una revisión después de llantas nuevas, para no gastar el piso",
+        "Geometría, si así le dices en la casa"
+      ]
+    },
+    {
+      "heading": "Cómo va la visita de alineación",
+      "paragraphs": [
+        "Ven si el carro se puede manejar. Cuéntanos qué sientes: jalón, vibración o una llanta pelona de un solo lado. La vibración sola casi siempre es balanceo, no alineación. Un jalón o un piso en forma de pluma sí es queja de alineación. Te decimos cuál de las dos estamos viendo para que no pagues el trabajo equivocado.",
+        "El carro se queda en 1114 S Military Trl para la medida y el ajuste. No tienes que traer herramientas. El horario no cambia el sábado ni el domingo. Si quieres alineación y balanceo, se pueden hacer en la misma parada y te decimos qué es cada cosa antes de empezar. El balanceo se cotiza sin cargos ocultos."
+      ]
+    },
+    {
+      "heading": "Quién maneja hasta S Military Trl",
+      "paragraphs": [
+        "El equipo está solo en el taller. Greenacres, Palm Springs y Lake Worth Beach quedan lo bastante cerca para venir, y los tres están dentro de 10 millas, pero la alineación no es un trabajo móvil. Si tienes una ponchadura y no puedes llegar, llama por el servicio móvil para la llanta. Para la geometría hay que venir al local.",
+        "No hay una segunda dirección. Usa 1114 S Military Trl, West Palm Beach, FL 33415, y el teléfono +1 561-429-4041."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas sobre alineación",
+  "faqs": [
+    {
+      "question": "¿Geometría es lo mismo que alineación?",
+      "answer": "Sí. Geometría es el nombre que muchos clientes usan para la misma alineación en este taller."
+    },
+    {
+      "question": "¿La alineación quita la vibración del volante?",
+      "answer": "Una vibración en velocidad suele ser balanceo. Un jalón o el desgaste de un borde es alineación. Cuéntanos qué hace el carro y te decimos cuál servicio corresponde."
+    },
+    {
+      "question": "¿Pueden alinear el carro en mi casa?",
+      "answer": "No. La alineación se hace con el equipo en 1114 S Military Trl. El servicio móvil es trabajo de llantas a 10 millas, no de geometría."
+    }
+  ],
+  "moreHeading": "Trabajo que suele ir con la alineación",
+  "links": [
+    {
+      "href": "/es/balanceo",
+      "label": "Balanceo cuando el volante vibra"
+    },
+    {
+      "href": "/es/llantas-nuevas",
+      "label": "Llantas nuevas antes de gastarlas chuecas"
+    },
+    {
+      "href": "/es/llantas-usadas",
+      "label": "Llantas usadas después de ver el desgaste"
+    },
+    {
+      "href": "/es/blog/alineacion-geometria-military-trail-west-palm-beach",
+      "label": "Alineación en Military Trl"
+    }
+  ]
+}

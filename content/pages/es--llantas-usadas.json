@@ -1,0 +1,92 @@
+{
+  "path": "/es/llantas-usadas",
+  "enPath": "/used-tires",
+  "esPath": "/es/llantas-usadas",
+  "locale": "es",
+  "kind": "service",
+  "title": "Llantas Usadas en West Palm Beach | Los Paisas Tires Shop",
+  "description": "Llantas usadas en West Palm Beach, en 1114 S Military Trl. Revisamos piso, costados y medida antes de montar. Abierto 8 AM–7 PM. Llama al +1 561-429-4041.",
+  "h1": "Llantas Usadas en West Palm Beach",
+  "eyebrow": "S Military Trl · 7 días",
+  "serviceName": "Llantas usadas",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Las llantas usadas en West Palm Beach son trabajo de todos los días en Los Paisas Tires Shop, no un rincón que escondemos. El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. También vendemos llantas nuevas, así que puedes comparar una usada con una nueva en el mismo lugar antes de que nadie la monte.",
+    "Esta página no trae precios. Una llanta usada cambia con la medida y con el piso que todavía tiene, y un número escrito aquí sería un invento. Llama al +1 561-429-4041 o pasa entre 8:00 AM y 7:00 PM, cualquier día, domingo incluido, y te decimos qué hay para tu carro."
+  ],
+  "sections": [
+    {
+      "heading": "Qué revisamos en una llanta usada",
+      "paragraphs": [
+        "Una usada solo conviene si es la medida correcta y la carcasa sigue sana. Antes de montarla miramos la llanta completa, no solo el dibujo bonito. Si el costado está cuarteado, con un chipote o cortado, esa llanta no va en tu carro. Si el desgaste está ladeado o un hombro ya no existe, te lo decimos: muchas veces eso viene de la alineación, no de una llanta que merezca otra temporada de calor en Florida.",
+        "También cruzamos la medida y la carga con el vehículo. Una llanta que 'casi entra' es la forma más fácil de volver al taller. Puedes ver la llanta que te estamos ofreciendo. Si no la pondríamos en un carro nuestro, no te la vendemos de favor."
+      ],
+      "bullets": [
+        "Piso que queda en toda la banda, no en una sola ranura",
+        "Grietas, chipotes y reparaciones en el costado",
+        "Desgaste disparejo que un montaje nuevo no borra",
+        "Medida y carga contra el carro, no de memoria"
+      ]
+    },
+    {
+      "heading": "Cómo es la visita por llantas usadas",
+      "paragraphs": [
+        "Llama si ya sabes la medida, o trae el carro. El horario es de lunes a domingo, de 8:00 AM a 7:00 PM. Atendemos en español y en inglés. Vemos las llantas que traes puestas, incluida la de repuesto si esa fue la que falló, y te decimos si conviene una usada, una nueva o una reparación.",
+        "El montaje va con la compra cuando la llanta sale de aquí. El balanceo se puede hacer en la misma parada y el precio se dice antes de empezar: sin cargos ocultos al final. Si el carro jala o el desgaste está en diagonal, la alineación es otro servicio en el taller. Una usada no endereza la geometría.",
+        "Si ya compraste las llantas en otro lado, eso es instalación de llantas del cliente, no esta página."
+      ]
+    },
+    {
+      "heading": "Quién llega desde los pueblos de al lado",
+      "paragraphs": [
+        "Hay una sola dirección: 1114 S Military Trl, West Palm Beach, FL 33415. De Greenacres, Palm Springs y Lake Worth Beach se viene a ese mismo taller. Los tres pueblos están dentro de las 10 millas alrededor del local, así que puedes manejar si la llanta aguanta aire. No prometemos minutos, porque el tráfico en Military Trl no se adivina.",
+        "Si el carro no debe rodar, pregunta por el servicio móvil en vez de arriesgarte. La van trabaja a 10 millas de esta dirección y confirmamos el lugar por teléfono. No es una segunda tienda, y no sustituye ver las usadas en el taller cuando estás escogiendo un juego."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas sobre llantas usadas",
+  "faqs": [
+    {
+      "question": "¿También venden llantas nuevas?",
+      "answer": "Sí. En 1114 S Military Trl hay nuevas y usadas. Si la usada no le queda bien al carro, te lo decimos y te enseñamos una nueva."
+    },
+    {
+      "question": "¿Puedo ver la llanta antes de montarla?",
+      "answer": "Sí. Queremos que veas el piso y los costados. Si no la quieres, no la montamos."
+    },
+    {
+      "question": "¿Qué pasa si hoy no tienen mi medida?",
+      "answer": "Llama al +1 561-429-4041 y pregunta. El inventario se mueve. Si no está, te lo decimos en vez de forzar una llanta que no corresponde."
+    }
+  ],
+  "moreHeading": "Otro trabajo de llantas en el taller",
+  "links": [
+    {
+      "href": "/es/llantas-nuevas",
+      "label": "Llantas nuevas en West Palm Beach"
+    },
+    {
+      "href": "/es/balanceo",
+      "label": "Balanceo sin cargos ocultos"
+    },
+    {
+      "href": "/es/reparacion-de-llantas",
+      "label": "Reparación y vulcanización"
+    },
+    {
+      "href": "/es/blog/llantas-usadas-west-palm-beach",
+      "label": "Qué mirar en una llanta usada"
+    },
+    {
+      "href": "/es/blog/precio-llantas-usadas-west-palm-beach",
+      "label": "Por qué aquí no hay precios"
+    }
+  ]
+}

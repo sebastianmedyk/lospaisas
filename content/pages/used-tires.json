@@ -1,0 +1,92 @@
+{
+  "path": "/used-tires",
+  "enPath": "/used-tires",
+  "esPath": "/es/llantas-usadas",
+  "locale": "en",
+  "kind": "service",
+  "title": "Used Tires in West Palm Beach | Los Paisas Tires Shop",
+  "description": "Used tires in West Palm Beach at 1114 S Military Trl. We check tread, sidewalls, and size before mounting. Open daily 8 AM–7 PM. Call +1 561-429-4041.",
+  "h1": "Used Tires in West Palm Beach",
+  "eyebrow": "S Military Trl · open 7 days",
+  "serviceName": "Used tires",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Used tires in West Palm Beach are everyday work at Los Paisas Tires Shop, not a dusty corner we hide. The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. New tires are on the same floor, so you can compare a used casing with a new one before anyone mounts anything.",
+    "This page does not list a price. A used tire changes with size and with the tread that is actually left, and a number printed here would be a guess. Call +1 561-429-4041 or come in between 8:00 AM and 7:00 PM any day, including Sunday, and we will look up what we have for your car."
+  ],
+  "sections": [
+    {
+      "heading": "What we check on a used tire",
+      "paragraphs": [
+        "A used tire is only a bargain if it is the right size and the casing is still sound. Before we mount one, we look at the whole tire, not just the pretty part of the tread. If the sidewall is cracked, bubbled, or cut, that tire stays off your car. If the wear is cupped or one shoulder is gone, we tell you, because that pattern often means the old alignment or a worn part, not a tire you should trust for another season of Florida heat.",
+        "We also match the size and load rating to the vehicle. A tire that 'almost fits' is how people end up back in the bay. You can stand there and see the tire we are proposing. If we would not put it on a car we drive, we will not sell it to you as a quiet favor."
+      ],
+      "bullets": [
+        "Tread left across the tire, not just one groove",
+        "Sidewall cracks, bubbles, and repairs in the wrong place",
+        "Uneven wear that a new mounting will not erase",
+        "Size and load rating against the car, not a guess from memory"
+      ]
+    },
+    {
+      "heading": "How a used-tire visit works",
+      "paragraphs": [
+        "Call first if you know the size, or just bring the car. Hours are Monday through Sunday, 8:00 AM to 7:00 PM. The team works in English and Spanish. We look at the tires that are on the car now, including the spare if that is the one that failed, and we say whether a used tire, a new tire, or a repair is the sensible job.",
+        "Mounting is part of the visit when you buy from us. Balancing is available on the same stop, and the price of that work is stated before we start — no hidden fees added at the end. If the car pulls or the wear is diagonal, alignment is a separate service in the shop, not something we pretend a used tire will fix.",
+        "If you already bought tires somewhere else, that is a different job. We still mount customer-owned tires, but this page is about tires we sell from the shop."
+      ]
+    },
+    {
+      "heading": "Coming from nearby towns",
+      "paragraphs": [
+        "There is one shop address: 1114 S Military Trl, West Palm Beach, FL 33415. Drivers from Greenacres, Palm Springs, and Lake Worth Beach use that same bay. Those three towns sit inside the 10-mile area around the shop, so you can drive in when the tire will hold air. We do not quote a minute count, because traffic on Military Trl is not a promise.",
+        "If the car should not be driven, ask about mobile tire service instead of guessing. The van works within 10 miles of this address, and we confirm the spot by phone before anyone rolls. The van is not a second store, and it does not replace a full look through the used tires in the shop when you are choosing a set."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions about used tires",
+  "faqs": [
+    {
+      "question": "Do you sell new tires as well as used?",
+      "answer": "Yes. Los Paisas Tires Shop at 1114 S Military Trl sells both. If a used tire is a poor match for the car, we say so and show you a new one."
+    },
+    {
+      "question": "Can I look at the used tire before you mount it?",
+      "answer": "Yes. We want you to see the tread and the sidewalls. If you do not want that tire, we do not mount it."
+    },
+    {
+      "question": "What if you do not have my size today?",
+      "answer": "Call +1 561-429-4041 and ask. Stock moves. If we do not have it, we will tell you rather than stretch a tire that does not belong on the car."
+    }
+  ],
+  "moreHeading": "Other tire work at this shop",
+  "links": [
+    {
+      "href": "/new-tires",
+      "label": "New tires in West Palm Beach"
+    },
+    {
+      "href": "/tire-balancing",
+      "label": "Tire balancing, no hidden fees"
+    },
+    {
+      "href": "/tire-repair",
+      "label": "Tire repair and vulcanization"
+    },
+    {
+      "href": "/blog/used-tires-west-palm-beach",
+      "label": "What to look for in a used tire"
+    },
+    {
+      "href": "/blog/used-tire-prices-west-palm-beach",
+      "label": "Why used tire prices are not listed here"
+    }
+  ]
+}

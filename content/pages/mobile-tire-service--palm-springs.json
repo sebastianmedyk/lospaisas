@@ -1,0 +1,90 @@
+{
+  "path": "/mobile-tire-service/palm-springs",
+  "enPath": "/mobile-tire-service/palm-springs",
+  "esPath": "/es/servicio-movil/palm-springs",
+  "locale": "en",
+  "kind": "city",
+  "parentPath": "/mobile-tire-service",
+  "parentLabel": "Mobile tire service",
+  "title": "Mobile Tire Service in Palm Springs | Los Paisas Tires",
+  "description": "Mobile tire service in Palm Springs, Florida, within 10 miles of 1114 S Military Trl. Not the California city. Call +1 561-429-4041. Open daily 8 AM–7 PM.",
+  "h1": "Mobile Tire Service in Palm Springs",
+  "eyebrow": "Palm Beach County, not California",
+  "serviceName": "Mobile tire service in Palm Springs",
+  "areaServed": [
+    "Palm Springs",
+    "West Palm Beach"
+  ],
+  "intro": [
+    "Mobile tire service in Palm Springs means the Palm Beach County village, the one between Greenacres and Lake Worth Beach, along Congress Avenue and up to Military Trl. It does not mean Palm Springs, California. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. The village is inside the 10-mile area around that shop, and part of it sits on this same Military Trl corridor. Call +1 561-429-4041 if the car should not be driven.",
+    "Because the village is this close, driving to the bay is often the whole job when the tire still holds air. The van is for the flat that will not make the trip. We do not print a drive time."
+  ],
+  "sections": [
+    {
+      "heading": "What we handle in the village",
+      "paragraphs": [
+        "A Palm Springs call is usually a nail, a slow leak, or a tire the driver does not trust for even a short roll up Military Trl. We can repair a tread puncture when it is safe, put on a spare you have, or mount tires that are already with the car if the spot is workable. Congress Avenue is not our shop. If someone sent you to a tire store on Congress, that is a different business.",
+        "We will not bring a mystery tire. Read us the size. If we have a used or new tire that fits, we say so before we leave the shop. If we do not, the honest answer is to get the car to 1114 S Military Trl, where you can see what is actually on the rack. Alignment and a proper balance stay at that bay."
+      ],
+      "bullets": [
+        "Palm Springs, Florida — the village, not the desert city",
+        "A flat on the Congress Avenue side or along Military Trl",
+        "Repair, spare, or a mount we already agreed to",
+        "No second shop address inside the village"
+      ]
+    },
+    {
+      "heading": "The trip up S Military Trl",
+      "paragraphs": [
+        "The shop is on S Military Trl in West Palm Beach, beside this village, not inside a Palm Springs storefront. If the tire has air, come to the address. You can compare used and new tires, get a vulcanized repair, and have the wheels balanced with the price stated first. Hours are 8:00 AM to 7:00 PM every day.",
+        "People mix up the village with the city in California and then wonder why a West Palm Beach tire shop is answering. If you are in Palm Beach County, you are in the right conversation. If you are not, we are not your shop."
+      ]
+    },
+    {
+      "heading": "Asking for the van instead of driving",
+      "paragraphs": [
+        "Call with the street, not just 'Palm Springs.' The village is within 10 miles of the shop, which is why mobile service can be requested here. We still need a place we can jack the car without standing in traffic. A busy lane on Congress is a reason to meet at the shop instead.",
+        "Same number as the bay: +1 561-429-4041. Same hours. The van is not a different company and it does not stay out after 7:00 PM."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions from Palm Springs",
+  "faqs": [
+    {
+      "question": "Which Palm Springs is this?",
+      "answer": "The village in Palm Beach County, Florida, next to West Palm Beach. Not Palm Springs, California."
+    },
+    {
+      "question": "Is your shop on Congress Avenue?",
+      "answer": "No. The only address is 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs is within 10 miles, so the van can be requested. The bay does not move."
+    },
+    {
+      "question": "Should I drive in or call the van?",
+      "answer": "Drive in if the tire will hold air. Call +1 561-429-4041 if it will not. We confirm the address before we leave."
+    }
+  ],
+  "moreHeading": "Back to the shop and the other towns",
+  "links": [
+    {
+      "href": "/mobile-tire-service",
+      "label": "Mobile tire service within 10 miles"
+    },
+    {
+      "href": "/mobile-tire-service/greenacres",
+      "label": "Mobile tire service in Greenacres"
+    },
+    {
+      "href": "/mobile-tire-service/lake-worth-beach",
+      "label": "Mobile tire service in Lake Worth Beach"
+    },
+    {
+      "href": "/used-tires",
+      "label": "Used tires if you can reach the shop"
+    },
+    {
+      "href": "/blog/mobile-tire-service-west-palm-beach",
+      "label": "How the van visit works"
+    }
+  ]
+}

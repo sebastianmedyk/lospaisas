@@ -1,0 +1,87 @@
+{
+  "path": "/es/instalacion-de-llantas",
+  "enPath": "/tire-installation",
+  "esPath": "/es/instalacion-de-llantas",
+  "locale": "es",
+  "kind": "service",
+  "title": "Instalación de Llantas en West Palm Beach | Los Paisas",
+  "description": "Instalación de llantas en West Palm Beach: montamos las que tú ya compraste, en 1114 S Military Trl. Abierto todos los días 8 AM–7 PM. Llama al +1 561-429-4041.",
+  "h1": "Instalación de Llantas en West Palm Beach",
+  "eyebrow": "Llantas que ya son tuyas",
+  "serviceName": "Instalación de llantas del cliente",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "La instalación de llantas en West Palm Beach, en esta página, significa que montamos llantas que tú ya compraste. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. Puedes traer un juego de internet, de otra tienda o de un conocido. Las ponemos en los rines y en el carro. También vendemos nuevas y usadas si prefieres no cargarlas tú.",
+    "Llama al +1 561-429-4041 antes de llenar la cajuela, para saber la medida y cuántas traes. El horario es de 8:00 AM a 7:00 PM, los siete días. No publicamos un precio de montaje aquí."
+  ],
+  "sections": [
+    {
+      "heading": "Montar llantas que ya son del cliente",
+      "paragraphs": [
+        "Las llantas del cliente igual tienen que ser la medida del carro. Lo revisamos antes de ponerlas. Una llanta barata y con la carga equivocada deja de ser barata en la carretera. Si la que trajiste está cuarteada, con chipote o con el hule partido de vieja, no la montamos solo porque ya le pagaste a otra persona. Preferimos perder el montaje que soltarte en una carcasa que se ve terminada.",
+        "El trabajo es bajar la llanta vieja, montar la que trajiste y sentarla para que aguante aire. El balanceo es el paso siguiente de costumbre, y lo cotizamos sin cargos ocultos antes de empezar. Si el desgaste viejo estaba solo en un hombro, pregunta por la alineación mientras estás aquí. El equipo está en este taller. No entra en un montaje básico si no lo pides."
+      ],
+      "bullets": [
+        "Llantas compradas en otro lado, si se pueden montar con seguridad",
+        "Revisión de medida contra el carro",
+        "Un no cuando la carcasa está cuarteada o con chipote",
+        "Balanceo cotizado primero; alineación solo si la pides o el desgaste la pide"
+      ]
+    },
+    {
+      "heading": "Qué traer a la instalación",
+      "paragraphs": [
+        "Trae las llantas, y el carro si van a quedar puestas hoy. Si vienen sueltas en una troca, igual necesitamos el vehículo antes de terminar la instalación. Sabé la medida del costado, o déjanos leerla. Si la de repuesto también está mala, dilo. Un juego nuevo con la de repuesto muerta es un problema típico de domingo.",
+        "No tienes que traer plomos ni válvulas de tarea. Dinos si la luz de los sensores de presión ya está encendida, para no sorprendernos al despegar el talón. No prometemos en esta página un arreglo de sensor que no describimos. Te decimos lo que vemos."
+      ]
+    },
+    {
+      "heading": "Dónde se hace la instalación",
+      "paragraphs": [
+        "El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Esos pueblos están a menos de 10 millas. Si no puedes mover el carro y las llantas ya están en esa dirección, llama y pregunta si un montaje móvil cabe dentro de las 10 millas. Confirmamos el lugar primero. Una entrada de casa no siempre es un sitio seguro para montar, y te lo decimos.",
+        "Sigue habiendo un solo taller. No busques una segunda dirección de Los Paisas. Teléfono +1 561-429-4041, todos los días hasta las 7:00 PM."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas sobre instalar tus llantas",
+  "faqs": [
+    {
+      "question": "¿Montan llantas que compré por internet?",
+      "answer": "Sí, si son la medida correcta y la carcasa está sana. Tráelas a 1114 S Military Trl. Si una llanta está dañada, no la ponemos en el carro."
+    },
+    {
+      "question": "¿La instalación incluye balanceo?",
+      "answer": "El balanceo se ofrece con el montaje y el precio se dice antes de empezar, sin cargos ocultos. No es un extra sorpresa al final."
+    },
+    {
+      "question": "¿Me pueden vender una llanta si una de las mías está mala?",
+      "answer": "Sí. Si una llanta que trajiste no se debe montar, podemos hablar de una nueva o una usada del taller para esa esquina."
+    }
+  ],
+  "moreHeading": "Si todavía necesitas llantas nuestras",
+  "links": [
+    {
+      "href": "/es/llantas-nuevas",
+      "label": "Llantas nuevas vendidas en el taller"
+    },
+    {
+      "href": "/es/llantas-usadas",
+      "label": "Llantas usadas revisadas antes de montar"
+    },
+    {
+      "href": "/es/balanceo",
+      "label": "Balanceo con el precio dicho primero"
+    },
+    {
+      "href": "/es/blog/instalacion-llantas-del-cliente-west-palm-beach",
+      "label": "Traer tus propias llantas a Military Trl"
+    }
+  ]
+}

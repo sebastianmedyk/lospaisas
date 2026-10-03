@@ -20,7 +20,7 @@ export default function BlogArticle({ post }: Props) {
     <BlogShell locale={post.locale}>
       <JsonLd
         data={articleJsonLd({
-          title: post.title,
+          title: post.h1 || post.title,
           description: post.description,
           date: post.date,
           url,
@@ -59,7 +59,7 @@ export default function BlogArticle({ post }: Props) {
               id="article-heading"
               className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
             >
-              {post.title}
+              {post.h1 || post.title}
             </h1>
             <p className="mt-4 text-base leading-relaxed text-white/70 sm:text-lg">
               {post.description}

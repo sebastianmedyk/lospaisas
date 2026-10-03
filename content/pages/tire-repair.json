@@ -1,0 +1,91 @@
+{
+  "path": "/tire-repair",
+  "enPath": "/tire-repair",
+  "esPath": "/es/reparacion-de-llantas",
+  "locale": "en",
+  "kind": "service",
+  "title": "Tire Repair in West Palm Beach | Los Paisas Tires Shop",
+  "description": "Tire repair in West Palm Beach for a nail, patch, or plug. Vulcanization when the tire is safe to save. 1114 S Military Trl. Call +1 561-429-4041.",
+  "h1": "Tire Repair in West Palm Beach",
+  "eyebrow": "Patch, plug, vulcanization",
+  "serviceName": "Tire repair and vulcanization",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Tire repair in West Palm Beach is what you want when a nail or a screw is in the tread and the rest of the tire still has a life. Los Paisas Tires Shop, at 1114 S Military Trl, West Palm Beach, FL 33415, repairs tires when the damage is in a safe place. When it is not, we say so and talk about a used or new replacement instead of a patch that will fail.",
+    "In the shop we call the inside repair vulcanization. A plug from a glove box is not the same job. Call +1 561-429-4041 any day, 8:00 AM to 7:00 PM, including Sunday, before you drive far on a tire that is still losing air."
+  ],
+  "sections": [
+    {
+      "heading": "Patch, plug, and vulcanization",
+      "paragraphs": [
+        "A repairable hole is usually a small puncture in the tread, not a gash in the sidewall and not a tire that is already down to the wear bars. We take the tire off the wheel when we need to see the inside. Vulcanization is that inside repair: the injury is cleaned and sealed from the inner liner, which is the shop way to do it, not a rope plug stabbed in from the parking lot.",
+        "If the hole is too large, too close to the shoulder, or sitting in the sidewall, we will not patch it. A previous repair in a bad spot can end the conversation too. That is not an upsell script. A tire that will not hold is a tire we replace."
+      ],
+      "bullets": [
+        "Nail or screw in the tread, when the rest of the casing is sound",
+        "Inside inspection, not a guess from the outside",
+        "Vulcanization when the puncture can be sealed safely",
+        "A straight no when the sidewall or the shoulder is the damage"
+      ]
+    },
+    {
+      "heading": "What we do with a nail or a flat",
+      "paragraphs": [
+        "If the tire still holds enough air to drive safely, come to the shop. If it is going flat on the rim, do not keep rolling on it. A short limp to the bay can destroy a tire that was still repairable. Use a spare if you have one, or call and ask whether mobile service can meet you. The van only goes within 10 miles of 1114 S Military Trl, and we confirm the address first.",
+        "At the shop we find the leak, decide repair or replace, and remount. Balancing afterward is common so the repaired wheel does not shake, and that price is given up front with no hidden fees. If the tread is already too thin to be worth saving, we will show you used and new options in the same visit."
+      ]
+    },
+    {
+      "heading": "When you should come in or call the van",
+      "paragraphs": [
+        "The shop is open seven days, 8:00 AM to 7:00 PM. One address: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs, and Lake Worth Beach are inside the 10-mile area, so a lot of those drivers simply come to the bay. We will not invent a drive time. If you are not sure the tire will make it, call.",
+        "Mobile repair is for a car that should stay put, inside that same 10-mile circle. It is not a promise that every parking spot is a safe place to work. If the street is wrong, we will ask you to come to the shop."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions about tire repair",
+  "faqs": [
+    {
+      "question": "Will you patch a sidewall?",
+      "answer": "No. A sidewall cut or bubble is not a vulcanization job. We will tell you the tire needs to be replaced."
+    },
+    {
+      "question": "Is a plug the same as vulcanization?",
+      "answer": "No. A plug alone is not how we finish a repair we stand behind. Vulcanization means we repair from the inside after the tire is off the wheel."
+    },
+    {
+      "question": "Can I wait if the nail is still holding air?",
+      "answer": "Do not treat a slow leak as a plan. Call +1 561-429-4041 and come in while the tire still has air. Driving it flat ruins the sidewall."
+    }
+  ],
+  "moreHeading": "If the tire cannot be saved",
+  "links": [
+    {
+      "href": "/used-tires",
+      "label": "Used tires when a repair is not safe"
+    },
+    {
+      "href": "/new-tires",
+      "label": "New tires from the same shop"
+    },
+    {
+      "href": "/mobile-tire-service",
+      "label": "Mobile tire service within 10 miles"
+    },
+    {
+      "href": "/blog/tire-repair-vulcanization-west-palm-beach",
+      "label": "How we decide repair or replace"
+    },
+    {
+      "href": "/blog/driving-on-a-tire-patch-or-plug",
+      "label": "Driving on a patch or a plug"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "path": "/es/servicio-movil",
+  "enPath": "/mobile-tire-service",
+  "esPath": "/es/servicio-movil",
+  "locale": "es",
+  "kind": "service",
+  "title": "Servicio Móvil de Llantas en West Palm Beach | Los Paisas",
+  "description": "Servicio móvil de llantas en West Palm Beach, a 10 millas de 1114 S Military Trl. Llama primero y confirmamos la dirección. Abierto 8 AM–7 PM. +1 561-429-4041.",
+  "h1": "Servicio Móvil de Llantas en West Palm Beach",
+  "eyebrow": "A 10 millas del taller",
+  "serviceName": "Servicio móvil de llantas",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "El servicio móvil de llantas en West Palm Beach es la van de Los Paisas Tires Shop, no un segundo local. El taller sigue en 1114 S Military Trl, West Palm Beach, FL 33415. Si el carro debe quedarse quieto, podemos ir cerca de ti cuando la dirección está a 10 millas de ese taller. Llama al +1 561-429-4041 y confirmamos el punto antes de salir.",
+    "La van sale en el horario del taller: de 8:00 AM a 7:00 PM, los siete días, domingo incluido. Si la llanta aguanta aire y puedes manejar, el local casi siempre es mejor, sobre todo si quieres ver llantas usadas o subir el carro a la alineación."
+  ],
+  "sections": [
+    {
+      "heading": "Qué puede incluir la visita móvil",
+      "paragraphs": [
+        "En una parada móvil podemos reparar una ponchadura cuando es seguro repararla, cambiar una llanta que ya está contigo, o montar llantas que ya tienes en el lugar si ese lugar es seguro para trabajar. Dinos la medida cuando llames. Si necesitas que llevemos una usada o una nueva, solo lo prometemos cuando confirmamos la medida y que de verdad la tenemos. No fingimos que la van carga el taller entero.",
+        "La alineación no se hace en una entrada. El equipo de geometría se queda en 1114 S Military Trl. El balanceo que necesita la máquina del taller también se queda ahí. Una ponchadura, un montaje al que no puedes llegar manejando, o una de repuesto que no te trae hasta aquí son las razones para usar la van."
+      ],
+      "bullets": [
+        "Una ponchadura o una fuga lenta, cuando no debes manejar",
+        "Montar llantas que ya están donde está el carro, si el sitio es seguro",
+        "Una llanta de repuesto solo después de confirmar medida e inventario por teléfono",
+        "Sin alineación en un estacionamiento"
+      ]
+    },
+    {
+      "heading": "Cómo pedir la van",
+      "paragraphs": [
+        "Llama o escribe por WhatsApp al +1 561-429-4041. Da la dirección, el vehículo y qué falló. Di si tienes repuesto y si el carro está en una entrada, un lote o el hombrillo. Si el lugar no es seguro, te pedimos que lleves el carro al taller en vez de trabajar en el tráfico.",
+        "Cotizamos el trabajo antes de comprometernos al viaje. En esta página no hay lista de precios. El horario es el del taller. Una llamada de noche no crea un servicio de 24 horas. Español o inglés, el mismo número."
+      ]
+    },
+    {
+      "heading": "Pueblos dentro de las 10 millas",
+      "paragraphs": [
+        "Greenacres, Palm Springs y Lake Worth Beach están dentro de las 10 millas alrededor de 1114 S Military Trl. Revisamos los límites de esos pueblos contra el taller, y los pueblos mismos caben en ese radio, así que puedes pedir la van ahí. Igual confirmamos la dirección real, porque el lugar tiene que servir para trabajar. No publicamos minutos de camino.",
+        "West Palm Beach es la ciudad del taller. Si estás más lejos, pregunta. Si estás fuera de las 10 millas, la respuesta es venir al local, no estirar la van. Abajo hay notas separadas de Greenacres, Lake Worth Beach y Palm Springs. Son páginas del servicio móvil, no una copia de cada servicio."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas sobre el servicio móvil",
+  "faqs": [
+    {
+      "question": "¿Hasta dónde llegan?",
+      "answer": "A 10 millas de 1114 S Military Trl, West Palm Beach, FL 33415. Llama con la dirección y la confirmamos antes de salir."
+    },
+    {
+      "question": "¿Alinean el carro en mi entrada?",
+      "answer": "No. La alineación se queda en el taller. El servicio móvil es trabajo de llantas: una ponchadura, un montaje o una llanta que ya acordamos llevar."
+    },
+    {
+      "question": "¿Son un servicio de carretera las 24 horas?",
+      "answer": "No. La van trabaja el mismo horario del taller, de 8:00 AM a 7:00 PM, siete días. Llama en esas horas."
+    }
+  ],
+  "moreHeading": "Notas móviles de tres pueblos cercanos",
+  "links": [
+    {
+      "href": "/es/servicio-movil/greenacres",
+      "label": "Servicio móvil de llantas en Greenacres"
+    },
+    {
+      "href": "/es/servicio-movil/lake-worth-beach",
+      "label": "Servicio móvil de llantas en Lake Worth Beach"
+    },
+    {
+      "href": "/es/servicio-movil/palm-springs",
+      "label": "Servicio móvil de llantas en Palm Springs"
+    },
+    {
+      "href": "/es/reparacion-de-llantas",
+      "label": "Reparación si puedes llegar al taller"
+    },
+    {
+      "href": "/es/blog/servicio-movil-llantas-west-palm-beach",
+      "label": "Cómo funciona el servicio móvil"
+    }
+  ]
+}

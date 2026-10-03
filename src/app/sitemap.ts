@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllPosts, blogPath } from "@/lib/blog";
 import { blogLanguageAlternates } from "@/lib/blog-routes";
+import { getAllLocalPages } from "@/lib/local-pages";
 import { SITE_URL } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -59,5 +60,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  return [...staticRoutes, ...postRoutes];
+  const localRoutes: MetadataRoute.Sitemap = getAllLocalPages().map((page) => ({
+    url: `${SITE_URL}${page.path}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: page.kind === "city" ? 0.6 : 0.85,
+    alternates: {
+      languages: {
+        en: `${SITE_URL}${page.enPath}`,
+        es: `${SITE_URL}${page.esPath}`,
+        "x-default": `${SITE_URL}${page.enPath}`,
+      },
+    },
+  }));
+
+  return [...staticRoutes, ...localRoutes, ...postRoutes];
 }

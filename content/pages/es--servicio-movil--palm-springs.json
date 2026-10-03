@@ -1,0 +1,90 @@
+{
+  "path": "/es/servicio-movil/palm-springs",
+  "enPath": "/mobile-tire-service/palm-springs",
+  "esPath": "/es/servicio-movil/palm-springs",
+  "locale": "es",
+  "kind": "city",
+  "parentPath": "/es/servicio-movil",
+  "parentLabel": "Servicio móvil",
+  "title": "Servicio Móvil de Llantas en Palm Springs | Los Paisas",
+  "description": "Servicio móvil en Palm Springs, Florida, a 10 millas de 1114 S Military Trl. No es California. Llama al +1 561-429-4041. Abierto 8 AM–7 PM.",
+  "h1": "Servicio Móvil de Llantas en Palm Springs",
+  "eyebrow": "Palm Beach County, no California",
+  "serviceName": "Servicio móvil de llantas en Palm Springs",
+  "areaServed": [
+    "Palm Springs",
+    "West Palm Beach"
+  ],
+  "intro": [
+    "El servicio móvil de llantas en Palm Springs es el pueblo de Palm Beach County, el que queda entre Greenacres y Lake Worth Beach, por Congress Avenue y hasta Military Trl. No es Palm Springs, California. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. El pueblo está dentro de las 10 millas de ese taller, y una parte queda sobre este mismo corredor de Military Trl. Llama al +1 561-429-4041 si el carro no debe rodar.",
+    "Como el pueblo está tan cerca, manejar al local suele ser todo el trabajo cuando la llanta todavía tiene aire. La van es para la ponchadura que no va a llegar. No imprimimos un tiempo de camino."
+  ],
+  "sections": [
+    {
+      "heading": "Qué atendemos en el pueblo",
+      "paragraphs": [
+        "Una llamada de Palm Springs suele ser un clavo, una fuga lenta, o una llanta en la que el conductor no confía ni para un tramo corto por Military Trl. Podemos reparar una ponchadura en el piso cuando es seguro, poner una de repuesto que ya tienes, o montar llantas que ya están con el carro si el lugar sirve. Congress Avenue no es nuestro taller. Si alguien te mandó a una tienda de llantas en Congress, ese es otro negocio.",
+        "No llevamos una llanta misteriosa. Léenos la medida. Si tenemos una usada o una nueva que sirve, te lo decimos antes de salir del taller. Si no, la respuesta honesta es llevar el carro a 1114 S Military Trl, donde puedes ver lo que de verdad hay en el estante. La alineación y un balanceo de máquina se quedan en ese local."
+      ],
+      "bullets": [
+        "Palm Springs, Florida: el pueblo, no la ciudad del desierto",
+        "Una ponchadura del lado de Congress Avenue o sobre Military Trl",
+        "Reparación, repuesto, o un montaje que ya acordamos",
+        "Sin una segunda dirección dentro del pueblo"
+      ]
+    },
+    {
+      "heading": "El tramo por S Military Trl",
+      "paragraphs": [
+        "El taller está en S Military Trl en West Palm Beach, junto a este pueblo, no dentro de un local de Palm Springs. Si la llanta tiene aire, ven a la dirección. Puedes comparar usadas y nuevas, vulcanizar una reparación, y balancear con el precio dicho primero. El horario es de 8:00 AM a 7:00 PM todos los días.",
+        "La gente confunde el pueblo con la ciudad de California y luego no entiende por qué contesta un taller de West Palm Beach. Si estás en Palm Beach County, estás en la conversación correcta. Si no, no somos tu taller."
+      ]
+    },
+    {
+      "heading": "Pedir la van en vez de manejar",
+      "paragraphs": [
+        "Llama con la calle, no solo con 'Palm Springs'. El pueblo está a menos de 10 millas del taller, por eso aquí se puede pedir el servicio móvil. Igual necesitamos un lugar donde levantar el carro sin quedarnos en el tráfico. Un carril ocupado de Congress es motivo para vernos en el taller.",
+        "El mismo número del local: +1 561-429-4041. El mismo horario. La van no es otra empresa y no se queda después de las 7:00 PM."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Preguntas desde Palm Springs",
+  "faqs": [
+    {
+      "question": "¿Cuál Palm Springs es este?",
+      "answer": "El pueblo de Palm Beach County, Florida, junto a West Palm Beach. No Palm Springs, California."
+    },
+    {
+      "question": "¿El taller está en Congress Avenue?",
+      "answer": "No. La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs está a menos de 10 millas, así que se puede pedir la van. El local no se mueve."
+    },
+    {
+      "question": "¿Manejo al taller o llamo a la van?",
+      "answer": "Maneja si la llanta va a aguantar aire. Llama al +1 561-429-4041 si no. Confirmamos la dirección antes de salir."
+    }
+  ],
+  "moreHeading": "De vuelta al taller y a los otros pueblos",
+  "links": [
+    {
+      "href": "/es/servicio-movil",
+      "label": "Servicio móvil a 10 millas"
+    },
+    {
+      "href": "/es/servicio-movil/greenacres",
+      "label": "Servicio móvil en Greenacres"
+    },
+    {
+      "href": "/es/servicio-movil/lake-worth-beach",
+      "label": "Servicio móvil en Lake Worth Beach"
+    },
+    {
+      "href": "/es/llantas-usadas",
+      "label": "Llantas usadas si puedes llegar al taller"
+    },
+    {
+      "href": "/es/blog/servicio-movil-llantas-west-palm-beach",
+      "label": "Cómo es la visita de la van"
+    }
+  ]
+}

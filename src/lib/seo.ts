@@ -139,13 +139,6 @@ export function localBusinessJsonLd() {
       },
     ],
     hasMap: BUSINESS.mapsPlaceUrl,
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: BUSINESS.ratingValue,
-      reviewCount: BUSINESS.reviewCount,
-      bestRating: "5",
-      worstRating: "1",
-    },
     knowsLanguage: ["en", "es"],
     hasOfferCatalog: {
       "@type": "OfferCatalog",
@@ -320,5 +313,39 @@ export function flatTireSundayHowToJsonLd() {
         url: absoluteUrl("/#services"),
       },
     ],
+  };
+}
+
+/** Service node for a dedicated service or city URL. No aggregateRating. */
+export function pageServiceJsonLd(input: {
+  name: string;
+  description: string;
+  url: string;
+  areaServed: readonly string[];
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    name: input.name,
+    description: input.description,
+    url: input.url,
+    provider: {
+      "@type": "TireShop",
+      "@id": `${SITE_URL}/#business`,
+      name: BUSINESS.name,
+      telephone: BUSINESS.phoneE164,
+      url: SITE_URL,
+      address: postalAddress(),
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: GEO.latitude,
+        longitude: GEO.longitude,
+      },
+      openingHoursSpecification: openingHoursSpec(),
+    },
+    areaServed: input.areaServed.map((name) => ({
+      "@type": "City",
+      name,
+    })),
   };
 }

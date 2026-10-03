@@ -1,0 +1,87 @@
+{
+  "path": "/tire-installation",
+  "enPath": "/tire-installation",
+  "esPath": "/es/instalacion-de-llantas",
+  "locale": "en",
+  "kind": "service",
+  "title": "Tire Installation in West Palm Beach | Los Paisas Tires Shop",
+  "description": "Tire installation in West Palm Beach for tires you already bought. We mount them at 1114 S Military Trl. Open daily 8 AM–7 PM. Call +1 561-429-4041.",
+  "h1": "Tire Installation in West Palm Beach",
+  "eyebrow": "Tires you already own",
+  "serviceName": "Customer tire installation",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Tire installation in West Palm Beach, on this page, means we mount tires you already bought. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. You can bring a set from online, from another shop, or from a friend. We put them on the wheels and on the car. We also sell new and used tires if you would rather not haul them yourself.",
+    "Call +1 561-429-4041 before you load the trunk, so we know the size and how many you are bringing. Hours are 8:00 AM to 7:00 PM, seven days a week. We do not list a mounting price here."
+  ],
+  "sections": [
+    {
+      "heading": "Mounting tires you already own",
+      "paragraphs": [
+        "Customer-owned tires still have to be the right size for the car. We check that before they go on. A tire that was a bargain and the wrong load rating is not a bargain once it is on the highway. If a tire you brought is cracked, bulged, or so old the rubber is split, we will not mount it just because you paid someone else for it. We would rather lose the mount than send you out on a casing we can see is finished.",
+        "The work is the dismount of the old tire, mounting the one you brought, and seating it so it holds air. Balancing is the usual next step, and we quote that with no hidden fees before we start. If the old wear was only on one shoulder, ask about alignment while you are here. The alignment rack is in this shop. It is not part of a basic mount unless you want it."
+      ],
+      "bullets": [
+        "Tires you bought elsewhere, if they are safe to mount",
+        "A size check against the car",
+        "A refusal when the casing is cracked or bubbled",
+        "Balance quoted first, alignment only if you ask or the wear calls for it"
+      ]
+    },
+    {
+      "heading": "What to bring with you",
+      "paragraphs": [
+        "Bring the tires, and the car if they are going on today. If the tires are loose in a truck, we still need the vehicle they belong to before we can finish the install. Know the size printed on the sidewall, or let us read it. If you have a spare that is also bad, say so. A new set with a dead spare is a familiar Sunday problem.",
+        "You do not need to bring weights or a valve-stem kit as homework. Tell us if a tire-pressure sensor light is already on, so we are not surprised when we break the bead. We will not promise a sensor repair this page does not describe. We will tell you what we see."
+      ]
+    },
+    {
+      "heading": "Where the install happens",
+      "paragraphs": [
+        "The bay is at 1114 S Military Trl, West Palm Beach, FL 33415. People drive in from Greenacres, Palm Springs, and Lake Worth Beach. Those towns are within 10 miles of the shop. If you cannot move the car and the tires are already at that address, call and ask whether a mobile install is possible within the 10-mile area. We confirm the location first. A driveway is not always a safe place to mount tires, and we will say so.",
+        "There is still only one shop. Do not look for a second Los Paisas address. Phone +1 561-429-4041, every day until 7:00 PM."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions about installing your tires",
+  "faqs": [
+    {
+      "question": "Will you mount tires I bought online?",
+      "answer": "Yes, if they are the right size and the casing is safe. Bring them to 1114 S Military Trl. If a tire is damaged, we will not put it on the car."
+    },
+    {
+      "question": "Does installation include balancing?",
+      "answer": "Balancing is offered with the mount and the price is quoted before we start, with no hidden fees. It is not a surprise add-on at the end."
+    },
+    {
+      "question": "Can you sell me a tire if one of mine is bad?",
+      "answer": "Yes. If a tire you brought should not be mounted, we can talk about a new or used tire from the shop for that corner."
+    }
+  ],
+  "moreHeading": "If you still need tires from us",
+  "links": [
+    {
+      "href": "/new-tires",
+      "label": "New tires sold at the shop"
+    },
+    {
+      "href": "/used-tires",
+      "label": "Used tires checked before mounting"
+    },
+    {
+      "href": "/tire-balancing",
+      "label": "Balancing with the price stated first"
+    },
+    {
+      "href": "/blog/install-customer-tires-west-palm-beach",
+      "label": "Bringing your own tires to Military Trl"
+    }
+  ]
+}

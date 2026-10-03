@@ -1,0 +1,90 @@
+{
+  "path": "/mobile-tire-service/greenacres",
+  "enPath": "/mobile-tire-service/greenacres",
+  "esPath": "/es/servicio-movil/greenacres",
+  "locale": "en",
+  "kind": "city",
+  "parentPath": "/mobile-tire-service",
+  "parentLabel": "Mobile tire service",
+  "title": "Mobile Tire Service in Greenacres | Los Paisas Tires",
+  "description": "Mobile tire service in Greenacres, within 10 miles of 1114 S Military Trl. Call to confirm the address or drive in. Open daily 8 AM–7 PM. +1 561-429-4041.",
+  "h1": "Mobile Tire Service in Greenacres",
+  "eyebrow": "One shop, on S Military Trl",
+  "serviceName": "Mobile tire service in Greenacres",
+  "areaServed": [
+    "Greenacres",
+    "West Palm Beach"
+  ],
+  "intro": [
+    "Mobile tire service in Greenacres comes from the same van as the rest of Los Paisas Tires Shop. The shop is not in Greenacres. It is at 1114 S Military Trl, West Palm Beach, FL 33415, just east of the Greenacres line. Greenacres itself sits inside the 10-mile area around that address, so a Greenacres stop is something you can ask for. Call +1 561-429-4041 and we confirm the actual driveway or lot before the van leaves.",
+    "If the tire will hold air, a lot of Greenacres errands already pass Military Trl. Coming to the bay is often simpler than a mobile stop, because the used tires, the new tires, and the alignment rack are at the shop. We do not quote minutes. Traffic does what it does."
+  ],
+  "sections": [
+    {
+      "heading": "What we can do at a Greenacres address",
+      "paragraphs": [
+        "Greenacres is the city along Melaleuca Lane, Jog Road, and Lake Worth Road, west of this part of Military Trl. City hall is on Melaleuca Lane. That is a landmark, not our address. At a Greenacres stop the van can repair a tread puncture when the tire is safe to repair, swap to a spare you already have, or mount tires that are already there if the spot is safe to work.",
+        "If you need us to bring a used or new tire, say the size on the phone. We only agree to bring one when we have it. The van does not carry the racks from the shop. Alignment is not done in a Greenacres driveway. That equipment stays at 1114 S Military Trl."
+      ],
+      "bullets": [
+        "A flat that should not be driven across to Military Trl",
+        "A mount where the car and the tires are already together",
+        "A size confirmed by phone before we promise a tire",
+        "A refusal if the street is not a safe place to work"
+      ]
+    },
+    {
+      "heading": "Calling the shop before the van rolls",
+      "paragraphs": [
+        "Hours are the shop hours: 8:00 AM to 7:00 PM, seven days, including Sunday. A Greenacres call outside those hours is not a nighttime roadside contract. Tell us the cross streets, whether you are in a driveway or a lot, and if the tire is already off the bead. English or Spanish.",
+        "We say the scope of the work before we drive. There is no price on this page. If the job is really 'I want to look at five used tires and pick one,' that is a shop visit, not a van visit."
+      ]
+    },
+    {
+      "heading": "Driving to 1114 S Military Trl instead",
+      "paragraphs": [
+        "The shop sits on S Military Trl on the West Palm Beach side of the Greenacres boundary. You are not looking for a second Los Paisas sign inside the city. When the tire holds air, drive to 1114 S Military Trl. That is where we can show you the tire, balance it with no hidden fees, or put the car on the alignment rack if it is pulling.",
+        "Mobile service does not replace that. It covers the case where the car should stay in Greenacres. The town is within 10 miles. The address still gets confirmed one call at a time."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions from Greenacres",
+  "faqs": [
+    {
+      "question": "Is the shop in Greenacres?",
+      "answer": "No. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415, next to Greenacres. The van can come into Greenacres because the city is within 10 miles."
+    },
+    {
+      "question": "Do you publish a drive time from Melaleuca Lane?",
+      "answer": "No. We do not print minutes. Call +1 561-429-4041, give the address, and we will say whether we are coming there or whether you should drive in."
+    },
+    {
+      "question": "Can you align my car in the driveway?",
+      "answer": "No. Alignment stays at the shop. A Greenacres mobile visit is for a tire that should not be driven, or a mount we have already agreed to."
+    }
+  ],
+  "moreHeading": "The shop, and the other two towns",
+  "links": [
+    {
+      "href": "/mobile-tire-service",
+      "label": "Mobile tire service from the shop"
+    },
+    {
+      "href": "/mobile-tire-service/palm-springs",
+      "label": "Mobile tire service in Palm Springs"
+    },
+    {
+      "href": "/mobile-tire-service/lake-worth-beach",
+      "label": "Mobile tire service in Lake Worth Beach"
+    },
+    {
+      "href": "/tire-repair",
+      "label": "Tire repair at the bay"
+    },
+    {
+      "href": "/blog/mobile-tire-service-west-palm-beach",
+      "label": "What to tell us when you book the van"
+    }
+  ]
+}

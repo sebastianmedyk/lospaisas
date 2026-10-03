@@ -1,0 +1,90 @@
+{
+  "path": "/mobile-tire-service/lake-worth-beach",
+  "enPath": "/mobile-tire-service/lake-worth-beach",
+  "esPath": "/es/servicio-movil/lake-worth-beach",
+  "locale": "en",
+  "kind": "city",
+  "parentPath": "/mobile-tire-service",
+  "parentLabel": "Mobile tire service",
+  "title": "Mobile Tire Service in Lake Worth Beach | Los Paisas",
+  "description": "Mobile tire service in Lake Worth Beach, within 10 miles of 1114 S Military Trl. Call to confirm the stop. Open daily 8 AM–7 PM. +1 561-429-4041.",
+  "h1": "Mobile Tire Service in Lake Worth Beach",
+  "eyebrow": "East of the shop, still one address",
+  "serviceName": "Mobile tire service in Lake Worth Beach",
+  "areaServed": [
+    "Lake Worth Beach",
+    "West Palm Beach"
+  ],
+  "intro": [
+    "Mobile tire service in Lake Worth Beach is for a car that should not be driven west to the shop. Los Paisas Tires Shop does not have a bay in Lake Worth Beach. The only address is 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, the coastal city formerly called Lake Worth, sits east of that shop, toward Dixie Highway and the Intracoastal. The city limits are inside the 10-mile area, so you can ask for the van. Call +1 561-429-4041 and we confirm the stop.",
+    "We will not give you a minute count from the beach to Military Trl. If the tire holds air, driving to the shop is the straightforward visit. The van is the other option, during shop hours only."
+  ],
+  "sections": [
+    {
+      "heading": "What a Lake Worth Beach call covers",
+      "paragraphs": [
+        "People here are often east of the shop, closer to Dixie Highway than to our bay. A mobile visit can deal with a nail in the tread when the tire is still worth repairing, a spare that needs to go on so you can reach us later, or tires you already have with the car if we can work safely. Tell us the size. We bring a replacement only when we have confirmed it is in the shop.",
+        "We do not align a car on a Lake Worth Beach street, and we do not balance a wheel that needs the shop machine in a parking space by the Intracoastal. Those jobs are at 1114 S Military Trl. A tight curb, a crowded lot, or a shoulder next to traffic is a reason for us to say no and ask you to come in."
+      ],
+      "bullets": [
+        "A flat east of the shop, when driving would destroy the tire",
+        "A spare swap so you can reach Military Trl afterward",
+        "Mounting only where the car and the tires are already together and the spot is safe",
+        "No geometry work outside the bay"
+      ]
+    },
+    {
+      "heading": "When to drive west to the shop",
+      "paragraphs": [
+        "Lake Worth Road is one of the east-west roads people use to come inland. The shop is on S Military Trl in West Palm Beach, not on Dixie Highway and not on the beach. If you are already heading that way and the tire is holding, come to the address. You can look at used and new tires, get a repair vulcanized from the inside, and have balancing quoted with no hidden fees.",
+        "Sunday is the same hours as Monday: 8:00 AM to 7:00 PM. There is no overnight van. Call during the day."
+      ]
+    },
+    {
+      "heading": "How we confirm the address is in range",
+      "paragraphs": [
+        "Lake Worth Beach as a city is within 10 miles of 1114 S Military Trl. That is why this page exists. It is not a promise about every private road, marina lot, or spot we cannot work in. Give us the address. If it is in range and safe, we come. If it is not a place to jack a car, we say so.",
+        "There is still one phone number, +1 561-429-4041, and one shop. Do not look for a Lake Worth Beach storefront with our name."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions from Lake Worth Beach",
+  "faqs": [
+    {
+      "question": "Are you the tire shop on Dixie Highway?",
+      "answer": "No. The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach is in the mobile area, within 10 miles. It is not a second address."
+    },
+    {
+      "question": "Is Lake Worth the same as Lake Worth Beach?",
+      "answer": "The city is Lake Worth Beach. Older directions may still say Lake Worth. Either way, call with the street address so we confirm the stop."
+    },
+    {
+      "question": "Will you come to a crowded lot by the water?",
+      "answer": "Only if we can work safely. If we cannot, we will ask you to get the car to 1114 S Military Trl instead."
+    }
+  ],
+  "moreHeading": "Shop page and the neighboring towns",
+  "links": [
+    {
+      "href": "/mobile-tire-service",
+      "label": "Mobile tire service within 10 miles"
+    },
+    {
+      "href": "/mobile-tire-service/greenacres",
+      "label": "Mobile tire service in Greenacres"
+    },
+    {
+      "href": "/mobile-tire-service/palm-springs",
+      "label": "Mobile tire service in Palm Springs"
+    },
+    {
+      "href": "/tire-repair",
+      "label": "Repair and vulcanization at the shop"
+    },
+    {
+      "href": "/blog/mobile-tire-service-west-palm-beach",
+      "label": "What a mobile booking needs from you"
+    }
+  ]
+}

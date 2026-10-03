@@ -1,6 +1,7 @@
 "use client";
 
 import type { ComponentType, SVGProps } from "react";
+import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
 import {
   AlignIcon,
@@ -20,8 +21,73 @@ const ICONS: ComponentType<SVGProps<SVGSVGElement>>[] = [
   TruckIcon,
 ];
 
+const focus =
+  "rounded-none focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
+
+function ServiceCardTitle({
+  locale,
+  index,
+  title,
+}: {
+  locale: "en" | "es";
+  index: number;
+  title: string;
+}) {
+  if (index === 0) {
+    if (locale === "es") {
+      return (
+        <>
+          {"Llantas "}
+          <Link href="/es/llantas-nuevas" className={`hover:text-brand-gold ${focus}`}>
+            Nuevas
+          </Link>
+          {" y "}
+          <Link href="/es/llantas-usadas" className={`hover:text-brand-gold ${focus}`}>
+            Usadas
+          </Link>
+        </>
+      );
+    }
+    return (
+      <>
+        <Link href="/new-tires" className={`hover:text-brand-gold ${focus}`}>
+          New
+        </Link>
+        {" & "}
+        <Link href="/used-tires" className={`hover:text-brand-gold ${focus}`}>
+          Used
+        </Link>
+        {" Tires"}
+      </>
+    );
+  }
+
+  const hrefs =
+    locale === "es"
+      ? [
+          "/es/alineacion",
+          "/es/balanceo",
+          "/es/reparacion-de-llantas",
+          "/es/instalacion-de-llantas",
+          "/es/servicio-movil",
+        ]
+      : [
+          "/wheel-alignment",
+          "/tire-balancing",
+          "/tire-repair",
+          "/tire-installation",
+          "/mobile-tire-service",
+        ];
+  const href = hrefs[index - 1];
+  return (
+    <Link href={href} className={`hover:text-brand-gold ${focus}`}>
+      {title}
+    </Link>
+  );
+}
+
 export default function Services() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
 
   return (
     <section id="services" className="section-pad relative border-b border-white/15" aria-labelledby="services-heading">
@@ -49,7 +115,7 @@ export default function Services() {
                   <Icon className="h-5 w-5" />
                 </span>
                 <h3 className="headline text-base text-white sm:text-lg">
-                  {service.title}
+                  <ServiceCardTitle locale={locale} index={index} title={service.title} />
                 </h3>
                 <p className="mt-1.5 text-sm leading-snug text-white/70">
                   {service.description}

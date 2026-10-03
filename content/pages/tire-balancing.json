@@ -1,0 +1,87 @@
+{
+  "path": "/tire-balancing",
+  "enPath": "/tire-balancing",
+  "esPath": "/es/balanceo",
+  "locale": "en",
+  "kind": "service",
+  "title": "Tire Balancing in West Palm Beach | Los Paisas Tires Shop",
+  "description": "Tire balancing in West Palm Beach with no hidden fees. We quote the work before it starts at 1114 S Military Trl. Open daily 8 AM–7 PM. Call +1 561-429-4041.",
+  "h1": "Tire Balancing in West Palm Beach",
+  "eyebrow": "No hidden fees",
+  "serviceName": "Tire balancing",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Tire balancing in West Palm Beach is the fix when a wheel shakes at speed and the rest of the car is fine. Los Paisas Tires Shop balances tires at 1114 S Military Trl, West Palm Beach, FL 33415. The phrase we mean when we say no hidden fees is simple: you hear the price of the balance before the weights go on, not after.",
+    "Call +1 561-429-4041. The shop is open 8:00 AM to 7:00 PM every day, including Sunday. We do not print a dollar amount here, because the job depends on the wheel in front of us."
+  ],
+  "sections": [
+    {
+      "heading": "Balancing with no hidden fees",
+      "paragraphs": [
+        "A tire and wheel are almost never perfectly even. Balance weights correct that so the assembly does not hop or shake as it spins. We do this on a balancer in the shop, after the tire is seated on the wheel. If you just had a tire mounted, repaired, or moved from another car, this is the step that keeps the steering wheel calm.",
+        "No hidden fees means we do not invent a second charge at the register for something we already knew the job needed. If a wheel is bent and will not balance, we stop and tell you. If a tire is separated inside, weights will not make it smooth, and we will say that too. You should not pay for a balance that cannot work."
+      ],
+      "bullets": [
+        "The price is stated before we start",
+        "Weights on a wheel that can actually be balanced",
+        "A stop-and-explain if the wheel or the tire is the real problem",
+        "The same rule whether you bought the tire here or brought it in"
+      ]
+    },
+    {
+      "heading": "What a shake at speed usually means",
+      "paragraphs": [
+        "A vibration that shows up on the highway and fades when you slow down is the classic balance complaint. A constant pull to the right or left is more often alignment. We ask which one you feel so we do not sell you both by habit. If the tires are also wearing on a shoulder, alignment belongs in the conversation after the wheels are round and even.",
+        "Lost weights, a tire that was plugged and never rechecked, or a wheel that took a curb are ordinary reasons to be here. Bring the car during open hours. English or Spanish. You can wait while we spin the wheels that are shaking."
+      ]
+    },
+    {
+      "heading": "Hours and how to reach the shop",
+      "paragraphs": [
+        "Balancing is a shop job at 1114 S Military Trl. Drivers come from West Palm Beach and from Greenacres, Palm Springs, and Lake Worth Beach, which are inside the 10-mile area. We do not give a drive-time estimate. If you cannot bring the car because of a flat, call about mobile tire service for the tire itself. The balance still belongs on the machine at the shop when that is what the wheel needs.",
+        "Seven days, 8:00 AM to 7:00 PM. Phone and WhatsApp +1 561-429-4041. One address, no second counter."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Questions about tire balancing",
+  "faqs": [
+    {
+      "question": "What does no hidden fees mean on a balance?",
+      "answer": "We tell you the cost of the balancing before we do it. We do not add a surprise line for the same work when you pay."
+    },
+    {
+      "question": "Is a vibration always a balance problem?",
+      "answer": "Often, when it shows up at speed. A pull to one side is more likely alignment. Describe what the car does and we will say which service fits."
+    },
+    {
+      "question": "Do you balance tires I bought somewhere else?",
+      "answer": "Yes. Bring the car, or the loose tires if they are not mounted yet, to 1114 S Military Trl. Mounting tires you already own is its own service if they still need to go on the wheels."
+    }
+  ],
+  "moreHeading": "If balance is only part of the problem",
+  "links": [
+    {
+      "href": "/wheel-alignment",
+      "label": "Wheel alignment when the car pulls"
+    },
+    {
+      "href": "/tire-installation",
+      "label": "Install tires you already bought"
+    },
+    {
+      "href": "/tire-repair",
+      "label": "Repair a nail before you balance"
+    },
+    {
+      "href": "/blog/wheel-balancing-no-hidden-fees",
+      "label": "Why we talk about hidden fees"
+    }
+  ]
+}

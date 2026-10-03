@@ -88,7 +88,7 @@ export default function BlogListing({ locale, posts }: Props) {
                       </p>
                     </div>
                     <h2 className="headline text-lg text-white sm:text-xl">
-                      {post.title}
+                      {post.h1 || post.title}
                     </h2>
                     <p className="mt-2 text-sm leading-relaxed text-white/60">
                       {post.description}

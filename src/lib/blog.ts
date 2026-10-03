@@ -12,6 +12,10 @@ export type BlogPostMeta = {
   locale: BlogLocale;
   slug: string;
   keywords?: string[];
+  /** Visible H1 when it must differ from the search title. */
+  h1?: string;
+  /** When true, `title` is the full <title> and must not use the layout template. */
+  absoluteTitle?: boolean;
 };
 
 export type BlogPost = BlogPostMeta & {
@@ -43,6 +47,8 @@ function parsePost(filePath: string): BlogPost | null {
   const keywords = Array.isArray(data.keywords)
     ? data.keywords.filter((k): k is string => typeof k === "string")
     : undefined;
+  const h1 = typeof data.h1 === "string" && data.h1.trim() ? data.h1.trim() : undefined;
+  const absoluteTitle = data.absoluteTitle === true;
 
   const html = marked.parse(content.trim(), { async: false }) as string;
 
@@ -53,6 +59,8 @@ function parsePost(filePath: string): BlogPost | null {
     locale,
     slug,
     keywords,
+    h1,
+    absoluteTitle,
     content,
     html,
   };
@@ -78,6 +86,8 @@ export function getAllPosts(locale?: BlogLocale): BlogPostMeta[] {
     locale: post.locale,
     slug: post.slug,
     keywords: post.keywords,
+    h1: post.h1,
+    absoluteTitle: post.absoluteTitle,
   }));
 }
 
