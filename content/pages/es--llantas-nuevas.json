@@ -1,7 +1,7 @@
 {
-  "path": "/es/llantas-nuevas",
-  "enPath": "/new-tires",
-  "esPath": "/es/llantas-nuevas",
+  "path": "/es/servicios/llantas-nuevas",
+  "enPath": "/services/new-tires",
+  "esPath": "/es/servicios/llantas-nuevas",
   "locale": "es",
   "kind": "service",
   "title": "Llantas Nuevas en West Palm Beach | Los Paisas Tires Shop",
@@ -68,15 +68,15 @@
   "moreHeading": "Trabajo que cabe en la misma visita",
   "links": [
     {
-      "href": "/es/llantas-usadas",
+      "href": "/es/servicios/llantas-usadas",
       "label": "Llantas usadas cuando no hace falta un juego nuevo"
     },
     {
-      "href": "/es/alineacion",
+      "href": "/es/servicios/alineacion",
       "label": "Alineación si el desgaste viene ladeado"
     },
     {
-      "href": "/es/balanceo",
+      "href": "/es/servicios/balanceo",
       "label": "Balanceo sin cargos ocultos"
     },
     {

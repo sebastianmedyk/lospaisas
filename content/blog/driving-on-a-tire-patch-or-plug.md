@@ -13,7 +13,7 @@ keywords:
 
 A patch is a repair, not a permission slip to ignore the tire. Drivers call Los Paisas Tires Shop from West Palm Beach and ask if they can keep going on a plug they put in last month, or on a nail that is still stuck in the tread. The short answer: if the tire is losing air, stop treating it as a plan. If it was repaired correctly, in the tread, and it is holding, it can be a normal tire again. The difference is the repair, not the hope.
 
-The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. [Tire repair](/tire-repair) is done there, and the word we use for a proper inside repair is vulcanization. Call **+1 561-429-4041**. Hours are 8:00 AM to 7:00 PM, seven days.
+The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. [Tire repair](/services/tire-repair) is done there, and the word we use for a proper inside repair is vulcanization. Call **+1 561-429-4041**. Hours are 8:00 AM to 7:00 PM, seven days.
 
 ## A patch is not a promise you can ignore the tire
 
@@ -25,7 +25,7 @@ After a proper repair, you still watch the tire. A repair does not add tread. It
 
 ## Tread punctures versus sidewall damage
 
-The tread is where a small nail can be repairable. The sidewall is not. A cut, a bubble, or a hole in the sidewall is a replacement, [used](/used-tires) or [new](/new-tires), after we look at what we have in your size. The shoulder, where the tread curves into the sidewall, is the area we are strict about. A hole that looks "almost in the tread" can be too far over to seal safely. We would rather lose the repair than send you out on it.
+The tread is where a small nail can be repairable. The sidewall is not. A cut, a bubble, or a hole in the sidewall is a replacement, [used](/services/used-tires) or [new](/services/new-tires), after we look at what we have in your size. The shoulder, where the tread curves into the sidewall, is the area we are strict about. A hole that looks "almost in the tread" can be too far over to seal safely. We would rather lose the repair than send you out on it.
 
 Driving on a flat, or on a tire that is low enough to fold the sidewall, can turn a repairable nail into a tire that is finished. The rim cuts the inner liner. You feel it as a thump, or you do not feel it until the tire lets go. If the tire is already down, do not keep rolling "just to Military Trl" unless you are truly a few yards away and even then you may be ruining it. Use a spare if you have one.
 
@@ -35,7 +35,7 @@ Here is the visit, without a do-it-yourself recipe. You come to 1114 S Military 
 
 We also look for an old repair. Two injuries in a bad pattern, or a plug already in the shoulder, can end the job. You should hear that before anyone sells you a second patch on top of a mistake.
 
-[Mobile tire service](/mobile-tire-service) can cover a flat within 10 miles of the shop, including Greenacres, Palm Springs, and Lake Worth Beach, when the address is a safe place to work. It is not a 24-hour promise. The hours are the shop hours. Alignment is not part of a roadside patch.
+[Mobile tire service](/services/mobile-tire-service) can cover a flat within 10 miles of the shop, including Greenacres, Palm Springs, and Lake Worth Beach, when the address is a safe place to work. It is not a 24-hour promise. The hours are the shop hours. Alignment is not part of a roadside patch.
 
 ## If the tire is losing air right now
 
@@ -45,7 +45,7 @@ Do not keep adding air at a gas station all week. A tire that needs air every mo
 
 ## After a repair, what we still check
 
-A repaired tire should hold air. We check that before you leave. You should not see the sidewall folding, and you should not hear a hiss. If the tread was already uneven, the repair did not straighten the car. A pull is an [alignment](/wheel-alignment) question for another part of the same visit, not a sign that the patch "didn't take."
+A repaired tire should hold air. We check that before you leave. You should not see the sidewall folding, and you should not hear a hiss. If the tread was already uneven, the repair did not straighten the car. A pull is an [alignment](/services/wheel-alignment) question for another part of the same visit, not a sign that the patch "didn't take."
 
 Set the cold pressure from the placard on your door, not from a number you remember from a different car. Heat will raise it after you drive. That is normal. A repair does not change the placard.
 

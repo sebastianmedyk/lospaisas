@@ -13,7 +13,7 @@ keywords:
 
 Un parche es una reparación, no un permiso para ignorar la llanta. Llaman a Los Paisas Tires Shop desde West Palm Beach para preguntar si pueden seguir con un plug que pusieron el mes pasado, o con un clavo que sigue metido en el piso. La respuesta corta: si la llanta pierde aire, deja de tratarla como un plan. Si se reparó bien, en el piso, y aguanta, puede volver a ser una llanta normal. La diferencia es la reparación, no la esperanza.
 
-El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. La [reparación de llantas](/es/reparacion-de-llantas) se hace ahí, y a la reparación correcta por dentro le decimos vulcanización. Llama al **+1 561-429-4041**. El horario es de 8:00 AM a 7:00 PM, los siete días.
+El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. La [reparación de llantas](/es/servicios/reparacion-de-llantas) se hace ahí, y a la reparación correcta por dentro le decimos vulcanización. Llama al **+1 561-429-4041**. El horario es de 8:00 AM a 7:00 PM, los siete días.
 
 ## Un parche no es permiso para olvidar la llanta
 
@@ -25,7 +25,7 @@ Después de una reparación bien hecha, igual vigilas la llanta. Una reparación
 
 ## Ponchadura en el piso y daño en el costado
 
-El piso es donde un clavo chico puede ser reparable. El costado no. Un corte, un chipote o un hoyo en el costado es un cambio, [usada](/es/llantas-usadas) o [nueva](/es/llantas-nuevas), después de ver qué hay en tu medida. El hombro, donde el piso se curva hacia el costado, es la zona en la que somos estrictos. Un hoyo que se ve "casi en el piso" puede estar demasiado lejos para sellarlo con seguridad. Preferimos perder la reparación que soltarte con ella.
+El piso es donde un clavo chico puede ser reparable. El costado no. Un corte, un chipote o un hoyo en el costado es un cambio, [usada](/es/servicios/llantas-usadas) o [nueva](/es/servicios/llantas-nuevas), después de ver qué hay en tu medida. El hombro, donde el piso se curva hacia el costado, es la zona en la que somos estrictos. Un hoyo que se ve "casi en el piso" puede estar demasiado lejos para sellarlo con seguridad. Preferimos perder la reparación que soltarte con ella.
 
 Manejar con la llanta vacía, o tan baja que el costado se dobla, puede convertir un clavo reparable en una llanta acabada. El rin corta el forro. Lo sientes como un golpe, o no lo sientes hasta que la llanta cede. Si ya está en el rin, no sigas "nomás hasta Military Trl" salvo que de verdad estés a unos metros, y aun así puedes arruinarla. Usa la de repuesto si la tienes.
 
@@ -35,7 +35,7 @@ Así es la visita, sin receta para hacerlo tú. Vienes a 1114 S Military Trl, o 
 
 También buscamos una reparación vieja. Dos daños en un patrón malo, o un plug ya metido en el hombro, pueden cerrar el trabajo. Eso se escucha antes de que alguien te venda un segundo parche encima de un error.
 
-El [servicio móvil](/es/servicio-movil) puede cubrir una ponchadura a 10 millas del taller, incluyendo Greenacres, Palm Springs y Lake Worth Beach, cuando la dirección es un lugar seguro para trabajar. No es una promesa de 24 horas. El horario es el del taller. La alineación no es parte de un parche en la calle.
+El [servicio móvil](/es/servicios/servicio-movil) puede cubrir una ponchadura a 10 millas del taller, incluyendo Greenacres, Palm Springs y Lake Worth Beach, cuando la dirección es un lugar seguro para trabajar. No es una promesa de 24 horas. El horario es el del taller. La alineación no es parte de un parche en la calle.
 
 ## Si la llanta está perdiendo aire ahora
 
@@ -45,7 +45,7 @@ No pases la semana echándole aire en la gasolinera. Una llanta que pide aire ca
 
 ## Después de la reparación, qué seguimos viendo
 
-Una llanta reparada tiene que aguantar aire. Lo revisamos antes de que te vayas. No deberías ver el costado doblado, ni oír un siseo. Si el piso ya estaba disparejo, la reparación no enderezó el carro. Un jalón es pregunta de [alineación](/es/alineacion) para otra parte de la misma visita, no una señal de que el parche "no pegó."
+Una llanta reparada tiene que aguantar aire. Lo revisamos antes de que te vayas. No deberías ver el costado doblado, ni oír un siseo. Si el piso ya estaba disparejo, la reparación no enderezó el carro. Un jalón es pregunta de [alineación](/es/servicios/alineacion) para otra parte de la misma visita, no una señal de que el parche "no pegó."
 
 Pon la presión en frío según la placa de tu puerta, no según un número que recuerdas de otro carro. El calor la sube después de manejar. Eso es normal. Una reparación no cambia la placa.
 

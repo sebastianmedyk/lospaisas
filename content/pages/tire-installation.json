@@ -1,7 +1,7 @@
 {
-  "path": "/tire-installation",
-  "enPath": "/tire-installation",
-  "esPath": "/es/instalacion-de-llantas",
+  "path": "/services/tire-installation",
+  "enPath": "/services/tire-installation",
+  "esPath": "/es/servicios/instalacion-de-llantas",
   "locale": "en",
   "kind": "service",
   "title": "Tire Installation in West Palm Beach | Los Paisas Tires Shop",
@@ -68,15 +68,15 @@
   "moreHeading": "If you still need tires from us",
   "links": [
     {
-      "href": "/new-tires",
+      "href": "/services/new-tires",
       "label": "New tires sold at the shop"
     },
     {
-      "href": "/used-tires",
+      "href": "/services/used-tires",
       "label": "Used tires checked before mounting"
     },
     {
-      "href": "/tire-balancing",
+      "href": "/services/tire-balancing",
       "label": "Balancing with the price stated first"
     },
     {

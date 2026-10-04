@@ -1,7 +1,7 @@
 {
-  "path": "/es/llantas-usadas",
-  "enPath": "/used-tires",
-  "esPath": "/es/llantas-usadas",
+  "path": "/es/servicios/llantas-usadas",
+  "enPath": "/services/used-tires",
+  "esPath": "/es/servicios/llantas-usadas",
   "locale": "es",
   "kind": "service",
   "title": "Llantas Usadas en West Palm Beach | Los Paisas Tires Shop",
@@ -69,15 +69,15 @@
   "moreHeading": "Otro trabajo de llantas en el taller",
   "links": [
     {
-      "href": "/es/llantas-nuevas",
+      "href": "/es/servicios/llantas-nuevas",
       "label": "Llantas nuevas en West Palm Beach"
     },
     {
-      "href": "/es/balanceo",
+      "href": "/es/servicios/balanceo",
       "label": "Balanceo sin cargos ocultos"
     },
     {
-      "href": "/es/reparacion-de-llantas",
+      "href": "/es/servicios/reparacion-de-llantas",
       "label": "Reparación y vulcanización"
     },
     {

@@ -5,29 +5,24 @@ import { getAllLocalPages, getLocalPage, localPageMetadata } from "@/lib/local-p
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllLocalPages()
-    .filter(
-      (page) =>
-        page.locale === "es" &&
-        page.kind === "service" &&
-        page.path !== "/es/servicio-movil",
-    )
+    .filter((page) => page.locale === "es" && page.kind === "service")
     .map((page) => ({ slug: page.path.split("/").pop() as string }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const page = getLocalPage(`/es/${slug}`);
-  if (!page || page.locale !== "es") return {};
+  const page = getLocalPage(`/es/servicios/${slug}`);
+  if (!page || page.locale !== "es" || page.kind !== "service") return {};
   return localPageMetadata(page);
 }
 
 export default async function SpanishServicePage({ params }: Props) {
   const { slug } = await params;
-  const page = getLocalPage(`/es/${slug}`);
-  if (!page || page.locale !== "es" || page.kind !== "service" || page.path === "/es/servicio-movil") {
-    notFound();
-  }
+  const page = getLocalPage(`/es/servicios/${slug}`);
+  if (!page || page.locale !== "es" || page.kind !== "service") notFound();
   return <LocalPageView page={page} />;
 }

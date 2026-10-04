@@ -1,7 +1,7 @@
 {
-  "path": "/used-tires",
-  "enPath": "/used-tires",
-  "esPath": "/es/llantas-usadas",
+  "path": "/services/used-tires",
+  "enPath": "/services/used-tires",
+  "esPath": "/es/servicios/llantas-usadas",
   "locale": "en",
   "kind": "service",
   "title": "Used Tires in West Palm Beach | Los Paisas Tires Shop",
@@ -69,15 +69,15 @@
   "moreHeading": "Other tire work at this shop",
   "links": [
     {
-      "href": "/new-tires",
+      "href": "/services/new-tires",
       "label": "New tires in West Palm Beach"
     },
     {
-      "href": "/tire-balancing",
+      "href": "/services/tire-balancing",
       "label": "Tire balancing, no hidden fees"
     },
     {
-      "href": "/tire-repair",
+      "href": "/services/tire-repair",
       "label": "Tire repair and vulcanization"
     },
     {

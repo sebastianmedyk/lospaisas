@@ -1,7 +1,7 @@
 {
-  "path": "/wheel-alignment",
-  "enPath": "/wheel-alignment",
-  "esPath": "/es/alineacion",
+  "path": "/services/wheel-alignment",
+  "enPath": "/services/wheel-alignment",
+  "esPath": "/es/servicios/alineacion",
   "locale": "en",
   "kind": "service",
   "title": "Wheel Alignment in West Palm Beach | Los Paisas Tires Shop",
@@ -68,15 +68,15 @@
   "moreHeading": "Work that often goes with alignment",
   "links": [
     {
-      "href": "/tire-balancing",
+      "href": "/services/tire-balancing",
       "label": "Tire balancing when the wheel shakes"
     },
     {
-      "href": "/new-tires",
+      "href": "/services/new-tires",
       "label": "New tires before they wear crooked"
     },
     {
-      "href": "/used-tires",
+      "href": "/services/used-tires",
       "label": "Used tires after we see the wear"
     },
     {

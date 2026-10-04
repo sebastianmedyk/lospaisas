@@ -11,7 +11,7 @@ keywords:
   - new tires West Palm Beach
 ---
 
-West Palm Beach does not get a gentle summer. Pavement stays hot, cars sit in the sun, and a tire that was marginal in the spring can look worse by August. Los Paisas Tires Shop, at 1114 S Military Trl, sells both [used tires](/used-tires) and [new tires](/new-tires). This is how we talk about the choice when the heat is the reason you are asking. It is not a price sheet. The site does not list dollar amounts.
+West Palm Beach does not get a gentle summer. Pavement stays hot, cars sit in the sun, and a tire that was marginal in the spring can look worse by August. Los Paisas Tires Shop, at 1114 S Military Trl, sells both [used tires](/services/used-tires) and [new tires](/services/new-tires). This is how we talk about the choice when the heat is the reason you are asking. It is not a price sheet. The site does not list dollar amounts.
 
 ## What South Florida heat does to rubber
 
@@ -27,23 +27,23 @@ A used tire is reasonable when you need one or two tires, the size matches the c
 
 The heat does not forbid that. It raises the standard of the inspection. We turn the tire. We look at both sidewalls. We look for a repair too close to the shoulder. You can stand there and refuse the tire. We would rather show you another one, or a new one, than argue you into a casing we can already see is finished.
 
-Used tires are a weak choice when you need four matched tires for a car that sees long highway trips, or when the only used option in your size is cupped from a car that was out of alignment. That cupping will keep humming in the heat. Balancing may calm a weight problem. It will not regroove a tire. If the car pulls, the [alignment](/wheel-alignment) belongs in the same conversation, after the tires you are keeping are actually worth aligning.
+Used tires are a weak choice when you need four matched tires for a car that sees long highway trips, or when the only used option in your size is cupped from a car that was out of alignment. That cupping will keep humming in the heat. Balancing may calm a weight problem. It will not regroove a tire. If the car pulls, the [alignment](/services/wheel-alignment) belongs in the same conversation, after the tires you are keeping are actually worth aligning.
 
 ## When a new tire is the safer buy
 
 Buy new when the used rack does not have a sound tire in your size, when the other three tires are new enough that one worn casing would make the car feel wrong, or when you do not want to inherit someone else's sun damage. A new tire still has to be the right size and load rating. New does not mean "whatever was on sale in the wrong specification."
 
-A new tire in Florida still lives in the same sun. It is not maintenance-free. Check the cold pressure against the door placard, watch for nails, and do not ignore a pull. The first weeks of a new tire are when a crooked alignment shows up as a feathered shoulder. Catching that at [1114 S Military Trl](/wheel-alignment) is cheaper in rubber than waiting for the tread to disappear. We still will not invent a price for that visit on this page.
+A new tire in Florida still lives in the same sun. It is not maintenance-free. Check the cold pressure against the door placard, watch for nails, and do not ignore a pull. The first weeks of a new tire are when a crooked alignment shows up as a feathered shoulder. Catching that at [1114 S Military Trl](/services/wheel-alignment) is cheaper in rubber than waiting for the tread to disappear. We still will not invent a price for that visit on this page.
 
 ## Parking, pressure, and the afternoon pavement
 
 A car that sits all day on hot asphalt is harder on tires than a car that moves. If you can, you are not required to rebuild your life around shade, but you should look at the sidewalls when you are already at the shop for something else. A slow leak that was "fine" in the morning can be a flat by evening because you were low to start with and the heat was only hiding it. Low pressure flexes the sidewall and builds more heat. That is how a small neglect becomes a tire that cannot be repaired.
 
-If you pick up a nail on Military Trl, do not decide used-versus-new in the parking lot while the tire goes flat. A repairable tread puncture is a [repair](/tire-repair), vulcanized from the inside, not an automatic new set. A sidewall cut is not a repair. Then the used-or-new question is real, and it happens at the shop, with the tire in our hands.
+If you pick up a nail on Military Trl, do not decide used-versus-new in the parking lot while the tire goes flat. A repairable tread puncture is a [repair](/services/tire-repair), vulcanized from the inside, not an automatic new set. A sidewall cut is not a repair. Then the used-or-new question is real, and it happens at the shop, with the tire in our hands.
 
 ## Bring the car to S Military Trl
 
-The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Open 8:00 AM to 7:00 PM every day, including Sunday. Call **+1 561-429-4041**. English or Spanish. Greenacres, Palm Springs, and Lake Worth Beach are within 10 miles if you are driving in. If the car should not move, ask about [mobile service](/mobile-tire-service). The van does not carry the full choice of used and new tires, so a heat-and-tread decision is usually better made at the bay, where you can see both.
+The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Open 8:00 AM to 7:00 PM every day, including Sunday. Call **+1 561-429-4041**. English or Spanish. Greenacres, Palm Springs, and Lake Worth Beach are within 10 miles if you are driving in. If the car should not move, ask about [mobile service](/services/mobile-tire-service). The van does not carry the full choice of used and new tires, so a heat-and-tread decision is usually better made at the bay, where you can see both.
 
 ## Questions about heat and tires
 

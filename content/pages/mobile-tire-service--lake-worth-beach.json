@@ -1,10 +1,10 @@
 {
-  "path": "/mobile-tire-service/lake-worth-beach",
-  "enPath": "/mobile-tire-service/lake-worth-beach",
-  "esPath": "/es/servicio-movil/lake-worth-beach",
+  "path": "/services/mobile-tire-service/lake-worth-beach",
+  "enPath": "/services/mobile-tire-service/lake-worth-beach",
+  "esPath": "/es/servicios/servicio-movil/lake-worth-beach",
   "locale": "en",
   "kind": "city",
-  "parentPath": "/mobile-tire-service",
+  "parentPath": "/services/mobile-tire-service",
   "parentLabel": "Mobile tire service",
   "title": "Mobile Tire Service in Lake Worth Beach | Los Paisas",
   "description": "Mobile tire service in Lake Worth Beach, within 10 miles of 1114 S Military Trl. Call to confirm the stop. Open daily 8 AM–7 PM. +1 561-429-4041.",
@@ -67,19 +67,19 @@
   "moreHeading": "Shop page and the neighboring towns",
   "links": [
     {
-      "href": "/mobile-tire-service",
+      "href": "/services/mobile-tire-service",
       "label": "Mobile tire service within 10 miles"
     },
     {
-      "href": "/mobile-tire-service/greenacres",
+      "href": "/services/mobile-tire-service/greenacres",
       "label": "Mobile tire service in Greenacres"
     },
     {
-      "href": "/mobile-tire-service/palm-springs",
+      "href": "/services/mobile-tire-service/palm-springs",
       "label": "Mobile tire service in Palm Springs"
     },
     {
-      "href": "/tire-repair",
+      "href": "/services/tire-repair",
       "label": "Repair and vulcanization at the shop"
     },
     {

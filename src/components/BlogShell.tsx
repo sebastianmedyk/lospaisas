@@ -40,13 +40,16 @@ export function BlogBackLinks({
   homeLabel,
   blogLabel,
   breadcrumbLabel = "Breadcrumb",
+  sectionHref,
 }: {
   locale: "en" | "es";
   homeLabel: string;
   blogLabel: string;
   breadcrumbLabel?: string;
+  /** Override when this breadcrumb is a section other than the blog. */
+  sectionHref?: string;
 }) {
-  const blogHref = locale === "es" ? "/es/blog" : "/blog";
+  const blogHref = sectionHref ?? (locale === "es" ? "/es/blog" : "/blog");
   return (
     <nav
       className="mb-8 flex flex-wrap gap-3 text-sm font-bold uppercase tracking-wide"

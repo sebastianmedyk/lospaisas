@@ -1,7 +1,7 @@
 {
-  "path": "/es/servicio-movil",
-  "enPath": "/mobile-tire-service",
-  "esPath": "/es/servicio-movil",
+  "path": "/es/servicios/servicio-movil",
+  "enPath": "/services/mobile-tire-service",
+  "esPath": "/es/servicios/servicio-movil",
   "locale": "es",
   "kind": "service",
   "title": "Servicio Móvil de Llantas en West Palm Beach | Los Paisas",
@@ -68,19 +68,19 @@
   "moreHeading": "Notas móviles de tres pueblos cercanos",
   "links": [
     {
-      "href": "/es/servicio-movil/greenacres",
+      "href": "/es/servicios/servicio-movil/greenacres",
       "label": "Servicio móvil de llantas en Greenacres"
     },
     {
-      "href": "/es/servicio-movil/lake-worth-beach",
+      "href": "/es/servicios/servicio-movil/lake-worth-beach",
       "label": "Servicio móvil de llantas en Lake Worth Beach"
     },
     {
-      "href": "/es/servicio-movil/palm-springs",
+      "href": "/es/servicios/servicio-movil/palm-springs",
       "label": "Servicio móvil de llantas en Palm Springs"
     },
     {
-      "href": "/es/reparacion-de-llantas",
+      "href": "/es/servicios/reparacion-de-llantas",
       "label": "Reparación si puedes llegar al taller"
     },
     {

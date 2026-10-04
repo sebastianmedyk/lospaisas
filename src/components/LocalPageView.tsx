@@ -6,13 +6,16 @@ import { BUSINESS } from "@/lib/constants";
 import { getDictionary } from "@/lib/i18n";
 import type { LocalPage } from "@/lib/local-pages";
 import { breadcrumbJsonLd, faqPageJsonLd, pageServiceJsonLd } from "@/lib/seo";
+import { servicesPath } from "@/lib/service-routes";
 import { absoluteUrl } from "@/lib/site";
 
 export default function LocalPageView({ page }: { page: LocalPage }) {
   const t = getDictionary(page.locale);
   const pageUrl = absoluteUrl(page.path);
+  const sectionPath = servicesPath(page.locale);
   const crumbs = [
     { name: t.nav.home, url: absoluteUrl("/") },
+    { name: t.nav.services, url: absoluteUrl(sectionPath) },
     ...(page.parentPath && page.parentLabel
       ? [{ name: page.parentLabel, url: absoluteUrl(page.parentPath) }]
       : []),

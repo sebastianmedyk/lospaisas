@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { servicesPath } from "@/lib/service-routes";
 import {
   FacebookIcon,
   InstagramIcon,
@@ -15,6 +16,7 @@ export default function Footer() {
   const { t, locale } = useLanguage();
   const year = new Date().getFullYear();
   const blogHref = locale === "es" ? "/es/blog" : "/blog";
+  const servicesHref = servicesPath(locale);
 
   const socialClass =
     "cut-tr inline-flex items-center justify-center rounded-none border border-white/15 bg-[#141414] p-2.5 text-white/85 transition hover:border-brand-gold/50 hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
@@ -43,14 +45,14 @@ export default function Footer() {
               </p>
             </address>
             <nav className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-xs font-bold uppercase tracking-[0.16em] text-white/70">
-              <Link href="/#services" className="hover:text-brand-gold">
+              <Link href={servicesHref} className="hover:text-brand-gold">
                 {t.nav.services}
               </Link>
               <Link href="/#location" className="hover:text-brand-gold">
                 {t.nav.location}
               </Link>
-              <Link href="/#faq" className="hover:text-brand-gold">
-                {t.nav.faq}
+              <Link href="/#contact" className="hover:text-brand-gold">
+                {t.nav.contact}
               </Link>
               <Link href={blogHref} className="hover:text-brand-gold">
                 {t.nav.blog}

@@ -25,9 +25,9 @@ Revisa la presión en frío, antes de un viaje largo, con un medidor en el que c
 
 La placa suele traer una presión de adelante y otra de atrás, y a veces un número distinto con el carro cargado. Usa el que corresponde a cómo manejas. Un carro chico y una troca cargada no comparten ajuste, y por eso este taller no publica un PSI para todo el condado.
 
-Si acabamos de montar [llantas nuevas](/es/llantas-nuevas) o [usadas](/es/llantas-usadas), las dejamos calibradas antes de que te vayas, con tu placa. Dinos si la placa desapareció o si traes una medida que no es la de fábrica. Una medida equivocada es una conversación, no un ajuste en silencio.
+Si acabamos de montar [llantas nuevas](/es/servicios/llantas-nuevas) o [usadas](/es/servicios/llantas-usadas), las dejamos calibradas antes de que te vayas, con tu placa. Dinos si la placa desapareció o si traes una medida que no es la de fábrica. Una medida equivocada es una conversación, no un ajuste en silencio.
 
-La luz de presión es una pista, no un diagnóstico. Puede ser una fuga lenta, un clavo, un cambio de temperatura, o un sensor inconforme. No apagues la luz echando una cantidad al azar y olvidándote. Si la misma llanta pide aire cada pocos días, hay una fuga. Eso vive en la página de [reparación](/es/reparacion-de-llantas): la encontramos, y vulcanizamos solo cuando el hoyo está en una parte segura del piso.
+La luz de presión es una pista, no un diagnóstico. Puede ser una fuga lenta, un clavo, un cambio de temperatura, o un sensor inconforme. No apagues la luz echando una cantidad al azar y olvidándote. Si la misma llanta pide aire cada pocos días, hay una fuga. Eso vive en la página de [reparación](/es/servicios/reparacion-de-llantas): la encontramos, y vulcanizamos solo cuando el hoyo está en una parte segura del piso.
 
 ## Temporada de huracanes: qué ver antes de la tormenta
 
@@ -49,13 +49,13 @@ Si estás entre una usada cuarteada y esperar, haz el mandado antes de que el pr
 
 Una llanta que ayer estaba bien y esta mañana está vacía agarró algo, o tiene una fuga en el talón o en la válvula. Busca un clavo en el piso si puedes hacerlo sin meterte al tráfico. Luego deja de manejarla. Un tramo corto con el costado doblado es como un clavo reparable se vuelve una llanta que hay que cambiar.
 
-El [servicio móvil](/es/servicio-movil) está disponible a 10 millas de 1114 S Military Trl cuando no puedes manejar. Greenacres, Palm Springs y Lake Worth Beach están dentro de esa área. Llama y da la dirección. No sacamos la van en medio de una tormenta para demostrar algo, y no trabajamos en una calle inundada. Si el tiempo ya te alcanzó, lo seguro puede ser esperar a que los dos podamos llegar, no encontrarnos en un hombrillo.
+El [servicio móvil](/es/servicios/servicio-movil) está disponible a 10 millas de 1114 S Military Trl cuando no puedes manejar. Greenacres, Palm Springs y Lake Worth Beach están dentro de esa área. Llama y da la dirección. No sacamos la van en medio de una tormenta para demostrar algo, y no trabajamos en una calle inundada. Si el tiempo ya te alcanzó, lo seguro puede ser esperar a que los dos podamos llegar, no encontrarnos en un hombrillo.
 
 ## Dónde revisar las llantas
 
 Ven a Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415, entre 8:00 AM y 7:00 PM. Teléfono y WhatsApp **+1 561-429-4041**. Español o inglés. Trae el carro en frío si quieres que la lectura coincida con la placa. Si llegas con las llantas calientes, igual podemos encontrar una fuga. No vamos a fingir que una lectura en caliente es el ajuste en frío.
 
-El balanceo y la alineación son aparte de una revisión de presión. Una vibración suele ser [balanceo](/es/balanceo). Un jalón suele ser [alineación](/es/alineacion). La presión baja puede imitar las dos si una llanta está haciendo toda la flexión. Te decimos cuál problema estamos viendo.
+El balanceo y la alineación son aparte de una revisión de presión. Una vibración suele ser [balanceo](/es/servicios/balanceo). Un jalón suele ser [alineación](/es/servicios/alineacion). La presión baja puede imitar las dos si una llanta está haciendo toda la flexión. Te decimos cuál problema estamos viendo.
 
 ## Preguntas sobre presión y tormentas
 

@@ -1,10 +1,10 @@
 {
-  "path": "/es/servicio-movil/lake-worth-beach",
-  "enPath": "/mobile-tire-service/lake-worth-beach",
-  "esPath": "/es/servicio-movil/lake-worth-beach",
+  "path": "/es/servicios/servicio-movil/lake-worth-beach",
+  "enPath": "/services/mobile-tire-service/lake-worth-beach",
+  "esPath": "/es/servicios/servicio-movil/lake-worth-beach",
   "locale": "es",
   "kind": "city",
-  "parentPath": "/es/servicio-movil",
+  "parentPath": "/es/servicios/servicio-movil",
   "parentLabel": "Servicio móvil",
   "title": "Servicio Móvil de Llantas en Lake Worth Beach | Los Paisas",
   "description": "Servicio móvil en Lake Worth Beach, a 10 millas de 1114 S Military Trl. Llama y confirmamos la parada. Abierto 8 AM–7 PM. +1 561-429-4041.",
@@ -67,19 +67,19 @@
   "moreHeading": "La página del taller y los pueblos vecinos",
   "links": [
     {
-      "href": "/es/servicio-movil",
+      "href": "/es/servicios/servicio-movil",
       "label": "Servicio móvil a 10 millas"
     },
     {
-      "href": "/es/servicio-movil/greenacres",
+      "href": "/es/servicios/servicio-movil/greenacres",
       "label": "Servicio móvil en Greenacres"
     },
     {
-      "href": "/es/servicio-movil/palm-springs",
+      "href": "/es/servicios/servicio-movil/palm-springs",
       "label": "Servicio móvil en Palm Springs"
     },
     {
-      "href": "/es/reparacion-de-llantas",
+      "href": "/es/servicios/reparacion-de-llantas",
       "label": "Reparación y vulcanización en el taller"
     },
     {

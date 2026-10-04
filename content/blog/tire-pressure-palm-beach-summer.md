@@ -25,9 +25,9 @@ Check pressure cold, before a long drive, with a gauge you trust more than the s
 
 The placard usually lists a front pressure and a rear pressure, and sometimes a different number when the car is loaded. Use the one that matches how you drive. A compact car and a loaded truck do not share a setting, which is why this shop will not publish one county-wide PSI.
 
-If you just had [new tires](/new-tires) or [used tires](/used-tires) mounted, we set them before you leave, using your placard. Tell us if the placard is gone or if you are running a size that is not what the car was built with. A wrong size is a conversation, not a silent adjustment.
+If you just had [new tires](/services/new-tires) or [used tires](/services/used-tires) mounted, we set them before you leave, using your placard. Tell us if the placard is gone or if you are running a size that is not what the car was built with. A wrong size is a conversation, not a silent adjustment.
 
-A tire-pressure light is a clue, not a diagnosis. It can mean a slow leak, a nail, a temperature swing, or a sensor that is unhappy. Do not clear the light by adding a random amount of air and forgetting it. If the same tire needs air every few days, you have a leak. That belongs on the [repair](/tire-repair) page: we find it, and we vulcanize it only when the hole is in a safe part of the tread.
+A tire-pressure light is a clue, not a diagnosis. It can mean a slow leak, a nail, a temperature swing, or a sensor that is unhappy. Do not clear the light by adding a random amount of air and forgetting it. If the same tire needs air every few days, you have a leak. That belongs on the [repair](/services/tire-repair) page: we find it, and we vulcanize it only when the hole is in a safe part of the tread.
 
 ## Hurricane season: what to look at before a storm
 
@@ -49,13 +49,13 @@ If you are choosing between a cracked used tire and waiting, do the errand befor
 
 A tire that was correct yesterday and is flat this morning picked up something, or it has a leak at the bead or the valve. Look for a nail in the tread if you can do that without putting yourself in traffic. Then stop driving on it. A short drive on a folding sidewall is how a patchable nail becomes a tire we have to replace.
 
-[Mobile service](/mobile-tire-service) is available within 10 miles of 1114 S Military Trl when you cannot drive. Greenacres, Palm Springs, and Lake Worth Beach are inside that area. Call and give the address. We do not drive the van through a storm to prove a point, and we do not work in a flooded street. If the weather is already on you, the safe choice may be to wait until we can both get there, not to meet on a shoulder.
+[Mobile service](/services/mobile-tire-service) is available within 10 miles of 1114 S Military Trl when you cannot drive. Greenacres, Palm Springs, and Lake Worth Beach are inside that area. Call and give the address. We do not drive the van through a storm to prove a point, and we do not work in a flooded street. If the weather is already on you, the safe choice may be to wait until we can both get there, not to meet on a shoulder.
 
 ## Where to have the tires checked
 
 Come to Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415, between 8:00 AM and 7:00 PM. Phone and WhatsApp **+1 561-429-4041**. English or Spanish. Bring the car cold if you want the reading to match the placard. If you arrive with hot tires, we can still find a leak. We will not pretend a hot reading is the cold setting.
 
-Balancing and alignment are separate from a pressure check. A shake is often [balance](/tire-balancing). A pull is often [alignment](/wheel-alignment). Low pressure can mimic both if one tire is doing all the flexing. We will say which problem we are looking at.
+Balancing and alignment are separate from a pressure check. A shake is often [balance](/services/tire-balancing). A pull is often [alignment](/services/wheel-alignment). Low pressure can mimic both if one tire is doing all the flexing. We will say which problem we are looking at.
 
 ## Questions about pressure and storms
 

@@ -1,7 +1,7 @@
 {
-  "path": "/tire-balancing",
-  "enPath": "/tire-balancing",
-  "esPath": "/es/balanceo",
+  "path": "/services/tire-balancing",
+  "enPath": "/services/tire-balancing",
+  "esPath": "/es/servicios/balanceo",
   "locale": "en",
   "kind": "service",
   "title": "Tire Balancing in West Palm Beach | Los Paisas Tires Shop",
@@ -68,15 +68,15 @@
   "moreHeading": "If balance is only part of the problem",
   "links": [
     {
-      "href": "/wheel-alignment",
+      "href": "/services/wheel-alignment",
       "label": "Wheel alignment when the car pulls"
     },
     {
-      "href": "/tire-installation",
+      "href": "/services/tire-installation",
       "label": "Install tires you already bought"
     },
     {
-      "href": "/tire-repair",
+      "href": "/services/tire-repair",
       "label": "Repair a nail before you balance"
     },
     {

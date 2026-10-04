@@ -5,24 +5,24 @@ import { getAllLocalPages, getLocalPage, localPageMetadata } from "@/lib/local-p
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllLocalPages()
-    .filter((page) => page.locale === "en" && page.kind === "service" && page.path !== "/mobile-tire-service")
-    .map((page) => ({ slug: page.path.slice(1) }));
+    .filter((page) => page.locale === "en" && page.kind === "service")
+    .map((page) => ({ slug: page.path.split("/").pop() as string }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const page = getLocalPage(`/${slug}`);
-  if (!page || page.locale !== "en") return {};
+  const page = getLocalPage(`/services/${slug}`);
+  if (!page || page.locale !== "en" || page.kind !== "service") return {};
   return localPageMetadata(page);
 }
 
 export default async function EnglishServicePage({ params }: Props) {
   const { slug } = await params;
-  const page = getLocalPage(`/${slug}`);
-  if (!page || page.locale !== "en" || page.kind !== "service" || page.path === "/mobile-tire-service") {
-    notFound();
-  }
+  const page = getLocalPage(`/services/${slug}`);
+  if (!page || page.locale !== "en" || page.kind !== "service") notFound();
   return <LocalPageView page={page} />;
 }

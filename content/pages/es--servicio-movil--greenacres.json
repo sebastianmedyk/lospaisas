@@ -1,10 +1,10 @@
 {
-  "path": "/es/servicio-movil/greenacres",
-  "enPath": "/mobile-tire-service/greenacres",
-  "esPath": "/es/servicio-movil/greenacres",
+  "path": "/es/servicios/servicio-movil/greenacres",
+  "enPath": "/services/mobile-tire-service/greenacres",
+  "esPath": "/es/servicios/servicio-movil/greenacres",
   "locale": "es",
   "kind": "city",
-  "parentPath": "/es/servicio-movil",
+  "parentPath": "/es/servicios/servicio-movil",
   "parentLabel": "Servicio móvil",
   "title": "Servicio Móvil de Llantas en Greenacres | Los Paisas",
   "description": "Servicio móvil de llantas en Greenacres, a 10 millas de 1114 S Military Trl. Llama para confirmar la dirección o ven al taller. Abierto 8 AM–7 PM.",
@@ -67,19 +67,19 @@
   "moreHeading": "El taller y los otros dos pueblos",
   "links": [
     {
-      "href": "/es/servicio-movil",
+      "href": "/es/servicios/servicio-movil",
       "label": "Servicio móvil desde el taller"
     },
     {
-      "href": "/es/servicio-movil/palm-springs",
+      "href": "/es/servicios/servicio-movil/palm-springs",
       "label": "Servicio móvil en Palm Springs"
     },
     {
-      "href": "/es/servicio-movil/lake-worth-beach",
+      "href": "/es/servicios/servicio-movil/lake-worth-beach",
       "label": "Servicio móvil en Lake Worth Beach"
     },
     {
-      "href": "/es/reparacion-de-llantas",
+      "href": "/es/servicios/reparacion-de-llantas",
       "label": "Reparación en el local"
     },
     {

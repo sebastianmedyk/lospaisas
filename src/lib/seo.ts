@@ -17,34 +17,46 @@ export const GEO = {
 
 export const SERVICE_OFFERS = [
   {
-    name: "New & Used Tires",
+    name: "New Tires",
     description:
-      "Quality new and used tires for every budget at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.",
+      "New tires matched to the vehicle at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.",
+    url: "/services/new-tires",
+  },
+  {
+    name: "Used Tires",
+    description:
+      "Checked used tires at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.",
+    url: "/services/used-tires",
   },
   {
     name: "Wheel Alignment",
     description:
       "Precision wheel alignment (geometría) for safer handling and even tire wear on the S Military Trl corridor in West Palm Beach.",
+    url: "/services/wheel-alignment",
   },
   {
     name: "Tire Balancing",
     description:
-      "Wheel balancing with transparent pricing and no hidden fees at Los Paisas Tires Shop in West Palm Beach.",
+      "Wheel balancing with no hidden fees at Los Paisas Tires Shop in West Palm Beach.",
+    url: "/services/tire-balancing",
   },
   {
     name: "Tire Repair & Vulcanization",
     description:
       "Professional tire repair and vulcanization to get West Palm Beach and Palm Beach County drivers back on the road safely.",
+    url: "/services/tire-repair",
   },
   {
     name: "Install Customer Tires",
     description:
       "Mount and install tires you already purchased — careful install by the Los Paisas Tires Shop team on S Military Trl.",
+    url: "/services/tire-installation",
   },
   {
     name: "Mobile Tire Service Within 10 Miles",
     description:
       "Mobile tire service within 10 miles of 1114 S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
+    url: "/services/mobile-tire-service",
   },
 ] as const;
 
@@ -188,7 +200,7 @@ export function serviceJsonLdList() {
       "@type": "City",
       name,
     })),
-    url: absoluteUrl("/#services"),
+    url: absoluteUrl(service.url),
   }));
 }
 
@@ -310,7 +322,7 @@ export function flatTireSundayHowToJsonLd() {
         position: 3,
         name: "Get repair, vulcanization, or a replacement tire",
         text: "The Los Paisas Tires Shop team inspects the tire and repairs or vulcanizes when possible, or mounts a new or used tire, installs customer-owned tires, and balances as needed with no hidden fees. Open Sunday 8:00 AM–7:00 PM — same hours as every other day.",
-        url: absoluteUrl("/#services"),
+        url: absoluteUrl("/services/tire-repair"),
       },
     ],
   };

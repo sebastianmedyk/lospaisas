@@ -1,7 +1,7 @@
 {
-  "path": "/es/reparacion-de-llantas",
-  "enPath": "/tire-repair",
-  "esPath": "/es/reparacion-de-llantas",
+  "path": "/es/servicios/reparacion-de-llantas",
+  "enPath": "/services/tire-repair",
+  "esPath": "/es/servicios/reparacion-de-llantas",
   "locale": "es",
   "kind": "service",
   "title": "Reparación de Llantas en West Palm Beach | Los Paisas",
@@ -68,15 +68,15 @@
   "moreHeading": "Si la llanta no se puede salvar",
   "links": [
     {
-      "href": "/es/llantas-usadas",
+      "href": "/es/servicios/llantas-usadas",
       "label": "Llantas usadas cuando no se puede reparar"
     },
     {
-      "href": "/es/llantas-nuevas",
+      "href": "/es/servicios/llantas-nuevas",
       "label": "Llantas nuevas del mismo taller"
     },
     {
-      "href": "/es/servicio-movil",
+      "href": "/es/servicios/servicio-movil",
       "label": "Servicio móvil a 10 millas"
     },
     {

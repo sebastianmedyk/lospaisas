@@ -1,7 +1,7 @@
 {
-  "path": "/es/balanceo",
-  "enPath": "/tire-balancing",
-  "esPath": "/es/balanceo",
+  "path": "/es/servicios/balanceo",
+  "enPath": "/services/tire-balancing",
+  "esPath": "/es/servicios/balanceo",
   "locale": "es",
   "kind": "service",
   "title": "Balanceo de Llantas en West Palm Beach | Los Paisas",
@@ -68,15 +68,15 @@
   "moreHeading": "Si el balanceo es solo una parte",
   "links": [
     {
-      "href": "/es/alineacion",
+      "href": "/es/servicios/alineacion",
       "label": "Alineación cuando el carro jala"
     },
     {
-      "href": "/es/instalacion-de-llantas",
+      "href": "/es/servicios/instalacion-de-llantas",
       "label": "Instalar llantas que ya compraste"
     },
     {
-      "href": "/es/reparacion-de-llantas",
+      "href": "/es/servicios/reparacion-de-llantas",
       "label": "Reparar un clavo antes de balancear"
     },
     {

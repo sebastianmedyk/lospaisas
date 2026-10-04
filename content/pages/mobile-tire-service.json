@@ -1,7 +1,7 @@
 {
-  "path": "/mobile-tire-service",
-  "enPath": "/mobile-tire-service",
-  "esPath": "/es/servicio-movil",
+  "path": "/services/mobile-tire-service",
+  "enPath": "/services/mobile-tire-service",
+  "esPath": "/es/servicios/servicio-movil",
   "locale": "en",
   "kind": "service",
   "title": "Mobile Tire Service in West Palm Beach | Los Paisas",
@@ -68,19 +68,19 @@
   "moreHeading": "Mobile notes for three nearby towns",
   "links": [
     {
-      "href": "/mobile-tire-service/greenacres",
+      "href": "/services/mobile-tire-service/greenacres",
       "label": "Mobile tire service in Greenacres"
     },
     {
-      "href": "/mobile-tire-service/lake-worth-beach",
+      "href": "/services/mobile-tire-service/lake-worth-beach",
       "label": "Mobile tire service in Lake Worth Beach"
     },
     {
-      "href": "/mobile-tire-service/palm-springs",
+      "href": "/services/mobile-tire-service/palm-springs",
       "label": "Mobile tire service in Palm Springs"
     },
     {
-      "href": "/tire-repair",
+      "href": "/services/tire-repair",
       "label": "Tire repair if you can reach the shop"
     },
     {

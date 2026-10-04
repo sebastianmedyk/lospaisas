@@ -72,11 +72,19 @@ export const translations = {
     },
     services: {
       title: "Our Services",
-      subtitle: "Tire-only shop on Military Trl — clear work, no upsells.",
+      subtitle: "Tire-only shop on Military Trl — clear work, no oil, brakes, or A/C.",
+      teaser:
+        "New tires, used tires, repair, alignment, balancing, install, and mobile service. Each one has its own page.",
+      all: "All services",
+      view: "View service",
       items: [
         {
-          title: "New & Used Tires",
-          description: "Quality tires for every budget. We help you pick the right fit.",
+          title: "New Tires",
+          description: "New tires matched to the car, mounted at the shop on S Military Trl.",
+        },
+        {
+          title: "Used Tires",
+          description: "Checked used tires when a new set is more than you need.",
         },
         {
           title: "Wheel Alignment",
@@ -84,7 +92,7 @@ export const translations = {
         },
         {
           title: "Tire Balancing",
-          description: "Smooth ride. Transparent pricing — no hidden fees.",
+          description: "Smooth ride. The work is agreed before we start — no hidden fees.",
         },
         {
           title: "Repair & Vulcanization",
@@ -377,30 +385,38 @@ export const translations = {
     },
     services: {
       title: "Nuestros Servicios",
-      subtitle: "Solo llantas en Military Trl — trabajo claro, sin ventas cruzadas.",
+      subtitle: "Solo llantas en Military Trl — trabajo claro, sin aceite, frenos ni A/C.",
+      teaser:
+        "Llantas nuevas, usadas, reparación, alineación, balanceo, instalación y servicio móvil. Cada uno tiene su página.",
+      all: "Todos los servicios",
+      view: "Ver servicio",
       items: [
         {
-          title: "Llantas Nuevas y Usadas",
-          description: "Llantas de calidad para todo presupuesto. Te ayudamos a elegir.",
+          title: "Llantas nuevas",
+          description: "Llantas nuevas según el carro, montadas en el taller de S Military Trl.",
         },
         {
-          title: "Alineación / Geometría",
+          title: "Llantas usadas",
+          description: "Usadas revisadas cuando un juego nuevo es más de lo que necesitas.",
+        },
+        {
+          title: "Alineación / geometría",
           description: "Alineación de precisión para un manejo derecho y uniforme.",
         },
         {
           title: "Balanceo",
-          description: "Manejo suave. Precios transparentes — sin cargos ocultos.",
+          description: "Manejo suave. El trabajo se acuerda antes de empezar — sin cargos ocultos.",
         },
         {
-          title: "Reparación y Vulcanización",
+          title: "Reparación y vulcanización",
           description: "Parche y vulcanización profesional para que vuelvas a rodar.",
         },
         {
-          title: "Instalamos Tus Llantas",
+          title: "Instalamos tus llantas",
           description: "¿Trajiste las tuyas? Las montamos e instalamos con cuidado.",
         },
         {
-          title: "Domicilio a 10 Millas",
+          title: "Domicilio a 10 millas",
           description: "¿No puedes venir? Vamos a ti a 10 millas del taller.",
         },
       ],

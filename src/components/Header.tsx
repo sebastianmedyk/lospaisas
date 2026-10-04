@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { servicesPath } from "@/lib/service-routes";
 import LanguageToggle from "./LanguageToggle";
 import { PhoneIcon, WhatsAppIcon } from "./Icons";
 
@@ -11,13 +12,13 @@ export default function Header() {
   const { t, locale } = useLanguage();
   const [open, setOpen] = useState(false);
   const blogHref = locale === "es" ? "/es/blog" : "/blog";
+  const servicesHref = servicesPath(locale);
 
   const links = [
-    { href: "/#services", label: t.nav.services },
-    { href: "/#why-us", label: t.nav.whyUs },
+    { href: servicesHref, label: t.nav.services },
     { href: "/#location", label: t.nav.location },
     { href: "/#contact", label: t.nav.contact },
-    { href: blogHref, label: t.nav.blog, internal: true },
+    { href: blogHref, label: t.nav.blog },
   ];
 
   const focusRing =
@@ -46,25 +47,15 @@ export default function Header() {
         </Link>
 
         <nav className="hidden items-center gap-0.5 xl:flex" aria-label={t.a11y.primaryNav}>
-          {links.map((link) =>
-            link.internal ? (
-              <Link
-                key={link.href}
-                href={link.href}
-                className={`border-b border-transparent px-2.5 py-2 text-[0.65rem] font-bold uppercase tracking-[0.16em] text-white/80 transition hover:border-brand-gold/80 hover:text-brand-gold ${focusRing}`}
-              >
-                {link.label}
-              </Link>
-            ) : (
-              <a
-                key={link.href}
-                href={link.href}
-                className={`border-b border-transparent px-2.5 py-2 text-[0.65rem] font-bold uppercase tracking-[0.16em] text-white/80 transition hover:border-brand-gold/80 hover:text-brand-gold ${focusRing}`}
-              >
-                {link.label}
-              </a>
-            )
-          )}
+          {links.map((link) => (
+            <Link
+              key={link.href}
+              href={link.href}
+              className={`border-b border-transparent px-2.5 py-2 text-[0.65rem] font-bold uppercase tracking-[0.16em] text-white/80 transition hover:border-brand-gold/80 hover:text-brand-gold ${focusRing}`}
+            >
+              {link.label}
+            </Link>
+          ))}
         </nav>
 
         <div className="flex shrink-0 items-center gap-2 sm:gap-3">
@@ -107,27 +98,16 @@ export default function Header() {
       {open && (
         <div id="mobile-nav" className="rounded-none border-t border-white/15 bg-brand-bg px-4 py-4 xl:hidden">
           <nav className="flex flex-col gap-1" aria-label={t.a11y.mobileNav}>
-            {links.map((link) =>
-              link.internal ? (
-                <Link
-                  key={link.href}
-                  href={link.href}
-                  onClick={() => setOpen(false)}
-                  className={`rounded-none border-l border-transparent px-3 py-2.5 text-sm font-bold uppercase tracking-wider text-white/90 hover:border-brand-gold hover:bg-[#141414] hover:text-brand-gold ${focusRing}`}
-                >
-                  {link.label}
-                </Link>
-              ) : (
-                <a
-                  key={link.href}
-                  href={link.href}
-                  onClick={() => setOpen(false)}
-                  className={`rounded-none border-l border-transparent px-3 py-2.5 text-sm font-bold uppercase tracking-wider text-white/90 hover:border-brand-gold hover:bg-[#141414] hover:text-brand-gold ${focusRing}`}
-                >
-                  {link.label}
-                </a>
-              )
-            )}
+            {links.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                onClick={() => setOpen(false)}
+                className={`rounded-none border-l border-transparent px-3 py-2.5 text-sm font-bold uppercase tracking-wider text-white/90 hover:border-brand-gold hover:bg-[#141414] hover:text-brand-gold ${focusRing}`}
+              >
+                {link.label}
+              </Link>
+            ))}
             <div className="mt-3 flex flex-col gap-2">
               <a href={BUSINESS.phoneTel} className="btn-gold flex-1 min-h-[48px] py-2.5 text-xs">
                 <PhoneIcon className="h-3.5 w-3.5" />

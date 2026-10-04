@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAllPosts, blogPath } from "@/lib/blog";
 import { blogLanguageAlternates } from "@/lib/blog-routes";
 import { getAllLocalPages } from "@/lib/local-pages";
+import { serviceLanguageAlternates, servicesPath } from "@/lib/service-routes";
 import { SITE_URL } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -38,6 +39,32 @@ export default function sitemap(): MetadataRoute.Sitemap {
           en: `${SITE_URL}/blog`,
           es: `${SITE_URL}/es/blog`,
           "x-default": `${SITE_URL}/blog`,
+        },
+      },
+    },
+    {
+      url: `${SITE_URL}${servicesPath("en")}`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.9,
+      alternates: {
+        languages: {
+          en: `${SITE_URL}${serviceLanguageAlternates().en}`,
+          es: `${SITE_URL}${serviceLanguageAlternates().es}`,
+          "x-default": `${SITE_URL}${serviceLanguageAlternates()["x-default"]}`,
+        },
+      },
+    },
+    {
+      url: `${SITE_URL}${servicesPath("es")}`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.9,
+      alternates: {
+        languages: {
+          en: `${SITE_URL}${serviceLanguageAlternates().en}`,
+          es: `${SITE_URL}${serviceLanguageAlternates().es}`,
+          "x-default": `${SITE_URL}${serviceLanguageAlternates()["x-default"]}`,
         },
       },
     },

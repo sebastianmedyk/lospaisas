@@ -1,7 +1,7 @@
 {
-  "path": "/new-tires",
-  "enPath": "/new-tires",
-  "esPath": "/es/llantas-nuevas",
+  "path": "/services/new-tires",
+  "enPath": "/services/new-tires",
+  "esPath": "/es/servicios/llantas-nuevas",
   "locale": "en",
   "kind": "service",
   "title": "New Tires in West Palm Beach | Los Paisas Tires Shop",
@@ -68,15 +68,15 @@
   "moreHeading": "Related work on the same visit",
   "links": [
     {
-      "href": "/used-tires",
+      "href": "/services/used-tires",
       "label": "Used tires when a new set is more than you need"
     },
     {
-      "href": "/wheel-alignment",
+      "href": "/services/wheel-alignment",
       "label": "Wheel alignment after uneven wear"
     },
     {
-      "href": "/tire-balancing",
+      "href": "/services/tire-balancing",
       "label": "Balancing with no hidden fees"
     },
     {

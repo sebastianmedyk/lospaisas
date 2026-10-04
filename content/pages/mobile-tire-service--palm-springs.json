@@ -1,10 +1,10 @@
 {
-  "path": "/mobile-tire-service/palm-springs",
-  "enPath": "/mobile-tire-service/palm-springs",
-  "esPath": "/es/servicio-movil/palm-springs",
+  "path": "/services/mobile-tire-service/palm-springs",
+  "enPath": "/services/mobile-tire-service/palm-springs",
+  "esPath": "/es/servicios/servicio-movil/palm-springs",
   "locale": "en",
   "kind": "city",
-  "parentPath": "/mobile-tire-service",
+  "parentPath": "/services/mobile-tire-service",
   "parentLabel": "Mobile tire service",
   "title": "Mobile Tire Service in Palm Springs | Los Paisas Tires",
   "description": "Mobile tire service in Palm Springs, Florida, within 10 miles of 1114 S Military Trl. Not the California city. Call +1 561-429-4041. Open daily 8 AM–7 PM.",
@@ -67,19 +67,19 @@
   "moreHeading": "Back to the shop and the other towns",
   "links": [
     {
-      "href": "/mobile-tire-service",
+      "href": "/services/mobile-tire-service",
       "label": "Mobile tire service within 10 miles"
     },
     {
-      "href": "/mobile-tire-service/greenacres",
+      "href": "/services/mobile-tire-service/greenacres",
       "label": "Mobile tire service in Greenacres"
     },
     {
-      "href": "/mobile-tire-service/lake-worth-beach",
+      "href": "/services/mobile-tire-service/lake-worth-beach",
       "label": "Mobile tire service in Lake Worth Beach"
     },
     {
-      "href": "/used-tires",
+      "href": "/services/used-tires",
       "label": "Used tires if you can reach the shop"
     },
     {

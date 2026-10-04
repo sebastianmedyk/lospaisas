@@ -1,7 +1,7 @@
 {
-  "path": "/es/alineacion",
-  "enPath": "/wheel-alignment",
-  "esPath": "/es/alineacion",
+  "path": "/es/servicios/alineacion",
+  "enPath": "/services/wheel-alignment",
+  "esPath": "/es/servicios/alineacion",
   "locale": "es",
   "kind": "service",
   "title": "Alineación en West Palm Beach | Los Paisas Tires Shop",
@@ -68,15 +68,15 @@
   "moreHeading": "Trabajo que suele ir con la alineación",
   "links": [
     {
-      "href": "/es/balanceo",
+      "href": "/es/servicios/balanceo",
       "label": "Balanceo cuando el volante vibra"
     },
     {
-      "href": "/es/llantas-nuevas",
+      "href": "/es/servicios/llantas-nuevas",
       "label": "Llantas nuevas antes de gastarlas chuecas"
     },
     {
-      "href": "/es/llantas-usadas",
+      "href": "/es/servicios/llantas-usadas",
       "label": "Llantas usadas después de ver el desgaste"
     },
     {

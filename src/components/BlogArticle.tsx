@@ -5,6 +5,7 @@ import { getDictionary } from "@/lib/i18n";
 import JsonLd from "@/components/JsonLd";
 import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
 import { articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
+import { servicesPath } from "@/lib/service-routes";
 import { absoluteUrl } from "@/lib/site";
 
 type Props = {
@@ -81,7 +82,7 @@ export default function BlogArticle({ post }: Props) {
             <Link href="/" className="btn-gold py-2.5 text-xs">
               {t.blog.backHome}
             </Link>
-            <Link href="/#services" className="btn-outline py-2.5 text-xs">
+            <Link href={servicesPath(post.locale)} className="btn-outline py-2.5 text-xs">
               {t.nav.services}
             </Link>
             <Link href="/#location" className="btn-outline py-2.5 text-xs">

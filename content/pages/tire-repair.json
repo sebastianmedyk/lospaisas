@@ -1,7 +1,7 @@
 {
-  "path": "/tire-repair",
-  "enPath": "/tire-repair",
-  "esPath": "/es/reparacion-de-llantas",
+  "path": "/services/tire-repair",
+  "enPath": "/services/tire-repair",
+  "esPath": "/es/servicios/reparacion-de-llantas",
   "locale": "en",
   "kind": "service",
   "title": "Tire Repair in West Palm Beach | Los Paisas Tires Shop",
@@ -68,15 +68,15 @@
   "moreHeading": "If the tire cannot be saved",
   "links": [
     {
-      "href": "/used-tires",
+      "href": "/services/used-tires",
       "label": "Used tires when a repair is not safe"
     },
     {
-      "href": "/new-tires",
+      "href": "/services/new-tires",
       "label": "New tires from the same shop"
     },
     {
-      "href": "/mobile-tire-service",
+      "href": "/services/mobile-tire-service",
       "label": "Mobile tire service within 10 miles"
     },
     {

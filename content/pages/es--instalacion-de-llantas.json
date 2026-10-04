@@ -1,7 +1,7 @@
 {
-  "path": "/es/instalacion-de-llantas",
-  "enPath": "/tire-installation",
-  "esPath": "/es/instalacion-de-llantas",
+  "path": "/es/servicios/instalacion-de-llantas",
+  "enPath": "/services/tire-installation",
+  "esPath": "/es/servicios/instalacion-de-llantas",
   "locale": "es",
   "kind": "service",
   "title": "Instalación de Llantas en West Palm Beach | Los Paisas",
@@ -68,15 +68,15 @@
   "moreHeading": "Si todavía necesitas llantas nuestras",
   "links": [
     {
-      "href": "/es/llantas-nuevas",
+      "href": "/es/servicios/llantas-nuevas",
       "label": "Llantas nuevas vendidas en el taller"
     },
     {
-      "href": "/es/llantas-usadas",
+      "href": "/es/servicios/llantas-usadas",
       "label": "Llantas usadas revisadas antes de montar"
     },
     {
-      "href": "/es/balanceo",
+      "href": "/es/servicios/balanceo",
       "label": "Balanceo con el precio dicho primero"
     },
     {
