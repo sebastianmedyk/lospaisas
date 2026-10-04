@@ -141,6 +141,8 @@ export const translations = {
       sundayNote: "Open Sunday — same hours as every other day.",
       phoneLabel: "Phone / WhatsApp",
       phone: "+1 561-429-4041",
+      pageLink: "Full location",
+      hoursNap: "Mon–Sun 8:00 AM–7:00 PM",
       getDirections: "Get directions",
       directions: "Open in Google Maps",
       mapTitle: "Los Paisas Tires Shop map — S Military Trl, West Palm Beach",
@@ -162,6 +164,7 @@ export const translations = {
       catalogue: "Catalogue",
       hours: "Open daily 8:00 AM – 7:00 PM · Military Trl, WPB",
       secondaryLabel: "More channels",
+      pageLink: "Contact page",
     },
     promo: {
       sunday: "Flat tire Sunday open — Los Paisas Tires Shop on S Military Trl, West Palm Beach",
@@ -454,6 +457,8 @@ export const translations = {
       sundayNote: "Abierto el domingo — el mismo horario todos los días.",
       phoneLabel: "Teléfono / WhatsApp",
       phone: "+1 561-429-4041",
+      pageLink: "Ver ubicación",
+      hoursNap: "Lun–dom 8:00 AM–7:00 PM",
       getDirections: "Cómo llegar",
       directions: "Abrir en Google Maps",
       mapTitle: "Mapa de Los Paisas Tires Shop — S Military Trl, West Palm Beach",
@@ -475,6 +480,7 @@ export const translations = {
       catalogue: "Catálogo",
       hours: "Abierto diario 8:00 AM – 7:00 PM · Military Trl, WPB",
       secondaryLabel: "Más canales",
+      pageLink: "Ver contacto",
     },
     promo: {
       sunday: "Llanta ponchada el domingo — Los Paisas Tires Shop en S Military Trl, West Palm Beach",

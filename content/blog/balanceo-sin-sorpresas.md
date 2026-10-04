@@ -38,4 +38,4 @@ Mientras estás en **1114 S Military Trl**, también podemos ayudarte con:
 
 ## Agenda hoy
 
-Llama o WhatsApp **+1 561-429-4041**. Abierto **7 días, 8:00 AM – 7:00 PM**. Mira [nuestra ubicación](/#location) en el mapa y la lista completa de [servicios](/#services).
+Llama o WhatsApp **+1 561-429-4041**. Abierto **7 días, 8:00 AM – 7:00 PM**. Mira [nuestra ubicación](/es/ubicacion) en el mapa y la lista completa de [servicios](/#services).

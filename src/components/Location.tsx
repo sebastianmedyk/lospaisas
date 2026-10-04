@@ -1,11 +1,13 @@
 "use client";
 
+import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { locationPath } from "@/lib/place-routes";
 import { ClockIcon, MapPinIcon, PhoneIcon } from "./Icons";
 
 export default function Location() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
 
   return (
     <section id="location" aria-labelledby="location-heading" className="section-pad relative border-b border-white/15">
@@ -22,6 +24,14 @@ export default function Location() {
           </h2>
           <span className="accent-rule accent-rule-center" aria-hidden />
           <p className="mt-4 text-white/70">{t.location.subtitle}</p>
+          <p className="mt-4">
+            <Link
+              href={locationPath(locale)}
+              className="inline-flex text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
+            >
+              {t.location.pageLink}
+            </Link>
+          </p>
         </div>
 
         <div className="grid gap-6 lg:grid-cols-2 lg:gap-8">

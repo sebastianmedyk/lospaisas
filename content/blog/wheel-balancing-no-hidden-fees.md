@@ -38,4 +38,4 @@ While you are here at **1114 S Military Trl**, we can also help with:
 
 ## Book today
 
-Call or WhatsApp **+1 561-429-4041**. Open **7 days, 8:00 AM – 7:00 PM**. See [our location](/#location) for the map and [services](/#services) for the full tire-focused list.
+Call or WhatsApp **+1 561-429-4041**. Open **7 days, 8:00 AM – 7:00 PM**. See [our location](/location) for the map and [services](/#services) for the full tire-focused list.

@@ -38,7 +38,7 @@ Un estacionamiento o driveway seguro nos ayuda a trabajar bien. Si el sitio no e
 
 En una visita móvil seguimos en lo nuestro: llantas, instalación, reparación cuando es segura y servicios relacionados que ofrecemos en el bay — incluyendo charlas sobre **balanceo** y **alineación** cuando encajan. Explicamos opciones en español o inglés y cotizamos antes de comprometernos.
 
-En el taller sigues teniendo estacionamiento y entrada accesibles, Wi‑Fi y pagos con crédito, débito o NFC en visitas presenciales. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mapa y horario: [ubicación](/#location).
+En el taller sigues teniendo estacionamiento y entrada accesibles, Wi‑Fi y pagos con crédito, débito o NFC en visitas presenciales. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mapa y horario: [ubicación](/es/ubicacion).
 
 Si tu dirección queda justo en el límite de las 10 millas, dilo al llamar: confirmamos cobertura antes de salir para no hacerte esperar en vano.
 

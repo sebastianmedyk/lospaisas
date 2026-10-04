@@ -308,14 +308,14 @@ export function flatTireSundayHowToJsonLd() {
         position: 1,
         name: "Call or WhatsApp the shop",
         text: "Call or WhatsApp Los Paisas Tires Shop at +1 561-429-4041. Confirm you need tire repair, vulcanization, a new or used tire, or an install — and whether you can drive in or need mobile service within 10 miles.",
-        url: absoluteUrl("/#contact"),
+        url: absoluteUrl("/contact"),
       },
       {
         "@type": "HowToStep",
         position: 2,
         name: "Come in or request mobile service",
         text: "Drive to 1114 S Military Trl, West Palm Beach, FL 33415 if the vehicle is safe to move. If not, ask about mobile tire service within 10 miles of the shop covering West Palm Beach and nearby Palm Beach County cities.",
-        url: absoluteUrl("/#location"),
+        url: absoluteUrl("/location"),
       },
       {
         "@type": "HowToStep",

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { BUSINESS } from "@/lib/constants";
+import { contactPath, locationPath } from "@/lib/place-routes";
 
 export default function KeyFacts() {
   const { t, locale } = useLanguage();
@@ -97,7 +98,7 @@ export default function KeyFacts() {
             ·
           </span>
           <a
-            href="#location"
+            href={locationPath(locale)}
             className="font-bold text-brand-gold underline-offset-4 hover:underline"
           >
             {t.nav.location}
@@ -106,7 +107,7 @@ export default function KeyFacts() {
             ·
           </span>
           <a
-            href="#contact"
+            href={contactPath(locale)}
             className="font-bold text-brand-gold underline-offset-4 hover:underline"
           >
             {t.nav.contact}

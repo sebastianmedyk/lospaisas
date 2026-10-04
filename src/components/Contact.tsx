@@ -1,7 +1,9 @@
 "use client";
 
+import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { contactPath } from "@/lib/place-routes";
 import {
   AppleMapsIcon,
   CatalogIcon,
@@ -48,6 +50,14 @@ export default function Contact() {
           </h2>
           <span className="accent-rule" aria-hidden />
           <p className="mt-4 max-w-lg text-white/80">{t.contact.subtitle}</p>
+          <p className="mt-4">
+            <Link
+              href={contactPath(locale)}
+              className="inline-flex text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
+            >
+              {t.contact.pageLink}
+            </Link>
+          </p>
           <p className="cut-tr mt-3 inline-block rounded-none border-l border-brand-gold/40 bg-transparent px-3 py-1.5 text-sm font-bold tracking-wide text-brand-gold">
             {t.contact.hours}
           </p>

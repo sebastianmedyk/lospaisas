@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { contactPath, locationPath } from "@/lib/place-routes";
 import { servicesPath } from "@/lib/service-routes";
 import {
   FacebookIcon,
@@ -48,10 +49,10 @@ export default function Footer() {
               <Link href={servicesHref} className="hover:text-brand-gold">
                 {t.nav.services}
               </Link>
-              <Link href="/#location" className="hover:text-brand-gold">
+              <Link href={locationPath(locale)} className="hover:text-brand-gold">
                 {t.nav.location}
               </Link>
-              <Link href="/#contact" className="hover:text-brand-gold">
+              <Link href={contactPath(locale)} className="hover:text-brand-gold">
                 {t.nav.contact}
               </Link>
               <Link href={blogHref} className="hover:text-brand-gold">

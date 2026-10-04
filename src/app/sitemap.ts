@@ -2,8 +2,33 @@ import type { MetadataRoute } from "next";
 import { getAllPosts, blogPath } from "@/lib/blog";
 import { blogLanguageAlternates } from "@/lib/blog-routes";
 import { getAllLocalPages } from "@/lib/local-pages";
+import {
+  contactLanguageAlternates,
+  contactPath,
+  locationLanguageAlternates,
+  locationPath,
+} from "@/lib/place-routes";
 import { serviceLanguageAlternates, servicesPath } from "@/lib/service-routes";
 import { SITE_URL } from "@/lib/site";
+
+function placeEntry(
+  path: string,
+  languages: Record<string, string>,
+): MetadataRoute.Sitemap[number] {
+  return {
+    url: `${SITE_URL}${path}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 0.8,
+    alternates: {
+      languages: {
+        en: `${SITE_URL}${languages.en}`,
+        es: `${SITE_URL}${languages.es}`,
+        "x-default": `${SITE_URL}${languages["x-default"]}`,
+      },
+    },
+  };
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -68,6 +93,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
       },
     },
+    placeEntry(locationPath("en"), locationLanguageAlternates()),
+    placeEntry(locationPath("es"), locationLanguageAlternates()),
+    placeEntry(contactPath("en"), contactLanguageAlternates()),
+    placeEntry(contactPath("es"), contactLanguageAlternates()),
   ];
 
   const postRoutes: MetadataRoute.Sitemap = posts.map((post) => {

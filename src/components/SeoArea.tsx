@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { locationPath } from "@/lib/place-routes";
 
 export default function SeoArea() {
   const { t, locale } = useLanguage();
@@ -37,7 +38,7 @@ export default function SeoArea() {
           </a>
           {" · "}
           <a
-            href="#location"
+            href={locationPath(locale)}
             className="font-bold text-brand-gold underline-offset-4 hover:underline"
           >
             {t.nav.location}

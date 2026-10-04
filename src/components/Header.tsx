@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { contactPath, locationPath } from "@/lib/place-routes";
 import { servicesPath } from "@/lib/service-routes";
 import LanguageToggle from "./LanguageToggle";
 import { PhoneIcon, WhatsAppIcon } from "./Icons";
@@ -16,8 +17,8 @@ export default function Header() {
 
   const links = [
     { href: servicesHref, label: t.nav.services },
-    { href: "/#location", label: t.nav.location },
-    { href: "/#contact", label: t.nav.contact },
+    { href: locationPath(locale), label: t.nav.location },
+    { href: contactPath(locale), label: t.nav.contact },
     { href: blogHref, label: t.nav.blog },
   ];
 

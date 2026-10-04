@@ -38,7 +38,7 @@ Safe, legal parking or a driveway helps us work efficiently. If the site is not 
 
 On a mobile visit we still stay in our lane: tires, install, repair when safe, and related services we offer in the bay — including conversations about **balancing** and **alignment** when those fit. We explain options in English or Spanish and quote before we commit to the work.
 
-Back at the shop you will still find accessible parking and entrance, Wi‑Fi, and payments by credit, debit, or NFC for in-person visits. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for updates. Map and hours: [location](/#location).
+Back at the shop you will still find accessible parking and entrance, Wi‑Fi, and payments by credit, debit, or NFC for in-person visits. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for updates. Map and hours: [location](/location).
 
 ## Good to know
 
