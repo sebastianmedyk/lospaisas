@@ -1,4 +1,4 @@
-import { BUSINESS } from "@/lib/constants";
+import { BUSINESS, LOGO_PATH, SHOP_PHOTOS } from "@/lib/constants";
 import { SITE_URL, absoluteUrl } from "@/lib/site";
 
 export const AREA_SERVED = [
@@ -97,7 +97,9 @@ function organizationPublisher() {
     url: SITE_URL,
     logo: {
       "@type": "ImageObject" as const,
-      url: absoluteUrl("/brand/promo-trust.png"),
+      url: absoluteUrl(LOGO_PATH),
+      width: 512,
+      height: 512,
     },
   };
 }
@@ -109,11 +111,13 @@ export function localBusinessJsonLd() {
     "@id": `${SITE_URL}/#business`,
     name: BUSINESS.name,
     description:
-      "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call +1 561-429-4041.",
+      "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call (561) 429-4041.",
+    logo: absoluteUrl(LOGO_PATH),
     image: [
-      absoluteUrl("/brand/promo-sunday.png"),
-      absoluteUrl("/brand/promo-trust.png"),
-      absoluteUrl("/brand/promo-balanceo.png"),
+      ...SHOP_PHOTOS.map((p) => absoluteUrl(p)),
+      absoluteUrl("/brand/promo-sunday.jpg"),
+      absoluteUrl("/brand/promo-trust.jpg"),
+      absoluteUrl("/brand/promo-balanceo.jpg"),
     ],
     url: SITE_URL,
     telephone: BUSINESS.phoneE164,
@@ -251,7 +255,7 @@ export function articleJsonLd(input: {
     datePublished: input.date,
     dateModified: input.date,
     inLanguage: input.locale === "es" ? "es-US" : "en-US",
-    image: [absoluteUrl("/brand/promo-sunday.png")],
+    image: [absoluteUrl("/brand/promo-sunday.jpg")],
     author: {
       "@type": "Organization",
       name: BUSINESS.name,
@@ -307,7 +311,7 @@ export function flatTireSundayHowToJsonLd() {
         "@type": "HowToStep",
         position: 1,
         name: "Call or WhatsApp the shop",
-        text: "Call or WhatsApp Los Paisas Tires Shop at +1 561-429-4041. Confirm you need tire repair, vulcanization, a new or used tire, or an install — and whether you can drive in or need mobile service within 10 miles.",
+        text: "Call or WhatsApp Los Paisas Tires Shop at (561) 429-4041. Confirm you need tire repair, vulcanization, a new or used tire, or an install — and whether you can drive in or need mobile service within 10 miles.",
         url: absoluteUrl("/contact"),
       },
       {

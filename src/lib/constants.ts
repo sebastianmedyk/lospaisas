@@ -1,13 +1,13 @@
 export const BUSINESS = {
   name: "Los Paisas Tires Shop",
-  /** Exact Maps / GBP street form */
+  /** Exact street form shown in the GBP / Google Maps address field (checked 2026-10-14) */
   streetAddress: "1114 S Military Trl",
   addressLocality: "West Palm Beach",
   addressRegion: "FL",
   postalCode: "33415",
   addressCountry: "US",
   address: "1114 S Military Trl, West Palm Beach, FL 33415",
-  phoneDisplay: "+1 561-429-4041",
+  phoneDisplay: "(561) 429-4041",
   phoneTel: "tel:+15614294041",
   phoneE164: "+15614294041",
   sms: "sms:+15614294041",
@@ -21,10 +21,19 @@ export const BUSINESS = {
   mapsPlaceUrl:
     "https://www.google.com/maps/place/Los+Paisas+Tires+Shop/@26.6607391,-80.1121155,17z/data=!3m1!4b1!4m6!3m5!1s0x88d929e3db9abe3d:0x48ba9589c50abcd3!8m2!3d26.6607391!4d-80.1121155!16s%2Fg%2F11s1wsxt08",
   mapsCidUrl: "https://www.google.com/maps?cid=5240665535347866835",
+  /** Google place ID (verified 2026-10-14 from the Maps listing, CID 5240665535347866835) */
+  placeId: "ChIJPb6a2-Mp2YgR07wKxYmVukg",
+  /** Opens the Google "write a review" dialog for this listing */
+  reviewUrl:
+    "https://search.google.com/local/writereview?placeid=ChIJPb6a2-Mp2YgR07wKxYmVukg",
+  /** Google reviews list for this listing */
+  reviewsListUrl:
+    "https://search.google.com/local/reviews?placeid=ChIJPb6a2-Mp2YgR07wKxYmVukg",
   mapsDirectionsUrl:
     "https://www.google.com/maps/dir/?api=1&destination=1114+S+Military+Trl,+West+Palm+Beach,+FL+33415",
+  /** Embed of the business listing itself (name + place), not a bare address */
   mapsEmbed:
-    "https://www.google.com/maps?q=1114+S+Military+Trl,+West+Palm+Beach,+FL+33415&z=15&output=embed",
+    "https://www.google.com/maps?q=Los+Paisas+Tires+Shop,+1114+S+Military+Trl,+West+Palm+Beach,+FL+33415&cid=5240665535347866835&z=16&output=embed",
   appleMaps:
     "https://maps.apple.com/?address=1114+S+Military+Trl,+West+Palm+Beach,+FL+33415",
   catalogue: "https://catalogo-tireshoplospaisas.netlify.app/",
@@ -37,6 +46,18 @@ export const BUSINESS = {
     latitude: 26.6607391,
     longitude: -80.1121155,
   },
+  /** As shown on Google Maps 2026-10-14; update by hand, never in schema */
   ratingValue: "4.4",
-  reviewCount: "276",
+  reviewCount: "282",
 } as const;
+
+/**
+ * TODO(Sebastian): real shop photos (storefront with sign, service bays, used-tire
+ * rack, team). Drop WebP/JPG files (~1600px wide, <250 KB) in /public/photos/ and
+ * list them here; they are used first in the TireShop schema `image`.
+ * Only promo graphics exist today.
+ */
+export const SHOP_PHOTOS: string[] = [];
+
+export const LOGO_PATH = "/brand/logo.png";
+
