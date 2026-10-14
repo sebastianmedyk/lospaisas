@@ -51,13 +51,17 @@ export const BUSINESS = {
   reviewCount: "282",
 } as const;
 
-/**
- * TODO(Sebastian): real shop photos (storefront with sign, service bays, used-tire
- * rack, team). Drop WebP/JPG files (~1600px wide, <250 KB) in /public/photos/ and
- * list them here; they are used first in the TireShop schema `image`.
- * Only promo graphics exist today.
- */
-export const SHOP_PHOTOS: string[] = [];
+/** Real shop photos, used first in the TireShop schema `image`. */
+export const SHOP_PHOTOS: string[] = [
+  "/photos/tire-shop-west-palm-beach-los-paisas-storefront-01.webp",
+  "/photos/new-used-tires-sign-west-palm-beach-los-paisas-02.webp",
+  "/photos/tire-shop-near-me-west-palm-beach-los-paisas-exterior-03.webp",
+  "/photos/wheel-balancing-west-palm-beach-los-paisas-08.webp",
+  "/photos/flat-tire-repair-west-palm-beach-los-paisas-10.webp",
+  "/photos/tire-installation-west-palm-beach-los-paisas-14.webp",
+  "/photos/used-tires-west-palm-beach-los-paisas-shop-bay-15.webp",
+  "/photos/mobile-tire-service-truck-west-palm-beach-los-paisas-06.webp",
+];
 
 export const LOGO_PATH = "/brand/logo.png";
 

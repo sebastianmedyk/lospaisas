@@ -8,6 +8,8 @@ import type { LocalPage } from "@/lib/local-pages";
 import { breadcrumbJsonLd, faqPageJsonLd, pageServiceJsonLd } from "@/lib/seo";
 import { servicesPath } from "@/lib/service-routes";
 import { absoluteUrl } from "@/lib/site";
+import PhotoStrip from "@/components/PhotoStrip";
+import { SERVICE_PHOTOS } from "@/lib/photos";
 
 export default function LocalPageView({ page }: { page: LocalPage }) {
   const t = getDictionary(page.locale);
@@ -92,6 +94,14 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
             </div>
           </div>
         </header>
+
+        {page.kind === "service" && SERVICE_PHOTOS[page.enPath] ? (
+          <section className="border-b border-white/15 py-8">
+            <div className="container-site max-w-3xl">
+              <PhotoStrip photos={SERVICE_PHOTOS[page.enPath]} locale={page.locale} />
+            </div>
+          </section>
+        ) : null}
 
         {page.sections.map((section) => (
           <section key={section.heading} className="section-pad border-b border-white/15">

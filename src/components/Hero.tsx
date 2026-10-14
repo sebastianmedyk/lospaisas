@@ -3,7 +3,8 @@
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { MapPinIcon, PhoneIcon, WhatsAppIcon } from "./Icons";
-import PromoPanel from "./PromoPanel";
+import Image from "next/image";
+import { PHOTOS } from "@/lib/photos";
 
 export default function Hero() {
   const { t, locale } = useLanguage();
@@ -35,6 +36,19 @@ export default function Hero() {
 
   return (
     <section id="top" className="relative overflow-hidden border-b border-white/15 hero-bleed">
+      {/* Real storefront photo behind the hero, dark overlay keeps text readable */}
+      <div className="pointer-events-none absolute inset-0" aria-hidden>
+        <Image
+          src={PHOTOS.storefront.src}
+          alt=""
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-center"
+        />
+        <div className="absolute inset-0 bg-[#0D0D0D]/80" />
+        <div className="absolute inset-0 bg-gradient-to-r from-[#0D0D0D] via-[#0D0D0D]/70 to-[#0D0D0D]/40" />
+      </div>
       {/* Thin gold angled accent rules */}
       <div
         className="pointer-events-none absolute left-0 top-0 h-px w-24 origin-left -skew-x-[18deg] bg-brand-gold/80 sm:w-32"
@@ -154,12 +168,17 @@ export default function Hero() {
             })}
           </div>
 
-          <PromoPanel
-            imageSrc={`/brand/locale/sunday-${locale}.webp`}
-            alt={t.promo.sunday}
-            className="promo-hero-frame"
-            priority
-          />
+          <figure className="overflow-hidden rounded-none border border-white/15 bg-black">
+            <Image
+              src={PHOTOS.poleSign.src}
+              alt={PHOTOS.poleSign.alt[locale]}
+              width={PHOTOS.poleSign.width}
+              height={PHOTOS.poleSign.height}
+              sizes="(max-width: 1024px) 100vw, 520px"
+              priority
+              className="h-auto w-full object-cover"
+            />
+          </figure>
         </div>
       </div>
     </section>

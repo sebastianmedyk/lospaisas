@@ -1,3 +1,5 @@
+import PhotoStrip from "@/components/PhotoStrip";
+import { PHOTOS } from "@/lib/photos";
 import Link from "next/link";
 import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
 import JsonLd from "@/components/JsonLd";
@@ -197,7 +199,10 @@ function LocationBody({ locale }: { locale: Locale }) {
   const t = getDictionary(locale);
   return (
     <div className="mt-10 grid gap-6 lg:grid-cols-2 lg:gap-8">
-      <NapFacts locale={locale} />
+      <div className="space-y-6">
+        <NapFacts locale={locale} />
+        <PhotoStrip photos={[PHOTOS.exterior, PHOTOS.parking]} locale={locale} />
+      </div>
       <div className="cut-md overflow-hidden rounded-none border border-white/15 bg-black/40">
         <iframe
           title={t.location.mapTitle}
@@ -283,6 +288,7 @@ function ContactBody({ locale }: { locale: Locale }) {
         </address>
       </div>
       <div className="relative mx-auto w-full max-w-md lg:max-w-none">
+        <PhotoStrip photos={[PHOTOS.office]} locale={locale} className="mb-6" />
         <PromoPanel imageSrc={`/brand/locale/balance-${locale}.webp`} alt={t.promo.balance} />
       </div>
     </div>

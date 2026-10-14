@@ -1,6 +1,8 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
+import { PHOTOS } from "@/lib/photos";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { serviceHref, servicesPath } from "@/lib/service-routes";
 
@@ -38,6 +40,37 @@ export default function Services() {
                 className={`inline-block border border-white/15 px-3 py-2 text-xs font-bold uppercase tracking-[0.14em] text-white/80 transition hover:border-brand-gold/50 hover:text-brand-gold ${focus}`}
               >
                 {service.title}
+              </Link>
+            </li>
+          ))}
+        </ul>
+
+        <ul className="mx-auto mt-10 grid max-w-5xl grid-cols-2 gap-3 md:grid-cols-4">
+          {(
+            [
+              [1, PHOTOS.usedBay],
+              [0, PHOTOS.newTread],
+              [4, PHOTOS.repair1],
+              [6, PHOTOS.truck1],
+            ] as const
+          ).map(([index, photo]) => (
+            <li key={photo.src}>
+              <Link
+                href={serviceHref(locale, index)}
+                className={`group block border border-white/15 bg-black transition hover:border-brand-gold/50 ${focus}`}
+              >
+                <Image
+                  src={photo.src}
+                  alt={photo.alt[locale]}
+                  width={photo.width}
+                  height={photo.height}
+                  sizes="(max-width: 768px) 50vw, 240px"
+                  loading="lazy"
+                  className="aspect-[3/4] h-auto w-full object-cover opacity-90 transition group-hover:opacity-100"
+                />
+                <span className="block border-t border-white/15 px-3 py-2 text-xs font-bold uppercase tracking-[0.14em] text-white/85 group-hover:text-brand-gold">
+                  {t.services.items[index].title}
+                </span>
               </Link>
             </li>
           ))}
