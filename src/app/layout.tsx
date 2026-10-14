@@ -36,37 +36,15 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default:
-      "Los Paisas Tires Shop | New & Used Tires on S Military Trl, West Palm Beach, FL",
+    default: "Tire Shop in West Palm Beach – New & Used Tires | Los Paisas",
     template: "%s | Los Paisas Tires Shop",
   },
   description:
-    "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach — new & used tires, alignment, balancing, repair & vulcanization. Serving West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & Palm Beach County. Mobile within 10 miles. Open 7 days, 8 AM–7 PM. Call or WhatsApp +1 561-429-4041.",
-  keywords: [
-    "tire shop West Palm Beach",
-    "used tires Military Trl",
-    "tire shop near me West Palm Beach",
-    "wheel alignment West Palm Beach",
-    "tire balancing West Palm Beach",
-    "tire repair Sunday West Palm Beach",
-    "mobile tire service West Palm Beach",
-    "Los Paisas Tires Shop",
-    "llantas West Palm Beach",
-    "tienda de llantas cerca de mí West Palm Beach",
-    "alineación Military Trl",
-  ],
-  alternates: {
-    canonical: "/",
-    languages: {
-      en: "/",
-      es: "/",
-      "x-default": "/",
-    },
-  },
+    "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach — new & used tires, alignment, balancing, repair & vulcanization. Serving West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & Palm Beach County. Mobile within 10 miles. Open 7 days, 8 AM–7 PM. Call or WhatsApp (561) 429-4041.",
   openGraph: {
-    title: "Los Paisas Tires Shop | S Military Trl, West Palm Beach, FL",
+    title: "Tire Shop in West Palm Beach – New & Used Tires | Los Paisas",
     description:
-      "New & used tires, alignment, balancing, repair & vulcanization on Military Trl. Serving West Palm Beach & Palm Beach County. Open 7 days including Sunday. Call +1 561-429-4041.",
+      "New & used tires, alignment, balancing, repair & vulcanization on Military Trl. Serving West Palm Beach & Palm Beach County. Open 7 days including Sunday. Call (561) 429-4041.",
     type: "website",
     locale: "en_US",
     alternateLocale: "es_US",

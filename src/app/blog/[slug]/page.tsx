@@ -8,7 +8,7 @@ import { absoluteUrl } from "@/lib/site";
 type Props = { params: Promise<{ slug: string }> };
 
 const OG_IMAGE = {
-  url: "/brand/promo-sunday.png",
+  url: "/brand/promo-sunday.jpg",
   width: 1200,
   height: 900,
   alt: "Los Paisas Tires Shop — S Military Trl, West Palm Beach",

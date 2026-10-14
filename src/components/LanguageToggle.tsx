@@ -16,8 +16,10 @@ export default function LanguageToggle() {
   function switchTo(code: Locale) {
     setLocale(code);
     const nextPath =
-      getAlternateBlogPath(pathname, code) ?? getAlternateLocalPath(pathname, code);
-    if (nextPath && nextPath !== pathname) {
+      getAlternateBlogPath(pathname, code) ??
+      getAlternateLocalPath(pathname, code) ??
+      (code === "es" ? "/es" : "/");
+    if (code !== locale && nextPath !== pathname) {
       router.push(nextPath);
     }
   }

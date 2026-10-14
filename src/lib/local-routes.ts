@@ -4,6 +4,7 @@ import { servicePathPairs } from "@/lib/service-routes";
 
 /** EN path -> ES path. Safe to import from client components. */
 const PAIRS: Record<string, string> = {
+  "/": "/es",
   ...servicePathPairs(),
   ...placePathPairs(),
 };

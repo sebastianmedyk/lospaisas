@@ -283,7 +283,7 @@ function ContactBody({ locale }: { locale: Locale }) {
         </address>
       </div>
       <div className="relative mx-auto w-full max-w-md lg:max-w-none">
-        <PromoPanel imageSrc={`/brand/locale/balance-${locale}.png`} alt={t.promo.balance} />
+        <PromoPanel imageSrc={`/brand/locale/balance-${locale}.webp`} alt={t.promo.balance} />
       </div>
     </div>
   );

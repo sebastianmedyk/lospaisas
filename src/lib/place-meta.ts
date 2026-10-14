@@ -9,7 +9,7 @@ import {
 import { absoluteUrl } from "@/lib/site";
 
 const OG = {
-  url: "/brand/promo-sunday.png",
+  url: "/brand/promo-sunday.jpg",
   width: 1200,
   height: 900,
 } as const;
@@ -19,13 +19,13 @@ const COPY = {
     en: {
       title: "Shop Location in West Palm Beach | Los Paisas Tires",
       description:
-        "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415. Open Mon–Sun 8:00 AM–7:00 PM. Mobile within 10 miles of the shop. Call +1 561-429-4041.",
+        "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415. Open Mon–Sun 8:00 AM–7:00 PM. Mobile within 10 miles of the shop. Call (561) 429-4041.",
       ogAlt: "Los Paisas Tires Shop map — S Military Trl, West Palm Beach",
     },
     es: {
       title: "Ubicación del taller en West Palm Beach | Los Paisas",
       description:
-        "Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415. Lun–dom 8:00 AM–7:00 PM. Domicilio a 10 millas del taller. Llama al +1 561-429-4041.",
+        "Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415. Lun–dom 8:00 AM–7:00 PM. Domicilio a 10 millas del taller. Llama al (561) 429-4041.",
       ogAlt: "Mapa de Los Paisas Tires Shop — S Military Trl, West Palm Beach",
     },
   },
@@ -33,13 +33,13 @@ const COPY = {
     en: {
       title: "Contact Los Paisas Tires Shop | West Palm Beach, FL",
       description:
-        "Call +1 561-429-4041, WhatsApp, or visit Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415. Open Mon–Sun 8:00 AM–7:00 PM.",
+        "Call (561) 429-4041, WhatsApp, or visit Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415. Open Mon–Sun 8:00 AM–7:00 PM.",
       ogAlt: "Contact Los Paisas Tires Shop on S Military Trl, West Palm Beach",
     },
     es: {
       title: "Contacto con Los Paisas Tires Shop | West Palm Beach",
       description:
-        "Llama al +1 561-429-4041, escribe por WhatsApp o visita Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415. Lun–dom 8:00 AM–7:00 PM.",
+        "Llama al (561) 429-4041, escribe por WhatsApp o visita Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415. Lun–dom 8:00 AM–7:00 PM.",
       ogAlt: "Contacto de Los Paisas Tires Shop en S Military Trl, West Palm Beach",
     },
   },

@@ -3,10 +3,9 @@ export type Locale = "en" | "es";
 export const translations = {
   en: {
     meta: {
-      title:
-        "Los Paisas Tires Shop | New & Used Tires on S Military Trl, West Palm Beach, FL",
+      title: "Tire Shop in West Palm Beach – New & Used Tires | Los Paisas",
       description:
-        "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach — new & used tires, alignment, balancing, repair & vulcanization. Serving West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & Palm Beach County. Mobile within 10 miles. Open 7 days, 8 AM–7 PM. Call or WhatsApp +1 561-429-4041.",
+        "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach — new & used tires, alignment, balancing, repair & vulcanization. Serving West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & Palm Beach County. Mobile within 10 miles. Open 7 days, 8 AM–7 PM. Call or WhatsApp (561) 429-4041.",
       keywords: [
         "tire shop West Palm Beach",
         "used tires Military Trl",
@@ -33,8 +32,9 @@ export const translations = {
     },
     hero: {
       badge: "Open now · S Military Trl",
-      titleLine1: "Same-day tire work.",
-      titleLine2: "Honest shop.",
+      titleLine1: "Tire Shop in West Palm Beach",
+      titleLine2: "New & Used Tires, 7 Days a Week",
+      tagline: "Same-day tire work. Honest shop.",
       subtitle:
         "Flat, used, or new — our team explains the work before we start. English & Spanish. Open 7 days on Military Trl.",
       ctaCall: "Call Now",
@@ -140,7 +140,7 @@ export const translations = {
       hoursValue: "7 days a week · 8:00 AM – 7:00 PM",
       sundayNote: "Open Sunday — same hours as every other day.",
       phoneLabel: "Phone / WhatsApp",
-      phone: "+1 561-429-4041",
+      phone: "(561) 429-4041",
       pageLink: "Full location",
       hoursNap: "Mon–Sun 8:00 AM–7:00 PM",
       getDirections: "Get directions",
@@ -153,7 +153,7 @@ export const translations = {
       title: "Contact Us",
       subtitle:
         "Need tires now? Call first — or stop by on S Military Trl in West Palm Beach.",
-      call: "Call +1 561-429-4041",
+      call: "Call (561) 429-4041",
       whatsapp: "WhatsApp",
       sms: "SMS",
       instagram: "Instagram",
@@ -177,12 +177,12 @@ export const translations = {
       title: "About Los Paisas Tires Shop",
       aboutHeading: "Who we are",
       about:
-        "Los Paisas Tires Shop is a tire-only shop at 1114 S Military Trl, West Palm Beach, FL 33415. Call +1 561-429-4041. Hours are 8:00 AM–7:00 PM every day including Sunday. Services: new and used tires, alignment, balancing with no hidden fees, tire repair and vulcanization, install of customer tires, and mobile service within 10 miles. Google rating: 4.4 stars from 276 reviews. Bilingual English and Spanish team.",
+        "Los Paisas Tires Shop is a tire-only shop at 1114 S Military Trl, West Palm Beach, FL 33415. Call (561) 429-4041. Hours are 8:00 AM–7:00 PM every day including Sunday. Services: new and used tires, alignment, balancing with no hidden fees, tire repair and vulcanization, install of customer tires, and mobile service within 10 miles. Google rating: 4.4 stars from 282 reviews. Bilingual English and Spanish team.",
       blocks: [
         {
           question: "Is there a tire shop open Sunday in West Palm Beach?",
           answer:
-            "Yes. Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 is open seven days a week, including Sunday, from 8:00 AM to 7:00 PM. Call or WhatsApp +1 561-429-4041 for tire repair, vulcanization, or a replacement.",
+            "Yes. Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 is open seven days a week, including Sunday, from 8:00 AM to 7:00 PM. Call or WhatsApp (561) 429-4041 for tire repair, vulcanization, or a replacement.",
         },
         {
           question: "Where can I buy used tires near Military Trl?",
@@ -192,7 +192,7 @@ export const translations = {
         {
           question: "Do you offer mobile tire service in West Palm Beach?",
           answer:
-            "Yes. Los Paisas Tires Shop provides mobile tire service within 10 miles of 1114 S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby Palm Beach County. Call +1 561-429-4041 to schedule.",
+            "Yes. Los Paisas Tires Shop provides mobile tire service within 10 miles of 1114 S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby Palm Beach County. Call (561) 429-4041 to schedule.",
         },
         {
           question: "What services does Los Paisas Tires Shop provide?",
@@ -213,7 +213,7 @@ export const translations = {
       napLines: [
         "Los Paisas Tires Shop",
         "1114 S Military Trl, West Palm Beach, FL 33415",
-        "+1 561-429-4041",
+        "(561) 429-4041",
         "Open 7 days · 8:00 AM – 7:00 PM (including Sunday)",
       ],
       linksLabel: "Quick links",
@@ -226,12 +226,12 @@ export const translations = {
         {
           question: "Where is Los Paisas Tires Shop located?",
           answer:
-            "Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Drivers from Greenacres, Palm Springs, Lake Worth Beach, and Palm Beach County can reach the shop easily on the Military Trl corridor. Call +1 561-429-4041.",
+            "Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Drivers from Greenacres, Palm Springs, Lake Worth Beach, and Palm Beach County can reach the shop easily on the Military Trl corridor. Call (561) 429-4041.",
         },
         {
           question: "Is Los Paisas Tires Shop open on Sunday in West Palm Beach?",
           answer:
-            "Yes. Los Paisas Tires Shop is open seven days a week, including Sunday, from 8:00 AM to 7:00 PM at 1114 S Military Trl, West Palm Beach. Call or WhatsApp +1 561-429-4041 for same-day tire help.",
+            "Yes. Los Paisas Tires Shop is open seven days a week, including Sunday, from 8:00 AM to 7:00 PM at 1114 S Military Trl, West Palm Beach. Call or WhatsApp (561) 429-4041 for same-day tire help.",
         },
         {
           question: "Do you sell used tires near Military Trl in West Palm Beach?",
@@ -241,7 +241,7 @@ export const translations = {
         {
           question: "Do you offer mobile tire service in West Palm Beach?",
           answer:
-            "Yes. Los Paisas Tires Shop offers mobile tire service within 10 miles of the shop on S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby cities. Call +1 561-429-4041 to ask about mobile help.",
+            "Yes. Los Paisas Tires Shop offers mobile tire service within 10 miles of the shop on S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby cities. Call (561) 429-4041 to ask about mobile help.",
         },
         {
           question: "What are your hours every day of the week?",
@@ -256,22 +256,22 @@ export const translations = {
         {
           question: "Is the team bilingual English and Spanish?",
           answer:
-            "Yes. The Los Paisas Tires Shop team in West Palm Beach serves customers in English and Spanish. Call +1 561-429-4041 or visit 1114 S Military Trl for tire help in either language.",
+            "Yes. The Los Paisas Tires Shop team in West Palm Beach serves customers in English and Spanish. Call (561) 429-4041 or visit 1114 S Military Trl for tire help in either language.",
         },
         {
           question: "Can you install tires I already bought?",
           answer:
-            "Yes. Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach installs customer-owned tires with care, and can balance them with transparent pricing and no hidden fees. Call +1 561-429-4041.",
+            "Yes. Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach installs customer-owned tires with care, and can balance them with transparent pricing and no hidden fees. Call (561) 429-4041.",
         },
         {
           question: "What is the Google rating for Los Paisas Tires Shop?",
           answer:
-            "Los Paisas Tires Shop in West Palm Beach has a 4.4-star Google rating based on 276 reviews. The shop is at 1114 S Military Trl; phone +1 561-429-4041.",
+            "Los Paisas Tires Shop in West Palm Beach has a 4.4-star Google rating based on 282 reviews. The shop is at 1114 S Military Trl; phone (561) 429-4041.",
         },
         {
           question: "How do I get directions to the tire shop on S Military Trl?",
           answer:
-            "Navigate to Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415, or open the Google Maps short link for the shop. Call +1 561-429-4041 if you need help finding the location.",
+            "Navigate to Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415, or open the Google Maps short link for the shop. Call (561) 429-4041 if you need help finding the location.",
         },
       ],
     },
@@ -281,7 +281,7 @@ export const translations = {
       paragraphs: [
         "Los Paisas Tires Shop is on the S Military Trl corridor at 1114 S Military Trl — an easy stop for drivers from West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and Palm Beach County.",
         "Need used tires, a Sunday flat fix, honest balancing, alignment, vulcanization, or install for tires you already bought? We stay focused on tires — no oil change, brakes, or A/C upsells.",
-        "Open 7 days, 8 AM–7 PM. Mobile within 10 miles if you need tires near you. Call or WhatsApp +1 561-429-4041, or follow @tireshop_lospaisas on Instagram for updates.",
+        "Open 7 days, 8 AM–7 PM. Mobile within 10 miles if you need tires near you. Call or WhatsApp (561) 429-4041, or follow @tireshop_lospaisas on Instagram for updates.",
       ],
     },
     blog: {
@@ -314,15 +314,14 @@ export const translations = {
       rights: "All rights reserved.",
       napName: "Los Paisas Tires Shop",
       napAddress: "1114 S Military Trl, West Palm Beach, FL 33415",
-      napPhone: "+1 561-429-4041",
+      napPhone: "(561) 429-4041",
     },
   },
   es: {
     meta: {
-      title:
-        "Los Paisas Tires Shop | Llantas nuevas y usadas en S Military Trl, West Palm Beach, FL",
+      title: "Llantera en West Palm Beach: usadas y nuevas | Los Paisas",
       description:
-        "Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach — llantas nuevas y usadas, alineación, balanceo, reparación y vulcanización. Atendemos West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County. Servicio a domicilio a 10 millas. Abierto 7 días, 8 AM–7 PM. Llama o WhatsApp +1 561-429-4041.",
+        "Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach — llantas nuevas y usadas, alineación, balanceo, reparación y vulcanización. Atendemos West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County. Servicio a domicilio a 10 millas. Abierto 7 días, 8 AM–7 PM. Llama o WhatsApp (561) 429-4041.",
       keywords: [
         "llantas West Palm Beach",
         "tienda de llantas cerca de mí West Palm Beach",
@@ -349,8 +348,9 @@ export const translations = {
     },
     hero: {
       badge: "Abierto · S Military Trl",
-      titleLine1: "Llantas el mismo día.",
-      titleLine2: "Taller honesto.",
+      titleLine1: "Llantas usadas y nuevas",
+      titleLine2: "en West Palm Beach",
+      tagline: "Llantas el mismo día. Taller honesto.",
       subtitle:
         "Ponchadura, usadas o nuevas — el equipo explica el trabajo antes de empezar. Inglés y español. Abierto 7 días en Military Trl.",
       ctaCall: "Llamar Ahora",
@@ -456,7 +456,7 @@ export const translations = {
       hoursValue: "7 días a la semana · 8:00 AM – 7:00 PM",
       sundayNote: "Abierto el domingo — el mismo horario todos los días.",
       phoneLabel: "Teléfono / WhatsApp",
-      phone: "+1 561-429-4041",
+      phone: "(561) 429-4041",
       pageLink: "Ver ubicación",
       hoursNap: "Lun–dom 8:00 AM–7:00 PM",
       getDirections: "Cómo llegar",
@@ -469,7 +469,7 @@ export const translations = {
       title: "Contáctanos",
       subtitle:
         "¿Necesitas llantas ahora? Llama primero — o visítanos en S Military Trl en West Palm Beach.",
-      call: "Llamar +1 561-429-4041",
+      call: "Llamar (561) 429-4041",
       whatsapp: "WhatsApp",
       sms: "SMS",
       instagram: "Instagram",
@@ -493,12 +493,12 @@ export const translations = {
       title: "Sobre Los Paisas Tires Shop",
       aboutHeading: "Quiénes somos",
       about:
-        "Los Paisas Tires Shop es un taller solo de llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono +1 561-429-4041. Horario: 8:00 AM–7:00 PM todos los días, incluyendo domingo. Servicios: llantas nuevas y usadas, alineación, balanceo sin cargos ocultos, reparación y vulcanización, instalación de llantas del cliente y domicilio a 10 millas. Calificación en Google: 4.4 estrellas con 276 reseñas. Equipo bilingüe inglés y español.",
+        "Los Paisas Tires Shop es un taller solo de llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono (561) 429-4041. Horario: 8:00 AM–7:00 PM todos los días, incluyendo domingo. Servicios: llantas nuevas y usadas, alineación, balanceo sin cargos ocultos, reparación y vulcanización, instalación de llantas del cliente y domicilio a 10 millas. Calificación en Google: 4.4 estrellas con 282 reseñas. Equipo bilingüe inglés y español.",
       blocks: [
         {
           question: "¿Hay una tienda de llantas abierta el domingo en West Palm Beach?",
           answer:
-            "Sí. Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415 abre los siete días de la semana, incluyendo domingo, de 8:00 AM a 7:00 PM. Llama o WhatsApp +1 561-429-4041 para reparación, vulcanización o reemplazo.",
+            "Sí. Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415 abre los siete días de la semana, incluyendo domingo, de 8:00 AM a 7:00 PM. Llama o WhatsApp (561) 429-4041 para reparación, vulcanización o reemplazo.",
         },
         {
           question: "¿Dónde comprar llantas usadas cerca de Military Trl?",
@@ -508,7 +508,7 @@ export const translations = {
         {
           question: "¿Ofrecen servicio de llantas a domicilio en West Palm Beach?",
           answer:
-            "Sí. Los Paisas Tires Shop brinda servicio móvil a 10 millas de 1114 S Military Trl, cubriendo West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County. Llama al +1 561-429-4041 para agendar.",
+            "Sí. Los Paisas Tires Shop brinda servicio móvil a 10 millas de 1114 S Military Trl, cubriendo West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County. Llama al (561) 429-4041 para agendar.",
         },
         {
           question: "¿Qué servicios ofrece Los Paisas Tires Shop?",
@@ -529,7 +529,7 @@ export const translations = {
       napLines: [
         "Los Paisas Tires Shop",
         "1114 S Military Trl, West Palm Beach, FL 33415",
-        "+1 561-429-4041",
+        "(561) 429-4041",
         "Abierto 7 días · 8:00 AM – 7:00 PM (incluyendo domingo)",
       ],
       linksLabel: "Enlaces rápidos",
@@ -542,12 +542,12 @@ export const translations = {
         {
           question: "¿Dónde está Los Paisas Tires Shop?",
           answer:
-            "Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. Conductores de Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County llegan fácil por el corredor de Military Trl. Llama al +1 561-429-4041.",
+            "Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. Conductores de Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County llegan fácil por el corredor de Military Trl. Llama al (561) 429-4041.",
         },
         {
           question: "¿Los Paisas Tires Shop abre el domingo en West Palm Beach?",
           answer:
-            "Sí. Los Paisas Tires Shop abre los siete días de la semana, incluyendo domingo, de 8:00 AM a 7:00 PM en 1114 S Military Trl, West Palm Beach. Llama o WhatsApp +1 561-429-4041 para ayuda el mismo día.",
+            "Sí. Los Paisas Tires Shop abre los siete días de la semana, incluyendo domingo, de 8:00 AM a 7:00 PM en 1114 S Military Trl, West Palm Beach. Llama o WhatsApp (561) 429-4041 para ayuda el mismo día.",
         },
         {
           question: "¿Venden llantas usadas cerca de Military Trl en West Palm Beach?",
@@ -557,7 +557,7 @@ export const translations = {
         {
           question: "¿Ofrecen servicio de llantas a domicilio en West Palm Beach?",
           answer:
-            "Sí. Los Paisas Tires Shop ofrece servicio móvil a 10 millas del taller en S Military Trl, cubriendo West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y ciudades cercanas. Llama al +1 561-429-4041.",
+            "Sí. Los Paisas Tires Shop ofrece servicio móvil a 10 millas del taller en S Military Trl, cubriendo West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y ciudades cercanas. Llama al (561) 429-4041.",
         },
         {
           question: "¿Cuál es el horario todos los días de la semana?",
@@ -572,22 +572,22 @@ export const translations = {
         {
           question: "¿El equipo habla inglés y español?",
           answer:
-            "Sí. El equipo de Los Paisas Tires Shop en West Palm Beach atiende en inglés y español. Llama al +1 561-429-4041 o visita 1114 S Military Trl para ayuda en cualquiera de los dos idiomas.",
+            "Sí. El equipo de Los Paisas Tires Shop en West Palm Beach atiende en inglés y español. Llama al (561) 429-4041 o visita 1114 S Military Trl para ayuda en cualquiera de los dos idiomas.",
         },
         {
           question: "¿Pueden instalar llantas que ya compré?",
           answer:
-            "Sí. Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach instala llantas del cliente con cuidado y puede balancearlas con precios transparentes y sin cargos ocultos. Llama al +1 561-429-4041.",
+            "Sí. Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach instala llantas del cliente con cuidado y puede balancearlas con precios transparentes y sin cargos ocultos. Llama al (561) 429-4041.",
         },
         {
           question: "¿Cuál es la calificación de Google de Los Paisas Tires Shop?",
           answer:
-            "Los Paisas Tires Shop en West Palm Beach tiene 4.4 estrellas en Google según 276 reseñas. El taller está en 1114 S Military Trl; teléfono +1 561-429-4041.",
+            "Los Paisas Tires Shop en West Palm Beach tiene 4.4 estrellas en Google según 282 reseñas. El taller está en 1114 S Military Trl; teléfono (561) 429-4041.",
         },
         {
           question: "¿Cómo llego a la tienda de llantas en S Military Trl?",
           answer:
-            "Dirígete a Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415, o abre el enlace corto de Google Maps del negocio. Llama al +1 561-429-4041 si necesitas ayuda para ubicar el local.",
+            "Dirígete a Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415, o abre el enlace corto de Google Maps del negocio. Llama al (561) 429-4041 si necesitas ayuda para ubicar el local.",
         },
       ],
     },
@@ -597,7 +597,7 @@ export const translations = {
       paragraphs: [
         "Los Paisas Tires Shop está en el corredor de S Military Trl en 1114 S Military Trl — fácil de llegar desde West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County.",
         "¿Necesitas llantas usadas, arreglo de ponchadura en domingo, balanceo honesto, alineación, vulcanización o instalar llantas que ya compraste? Nos enfocamos en llantas — sin cambio de aceite, frenos ni A/C.",
-        "Abierto 7 días, 8 AM–7 PM. Domicilio a 10 millas si necesitas llantas cerca de ti. Llama o WhatsApp +1 561-429-4041, o sigue @tireshop_lospaisas en Instagram.",
+        "Abierto 7 días, 8 AM–7 PM. Domicilio a 10 millas si necesitas llantas cerca de ti. Llama o WhatsApp (561) 429-4041, o sigue @tireshop_lospaisas en Instagram.",
       ],
     },
     blog: {
@@ -630,7 +630,7 @@ export const translations = {
       rights: "Todos los derechos reservados.",
       napName: "Los Paisas Tires Shop",
       napAddress: "1114 S Military Trl, West Palm Beach, FL 33415",
-      napPhone: "+1 561-429-4041",
+      napPhone: "(561) 429-4041",
     },
   },
 } as const;

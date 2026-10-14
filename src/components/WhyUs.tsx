@@ -16,7 +16,7 @@ export default function WhyUs() {
       <div className="container-site relative grid items-center gap-10 lg:grid-cols-2 lg:gap-14">
         <div className="relative order-2 lg:order-1">
           <PromoPanel
-            imageSrc={`/brand/locale/trust-${locale}.png`}
+            imageSrc={`/brand/locale/trust-${locale}.webp`}
             alt={t.promo.trust}
           />
         </div>

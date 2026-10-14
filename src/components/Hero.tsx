@@ -58,12 +58,15 @@ export default function Hero() {
           </div>
 
           <h1 className="headline max-w-[14ch] text-[2.35rem] leading-[0.92] tracking-wide text-white sm:max-w-none sm:text-5xl lg:text-[3.35rem] xl:text-6xl">
-            <span className="block">{t.hero.titleLine1}</span>
+            <span className="block">{t.hero.titleLine1}</span>{" "}
             <span className="block text-brand-gold">{t.hero.titleLine2}</span>
           </h1>
           <span className="accent-rule accent-rule-lg" aria-hidden />
 
-          <p className="mt-4 max-w-xl text-base leading-snug text-white/80 sm:text-lg">
+          <p className="headline mt-4 text-xl tracking-wide text-brand-gold sm:text-2xl">
+            {t.hero.tagline}
+          </p>
+          <p className="mt-3 max-w-xl text-base leading-snug text-white/80 sm:text-lg">
             {t.hero.subtitle}
           </p>
 
@@ -152,7 +155,7 @@ export default function Hero() {
           </div>
 
           <PromoPanel
-            imageSrc={`/brand/locale/sunday-${locale}.png`}
+            imageSrc={`/brand/locale/sunday-${locale}.webp`}
             alt={t.promo.sunday}
             className="promo-hero-frame"
             priority

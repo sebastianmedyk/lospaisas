@@ -5,7 +5,7 @@ import { blogLanguageAlternates } from "@/lib/blog-routes";
 import { absoluteUrl } from "@/lib/site";
 
 const OG_IMAGE = {
-  url: "/brand/promo-sunday.png",
+  url: "/brand/promo-sunday.jpg",
   width: 1200,
   height: 900,
   alt: "Blog Los Paisas Tires Shop — consejos de llantas West Palm Beach",

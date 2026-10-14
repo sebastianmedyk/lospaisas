@@ -40,6 +40,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: now,
       changeFrequency: "weekly",
       priority: 1,
+      alternates: {
+        languages: {
+          en: SITE_URL,
+          es: `${SITE_URL}/es`,
+          "x-default": SITE_URL,
+        },
+      },
+    },
+    {
+      url: `${SITE_URL}/es`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 1,
+      alternates: {
+        languages: {
+          en: SITE_URL,
+          es: `${SITE_URL}/es`,
+          "x-default": SITE_URL,
+        },
+      },
     },
     {
       url: `${SITE_URL}/blog`,
