@@ -9,7 +9,7 @@ import { REVIEW_QUOTES } from "@/lib/reviews";
  */
 export default function Reviews({ locale }: { locale: Locale }) {
   const es = locale === "es";
-  const quotes = REVIEW_QUOTES.filter((q) => q.quote.trim() && q.author.trim());
+  const quotes = REVIEW_QUOTES.filter((q) => q.locale === locale && q.quote.trim() && q.author.trim());
 
   return (
     <section
@@ -29,22 +29,33 @@ export default function Reviews({ locale }: { locale: Locale }) {
           <span className="accent-rule accent-rule-center" aria-hidden />
           <p className="mt-4 text-white/70">
             {es
-              ? `${BUSINESS.ratingValue} estrellas en Google. Lee las opiniones de nuestros clientes o cuéntanos cómo te fue.`
-              : `${BUSINESS.ratingValue} stars on Google. Read what customers wrote, or tell us how your visit went.`}
+              ? `${BUSINESS.ratingValue} estrellas en Google, ${BUSINESS.reviewCount} reseñas. Algunas opiniones de nuestros clientes:`
+              : `${BUSINESS.ratingValue} stars on Google from ${BUSINESS.reviewCount} reviews. A few things customers wrote:`}
           </p>
         </div>
 
         {quotes.length > 0 && (
-          <ul className="mx-auto mt-10 grid max-w-5xl gap-4 md:grid-cols-3">
+          <ul className="mx-auto mt-10 grid max-w-6xl gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {quotes.map((q) => (
-              <li key={`${q.author}-${q.quote.slice(0, 20)}`} className="card-dark">
-                <blockquote lang={q.locale}>
-                  <p className="text-white/85">&ldquo;{q.quote}&rdquo;</p>
-                  <footer className="mt-3 text-xs font-bold uppercase tracking-[0.18em] text-brand-gold">
-                    {q.author}
-                    {q.date ? ` · ${q.date}` : ""} · Google
-                  </footer>
-                </blockquote>
+              <li
+                key={`${q.author}-${q.date}`}
+                className="flex flex-col rounded-none border border-white/15 bg-[#141414] p-5 transition hover:border-brand-gold/40"
+              >
+                <figure className="flex h-full flex-col" lang={q.locale}>
+                  <p className="text-lg leading-none tracking-[0.15em] text-brand-gold" aria-label={es ? `${q.stars} de 5 estrellas` : `${q.stars} out of 5 stars`}>
+                    {"★".repeat(q.stars)}
+                    <span className="text-white/20">{"★".repeat(5 - q.stars)}</span>
+                  </p>
+                  <blockquote className="mt-3 flex-1 whitespace-pre-wrap text-white/85">
+                    &ldquo;{q.quote}&rdquo;
+                  </blockquote>
+                  <figcaption className="mt-4 border-t border-white/15 pt-3">
+                    <span className="block font-semibold text-white">{q.author}</span>
+                    <span className="mt-1 block text-[0.65rem] font-bold uppercase tracking-[0.18em] text-white/55">
+                      <span className="text-brand-red">{es ? "Reseña de Google" : "Google review"}</span> · {q.date}
+                    </span>
+                  </figcaption>
+                </figure>
               </li>
             ))}
           </ul>
@@ -65,7 +76,7 @@ export default function Reviews({ locale }: { locale: Locale }) {
             rel="noopener noreferrer"
             className="btn-outline min-h-[48px] w-full sm:w-auto"
           >
-            {es ? "Ver opiniones en Google" : "Read Google reviews"}
+            {es ? `Ver reseñas en Google (${BUSINESS.ratingValue} ★, ${BUSINESS.reviewCount})` : `See Google reviews (${BUSINESS.ratingValue} ★, ${BUSINESS.reviewCount})`}
           </a>
         </div>
       </div>
