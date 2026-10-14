@@ -40,12 +40,14 @@ Somos un negocio local pequeño, con estacionamiento y entrada accesibles, Wi‑
 
 ## Abiertos cuando nos necesitas
 
-Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo. Una ponchada el fin de semana o después de un turno largo no debería dejarte esperando al siguiente día hábil. Llama o escribe por WhatsApp al **+1 561-429-4041**, visita el taller o sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo. Una ponchada el fin de semana o después de un turno largo no debería dejarte esperando al siguiente día hábil. Llama o escribe por WhatsApp al **(561) 429-4041**, visita el taller o sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 ## Bueno saber
 
-- Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415, con **4.4★** y **276** reseñas en Google.
+- Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415, con **4.4★** y **282** reseñas en Google.
 - Abrimos 7 días, 8:00 AM–7:00 PM; personal bilingüe; aceptamos crédito, débito y NFC.
 - Ayuda móvil a 10 millas — servicio del taller, no “Google Delivery”.
 
 La confianza se construye visita a visita. Si necesitas llantas, alineación o balanceo en Military Trl, West Palm Beach, estamos listos para ayudarte.
+
+Mira [llantas usadas](/es/servicios/llantas-usadas), [llantas nuevas](/es/servicios/llantas-nuevas) y [todos los servicios](/es/servicios).

@@ -1,6 +1,6 @@
 ---
 title: "Tire Pressure in Palm Beach Summer | Los Paisas Tires"
-description: "Summer tire pressure and hurricane season in Palm Beach County. Use your door placard, not a made-up number. Los Paisas, 1114 S Military Trl. +1 561-429-4041."
+description: "Summer tire pressure and hurricane season in Palm Beach County. Use your door placard, not a made-up number. Los Paisas, 1114 S Military Trl. (561) 429-4041."
 date: "2026-10-03"
 locale: en
 slug: tire-pressure-palm-beach-summer
@@ -11,7 +11,7 @@ keywords:
   - hurricane tire checklist Palm Beach County
 ---
 
-Tire pressure in a Palm Beach County summer is a cold-morning number that the afternoon will change. Los Paisas Tires Shop will not print a PSI figure on this page. Your car already has the number, on the placard in the driver's door jamb, and it is not the same for every vehicle that parks at 1114 S Military Trl. If the placard is missing, call **+1 561-429-4041** and bring the car. We will not guess a pressure for a car we have not seen.
+Tire pressure in a Palm Beach County summer is a cold-morning number that the afternoon will change. Los Paisas Tires Shop will not print a PSI figure on this page. Your car already has the number, on the placard in the driver's door jamb, and it is not the same for every vehicle that parks at 1114 S Military Trl. If the placard is missing, call **(561) 429-4041** and bring the car. We will not guess a pressure for a car we have not seen.
 
 ## Why summer air pressure changes in the car
 
@@ -53,7 +53,7 @@ A tire that was correct yesterday and is flat this morning picked up something, 
 
 ## Where to have the tires checked
 
-Come to Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415, between 8:00 AM and 7:00 PM. Phone and WhatsApp **+1 561-429-4041**. English or Spanish. Bring the car cold if you want the reading to match the placard. If you arrive with hot tires, we can still find a leak. We will not pretend a hot reading is the cold setting.
+Come to Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415, between 8:00 AM and 7:00 PM. Phone and WhatsApp **(561) 429-4041**. English or Spanish. Bring the car cold if you want the reading to match the placard. If you arrive with hot tires, we can still find a leak. We will not pretend a hot reading is the cold setting.
 
 Balancing and alignment are separate from a pressure check. A shake is often [balance](/services/tire-balancing). A pull is often [alignment](/services/wheel-alignment). Low pressure can mimic both if one tire is doing all the flexing. We will say which problem we are looking at.
 
@@ -69,4 +69,4 @@ Not to chase the cold placard number. Heat raised the pressure. Let the tire coo
 
 ### Will you be open during a hurricane warning?
 
-Do not assume it. Call +1 561-429-4041. Our normal hours are 8:00 AM to 7:00 PM, seven days, and a storm can change whether the road and the bay are a safe place to work. Check before you drive.
+Do not assume it. Call (561) 429-4041. Our normal hours are 8:00 AM to 7:00 PM, seven days, and a storm can change whether the road and the bay are a safe place to work. Check before you drive.

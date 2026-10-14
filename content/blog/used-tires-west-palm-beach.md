@@ -1,5 +1,5 @@
 ---
-title: "Used Tires in West Palm Beach: What to Look For on Military Trl"
+title: "How to Check a Used Tire Before You Buy: A Military Trl Checklist"
 description: "Shopping for used tires in West Palm Beach? Learn what to check, how to save money, and why Los Paisas Tires Shop on S Military Trl is a trusted local option."
 date: "2026-08-18"
 locale: en
@@ -33,6 +33,8 @@ We are open **7 days a week, 8:00 AM – 7:00 PM**, including Sunday. If you can
 
 ## Ready to find a set?
 
-Call or WhatsApp **+1 561-429-4041**, stop by the shop, or [see our services](/#services) for alignment, balancing with no hidden fees, repair & vulcanization, and customer-tire install.
+Call or WhatsApp **(561) 429-4041**, stop by the shop, or [see our services](/services/used-tires) for alignment, balancing with no hidden fees, repair & vulcanization, and customer-tire install.
 
 **Los Paisas Tires Shop** — local tire help on Military Trl in West Palm Beach.
+
+Ready to buy? See [used tires at Los Paisas Tires Shop](/services/used-tires) for how we sell them at the shop.

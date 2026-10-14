@@ -1,6 +1,6 @@
 ---
 title: "Used vs New Tires in Florida Heat | Los Paisas Tires"
-description: "Used or new tires in Florida heat: what the sun does to rubber, and how Los Paisas chooses at 1114 S Military Trl. Call +1 561-429-4041. No prices listed."
+description: "Used or new tires in Florida heat: what the sun does to rubber, and how Los Paisas chooses at 1114 S Military Trl. Call (561) 429-4041. No prices listed."
 date: "2026-10-03"
 locale: en
 slug: used-vs-new-tires-florida-heat
@@ -43,7 +43,7 @@ If you pick up a nail on Military Trl, do not decide used-versus-new in the park
 
 ## Bring the car to S Military Trl
 
-The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Open 8:00 AM to 7:00 PM every day, including Sunday. Call **+1 561-429-4041**. English or Spanish. Greenacres, Palm Springs, and Lake Worth Beach are within 10 miles if you are driving in. If the car should not move, ask about [mobile service](/services/mobile-tire-service). The van does not carry the full choice of used and new tires, so a heat-and-tread decision is usually better made at the bay, where you can see both.
+The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Open 8:00 AM to 7:00 PM every day, including Sunday. Call **(561) 429-4041**. English or Spanish. Greenacres, Palm Springs, and Lake Worth Beach are within 10 miles if you are driving in. If the car should not move, ask about [mobile service](/services/mobile-tire-service). The van does not carry the full choice of used and new tires, so a heat-and-tread decision is usually better made at the bay, where you can see both.
 
 ## Questions about heat and tires
 

@@ -1,5 +1,5 @@
 ---
-title: "Tire Repair & Vulcanization in West Palm Beach"
+title: "When Can a Flat Be Repaired? Repair vs. Vulcanization Explained"
 description: "Flat or puncture in West Palm Beach? Los Paisas Tires Shop on S Military Trl offers tire repair and vulcanization when safe — open 7 days, bilingual staff."
 date: "2026-08-10"
 locale: en
@@ -27,7 +27,7 @@ If vulcanization or a proper repair will hold safely, we explain the process and
 
 Bring the vehicle to **1114 S Military Trl, West Palm Beach, FL 33415**, or ask about **mobile tire service within 10 miles** if you cannot leave the roadside safely. We demount when needed, inspect from the inside, repair or vulcanize as appropriate, then remount and check the seal. Many jobs also benefit from **balancing** afterward so the ride stays smooth.
 
-We work in **English and Spanish**. Hours are **8:00 AM – 7:00 PM daily**, including Sunday — useful when a weekday appointment is impossible. Call or WhatsApp **+1 561-429-4041** before you come if you want a quick sense of timing.
+We work in **English and Spanish**. Hours are **8:00 AM – 7:00 PM daily**, including Sunday — useful when a weekday appointment is impossible. Call or WhatsApp **(561) 429-4041** before you come if you want a quick sense of timing.
 
 ## Local drivers, local roads
 
@@ -42,3 +42,5 @@ Payments are credit, debit, or NFC. Accessible parking and entrance, Wi‑Fi whi
 - We repair when safe — we will not patch a tire that should be replaced.
 
 Punctured on Military Trl or nearby? Reach Los Paisas Tires Shop and we will get you sorted.
+
+For the service itself, see [tire repair at the shop](/services/tire-repair).

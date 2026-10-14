@@ -1,5 +1,5 @@
 ---
-title: "Wheel Balancing with No Hidden Fees in West Palm Beach"
+title: "Why Wheels Need Balancing, and How to Avoid Surprise Fees"
 description: "Tired of surprise shop fees? Los Paisas Tires Shop on S Military Trl offers honest wheel balancing — transparent pricing for West Palm Beach drivers."
 date: "2026-09-01"
 locale: en
@@ -38,4 +38,6 @@ While you are here at **1114 S Military Trl**, we can also help with:
 
 ## Book today
 
-Call or WhatsApp **+1 561-429-4041**. Open **7 days, 8:00 AM – 7:00 PM**. See [our location](/location) for the map and [services](/#services) for the full tire-focused list.
+Call or WhatsApp **(561) 429-4041**. Open **7 days, 8:00 AM – 7:00 PM**. See [our location](/location) for the map and [services](/services/tire-balancing) for the full tire-focused list.
+
+For the service itself, see [tire balancing at Los Paisas Tires Shop](/services/tire-balancing).

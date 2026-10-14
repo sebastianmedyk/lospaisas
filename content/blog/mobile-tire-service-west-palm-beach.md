@@ -1,5 +1,5 @@
 ---
-title: "Mobile Tire Service in West Palm Beach (Within 10 Miles)"
+title: "Booking Mobile Tire Service: What to Tell Us Before the Van Comes"
 description: "Need tires without driving in? Los Paisas offers mobile tire service within 10 miles of S Military Trl — West Palm Beach, Greenacres, Palm Springs & nearby."
 date: "2026-07-15"
 locale: en
@@ -25,7 +25,7 @@ We are a tire shop first. Mobile is an extension of that work — not a claim of
 
 ## What to tell us when you book
 
-Call or WhatsApp **+1 561-429-4041** with:
+Call or WhatsApp **(561) 429-4041** with:
 
 - Your location (must be within about 10 miles of Military Trl)
 - Vehicle make, model, and tire size if you know it
@@ -47,3 +47,5 @@ Back at the shop you will still find accessible parking and entrance, Wi‑Fi, a
 - Mobile is shop-provided — do not confuse it with Google “Delivery” on the business profile.
 
 Stuck near Military Trl or a few miles out? Message Los Paisas Tires Shop and we will see if we can come to you.
+
+For coverage and what the van can do, see [mobile tire service](/services/mobile-tire-service).

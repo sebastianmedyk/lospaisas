@@ -40,12 +40,14 @@ We are a small local business with accessible parking and entrance, Wi‑Fi whil
 
 ## Open when you need us
 
-Hours are **8:00 AM – 7:00 PM every day**, including Sunday. A flat on the weekend or after a long shift should not strand you until the next weekday. Call or WhatsApp **+1 561-429-4041**, stop by the shop, or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for updates.
+Hours are **8:00 AM – 7:00 PM every day**, including Sunday. A flat on the weekend or after a long shift should not strand you until the next weekday. Call or WhatsApp **(561) 429-4041**, stop by the shop, or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for updates.
 
 ## Good to know
 
-- Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415, rated **4.4★** from **276** Google reviews.
+- Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415, rated **4.4★** from **282** Google reviews.
 - Open 7 days, 8:00 AM–7:00 PM; bilingual staff; credit, debit, and NFC accepted.
 - Mobile tire help within 10 miles — this is shop-provided service, not Google Delivery.
 
 Trust is built one honest visit at a time. If you need tires, alignment, or balancing on Military Trl in West Palm Beach, we are ready to help.
+
+See [used tires](/services/used-tires), [new tires](/services/new-tires) and [all services](/services).

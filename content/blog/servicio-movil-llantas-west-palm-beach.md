@@ -1,5 +1,5 @@
 ---
-title: "Servicio móvil de llantas en West Palm Beach (a 10 millas)"
+title: "Cómo pedir el servicio móvil de llantas: qué decirnos antes de que salga la van"
 description: "¿Necesitas llantas sin llegar al taller? Los Paisas ofrece servicio móvil a 10 millas de S Military Trl — West Palm Beach, Greenacres, Palm Springs y cerca."
 date: "2026-07-15"
 locale: es
@@ -25,7 +25,7 @@ Somos primero un taller de llantas. El móvil es una extensión de ese trabajo �
 
 ## Qué decirnos al agendar
 
-Llama o WhatsApp **+1 561-429-4041** con:
+Llama o WhatsApp **(561) 429-4041** con:
 
 - Tu ubicación (debe estar a unas 10 millas de Military Trl)
 - Marca, modelo y tamaño de llanta si lo sabes
@@ -49,3 +49,5 @@ Si tu dirección queda justo en el límite de las 10 millas, dilo al llamar: con
 - El móvil lo ofrece el taller — no lo confundas con “Delivery” de Google en el perfil.
 
 ¿Estás cerca de Military Trl o a pocas millas? Escribe a Los Paisas Tires Shop y vemos si podemos ir a ti.
+
+Para la cobertura y lo que hace la van, mira [servicio móvil de llantas](/es/servicios/servicio-movil).

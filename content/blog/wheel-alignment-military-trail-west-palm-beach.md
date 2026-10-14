@@ -1,5 +1,5 @@
 ---
-title: "Wheel Alignment on Military Trl in West Palm Beach"
+title: "Signs Your Car Needs a Wheel Alignment"
 description: "Need wheel alignment in West Palm Beach? Los Paisas Tires Shop on S Military Trl checks pull, uneven wear, and geometry — open seven days with clear pricing."
 date: "2026-08-18"
 locale: en
@@ -33,7 +33,7 @@ We also mount and balance **new** or **used** tires, repair and vulcanize when s
 
 Palm Beach County roads are hard on tires: heat, sudden stops, and uneven pavement. Skipping alignment after new tires — or after a hard hit — can burn through tread months early. Getting geometría checked at a neighborhood shop keeps the conversation personal and the quote honest.
 
-We are open **7 days a week, 8:00 AM – 7:00 PM**. No weekday-only bottleneck. Call or WhatsApp **+1 561-429-4041**, or see [services](/#services) and [location](/location) on our site. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for shop updates.
+We are open **7 days a week, 8:00 AM – 7:00 PM**. No weekday-only bottleneck. Call or WhatsApp **(561) 429-4041**, or see [services](/services/wheel-alignment) and [location](/location) on our site. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for shop updates.
 
 ## Good to know
 
@@ -42,3 +42,5 @@ We are open **7 days a week, 8:00 AM – 7:00 PM**. No weekday-only bottleneck. 
 - Pair alignment with balancing, new/used tires, repair, or customer-tire install when needed.
 
 Crooked steering or uneven wear? Stop by Military Trl in West Palm Beach and we will help you straighten it out.
+
+For the service itself, see [wheel alignment at Los Paisas Tires Shop](/services/wheel-alignment).

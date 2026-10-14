@@ -1,5 +1,5 @@
 ---
-title: "Instalamos llantas del cliente en West Palm Beach"
+title: "¿Compraste llantas en línea? Qué saber antes de instalarlas"
 description: "¿Compraste llantas en línea u otro lugar? Los Paisas Tires Shop en S Military Trl instala llantas del cliente — montaje, opción de balanceo, abiertos 7 días."
 date: "2026-07-28"
 locale: es
@@ -25,7 +25,7 @@ Somos honestos: si el casco tiene daño en el costado, reseco severo o capacidad
 
 ## Cómo preparar tu visita
 
-Trae el vehículo y las llantas a **1114 S Military Trl, West Palm Beach, FL 33415**. Ten a mano el tamaño (por ejemplo P215/60R16) si las etiquetas están gastadas. Si no estás seguro de que el juego coincide con tu auto, llama o WhatsApp **+1 561-429-4041** primero — dos minutos pueden ahorrarte el viaje en vano.
+Trae el vehículo y las llantas a **1114 S Military Trl, West Palm Beach, FL 33415**. Ten a mano el tamaño (por ejemplo P215/60R16) si las etiquetas están gastadas. Si no estás seguro de que el juego coincide con tu auto, llama o WhatsApp **(561) 429-4041** primero — dos minutos pueden ahorrarte el viaje en vano.
 
 Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo. Importa cuando el paquete llega el fin de semana y necesitas quitar las viejas antes del lunes. También ofrecemos **servicio móvil a 10 millas** del taller en muchas instalaciones — pregunta al agendar.
 
@@ -38,7 +38,7 @@ Mientras estás aquí, muchos conductores también piden:
 - Un repuesto **usado** o un juego **nuevo** si una llanta del cliente no pasa inspección
 - Reparación o vulcanización en una llanta que aún tiene vida
 
-Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi mientras esperas. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mira [servicios](/#services) para la lista completa enfocada en llantas.
+Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi mientras esperas. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mira [servicios](/es/servicios/instalacion-de-llantas) para la lista completa enfocada en llantas.
 
 ## Bueno saber
 
@@ -47,3 +47,5 @@ Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi
 - Instalamos lo que traes cuando es seguro — no montamos una llanta que falle una revisión básica.
 
 ¿Ya compraste las llantas? Tráelas a Military Trl en West Palm Beach y las dejamos listas en el auto.
+
+Para el servicio, mira [instalación de llantas del cliente](/es/servicios/instalacion-de-llantas).

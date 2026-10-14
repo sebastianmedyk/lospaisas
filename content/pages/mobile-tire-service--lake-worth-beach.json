@@ -7,7 +7,7 @@
   "parentPath": "/services/mobile-tire-service",
   "parentLabel": "Mobile tire service",
   "title": "Mobile Tire Service in Lake Worth Beach | Los Paisas",
-  "description": "Mobile tire service in Lake Worth Beach, within 10 miles of 1114 S Military Trl. Call to confirm the stop. Open daily 8 AM–7 PM. +1 561-429-4041.",
+  "description": "Mobile tire service in Lake Worth Beach, within 10 miles of 1114 S Military Trl. Call to confirm the stop. Open daily 8 AM–7 PM. (561) 429-4041.",
   "h1": "Mobile Tire Service in Lake Worth Beach",
   "eyebrow": "East of the shop, still one address",
   "serviceName": "Mobile tire service in Lake Worth Beach",
@@ -16,7 +16,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "Mobile tire service in Lake Worth Beach is for a car that should not be driven west to the shop. Los Paisas Tires Shop does not have a bay in Lake Worth Beach. The only address is 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, the coastal city formerly called Lake Worth, sits east of that shop, toward Dixie Highway and the Intracoastal. The city limits are inside the 10-mile area, so you can ask for the van. Call +1 561-429-4041 and we confirm the stop.",
+    "Mobile tire service in Lake Worth Beach is for a car that should not be driven west to the shop. Los Paisas Tires Shop does not have a bay in Lake Worth Beach. The only address is 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, the coastal city formerly called Lake Worth, sits east of that shop, toward Dixie Highway and the Intracoastal. The city limits are inside the 10-mile area, so you can ask for the van. Call (561) 429-4041 and we confirm the stop.",
     "We will not give you a minute count from the beach to Military Trl. If the tire holds air, driving to the shop is the straightforward visit. The van is the other option, during shop hours only."
   ],
   "sections": [
@@ -34,6 +34,18 @@
       ]
     },
     {
+      "heading": "A coastal city with a downtown and a beach",
+      "paragraphs": [
+        "Lake Worth Beach changed its name from Lake Worth in 2019. It runs from inland neighborhoods east to the Lake Worth Lagoon, with a downtown along Lake Avenue and Lucerne Avenue and the city beach across the bridge on the barrier island. That mix shapes what a mobile visit looks like.",
+        "Downtown and the beach area mean street parking, metered spaces and busy lots, which are often not a safe place to jack up a car. A house in one of the residential neighborhoods is usually easier. If you got a flat near the beach or downtown and the tire is not holding at all, tell us exactly where the car is and we will be honest about whether we can work there or whether a tow to the shop makes more sense."
+      ],
+      "bullets": [
+        "Residential street or driveway: usually workable",
+        "Downtown on Lake Ave or Lucerne Ave: street parking can be too tight",
+        "Beach parking area: say where in the lot, we decide if it is safe"
+      ]
+    },
+    {
       "heading": "When to drive west to the shop",
       "paragraphs": [
         "Lake Worth Road is one of the east-west roads people use to come inland. The shop is on S Military Trl in West Palm Beach, not on Dixie Highway and not on the beach. If you are already heading that way and the tire is holding, come to the address. You can look at used and new tires, get a repair vulcanized from the inside, and have balancing quoted with no hidden fees.",
@@ -44,7 +56,7 @@
       "heading": "How we confirm the address is in range",
       "paragraphs": [
         "Lake Worth Beach as a city is within 10 miles of 1114 S Military Trl. That is why this page exists. It is not a promise about every private road, marina lot, or spot we cannot work in. Give us the address. If it is in range and safe, we come. If it is not a place to jack a car, we say so.",
-        "There is still one phone number, +1 561-429-4041, and one shop. Do not look for a Lake Worth Beach storefront with our name."
+        "There is still one phone number, (561) 429-4041, and one shop. Do not look for a Lake Worth Beach storefront with our name."
       ],
       "nap": true
     }
@@ -62,6 +74,10 @@
     {
       "question": "Will you come to a crowded lot by the water?",
       "answer": "Only if we can work safely. If we cannot, we will ask you to get the car to 1114 S Military Trl instead."
+    },
+    {
+      "question": "I got a flat at the beach in Lake Worth Beach. Can you come?",
+      "answer": "Call (561) 429-4041 and tell us exactly where the car is parked. Beach and downtown parking can be too tight or busy to work safely. If it is, we will tell you and suggest getting the car to the shop."
     }
   ],
   "moreHeading": "Shop page and the neighboring towns",

@@ -16,7 +16,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "El servicio móvil de llantas en Greenacres sale de la misma van de Los Paisas Tires Shop. El taller no está en Greenacres. Está en 1114 S Military Trl, West Palm Beach, FL 33415, justo al este del límite de la ciudad. Greenacres cabe dentro de las 10 millas de esa dirección, así que una parada ahí se puede pedir. Llama al +1 561-429-4041 y confirmamos la entrada o el lote antes de que la van salga.",
+    "El servicio móvil de llantas en Greenacres sale de la misma van de Los Paisas Tires Shop. El taller no está en Greenacres. Está en 1114 S Military Trl, West Palm Beach, FL 33415, fuera de los límites de la ciudad. Greenacres cabe dentro de las 10 millas de esa dirección, así que una parada ahí se puede pedir. Llama al (561) 429-4041 y confirmamos la entrada o el lote antes de que la van salga.",
     "Si la llanta aguanta aire, muchos mandados de Greenacres ya pasan por Military Trl. Venir al local suele ser más simple que una visita móvil, porque las usadas, las nuevas y la alineación están en el taller. No cotizamos minutos."
   ],
   "sections": [
@@ -34,6 +34,19 @@
       ]
     },
     {
+      "heading": "Greenacres, como la ciudad se describe",
+      "paragraphs": [
+        "Greenacres es sobre todo una ciudad residencial. Según la propia ciudad, la mayoría de sus comercios y servicios están sobre Lake Worth Road, Forest Hill Boulevard, Tenth Avenue North y Jog Road, y el resto son vecindarios de casas, villas, condominios, townhomes y apartamentos. La alcaldía (City Hall) está en 5800 Melaleuca Lane.",
+        "Para una visita móvil eso importa. La entrada de una casa suele ser un buen lugar para trabajar. Un estacionamiento de condominio o de apartamentos también puede servir, pero a veces tiene reglas sobre trabajos en vehículos, así que pregunta en tu administración antes. Una plaza en una de las avenidas comerciales suele estar llena. Dinos en qué tipo de lugar estás y, si es una comunidad cerrada, cómo entramos."
+      ],
+      "bullets": [
+        "Entrada de casa: normalmente se puede trabajar",
+        "Condominio, villa o apartamentos: revisa primero las reglas del lugar",
+        "Plaza en Lake Worth Rd, Forest Hill Blvd, 10th Ave N o Jog Rd: dinos en qué parte del lote",
+        "Comunidad cerrada: danos las instrucciones del portón por teléfono"
+      ]
+    },
+    {
       "heading": "Llamar al taller antes de que salga la van",
       "paragraphs": [
         "El horario es el del taller: de 8:00 AM a 7:00 PM, siete días, domingo incluido. Una llamada de Greenacres fuera de esas horas no es un contrato de madrugada. Dinos las calles, si estás en una entrada o un lote, y si la llanta ya se salió del rin. Español o inglés.",
@@ -43,7 +56,7 @@
     {
       "heading": "Manejar hasta 1114 S Military Trl",
       "paragraphs": [
-        "El taller está en S Military Trl, del lado de West Palm Beach, junto al límite de Greenacres. No busques un segundo letrero de Los Paisas dentro de la ciudad. Si la llanta aguanta aire, ven a 1114 S Military Trl. Ahí te enseñamos la llanta, la balanceamos sin cargos ocultos, o subimos el carro a la alineación si está jalando.",
+        "El taller está en S Military Trl, en West Palm Beach, no dentro de Greenacres. No busques un segundo letrero de Los Paisas dentro de la ciudad. Si la llanta aguanta aire, ven a 1114 S Military Trl. Ahí te enseñamos la llanta, la balanceamos sin cargos ocultos, o subimos el carro a la alineación si está jalando.",
         "El servicio móvil no reemplaza eso. Cubre el caso en que el carro debe quedarse en Greenacres. La ciudad está a menos de 10 millas. La dirección se confirma llamada por llamada."
       ],
       "nap": true
@@ -53,15 +66,19 @@
   "faqs": [
     {
       "question": "¿El taller está en Greenacres?",
-      "answer": "No. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415, junto a Greenacres. La van puede entrar a la ciudad porque está a menos de 10 millas."
+      "answer": "No. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415, cerca de Greenacres. La van puede entrar a la ciudad porque está a menos de 10 millas."
     },
     {
       "question": "¿Publican minutos desde Melaleuca Lane?",
-      "answer": "No. No imprimimos minutos. Llama al +1 561-429-4041, da la dirección, y te decimos si vamos o si conviene que manejes al taller."
+      "answer": "No. No imprimimos minutos. Llama al (561) 429-4041, da la dirección, y te decimos si vamos o si conviene que manejes al taller."
     },
     {
       "question": "¿Alinean el carro en la entrada?",
       "answer": "No. La alineación se queda en el taller. Una visita móvil en Greenacres es para una llanta que no debe rodar, o un montaje que ya acordamos."
+    },
+    {
+      "question": "¿Pueden venir al estacionamiento de mi condominio o apartamento en Greenacres?",
+      "answer": "Muchas veces sí, si el lugar permite trabajar en vehículos y es seguro. Pregunta primero en tu administración y luego llama al (561) 429-4041 con la dirección y las instrucciones del portón."
     }
   ],
   "moreHeading": "El taller y los otros dos pueblos",

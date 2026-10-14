@@ -7,7 +7,7 @@
   "parentPath": "/es/servicios/servicio-movil",
   "parentLabel": "Servicio móvil",
   "title": "Servicio Móvil de Llantas en Lake Worth Beach | Los Paisas",
-  "description": "Servicio móvil en Lake Worth Beach, a 10 millas de 1114 S Military Trl. Llama y confirmamos la parada. Abierto 8 AM–7 PM. +1 561-429-4041.",
+  "description": "Servicio móvil en Lake Worth Beach, a 10 millas de 1114 S Military Trl. Llama y confirmamos la parada. Abierto 8 AM–7 PM. (561) 429-4041.",
   "h1": "Servicio Móvil de Llantas en Lake Worth Beach",
   "eyebrow": "Al este del taller, una sola dirección",
   "serviceName": "Servicio móvil de llantas en Lake Worth Beach",
@@ -16,7 +16,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "El servicio móvil de llantas en Lake Worth Beach es para un carro que no debe manejar al oeste, hasta el taller. Los Paisas Tires Shop no tiene un local en Lake Worth Beach. La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, la ciudad costera que antes se llamaba Lake Worth, queda al este de ese taller, hacia Dixie Highway y el Intracoastal. Los límites de la ciudad están dentro de las 10 millas, así que puedes pedir la van. Llama al +1 561-429-4041 y confirmamos la parada.",
+    "El servicio móvil de llantas en Lake Worth Beach es para un carro que no debe manejar al oeste, hasta el taller. Los Paisas Tires Shop no tiene un local en Lake Worth Beach. La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, la ciudad costera que antes se llamaba Lake Worth, queda al este de ese taller, hacia Dixie Highway y el Intracoastal. Los límites de la ciudad están dentro de las 10 millas, así que puedes pedir la van. Llama al (561) 429-4041 y confirmamos la parada.",
     "No te vamos a dar minutos desde la playa hasta Military Trl. Si la llanta aguanta aire, manejar al taller es la visita directa. La van es la otra opción, solo en el horario del local."
   ],
   "sections": [
@@ -34,6 +34,18 @@
       ]
     },
     {
+      "heading": "Una ciudad costera con centro y playa",
+      "paragraphs": [
+        "Lake Worth Beach cambió su nombre de Lake Worth en 2019. Va desde vecindarios hacia el interior hasta el Lake Worth Lagoon, con un centro sobre Lake Avenue y Lucerne Avenue y la playa de la ciudad cruzando el puente, en la isla de barrera. Esa mezcla cambia cómo es una visita móvil.",
+        "En el centro y cerca de la playa hay estacionamiento en la calle, parquímetros y lotes llenos, que muchas veces no son un lugar seguro para levantar un carro. Una casa en un vecindario residencial suele ser más fácil. Si se te ponchó una llanta cerca de la playa o del centro y no aguanta nada de aire, dinos exactamente dónde está el carro y te diremos con honestidad si podemos trabajar ahí o si conviene remolcarlo al taller."
+      ],
+      "bullets": [
+        "Calle residencial o entrada de casa: normalmente se puede",
+        "Centro en Lake Ave o Lucerne Ave: el estacionamiento en la calle puede ser muy apretado",
+        "Estacionamiento de la playa: dinos en qué parte del lote y decidimos si es seguro"
+      ]
+    },
+    {
       "heading": "Cuándo manejar al oeste, al taller",
       "paragraphs": [
         "Lake Worth Road es una de las vías este-oeste que la gente usa para venir tierra adentro. El taller está en S Military Trl en West Palm Beach, no en Dixie Highway y no en la playa. Si ya vas para ese lado y la llanta aguanta, ven a la dirección. Puedes ver usadas y nuevas, vulcanizar una reparación por dentro, y cotizar el balanceo sin cargos ocultos.",
@@ -44,7 +56,7 @@
       "heading": "Cómo confirmamos que la dirección entra",
       "paragraphs": [
         "Lake Worth Beach, como ciudad, está a menos de 10 millas de 1114 S Military Trl. Por eso existe esta página. No es una promesa sobre cada camino privado, lote de marina o punto donde no podemos trabajar. Danos la dirección. Si entra en el radio y es segura, vamos. Si no es lugar para levantar un carro, te lo decimos.",
-        "Sigue habiendo un teléfono, +1 561-429-4041, y un taller. No busques un local nuestro en Lake Worth Beach."
+        "Sigue habiendo un teléfono, (561) 429-4041, y un taller. No busques un local nuestro en Lake Worth Beach."
       ],
       "nap": true
     }
@@ -62,6 +74,10 @@
     {
       "question": "¿Van a un lote lleno junto al agua?",
       "answer": "Solo si podemos trabajar con seguridad. Si no, te pedimos que lleves el carro a 1114 S Military Trl."
+    },
+    {
+      "question": "Se me ponchó una llanta en la playa de Lake Worth Beach. ¿Pueden venir?",
+      "answer": "Llama al (561) 429-4041 y dinos exactamente dónde está estacionado el carro. En la playa y el centro el espacio puede ser muy apretado o con mucho tráfico. Si es así, te lo decimos y te sugerimos llevar el carro al taller."
     }
   ],
   "moreHeading": "La página del taller y los pueblos vecinos",

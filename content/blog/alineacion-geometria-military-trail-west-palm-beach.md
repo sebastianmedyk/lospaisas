@@ -1,5 +1,5 @@
 ---
-title: "Alineación / geometría en Military Trl, West Palm Beach"
+title: "Señales de que tu carro necesita alineación"
 description: "¿Necesitas alineación en West Palm Beach? Los Paisas Tires Shop en S Military Trl revisa desvío, desgaste irregular y geometría — abiertos 7 días, precios claros."
 date: "2026-08-18"
 locale: es
@@ -33,7 +33,7 @@ También montamos y balanceamos **llantas nuevas** o **usadas**, reparamos y vul
 
 Las calles de Palm Beach County castigan las llantas: calor, frenadas y pavimento irregular. Saltar la alineación después de montar llantas nuevas — o después de un golpe fuerte — puede acabar la banda meses antes. Revisar la geometría en un taller de barrio mantiene la charla personal y la cotización honesta.
 
-Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de solo días hábiles. Llama o WhatsApp **+1 561-429-4041**, o mira [servicios](/#services) y [ubicación](/es/ubicacion). Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de solo días hábiles. Llama o WhatsApp **(561) 429-4041**, o mira [servicios](/es/servicios/alineacion) y [ubicación](/es/ubicacion). Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 ## Bueno saber
 
@@ -42,3 +42,5 @@ Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de s
 - Combina alineación con balanceo, llantas nuevas/usadas, reparación o instalación de llantas del cliente si hace falta.
 
 ¿Volante torcido o desgaste irregular? Pasa por Military Trl en West Palm Beach y te ayudamos a enderezarlo.
+
+Para el servicio, mira [alineación en Los Paisas Tires Shop](/es/servicios/alineacion).

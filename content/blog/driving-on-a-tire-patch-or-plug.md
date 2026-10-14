@@ -1,6 +1,6 @@
 ---
 title: "Driving on a Tire Patch or Plug | Los Paisas Tires"
-description: "Can you keep driving on a tire patch or plug? What Los Paisas will and will not repair at 1114 S Military Trl, West Palm Beach. Call +1 561-429-4041."
+description: "Can you keep driving on a tire patch or plug? What Los Paisas will and will not repair at 1114 S Military Trl, West Palm Beach. Call (561) 429-4041."
 date: "2026-10-03"
 locale: en
 slug: driving-on-a-tire-patch-or-plug
@@ -13,7 +13,7 @@ keywords:
 
 A patch is a repair, not a permission slip to ignore the tire. Drivers call Los Paisas Tires Shop from West Palm Beach and ask if they can keep going on a plug they put in last month, or on a nail that is still stuck in the tread. The short answer: if the tire is losing air, stop treating it as a plan. If it was repaired correctly, in the tread, and it is holding, it can be a normal tire again. The difference is the repair, not the hope.
 
-The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. [Tire repair](/services/tire-repair) is done there, and the word we use for a proper inside repair is vulcanization. Call **+1 561-429-4041**. Hours are 8:00 AM to 7:00 PM, seven days.
+The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. [Tire repair](/services/tire-repair) is done there, and the word we use for a proper inside repair is vulcanization. Call **(561) 429-4041**. Hours are 8:00 AM to 7:00 PM, seven days.
 
 ## A patch is not a promise you can ignore the tire
 
@@ -39,7 +39,7 @@ We also look for an old repair. Two injuries in a bad pattern, or a plug already
 
 ## If the tire is losing air right now
 
-Pull off the road somewhere safe. Do not sit in a live lane. If you have a spare and you know how to use it, that is the way to get to the shop. If you do not, call **+1 561-429-4041** and say where you are. If you are inside 10 miles and we can work there, we will tell you. If you are not, we will not pretend the van is coming from across the county.
+Pull off the road somewhere safe. Do not sit in a live lane. If you have a spare and you know how to use it, that is the way to get to the shop. If you do not, call **(561) 429-4041** and say where you are. If you are inside 10 miles and we can work there, we will tell you. If you are not, we will not pretend the van is coming from across the county.
 
 Do not keep adding air at a gas station all week. A tire that needs air every morning has a leak. The nail you can see is not always the only leak. Driving it "topped off" is how people show up with a destroyed sidewall and a repair that is no longer possible.
 

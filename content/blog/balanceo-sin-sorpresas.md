@@ -1,5 +1,5 @@
 ---
-title: "Balanceo de llantas sin sorpresas en West Palm Beach"
+title: "Por qué se balancean las ruedas y cómo evitar cargos sorpresa"
 description: "¿Cansado de cargos sorpresa? Los Paisas Tires Shop en S Military Trl ofrece balanceo honesto — precios transparentes para conductores de West Palm Beach."
 date: "2026-09-01"
 locale: es
@@ -38,4 +38,6 @@ Mientras estás en **1114 S Military Trl**, también podemos ayudarte con:
 
 ## Agenda hoy
 
-Llama o WhatsApp **+1 561-429-4041**. Abierto **7 días, 8:00 AM – 7:00 PM**. Mira [nuestra ubicación](/es/ubicacion) en el mapa y la lista completa de [servicios](/#services).
+Llama o WhatsApp **(561) 429-4041**. Abierto **7 días, 8:00 AM – 7:00 PM**. Mira [nuestra ubicación](/es/ubicacion) en el mapa y la lista completa de [servicios](/es/servicios/balanceo).
+
+Para el servicio, mira [balanceo en Los Paisas Tires Shop](/es/servicios/balanceo).

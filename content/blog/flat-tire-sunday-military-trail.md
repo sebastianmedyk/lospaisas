@@ -29,7 +29,7 @@ Cannot make it to Military Trl? Ask about **mobile tire service within 10 miles*
 
 ## How to reach us fast
 
-- Call or WhatsApp: **+1 561-429-4041**
+- Call or WhatsApp: **(561) 429-4041**
 - Directions: [Google Maps to 1114 S Military Trl](https://www.google.com/maps/dir/?api=1&destination=1114+S+Military+Trl,+West+Palm+Beach,+FL+33415)
 - Instagram: [@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)
 
@@ -37,7 +37,9 @@ Cannot make it to Military Trl? Ask about **mobile tire service within 10 miles*
 ## Good to know
 
 - Los Paisas Tires Shop is open Sunday 8:00 AM–7:00 PM at 1114 S Military Trl, West Palm Beach, FL 33415.
-- Call or WhatsApp **+1 561-429-4041** for repair, vulcanization, new/used tires, or customer-tire install.
+- Call or WhatsApp **(561) 429-4041** for repair, vulcanization, new/used tires, or customer-tire install.
 - Mobile tire service is available within 10 miles of the shop.
 
 Save this number before the next roadside surprise. Need a Sunday tire fix in West Palm Beach? We are on Military Trl and ready to help.
+
+Need the repair itself? See [tire repair and vulcanization](/services/tire-repair) or [used tires](/services/used-tires) if it can't be fixed.

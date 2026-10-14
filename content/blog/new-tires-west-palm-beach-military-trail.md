@@ -1,5 +1,5 @@
 ---
-title: "New Tires on Military Trl in West Palm Beach"
+title: "Buying New Tires: Sizes and Driving Needs Explained"
 description: "Shopping for new tires in West Palm Beach? Los Paisas Tires Shop on S Military Trl helps you compare sizes, ride needs, and clear install options — open 7 days."
 date: "2026-07-05"
 locale: en
@@ -31,9 +31,9 @@ If only one or two tires failed, we discuss matching the remaining tread so the 
 
 ## Open seven days, with mobile when you need it
 
-Hours are **8:00 AM – 7:00 PM daily**. Sunday new-tire installs are normal here — useful when the weekday calendar is packed. If you cannot leave home or work, ask about **mobile tire service within 10 miles** of the shop. Call or WhatsApp **+1 561-429-4041**, see [services](/#services), or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Hours are **8:00 AM – 7:00 PM daily**. Sunday new-tire installs are normal here — useful when the weekday calendar is packed. If you cannot leave home or work, ask about **mobile tire service within 10 miles** of the shop. Call or WhatsApp **(561) 429-4041**, see [services](/services/new-tires), or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
-We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while you wait. Rated **4.4★** from **276** Google reviews as a bilingual small business focused on tires.
+We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while you wait. Rated **4.4★** from **282** Google reviews as a bilingual small business focused on tires.
 
 ## Good to know
 
@@ -42,3 +42,5 @@ We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while
 - Also: alignment, repair/vulcanization, customer-tire install, mobile within 10 miles.
 
 Ready for a fresh set on Military Trl? Stop by Los Paisas Tires Shop in West Palm Beach and we will get you rolling.
+
+When you know what you need, see [new tires at Los Paisas Tires Shop](/services/new-tires).
