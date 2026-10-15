@@ -45,10 +45,9 @@ export default function Services() {
           ))}
         </ul>
 
-        <ul className="mx-auto mt-10 grid max-w-5xl grid-cols-2 gap-3 md:grid-cols-4">
+        <ul className="mx-auto mt-10 grid max-w-4xl grid-cols-2 gap-3 md:grid-cols-3">
           {(
             [
-              [1, PHOTOS.usedBay],
               [0, PHOTOS.newTread],
               [4, PHOTOS.repair1],
               [6, PHOTOS.truck1],

@@ -59,7 +59,6 @@ export const SHOP_PHOTOS: string[] = [
   "/photos/wheel-balancing-west-palm-beach-los-paisas-08.webp",
   "/photos/flat-tire-repair-west-palm-beach-los-paisas-10.webp",
   "/photos/tire-installation-west-palm-beach-los-paisas-14.webp",
-  "/photos/used-tires-west-palm-beach-los-paisas-shop-bay-15.webp",
   "/photos/mobile-tire-service-truck-west-palm-beach-los-paisas-06.webp",
 ];
 

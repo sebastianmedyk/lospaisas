@@ -49,15 +49,9 @@ export const PHOTOS = {
   newTread: P("new-tires-west-palm-beach-los-paisas-tread-12.webp", 1440, 2560,
     "Close-up of a tire tread with deep grooves",
     "Primer plano de la banda de rodadura de una llanta con surcos profundos"),
-  usedTread: P("used-tires-west-palm-beach-los-paisas-tread-check-13.webp", 1440, 2560,
-    "Close-up of a tire tread being checked",
-    "Primer plano de la banda de una llanta durante la revisión"),
   install: P("tire-installation-west-palm-beach-los-paisas-14.webp", 1440, 2560,
     "Technician crouched at the front wheel of a silver car with an air hose",
     "Técnico agachado junto a la rueda delantera de un carro plateado con una manguera de aire"),
-  usedBay: P("used-tires-west-palm-beach-los-paisas-shop-bay-15.webp", 1440, 2560,
-    "Tire being rolled across the shop bay floor",
-    "Llanta rodando por el piso del área de trabajo del taller"),
   office: P("tire-shop-office-west-palm-beach-los-paisas-16.webp", 1440, 1926,
     "Team member in a Los Paisas Tires Shop shirt in the shop office",
     "Empleado con camiseta de Los Paisas Tires Shop en la oficina del taller"),
@@ -70,5 +64,6 @@ export const SERVICE_PHOTOS: Record<string, Photo[]> = {
   "/services/new-tires": [PHOTOS.newTread],
   "/services/tire-installation": [PHOTOS.install],
   "/services/tire-repair": [PHOTOS.repair1, PHOTOS.repair2],
-  "/services/used-tires": [PHOTOS.usedTread, PHOTOS.usedBay],
+  // used-tires: no photo yet. #13 shows a worn-out tire and #15 a single loose tire,
+  // neither shows used tires for sale. TODO(Sebastian): photo of the used-tire rack/stack.
 };
