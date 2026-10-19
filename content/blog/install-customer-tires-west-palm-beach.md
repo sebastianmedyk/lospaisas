@@ -1,7 +1,7 @@
 ---
 title: "Bought Tires Online? What to Know Before Installation"
 description: "Bought tires online or elsewhere? Los Paisas Tires Shop on S Military Trl mounts customer-owned tires with clear pricing — open seven days in West Palm Beach."
-date: "2026-07-28"
+date: "2026-08-12"
 updated: "2026-10-19"
 locale: en
 slug: install-customer-tires-west-palm-beach

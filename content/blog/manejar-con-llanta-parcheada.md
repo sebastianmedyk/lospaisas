@@ -1,7 +1,7 @@
 ---
 title: "Manejar con una Llanta Parcheada | Los Paisas Tires"
 description: "¿Se puede seguir manejando con un parche o un plug? Qué reparamos y qué no en 1114 S Military Trl, West Palm Beach. Llama al (561) 429-4041."
-date: "2026-10-03"
+date: "2026-09-23"
 updated: "2026-10-19"
 locale: es
 slug: manejar-con-llanta-parcheada

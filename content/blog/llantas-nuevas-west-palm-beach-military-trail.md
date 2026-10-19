@@ -1,7 +1,7 @@
 ---
 title: "Comprar llantas nuevas: medidas y tipo de manejo explicados"
 description: "¿Buscas llantas nuevas en West Palm Beach? Los Paisas Tires Shop en S Military Trl te ayuda a comparar tamaños, uso y opciones de instalación claras — abiertos 7 días."
-date: "2026-07-05"
+date: "2026-09-11"
 updated: "2026-10-19"
 locale: es
 slug: llantas-nuevas-west-palm-beach-military-trail

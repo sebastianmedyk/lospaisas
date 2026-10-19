@@ -1,7 +1,7 @@
 ---
 title: "Presión de Llantas en el Verano de Florida | Los Paisas"
 description: "Presión de llantas en verano y en temporada de huracanes. Usa la placa de la puerta, no un número inventado. 1114 S Military Trl. (561) 429-4041."
-date: "2026-10-03"
+date: "2026-10-11"
 updated: "2026-10-19"
 locale: es
 slug: presion-llantas-verano-huracanes

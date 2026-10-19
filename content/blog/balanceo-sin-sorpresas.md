@@ -1,7 +1,7 @@
 ---
 title: "Por qué se balancean las ruedas y cómo evitar cargos sorpresa"
 description: "¿Cansado de cargos sorpresa? Los Paisas Tires Shop en S Military Trl ofrece balanceo honesto — precios transparentes para conductores de West Palm Beach."
-date: "2026-09-01"
+date: "2026-08-23"
 updated: "2026-10-19"
 locale: es
 slug: balanceo-sin-sorpresas

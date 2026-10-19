@@ -1,7 +1,7 @@
 ---
 title: "What Used Tires Cost in West Palm Beach | Los Paisas"
 description: "Used tire prices in West Palm Beach depend on size and tread. This shop does not list a dollar amount. Call (561) 429-4041 at 1114 S Military Trl."
-date: "2026-10-03"
+date: "2026-07-26"
 updated: "2026-10-19"
 locale: en
 slug: used-tire-prices-west-palm-beach

@@ -1,7 +1,7 @@
 ---
 title: "Signs Your Car Needs a Wheel Alignment"
 description: "Need wheel alignment in West Palm Beach? Los Paisas Tires Shop on S Military Trl checks pull, uneven wear, and geometry — open seven days with clear pricing."
-date: "2026-08-18"
+date: "2026-07-22"
 updated: "2026-10-19"
 locale: en
 slug: wheel-alignment-military-trail-west-palm-beach

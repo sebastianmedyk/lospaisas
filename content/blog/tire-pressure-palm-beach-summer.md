@@ -1,7 +1,7 @@
 ---
 title: "Tire Pressure in Palm Beach Summer | Los Paisas Tires"
 description: "Summer tire pressure and hurricane season in Palm Beach County. Use your door placard, not a made-up number. Los Paisas, 1114 S Military Trl. (561) 429-4041."
-date: "2026-10-03"
+date: "2026-10-11"
 updated: "2026-10-19"
 locale: en
 slug: tire-pressure-palm-beach-summer

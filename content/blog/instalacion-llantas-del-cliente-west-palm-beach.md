@@ -1,7 +1,7 @@
 ---
 title: "¿Compraste llantas en línea? Qué saber antes de instalarlas"
 description: "¿Compraste llantas en línea u otro lugar? Los Paisas Tires Shop en S Military Trl instala llantas del cliente — montaje, opción de balanceo, abiertos 7 días."
-date: "2026-07-28"
+date: "2026-08-12"
 updated: "2026-10-19"
 locale: es
 slug: instalacion-llantas-del-cliente-west-palm-beach

@@ -1,7 +1,7 @@
 ---
 title: "¿Cuándo se puede reparar una ponchadura? Reparación y vulcanización explicadas"
 description: "¿Ponchada o pinchazo en West Palm Beach? Los Paisas Tires Shop en S Military Trl ofrece reparación y vulcanización cuando es seguro — abiertos 7 días, bilingües."
-date: "2026-08-10"
+date: "2026-08-03"
 updated: "2026-10-19"
 locale: es
 slug: reparacion-vulcanizacion-llantas-west-palm-beach

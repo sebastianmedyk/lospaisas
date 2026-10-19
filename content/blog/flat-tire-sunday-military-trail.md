@@ -1,7 +1,7 @@
 ---
 title: "Flat Tire on Sunday? We're Open on S Military Trl"
 description: "Got a flat tire on Sunday in West Palm Beach? Los Paisas Tires Shop on S Military Trl is open 7 days, 8 AM–7 PM — repair, vulcanization, and installs."
-date: "2026-08-25"
+date: "2026-08-28"
 updated: "2026-10-19"
 locale: en
 slug: flat-tire-sunday-military-trail

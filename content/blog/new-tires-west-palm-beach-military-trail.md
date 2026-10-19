@@ -1,7 +1,7 @@
 ---
 title: "Buying New Tires: Sizes and Driving Needs Explained"
 description: "Shopping for new tires in West Palm Beach? Los Paisas Tires Shop on S Military Trl helps you compare sizes, ride needs, and clear install options — open 7 days."
-date: "2026-07-05"
+date: "2026-09-11"
 updated: "2026-10-19"
 locale: en
 slug: new-tires-west-palm-beach-military-trail

@@ -1,7 +1,7 @@
 ---
 title: "Llantas Usadas o Nuevas y el Calor | Los Paisas Tires"
 description: "Llantas usadas o nuevas con el calor de Florida: qué le hace el sol al hule y cómo se decide en 1114 S Military Trl. Llama al (561) 429-4041."
-date: "2026-10-03"
+date: "2026-09-30"
 updated: "2026-10-19"
 locale: es
 slug: llantas-usadas-o-nuevas-calor-florida

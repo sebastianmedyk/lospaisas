@@ -1,7 +1,7 @@
 ---
 title: "Driving on a Tire Patch or Plug | Los Paisas Tires"
 description: "Can you keep driving on a tire patch or plug? What Los Paisas will and will not repair at 1114 S Military Trl, West Palm Beach. Call (561) 429-4041."
-date: "2026-10-03"
+date: "2026-09-23"
 updated: "2026-10-19"
 locale: en
 slug: driving-on-a-tire-patch-or-plug

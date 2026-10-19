@@ -1,7 +1,7 @@
 ---
 title: "Precio de Llantas Usadas en West Palm Beach | Los Paisas"
 description: "El precio de las llantas usadas en West Palm Beach depende de la medida y del piso. Aquí no hay montos. Llama al (561) 429-4041, 1114 S Military Trl."
-date: "2026-10-03"
+date: "2026-07-26"
 updated: "2026-10-19"
 locale: es
 slug: precio-llantas-usadas-west-palm-beach

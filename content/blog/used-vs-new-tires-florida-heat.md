@@ -1,7 +1,7 @@
 ---
 title: "Used vs New Tires in Florida Heat | Los Paisas Tires"
 description: "Used or new tires in Florida heat: what the sun does to rubber, and how Los Paisas chooses at 1114 S Military Trl. Call (561) 429-4041. No prices listed."
-date: "2026-10-03"
+date: "2026-09-30"
 updated: "2026-10-19"
 locale: en
 slug: used-vs-new-tires-florida-heat
