@@ -17,7 +17,7 @@
     "Palm Beach County"
   ],
   "intro": [
-    "El servicio móvil de llantas en West Palm Beach es la van de Los Paisas Tires Shop, no un segundo local. El taller sigue en 1114 S Military Trl, West Palm Beach, FL 33415. Si el carro debe quedarse quieto, podemos ir cerca de ti cuando la dirección está a 10 millas de ese taller. Llama al (561) 429-4041 y confirmamos el punto antes de salir.",
+    "El servicio móvil de llantas en West Palm Beach es la van de Los Paisas Tires Shop, no un segundo local. El taller sigue en 1114 S Military Trl, West Palm Beach, FL 33415. Si el carro debe quedarse quieto, podemos ir a tu ubicación cuando la dirección está a 10 millas de ese taller. Llama al (561) 429-4041 y confirmamos el punto antes de salir.",
     "La van sale en el horario del taller: de 8:00 AM a 7:00 PM, los siete días, domingo incluido. Si la llanta aguanta aire y puedes manejar, el local casi siempre es mejor, sobre todo si quieres ver llantas usadas o subir el carro a la alineación."
   ],
   "sections": [
@@ -86,6 +86,11 @@
     {
       "href": "/es/blog/servicio-movil-llantas-west-palm-beach",
       "label": "Cómo funciona el servicio móvil"
+    },
+    {
+      "href": "/es/blog/llanta-ponchada-domingo-military-trail",
+      "label": "¿Llanta ponchada el domingo? Qué puede hacer el taller"
     }
-  ]
+  ],
+  "updated": "2026-10-19"
 }

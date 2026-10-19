@@ -274,4 +274,14 @@ main[id] {
   .blog-prose strong {
     @apply font-bold text-white;
   }
+  /* Criteria tables in posts: readable on dark background, scroll on small screens. */
+  .blog-prose table {
+    @apply mb-6 block w-full overflow-x-auto border-collapse text-left text-sm text-white/80;
+  }
+  .blog-prose th {
+    @apply border-b border-white/20 px-3 py-2 align-bottom font-bold text-white;
+  }
+  .blog-prose td {
+    @apply border-b border-white/10 px-3 py-2 align-top;
+  }
 }

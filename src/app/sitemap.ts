@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getAllPosts, blogPath } from "@/lib/blog";
+import { getAllPosts, blogPath, postModifiedDate } from "@/lib/blog";
 import { blogLanguageAlternates } from "@/lib/blog-routes";
 import { getAllLocalPages } from "@/lib/local-pages";
 import {
@@ -17,7 +17,6 @@ function placeEntry(
 ): MetadataRoute.Sitemap[number] {
   return {
     url: `${SITE_URL}${path}`,
-    lastModified: new Date(),
     changeFrequency: "monthly",
     priority: 0.8,
     alternates: {
@@ -31,13 +30,20 @@ function placeEntry(
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date();
   const posts = getAllPosts();
+  // Only real content dates: posts use `updated`/`date`; listings use their newest post.
+  // Pages without a tracked content date omit lastModified instead of faking "now".
+  const newestPostDate = (locale?: "en" | "es") => {
+    const dates = posts
+      .filter((p) => (locale ? p.locale === locale : true))
+      .map((p) => postModifiedDate(p))
+      .sort();
+    return dates.length ? new Date(dates[dates.length - 1]) : undefined;
+  };
 
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: SITE_URL,
-      lastModified: now,
       changeFrequency: "weekly",
       priority: 1,
       alternates: {
@@ -50,7 +56,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${SITE_URL}/es`,
-      lastModified: now,
       changeFrequency: "weekly",
       priority: 1,
       alternates: {
@@ -63,7 +68,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${SITE_URL}/blog`,
-      lastModified: now,
+      lastModified: newestPostDate("en"),
       changeFrequency: "weekly",
       priority: 0.8,
       alternates: {
@@ -76,7 +81,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${SITE_URL}/es/blog`,
-      lastModified: now,
+      lastModified: newestPostDate("es"),
       changeFrequency: "weekly",
       priority: 0.8,
       alternates: {
@@ -89,7 +94,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${SITE_URL}${servicesPath("en")}`,
-      lastModified: now,
       changeFrequency: "weekly",
       priority: 0.9,
       alternates: {
@@ -102,7 +106,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${SITE_URL}${servicesPath("es")}`,
-      lastModified: now,
       changeFrequency: "weekly",
       priority: 0.9,
       alternates: {
@@ -123,7 +126,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const langs = blogLanguageAlternates(post.locale, post.slug);
     return {
       url: `${SITE_URL}${blogPath(post.locale, post.slug)}`,
-      lastModified: new Date(post.date),
+      lastModified: new Date(postModifiedDate(post)),
       changeFrequency: "monthly" as const,
       priority: 0.7,
       alternates: {
@@ -138,7 +141,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const localRoutes: MetadataRoute.Sitemap = getAllLocalPages().map((page) => ({
     url: `${SITE_URL}${page.path}`,
-    lastModified: now,
+    ...(page.updated ? { lastModified: new Date(page.updated) } : {}),
     changeFrequency: "monthly" as const,
     priority: page.kind === "city" ? 0.6 : 0.85,
     alternates: {

@@ -2,6 +2,7 @@
 title: "Used vs New Tires in Florida Heat | Los Paisas Tires"
 description: "Used or new tires in Florida heat: what the sun does to rubber, and how Los Paisas chooses at 1114 S Military Trl. Call (561) 429-4041. No prices listed."
 date: "2026-10-03"
+updated: "2026-10-19"
 locale: en
 slug: used-vs-new-tires-florida-heat
 h1: "Used and New Tires in Florida Heat"
@@ -35,6 +36,19 @@ Buy new when the used rack does not have a sound tire in your size, when the oth
 
 A new tire in Florida still lives in the same sun. It is not maintenance-free. Check the cold pressure against the door placard, watch for nails, and do not ignore a pull. The first weeks of a new tire are when a crooked alignment shows up as a feathered shoulder. Catching that at [1114 S Military Trl](/services/wheel-alignment) is cheaper in rubber than waiting for the tread to disappear. We still will not invent a price for that visit on this page.
 
+## How do used and new tires compare?
+
+A checked used tire covers a short-term or budget need, while a new tire is the safer buy when you need matched tires or long highway use. Both have to pass the same size and load check. This table shows what we weigh at the counter. It has no prices, because the site does not list them.
+
+| What you are deciding | A checked used tire | A new tire |
+|---|---|---|
+| Usually a good fit for | Replacing one or two tires, getting off a spare, stretching a budget | Four matched tires, long highway trips, or no sound used tire in your size |
+| Tread | Only what is left on that casing | Full tread depth |
+| Sun and heat history | Unknown, so both sidewalls must pass a look for cracks | No previous time on a car in the sun |
+| Must still match | Size and load rating from the door placard | Size and load rating from the door placard |
+| Deal-breakers | Sidewall cracks, a bubble, a repair near the shoulder, cupped or feathered wear | Wrong size or load rating |
+| Price on this site | Not listed; call with your size | Not listed; call with your size |
+
 ## Parking, pressure, and the afternoon pavement
 
 A car that sits all day on hot asphalt is harder on tires than a car that moves. If you can, you are not required to rebuild your life around shade, but you should look at the sidewalls when you are already at the shop for something else. A slow leak that was "fine" in the morning can be a flat by evening because you were low to start with and the heat was only hiding it. Low pressure flexes the sidewall and builds more heat. That is how a small neglect becomes a tire that cannot be repaired.
@@ -44,6 +58,8 @@ If you pick up a nail on Military Trl, do not decide used-versus-new in the park
 ## Bring the car to S Military Trl
 
 The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Open 8:00 AM to 7:00 PM every day, including Sunday. Call **(561) 429-4041**. English or Spanish. Greenacres, Palm Springs, and Lake Worth Beach are within 10 miles if you are driving in. If the car should not move, ask about [mobile service](/services/mobile-tire-service). The van does not carry the full choice of used and new tires, so a heat-and-tread decision is usually better made at the bay, where you can see both.
+
+Related guides: [How to check a used tire before you buy](/blog/used-tires-west-palm-beach), [What used tires cost in West Palm Beach](/blog/used-tire-prices-west-palm-beach), and [Tire pressure in Palm Beach summer](/blog/tire-pressure-palm-beach-summer).
 
 ## Questions about heat and tires
 

@@ -2,6 +2,7 @@
 title: "Manejar con una Llanta Parcheada | Los Paisas Tires"
 description: "¿Se puede seguir manejando con un parche o un plug? Qué reparamos y qué no en 1114 S Military Trl, West Palm Beach. Llama al (561) 429-4041."
 date: "2026-10-03"
+updated: "2026-10-19"
 locale: es
 slug: manejar-con-llanta-parcheada
 h1: "Seguir Manejando con Parche o Plug"
@@ -37,6 +38,19 @@ También buscamos una reparación vieja. Dos daños en un patrón malo, o un plu
 
 El [servicio móvil](/es/servicios/servicio-movil) puede cubrir una ponchadura a 10 millas del taller, incluyendo Greenacres, Palm Springs y Lake Worth Beach, cuando la dirección es un lugar seguro para trabajar. No es una promesa de 24 horas. El horario es el del taller. La alineación no es parte de un parche en la calle.
 
+## Plug, parche o cambio: ¿cuál aplica?
+
+Depende de dónde está el daño y de cómo se manejó la llanta: un pinchazo pequeño en la banda normalmente se puede reparar por dentro, y un daño en el hombro o en el costado significa cambiar la llanta. Así suele ir la decisión en el taller. La última palabra llega después de sacar la llanta del rin.
+
+| Situación | Qué suele significar | Qué hace el taller |
+|---|---|---|
+| Clavo o tornillo pequeño en la banda, sin manejar ponchada | Muchas veces se puede reparar | Saca la llanta del rin, la revisa por dentro y la repara por dentro (vulcanización) |
+| Plug de kit puesto por fuera | No es una reparación terminada, porque nadie vio el interior | Revisa por dentro y luego repara bien o cambia |
+| Hoyo en el hombro, donde la banda se curva hacia el costado | Normalmente no se puede reparar | La cambia por una usada o nueva en tu medida |
+| Corte, chipote u hoyo en el costado | No se puede reparar | La cambia por una usada o nueva en tu medida |
+| Llanta manejada ponchada o muy baja | El forro interior puede estar dañado y quizá ya no se pueda reparar | Revisa por dentro antes de decidir |
+| Reparación vieja cerca del daño nuevo | Puede terminar la opción de reparar | Lo explica antes de que nadie ponga una segunda reparación |
+
 ## Si la llanta está perdiendo aire ahora
 
 Sal de la vía en un lugar seguro. No te quedes en un carril con tráfico. Si tienes repuesto y sabes usarla, ese es el modo de llegar al taller. Si no, llama al **(561) 429-4041** y di dónde estás. Si estás dentro de las 10 millas y podemos trabajar ahí, te lo decimos. Si no, no fingimos que la van cruza el condado.
@@ -48,6 +62,8 @@ No pases la semana echándole aire en la gasolinera. Una llanta que pide aire ca
 Una llanta reparada tiene que aguantar aire. Lo revisamos antes de que te vayas. No deberías ver el costado doblado, ni oír un siseo. Si el piso ya estaba disparejo, la reparación no enderezó el carro. Un jalón es pregunta de [alineación](/es/servicios/alineacion) para otra parte de la misma visita, no una señal de que el parche "no pegó."
 
 Pon la presión en frío según la placa de tu puerta, no según un número que recuerdas de otro carro. El calor la sube después de manejar. Eso es normal. Una reparación no cambia la placa.
+
+Guías relacionadas: [¿Cuándo se puede reparar una ponchadura?](/es/blog/reparacion-vulcanizacion-llantas-west-palm-beach), [¿Llanta ponchada el domingo?](/es/blog/llanta-ponchada-domingo-military-trail) y [Presión de llantas en verano y huracanes](/es/blog/presion-llantas-verano-huracanes).
 
 ## Preguntas sobre manejar con una reparación
 

@@ -244,6 +244,8 @@ export function articleJsonLd(input: {
   title: string;
   description: string;
   date: string;
+  /** Last real content update; defaults to `date`. */
+  dateModified?: string;
   url: string;
   locale: "en" | "es";
 }) {
@@ -253,7 +255,7 @@ export function articleJsonLd(input: {
     headline: input.title,
     description: input.description,
     datePublished: input.date,
-    dateModified: input.date,
+    dateModified: input.dateModified || input.date,
     inLanguage: input.locale === "es" ? "es-US" : "en-US",
     image: [absoluteUrl("/brand/promo-sunday.jpg")],
     author: {

@@ -2,6 +2,7 @@
 title: "Tire Pressure in Palm Beach Summer | Los Paisas Tires"
 description: "Summer tire pressure and hurricane season in Palm Beach County. Use your door placard, not a made-up number. Los Paisas, 1114 S Military Trl. (561) 429-4041."
 date: "2026-10-03"
+updated: "2026-10-19"
 locale: en
 slug: tire-pressure-palm-beach-summer
 h1: "Tire Pressure in Summer and Hurricane Season"
@@ -56,6 +57,8 @@ A tire that was correct yesterday and is flat this morning picked up something, 
 Come to Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415, between 8:00 AM and 7:00 PM. Phone and WhatsApp **(561) 429-4041**. English or Spanish. Bring the car cold if you want the reading to match the placard. If you arrive with hot tires, we can still find a leak. We will not pretend a hot reading is the cold setting.
 
 Balancing and alignment are separate from a pressure check. A shake is often [balance](/services/tire-balancing). A pull is often [alignment](/services/wheel-alignment). Low pressure can mimic both if one tire is doing all the flexing. We will say which problem we are looking at.
+
+Related guides: [Used vs new tires in Florida heat](/blog/used-vs-new-tires-florida-heat), [Driving on a tire patch or plug](/blog/driving-on-a-tire-patch-or-plug), and [Flat tire on Sunday?](/blog/flat-tire-sunday-military-trail).
 
 ## Questions about pressure and storms
 

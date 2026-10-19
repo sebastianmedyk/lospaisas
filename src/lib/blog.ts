@@ -9,6 +9,8 @@ export type BlogPostMeta = {
   title: string;
   description: string;
   date: string;
+  /** Date of the last substantial content update (YYYY-MM-DD). Falls back to `date`. */
+  updated?: string;
   locale: BlogLocale;
   slug: string;
   keywords?: string[];
@@ -37,6 +39,10 @@ function parsePost(filePath: string): BlogPost | null {
   const description =
     typeof data.description === "string" ? data.description : "";
   const date = typeof data.date === "string" ? data.date : "";
+  const updated =
+    typeof data.updated === "string" && data.updated.trim()
+      ? data.updated.trim()
+      : undefined;
   const slug = typeof data.slug === "string" ? data.slug : "";
   const locale = data.locale;
 
@@ -56,6 +62,7 @@ function parsePost(filePath: string): BlogPost | null {
     title,
     description,
     date,
+    updated,
     locale,
     slug,
     keywords,
@@ -83,6 +90,7 @@ export function getAllPosts(locale?: BlogLocale): BlogPostMeta[] {
     title: post.title,
     description: post.description,
     date: post.date,
+    updated: post.updated,
     locale: post.locale,
     slug: post.slug,
     keywords: post.keywords,
@@ -109,6 +117,11 @@ export function getPost(slug: string, locale: BlogLocale): BlogPost | null {
 
 export function getPostSlugs(locale: BlogLocale): string[] {
   return getAllPosts(locale).map((p) => p.slug);
+}
+
+/** Last real content change for a post: `updated` when set, otherwise `date`. */
+export function postModifiedDate(post: Pick<BlogPostMeta, "date" | "updated">): string {
+  return post.updated || post.date;
 }
 
 export { blogPath } from "@/lib/blog-routes";

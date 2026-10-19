@@ -35,6 +35,10 @@ export type LocalPage = {
   links: LocalLink[];
   parentPath?: string;
   parentLabel?: string;
+  /** Optional meta keywords for this page only. */
+  keywords?: string[];
+  /** Date of the last real content update (YYYY-MM-DD), used for the sitemap. */
+  updated?: string;
 };
 
 const DIR = path.join(process.cwd(), "content", "pages");
@@ -57,6 +61,7 @@ export function localPageMetadata(page: LocalPage): Metadata {
   return {
     title: { absolute: page.title },
     description: page.description,
+    ...(page.keywords?.length ? { keywords: page.keywords } : {}),
     alternates: {
       canonical: page.path,
       languages: {

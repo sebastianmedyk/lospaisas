@@ -2,6 +2,7 @@
 title: "Driving on a Tire Patch or Plug | Los Paisas Tires"
 description: "Can you keep driving on a tire patch or plug? What Los Paisas will and will not repair at 1114 S Military Trl, West Palm Beach. Call (561) 429-4041."
 date: "2026-10-03"
+updated: "2026-10-19"
 locale: en
 slug: driving-on-a-tire-patch-or-plug
 h1: "Can You Keep Driving on a Patch"
@@ -37,6 +38,19 @@ We also look for an old repair. Two injuries in a bad pattern, or a plug already
 
 [Mobile tire service](/services/mobile-tire-service) can cover a flat within 10 miles of the shop, including Greenacres, Palm Springs, and Lake Worth Beach, when the address is a safe place to work. It is not a 24-hour promise. The hours are the shop hours. Alignment is not part of a roadside patch.
 
+## Plug, patch, or replace: which one applies?
+
+It depends on where the damage is and how the tire was driven: a small puncture in the tread can usually be repaired from the inside, while shoulder or sidewall damage means replacement. This is how the decision usually goes at the shop. The final call still comes after the tire is off the wheel.
+
+| Situation | What it usually means | What the shop does |
+|---|---|---|
+| Small nail or screw in the tread, tire not driven flat | Often repairable | Takes the tire off the wheel, inspects the inside, and repairs it from the inside (vulcanization) |
+| Outside plug from a kit | Not a finished repair, because nobody has seen the inside | Inspects the inside, then repairs properly or replaces |
+| Hole in the shoulder, where the tread curves into the sidewall | Usually not repairable | Replaces it with a used or new tire in your size |
+| Cut, bubble, or hole in the sidewall | Not repairable | Replaces it with a used or new tire in your size |
+| Tire driven flat or very low | The inner liner may be damaged and a repair may no longer be possible | Inspects the inside before deciding |
+| Old repair close to the new damage | Can end the repair option | Explains it before anyone adds a second repair |
+
 ## If the tire is losing air right now
 
 Pull off the road somewhere safe. Do not sit in a live lane. If you have a spare and you know how to use it, that is the way to get to the shop. If you do not, call **(561) 429-4041** and say where you are. If you are inside 10 miles and we can work there, we will tell you. If you are not, we will not pretend the van is coming from across the county.
@@ -48,6 +62,8 @@ Do not keep adding air at a gas station all week. A tire that needs air every mo
 A repaired tire should hold air. We check that before you leave. You should not see the sidewall folding, and you should not hear a hiss. If the tread was already uneven, the repair did not straighten the car. A pull is an [alignment](/services/wheel-alignment) question for another part of the same visit, not a sign that the patch "didn't take."
 
 Set the cold pressure from the placard on your door, not from a number you remember from a different car. Heat will raise it after you drive. That is normal. A repair does not change the placard.
+
+Related guides: [When can a flat be repaired?](/blog/tire-repair-vulcanization-west-palm-beach), [Flat tire on Sunday?](/blog/flat-tire-sunday-military-trail), and [Tire pressure in Palm Beach summer](/blog/tire-pressure-palm-beach-summer).
 
 ## Questions about driving on a repair
 

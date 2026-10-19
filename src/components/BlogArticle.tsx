@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { BlogPost } from "@/lib/blog";
-import { blogPath } from "@/lib/blog";
+import { blogPath, postModifiedDate } from "@/lib/blog";
 import { getDictionary } from "@/lib/i18n";
 import JsonLd from "@/components/JsonLd";
 import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
@@ -17,6 +17,7 @@ export default function BlogArticle({ post }: Props) {
   const t = getDictionary(post.locale);
   const url = absoluteUrl(blogPath(post.locale, post.slug));
   const listingUrl = absoluteUrl(blogPath(post.locale));
+  const modified = postModifiedDate(post);
 
   return (
     <BlogShell locale={post.locale}>
@@ -25,6 +26,7 @@ export default function BlogArticle({ post }: Props) {
           title: post.h1 || post.title,
           description: post.description,
           date: post.date,
+          dateModified: modified,
           url,
           locale: post.locale,
         })}
@@ -52,8 +54,8 @@ export default function BlogArticle({ post }: Props) {
               </span>
               <p className="text-[0.7rem] uppercase tracking-wide text-white/45">
                 {t.blog.lastUpdated}:{" "}
-                <time dateTime={post.date} className="text-white/60">
-                  {post.date}
+                <time dateTime={modified} className="text-white/60">
+                  {modified}
                 </time>
               </p>
             </div>
