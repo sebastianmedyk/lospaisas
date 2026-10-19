@@ -45,6 +45,14 @@ const SLUG_ALTERNATES: Record<string, string> = {
   "manejar-con-llanta-parcheada": "driving-on-a-tire-patch-or-plug",
   "tire-pressure-palm-beach-summer": "presion-llantas-verano-huracanes",
   "presion-llantas-verano-huracanes": "tire-pressure-palm-beach-summer",
+  "car-shakes-at-highway-speed-west-palm-beach": "carro-vibra-en-carretera-volante-asiento",
+  "carro-vibra-en-carretera-volante-asiento": "car-shakes-at-highway-speed-west-palm-beach",
+  "tire-shop-spanish-creole-west-palm-beach": "taller-llantas-espanol-criollo-west-palm-beach",
+  "taller-llantas-espanol-criollo-west-palm-beach": "tire-shop-spanish-creole-west-palm-beach",
+  "do-i-need-four-new-tires": "necesito-cuatro-llantas-nuevas",
+  "necesito-cuatro-llantas-nuevas": "do-i-need-four-new-tires",
+  "tire-shop-no-appointment-walk-in": "llantas-sin-cita-west-palm-beach",
+  "llantas-sin-cita-west-palm-beach": "tire-shop-no-appointment-walk-in",
 };
 
 /** Path to switch to when changing UI language while on a blog route. */
