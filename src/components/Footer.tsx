@@ -20,7 +20,7 @@ export default function Footer() {
   const servicesHref = servicesPath(locale);
 
   const socialClass =
-    "cut-tr inline-flex items-center justify-center rounded-none border border-white/15 bg-[#141414] p-2.5 text-white/85 transition hover:border-brand-gold/50 hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
+    "cut-tr inline-flex items-center justify-center min-h-[44px] min-w-[44px] rounded-none border border-white/15 bg-[#141414] p-3 text-white/85 transition hover:border-brand-gold/50 hover:text-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg";
 
   return (
     <footer className="border-t border-white/15 bg-brand-bg">
@@ -39,23 +39,23 @@ export default function Footer() {
               <p className="mt-1">
                 <a
                   href={BUSINESS.phoneTel}
-                  className="font-semibold text-brand-gold hover:brightness-110"
+                  className="inline-flex min-h-[44px] items-center font-semibold text-brand-gold hover:brightness-110"
                 >
                   {BUSINESS.phoneDisplay}
                 </a>
               </p>
             </address>
             <nav className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-xs font-bold uppercase tracking-[0.16em] text-white/70">
-              <Link href={servicesHref} className="hover:text-brand-gold">
+              <Link href={servicesHref} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.services}
               </Link>
-              <Link href={locationPath(locale)} className="hover:text-brand-gold">
+              <Link href={locationPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.location}
               </Link>
-              <Link href={contactPath(locale)} className="hover:text-brand-gold">
+              <Link href={contactPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.contact}
               </Link>
-              <Link href={blogHref} className="hover:text-brand-gold">
+              <Link href={blogHref} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.blog}
               </Link>
             </nav>
@@ -111,7 +111,7 @@ export default function Footer() {
               href={BUSINESS.instagram}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm font-bold text-white/80 transition hover:text-brand-gold"
+              className="inline-flex min-h-[44px] items-center text-sm font-bold text-white/80 transition hover:text-brand-gold"
             >
               {BUSINESS.instagramHandle}
             </a>

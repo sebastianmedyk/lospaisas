@@ -23,7 +23,7 @@ export default function HomeIntro({ locale }: { locale: Locale }) {
           <p className="section-label mb-3">{es ? "El taller" : "The shop"}</p>
           <h2
             id="intro-heading"
-            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+            className="headline text-4xl font-bold leading-[0.92] tracking-tight text-white sm:text-5xl lg:text-6xl"
           >
             {es
               ? "Un taller solo de llantas en S Military Trl"

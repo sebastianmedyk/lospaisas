@@ -33,7 +33,7 @@ export default function Header() {
       <div className="container-site flex items-center justify-between gap-3 px-4 py-3 sm:gap-4 sm:px-6 lg:px-8">
         <Link
           href="/"
-          className={`group flex min-w-0 items-center gap-2.5 rounded-none ${focusRing}`}
+          className={`group flex min-h-[44px] min-w-0 items-center gap-2.5 rounded-none ${focusRing}`}
         >
           <span className="cut-tr relative flex h-10 w-10 shrink-0 items-center justify-center rounded-none border border-brand-gold/40 bg-brand-bg text-xs font-extrabold uppercase tracking-wide text-brand-gold">
             LP
@@ -52,7 +52,7 @@ export default function Header() {
             <Link
               key={link.href}
               href={link.href}
-              className={`border-b border-transparent px-2.5 py-2 text-[0.65rem] font-bold uppercase tracking-[0.16em] text-white/80 transition hover:border-brand-gold/80 hover:text-brand-gold ${focusRing}`}
+              className={`inline-flex min-h-[44px] items-center border-b border-transparent px-2.5 text-[0.65rem] font-bold uppercase tracking-[0.16em] text-white/80 transition hover:border-brand-gold/80 hover:text-brand-gold ${focusRing}`}
             >
               {link.label}
             </Link>
@@ -64,7 +64,7 @@ export default function Header() {
           {/* Desktop only — mobile uses the MobileBar, avoid competing bars */}
           <a
             href={BUSINESS.phoneTel}
-            className={`cut-sm hidden items-center gap-1.5 rounded-none border border-brand-gold/50 bg-transparent px-3 py-2 text-[0.65rem] font-extrabold uppercase tracking-[0.14em] text-brand-gold transition hover:bg-brand-gold hover:text-brand-bg md:inline-flex ${focusRing}`}
+            className={`cut-sm hidden items-center min-h-[44px] gap-1.5 rounded-none border border-brand-gold/50 bg-transparent px-3 py-2 text-[0.65rem] font-extrabold uppercase tracking-[0.14em] text-brand-gold transition hover:bg-brand-gold hover:text-brand-bg md:inline-flex ${focusRing}`}
           >
             <PhoneIcon className="h-3.5 w-3.5" />
             {t.nav.call}
@@ -73,14 +73,14 @@ export default function Header() {
             href={BUSINESS.whatsapp}
             target="_blank"
             rel="noopener noreferrer"
-            className={`hidden items-center gap-1.5 rounded-none border border-white/15 px-3 py-2 text-[0.65rem] font-extrabold uppercase tracking-[0.14em] text-white/75 transition hover:border-white/30 hover:text-white lg:inline-flex ${focusRing}`}
+            className={`hidden min-h-[44px] items-center gap-1.5 rounded-none border border-white/15 px-3 py-2 text-[0.65rem] font-extrabold uppercase tracking-[0.14em] text-white/75 transition hover:border-white/30 hover:text-white lg:inline-flex ${focusRing}`}
           >
             <WhatsAppIcon className="h-3.5 w-3.5" />
             {t.nav.whatsapp}
           </a>
           <button
             type="button"
-            className={`inline-flex h-10 w-10 items-center justify-center rounded-none border border-white/15 text-white xl:hidden ${focusRing}`}
+            className={`inline-flex h-11 w-11 items-center justify-center rounded-none border border-white/15 text-white xl:hidden ${focusRing}`}
             aria-expanded={open}
             aria-controls="mobile-nav"
             aria-label={t.a11y.menu}

@@ -85,7 +85,7 @@ export default function KeyFacts() {
           className="mt-8 flex flex-wrap gap-x-3 gap-y-2 text-sm"
           aria-label={kf.linksLabel}
         >
-          <span className="w-full text-[0.65rem] font-black uppercase tracking-[0.2em] text-white/45 sm:w-auto sm:mr-1">
+          <span className="w-full text-[0.65rem] font-black uppercase tracking-[0.2em] text-white/60 sm:w-auto sm:mr-1">
             {kf.linksLabel}
           </span>
           <a

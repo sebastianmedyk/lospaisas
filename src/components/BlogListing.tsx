@@ -51,7 +51,7 @@ export default function BlogListing({ locale, posts }: Props) {
                       <span className="rounded-none border border-brand-gold/30 bg-transparent px-2 py-0.5 text-[0.6rem] font-black uppercase tracking-wider text-brand-gold">
                         {post.locale.toUpperCase()}
                       </span>
-                      <p className="text-[0.7rem] uppercase tracking-wide text-white/45">
+                      <p className="text-[0.7rem] uppercase tracking-wide text-white/60">
                         {t.blog.lastUpdated}:{" "}
                         <time dateTime={post.date} className="text-white/55">
                           {post.date}

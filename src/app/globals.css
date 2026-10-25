@@ -65,10 +65,19 @@ main[id] {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .fade-up,
-  .hero-zoom {
-    animation: none;
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
   }
+}
+
+/* Visible keyboard focus everywhere, even where a component forgot its own ring */
+:focus-visible {
+  outline: 2px solid #f4c20d;
+  outline-offset: 3px;
 }
 
 .skip-to-content {
@@ -152,7 +161,7 @@ main[id] {
   }
 
   .section-pad {
-    @apply px-4 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20;
+    @apply px-4 sm:px-6 lg:px-8 py-14 sm:py-20 lg:py-24 xl:py-32;
   }
 
   /* Tighter hero — less empty vertical space */
@@ -166,7 +175,7 @@ main[id] {
 
   /* Primary CTA: 1px gold hairline, fill on hover — sharp + cut corners */
   .btn-gold {
-    @apply inline-flex items-center justify-center gap-2 rounded-none border border-brand-gold/50 bg-transparent px-6 py-3.5 text-sm font-extrabold uppercase tracking-wider text-brand-gold transition duration-200 hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply min-h-[44px] inline-flex items-center justify-center gap-2 rounded-none border border-brand-gold/50 bg-transparent px-6 py-3.5 text-sm font-extrabold uppercase tracking-wider text-brand-gold transition duration-200 hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
     clip-path: polygon(
       0 0,
       calc(100% - var(--cut-sm)) 0,
@@ -179,7 +188,7 @@ main[id] {
 
   /* Directions / secondary: sharp gold outline */
   .btn-outline {
-    @apply inline-flex items-center justify-center gap-2 rounded-none border border-white/20 bg-transparent px-6 py-3.5 text-sm font-extrabold uppercase tracking-wider text-white/80 transition duration-200 hover:border-brand-gold hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply min-h-[44px] inline-flex items-center justify-center gap-2 rounded-none border border-white/20 bg-transparent px-6 py-3.5 text-sm font-extrabold uppercase tracking-wider text-white/80 transition duration-200 hover:border-brand-gold hover:bg-brand-gold hover:text-brand-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
     clip-path: polygon(
       0 0,
       calc(100% - var(--cut-sm)) 0,
@@ -205,7 +214,7 @@ main[id] {
 
   /* Quiet secondary actions — WhatsApp / social / tertiary */
   .btn-quiet {
-    @apply inline-flex items-center justify-center gap-2 rounded-none border border-white/15 bg-transparent px-4 py-2.5 text-sm font-extrabold uppercase tracking-wide text-white/70 transition duration-200 hover:border-white/30 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
+    @apply min-h-[44px] inline-flex items-center justify-center gap-2 rounded-none border border-white/15 bg-transparent px-4 py-2.5 text-sm font-extrabold uppercase tracking-wide text-white/70 transition duration-200 hover:border-white/30 hover:bg-white/[0.04] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg;
   }
 
   /* Deep surface cards — hard edges, subtle cut, crisp border */

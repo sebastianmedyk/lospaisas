@@ -12,7 +12,7 @@ export default function LangSwitch({
   esHref: string;
 }) {
   const cls = (active: boolean) =>
-    `rounded-none border px-3 py-1.5 ${
+    `inline-flex min-h-[44px] items-center rounded-none border px-4 ${
       active
         ? "border-brand-gold/60 text-brand-gold"
         : "border-white/20 text-white/60 hover:border-brand-gold/50 hover:text-brand-gold"

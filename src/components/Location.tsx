@@ -12,22 +12,22 @@ export default function Location() {
   return (
     <section id="location" aria-labelledby="location-heading" className="section-pad relative border-b border-white/15">
       <div className="container-site">
-        <div className="mx-auto mb-10 max-w-2xl text-center">
+        <div className="mb-10 max-w-2xl">
           <p className="section-label mb-3">
             {t.nav.location}
           </p>
           <h2
             id="location-heading"
-            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+            className="headline text-4xl font-bold leading-[0.92] tracking-tight text-white sm:text-5xl lg:text-6xl"
           >
             {t.location.title}
           </h2>
-          <span className="accent-rule accent-rule-center" aria-hidden />
+          <span className="accent-rule accent-rule-lg" aria-hidden />
           <p className="mt-4 text-white/70">{t.location.subtitle}</p>
           <p className="mt-4">
             <Link
               href={locationPath(locale)}
-              className="inline-flex text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
+              className="inline-flex min-h-[44px] items-center text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
             >
               {t.location.pageLink}
             </Link>
@@ -59,7 +59,7 @@ export default function Location() {
                   href={BUSINESS.mapsUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
+                  className="inline-flex min-h-[44px] items-center text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
                 >
                   {t.location.directions}
                 </a>
@@ -74,7 +74,7 @@ export default function Location() {
                 </span>
               </div>
               <p className="text-lg font-semibold text-white">{t.location.hoursValue}</p>
-              <p className="cut-sm mt-2 inline-flex items-center gap-2 rounded-none border border-brand-red/40 bg-transparent px-3 py-1.5 text-sm font-bold text-brand-red">
+              <p className="cut-sm mt-2 inline-flex items-center gap-2 rounded-none border border-brand-red/40 bg-transparent px-3 py-1.5 text-sm font-bold text-brand-red-text">
                 {t.location.sundayNote}
               </p>
             </div>
@@ -88,7 +88,7 @@ export default function Location() {
               </div>
               <a
                 href={BUSINESS.phoneTel}
-                className="text-lg font-semibold text-white hover:text-brand-gold"
+                className="inline-flex min-h-[44px] items-center text-lg font-semibold text-white hover:text-brand-gold"
               >
                 {BUSINESS.phoneDisplay}
               </a>

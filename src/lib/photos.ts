@@ -57,6 +57,12 @@ export const PHOTOS = {
     "Empleado con camiseta de Los Paisas Tires Shop en la oficina del taller"),
 } as const;
 
+/** Lighter copies (640/800px wide WebP) for above-the-fold hero use. `images.unoptimized` is on, so file weight is what ships. */
+export const HERO_LITE = {
+  exterior: { ...PHOTOS.exterior, src: "/photos/tire-shop-near-me-west-palm-beach-los-paisas-exterior-03-640.webp", width: 640, height: 1138 },
+  newTread: { ...PHOTOS.newTread, src: "/photos/new-tires-west-palm-beach-los-paisas-tread-12-800.webp", width: 800, height: 1422 },
+} as const;
+
 /** Photos per service page, keyed by the EN path (ES pages use page.enPath). */
 export const SERVICE_PHOTOS: Record<string, Photo[]> = {
   "/services/mobile-tire-service": [PHOTOS.truck1, PHOTOS.truck2],

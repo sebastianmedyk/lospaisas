@@ -37,7 +37,7 @@ export default function LanguageToggle() {
             key={code}
             type="button"
             onClick={() => switchTo(code)}
-            className={`min-w-[2.5rem] rounded-none px-2.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.16em] transition focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg ${
+            className={`min-h-[44px] min-w-[44px] rounded-none px-2.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.16em] transition focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg ${
               active
                 ? "bg-brand-gold text-brand-bg"
                 : "text-white/75 hover:text-white"

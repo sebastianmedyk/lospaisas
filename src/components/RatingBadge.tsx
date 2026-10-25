@@ -12,7 +12,7 @@ export default function RatingBadge({ className = "" }: { className?: string }) 
       href={BUSINESS.reviewsListUrl}
       target="_blank"
       rel="noopener noreferrer"
-      className={`inline-flex items-center gap-2.5 border border-white/20 bg-black/55 px-3.5 py-2 backdrop-blur-sm transition hover:border-brand-gold/70 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold ${className}`}
+      className={`inline-flex min-h-[44px] items-center gap-2.5 border border-white/20 bg-black/55 px-3.5 py-2 backdrop-blur-sm transition hover:border-brand-gold/70 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold ${className}`}
       aria-label={`${t.hero.statRatingLabel} ${BUSINESS.ratingValue}, ${BUSINESS.reviewCount} ${t.hero.statReviewsLabel}`}
     >
       <span className="flex gap-0.5 text-brand-gold" aria-hidden>

@@ -97,7 +97,7 @@ export default function PlacePage({ locale, kind }: Props) {
           <p className="mt-8">
             <Link
               href={otherPath}
-              className="inline-flex text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
+              className="inline-flex min-h-[44px] items-center text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
             >
               {otherLabel}
             </Link>
@@ -139,7 +139,7 @@ function NapFacts({ locale }: { locale: Locale }) {
             href={BUSINESS.mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
+            className="inline-flex min-h-[44px] items-center text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
           >
             {t.location.directions}
           </a>
@@ -154,7 +154,7 @@ function NapFacts({ locale }: { locale: Locale }) {
           </span>
         </div>
         <p className="text-lg font-semibold text-white">{t.location.hoursNap}</p>
-        <p className="cut-sm mt-2 inline-flex items-center gap-2 rounded-none border border-brand-red/40 bg-transparent px-3 py-1.5 text-sm font-bold text-brand-red">
+        <p className="cut-sm mt-2 inline-flex items-center gap-2 rounded-none border border-brand-red/40 bg-transparent px-3 py-1.5 text-sm font-bold text-brand-red-text">
           {t.location.sundayNote}
         </p>
       </div>
@@ -166,7 +166,7 @@ function NapFacts({ locale }: { locale: Locale }) {
             {t.location.phoneLabel}
           </span>
         </div>
-        <a href={BUSINESS.phoneTel} className="text-lg font-semibold text-white hover:text-brand-gold">
+        <a href={BUSINESS.phoneTel} className="inline-flex min-h-[44px] items-center text-lg font-semibold text-white hover:text-brand-gold">
           {BUSINESS.phoneDisplay}
         </a>
       </div>
@@ -255,7 +255,7 @@ function ContactBody({ locale }: { locale: Locale }) {
           </p>
           <p className="mt-2 text-lg font-semibold text-white">{BUSINESS.address}</p>
           <p className="mt-3">
-            <a href={BUSINESS.phoneTel} className="text-lg font-semibold text-white hover:text-brand-gold">
+            <a href={BUSINESS.phoneTel} className="inline-flex min-h-[44px] items-center text-lg font-semibold text-white hover:text-brand-gold">
               {BUSINESS.phoneDisplay}
             </a>
           </p>

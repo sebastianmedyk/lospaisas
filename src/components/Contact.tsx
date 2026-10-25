@@ -44,7 +44,7 @@ export default function Contact() {
           </p>
           <h2
             id="contact-heading"
-            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
+            className="headline text-4xl font-bold leading-[0.92] tracking-tight text-white sm:text-5xl lg:text-6xl"
           >
             {t.contact.title}
           </h2>
@@ -53,7 +53,7 @@ export default function Contact() {
           <p className="mt-4">
             <Link
               href={contactPath(locale)}
-              className="inline-flex text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
+              className="inline-flex min-h-[44px] items-center text-sm font-bold uppercase tracking-wide text-brand-gold underline-offset-4 hover:underline"
             >
               {t.contact.pageLink}
             </Link>

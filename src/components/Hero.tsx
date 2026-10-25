@@ -1,10 +1,11 @@
 "use client";
 
 import Image from "next/image";
-import { BUSINESS, USED_TIRE_PRICE_FROM } from "@/lib/constants";
+import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
 import RatingBadge from "./RatingBadge";
 import CtaButtons from "./CtaButtons";
+import UsedPriceLine from "./UsedPriceLine";
 import { PHOTOS } from "@/lib/photos";
 
 export default function Hero() {
@@ -40,14 +41,7 @@ export default function Hero() {
             <span className="mt-1 block text-brand-gold">{t.hero.titleLine2}</span>
           </h1>
 
-          <p
-            className="fade-up headline mt-4 text-2xl font-bold tracking-wide text-white sm:text-3xl"
-            style={{ animationDelay: "120ms" }}
-          >
-            <span className="border-b-2 border-brand-red pb-0.5">
-              {es ? "Llantas usadas desde" : "Used Tires from"} ${USED_TIRE_PRICE_FROM || (es ? "[PRECIO]" : "[CENA]")}
-            </span>
-          </p>
+          <UsedPriceLine className="fade-up mt-4 text-2xl sm:text-3xl" />
 
           <CtaButtons size="lg" className="fade-up mt-8 sm:max-w-xl" />
           <p
