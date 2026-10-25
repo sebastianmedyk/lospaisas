@@ -63,7 +63,7 @@ export const SHOP_PHOTOS: string[] = [
 ];
 
 /** Starting price shown in the homepage hero. Replace the placeholder here (e.g. "49"), nowhere else. */
-export const USED_TIRE_PRICE_FROM = "[CENA]";
+export const USED_TIRE_PRICE_FROM = ""; // np. "49"; puste = placeholder
 
 export const LOGO_PATH = "/brand/logo.png";
 

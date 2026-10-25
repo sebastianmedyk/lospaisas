@@ -62,7 +62,7 @@ export default function Hero() {
             style={{ animationDelay: "120ms" }}
           >
             <span className="border-b-2 border-brand-red pb-0.5">
-              {es ? "Llantas usadas desde" : "Used Tires from"} ${USED_TIRE_PRICE_FROM}
+              {es ? "Llantas usadas desde" : "Used Tires from"} ${USED_TIRE_PRICE_FROM || (es ? "[PRECIO]" : "[CENA]")}
             </span>
           </p>
 
