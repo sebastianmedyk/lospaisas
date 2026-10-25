@@ -1,184 +1,99 @@
 "use client";
 
-import { BUSINESS } from "@/lib/constants";
-import { useLanguage } from "@/contexts/LanguageContext";
-import { MapPinIcon, PhoneIcon, WhatsAppIcon } from "./Icons";
 import Image from "next/image";
+import { BUSINESS, USED_TIRE_PRICE_FROM } from "@/lib/constants";
+import { useLanguage } from "@/contexts/LanguageContext";
+import { MapPinIcon, PhoneIcon, StarIcon } from "./Icons";
 import { PHOTOS } from "@/lib/photos";
 
 export default function Hero() {
   const { t, locale } = useLanguage();
-
-  const stats = [
-    {
-      value: `${BUSINESS.ratingValue}★`,
-      label: t.hero.statRatingLabel,
-      href: BUSINESS.mapsUrl,
-    },
-    {
-      value: BUSINESS.reviewCount,
-      label: t.hero.statReviewsLabel,
-      href: BUSINESS.mapsUrl,
-    },
-    {
-      value: t.hero.statOpenValue,
-      label: t.hero.statOpenLabel,
-    },
-    {
-      value: t.hero.statHoursValue,
-      label: t.hero.statHoursLabel,
-    },
-    {
-      value: t.hero.statMobileValue,
-      label: t.hero.statMobileLabel,
-    },
-  ] as const;
+  const es = locale === "es";
 
   return (
-    <section id="top" className="relative overflow-hidden border-b border-white/15 hero-bleed">
-      {/* Real storefront photo behind the hero, dark overlay keeps text readable */}
-      <div className="pointer-events-none absolute inset-0" aria-hidden>
+    <section
+      id="top"
+      className="relative isolate flex min-h-[calc(100svh-4.5rem-4.5rem)] items-end overflow-hidden border-b border-white/15 bg-brand-bg md:min-h-[640px] md:items-center"
+    >
+      <div className="pointer-events-none absolute inset-0 -z-10" aria-hidden>
         <Image
           src={PHOTOS.storefront.src}
           alt=""
           fill
           priority
           sizes="100vw"
-          className="object-cover object-center"
+          className="hero-zoom object-cover object-[60%_center]"
         />
-        <div className="absolute inset-0 bg-[#0D0D0D]/80" />
-        <div className="absolute inset-0 bg-gradient-to-r from-[#0D0D0D] via-[#0D0D0D]/70 to-[#0D0D0D]/40" />
+        <div className="absolute inset-0 bg-gradient-to-t from-brand-bg via-brand-bg/70 to-brand-bg/30 md:bg-gradient-to-r md:from-brand-bg md:via-brand-bg/75 md:to-brand-bg/10" />
       </div>
-      {/* Thin gold angled accent rules */}
-      <div
-        className="pointer-events-none absolute left-0 top-0 h-px w-24 origin-left -skew-x-[18deg] bg-brand-gold/80 sm:w-32"
-        aria-hidden
-      />
 
-      <div className="container-site relative grid items-start gap-8 section-pad-sm lg:grid-cols-[minmax(0,1.15fr)_minmax(0,0.85fr)] lg:gap-10 xl:gap-12">
-        {/* Left — copy + CTAs */}
-        <div className="min-w-0">
-          <div className="mb-4 flex flex-wrap items-center gap-2">
-            <span className="cut-sm inline-flex items-center gap-2 rounded-none border border-brand-gold/40 bg-transparent px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-brand-gold">
-              <span
-                className="h-1.5 w-1.5 shrink-0 bg-brand-red"
-                aria-hidden
-              />
-              {t.hero.badge}
+      <div className="container-site w-full px-4 pb-10 pt-24 sm:px-6 md:py-20 lg:px-8">
+        <div className="max-w-2xl">
+          <a
+            href={BUSINESS.reviewsListUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="fade-up inline-flex items-center gap-2.5 border border-white/20 bg-black/55 px-3.5 py-2 backdrop-blur-sm transition hover:border-brand-gold/70 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold"
+            aria-label={`${t.hero.statRatingLabel} ${BUSINESS.ratingValue}, ${BUSINESS.reviewCount} ${t.hero.statReviewsLabel}`}
+          >
+            <span className="flex gap-0.5 text-brand-gold" aria-hidden>
+              {[0, 1, 2, 3, 4].map((i) => (
+                <StarIcon key={i} className="h-4 w-4" />
+              ))}
             </span>
-            <span className="cut-sm inline-flex items-center gap-1.5 rounded-none bg-brand-red px-3.5 py-1.5 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-white">
-              {t.hero.sundayHighlight}
+            <span className="text-sm font-extrabold tracking-wide text-white">
+              {BUSINESS.ratingValue}★
             </span>
-          </div>
+            <span className="text-xs font-bold uppercase tracking-[0.18em] text-white/70">
+              Google · {BUSINESS.reviewCount} {t.hero.statReviewsLabel.toLowerCase()}
+            </span>
+          </a>
 
-          <h1 className="headline max-w-[14ch] text-[2.35rem] leading-[0.92] tracking-wide text-white sm:max-w-none sm:text-5xl lg:text-[3.35rem] xl:text-6xl">
-            <span className="block">{t.hero.titleLine1}</span>{" "}
-            <span className="block text-brand-gold">{t.hero.titleLine2}</span>
+          <h1
+            className="fade-up headline mt-5 text-[2.9rem] font-bold leading-[0.88] tracking-tight text-white sm:text-7xl lg:text-8xl"
+            style={{ animationDelay: "80ms" }}
+          >
+            <span className="block">{t.hero.titleLine1}</span>
+            <span className="mt-1 block text-brand-gold">{t.hero.titleLine2}</span>
           </h1>
-          <span className="accent-rule accent-rule-lg" aria-hidden />
 
-          <p className="headline mt-4 text-xl tracking-wide text-brand-gold sm:text-2xl">
-            {t.hero.tagline}
-          </p>
-          <p className="mt-3 max-w-xl text-base leading-snug text-white/80 sm:text-lg">
-            {t.hero.subtitle}
+          <p
+            className="fade-up headline mt-4 text-2xl font-bold tracking-wide text-white sm:text-3xl"
+            style={{ animationDelay: "120ms" }}
+          >
+            <span className="border-b-2 border-brand-red pb-0.5">
+              {es ? "Llantas usadas desde" : "Used Tires from"} ${USED_TIRE_PRICE_FROM}
+            </span>
           </p>
 
-          {/* Primary: Call · Secondary: Directions · WhatsApp quieter */}
-          <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center">
-            <a href={BUSINESS.phoneTel} className="btn-gold min-h-[48px] w-full sm:w-auto">
-              <PhoneIcon className="h-4 w-4" />
+          <div
+            className="fade-up mt-8 grid grid-cols-1 gap-3 min-[420px]:grid-cols-2 sm:max-w-xl"
+            style={{ animationDelay: "160ms" }}
+          >
+            <a
+              href={BUSINESS.phoneTel}
+              className="btn-gold !border-brand-gold !bg-brand-gold !py-4 !text-base !text-brand-bg hover:!bg-white min-h-[56px]"
+            >
+              <PhoneIcon className="h-5 w-5" />
               {t.hero.ctaCall}
             </a>
             <a
               href={BUSINESS.mapsDirectionsUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-outline min-h-[48px] w-full sm:w-auto"
+              className="btn-outline !border-white/40 !bg-black/40 !py-4 !text-base !text-white min-h-[56px]"
             >
-              <MapPinIcon className="h-4 w-4" />
+              <MapPinIcon className="h-5 w-5" />
               {t.hero.ctaDirections}
             </a>
-            <a
-              href={BUSINESS.whatsapp}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-quiet min-h-[44px] w-full sm:w-auto"
-            >
-              <WhatsAppIcon className="h-4 w-4 opacity-80" />
-              {t.hero.ctaWhatsApp}
-            </a>
           </div>
-
-          {/* Micro engagement — proof we’re here now */}
-          <p className="mt-4 text-sm font-medium tracking-wide text-white/70">
-            <span className="text-brand-gold">{t.hero.engagementHours}</span>
-            <span className="mx-2 text-white/35" aria-hidden>
-              ·
-            </span>
-            <a
-              href={BUSINESS.phoneTel}
-              className="text-white/85 underline-offset-2 transition hover:text-brand-gold hover:underline focus:outline-none focus-visible:text-brand-gold"
-            >
-              {BUSINESS.phoneDisplay}
-            </a>
-          </p>
-        </div>
-
-        {/* Right — stats rail + controlled promo */}
-        <div className="flex min-w-0 flex-col gap-4 lg:pt-1">
-          <div
-            className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3"
-            aria-label={t.hero.statsAria}
+          <p
+            className="fade-up mt-4 flex items-center gap-2 text-sm font-semibold text-white/80"
+            style={{ animationDelay: "240ms" }}
           >
-            {stats.map((stat) => {
-              const inner = (
-                <>
-                  <span className="headline block text-2xl leading-none tracking-wider text-brand-gold sm:text-[1.65rem]">
-                    {stat.value}
-                  </span>
-                  <span className="mt-1.5 block text-[0.65rem] font-bold uppercase tracking-[0.18em] text-white/65">
-                    {stat.label}
-                  </span>
-                </>
-              );
-
-              const className =
-                "stat-panel cut-sm block rounded-none border border-white/15 bg-[#141414] px-3.5 py-3.5 transition hover:border-brand-gold/35";
-
-              if ("href" in stat && stat.href) {
-                return (
-                  <a
-                    key={stat.label}
-                    href={stat.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={`${className} focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-bg`}
-                  >
-                    {inner}
-                  </a>
-                );
-              }
-
-              return (
-                <div key={stat.label} className={className}>
-                  {inner}
-                </div>
-              );
-            })}
-          </div>
-
-          <figure className="overflow-hidden rounded-none border border-white/15 bg-black">
-            <Image
-              src={PHOTOS.poleSign.src}
-              alt={PHOTOS.poleSign.alt[locale]}
-              width={PHOTOS.poleSign.width}
-              height={PHOTOS.poleSign.height}
-              sizes="(max-width: 1024px) 100vw, 520px"
-              priority
-              className="h-auto w-full object-cover"
-            />
-          </figure>
+            <span className="inline-block h-2 w-2 animate-pulse bg-brand-red" aria-hidden />
+            {es ? "Abiertos hoy" : "Open today"} · {BUSINESS.hoursShort} · {BUSINESS.phoneDisplay}
+          </p>
         </div>
       </div>
     </section>

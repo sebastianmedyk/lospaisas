@@ -62,5 +62,8 @@ export const SHOP_PHOTOS: string[] = [
   "/photos/mobile-tire-service-truck-west-palm-beach-los-paisas-06.webp",
 ];
 
+/** Starting price shown in the homepage hero. Replace the placeholder here (e.g. "49"), nowhere else. */
+export const USED_TIRE_PRICE_FROM = "[CENA]";
+
 export const LOGO_PATH = "/brand/logo.png";
 

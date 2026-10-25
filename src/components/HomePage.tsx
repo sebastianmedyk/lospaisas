@@ -6,7 +6,8 @@ import Reviews from "@/components/Reviews";
 import Location from "@/components/Location";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
-import FloatingCallButton from "@/components/FloatingCallButton";
+import InfoStrip from "@/components/InfoStrip";
+import MobileBar from "@/components/MobileBar";
 import type { Locale } from "@/lib/i18n";
 
 export default function HomePage({ locale }: { locale: Locale }) {
@@ -15,14 +16,15 @@ export default function HomePage({ locale }: { locale: Locale }) {
       <Header />
       <main id="main-content" lang={locale}>
         <Hero />
+        <InfoStrip />
         <Services />
-        <HomeIntro locale={locale} />
         <Reviews locale={locale} />
+        <HomeIntro locale={locale} />
         <Location />
         <Contact />
       </main>
       <Footer />
-      <FloatingCallButton />
+      <MobileBar />
     </>
   );
 }
