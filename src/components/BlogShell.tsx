@@ -1,10 +1,10 @@
 "use client";
 
 import { useEffect } from "react";
-import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import FloatingCallButton from "@/components/FloatingCallButton";
+import MobileBar from "@/components/MobileBar";
+import CtaBand from "@/components/CtaBand";
 import { useLanguage } from "@/contexts/LanguageContext";
 import type { BlogLocale } from "@/lib/blog";
 
@@ -22,48 +22,16 @@ function BlogLocaleSync({ locale }: { locale: BlogLocale }) {
   return null;
 }
 
-/** Shared chrome for blog listing & article pages. */
+/** Shared chrome for every inner page: header, content, CTA band, footer, mobile action bar. */
 export default function BlogShell({ children, locale }: BlogShellProps) {
   return (
     <>
       {locale ? <BlogLocaleSync locale={locale} /> : null}
       <Header />
       <main id="main-content" className="min-h-[60vh]">{children}</main>
+      <CtaBand />
       <Footer />
-      <FloatingCallButton />
+      <MobileBar />
     </>
-  );
-}
-
-export function BlogBackLinks({
-  locale,
-  homeLabel,
-  blogLabel,
-  breadcrumbLabel = "Breadcrumb",
-  sectionHref,
-}: {
-  locale: "en" | "es";
-  homeLabel: string;
-  blogLabel: string;
-  breadcrumbLabel?: string;
-  /** Override when this breadcrumb is a section other than the blog. */
-  sectionHref?: string;
-}) {
-  const blogHref = sectionHref ?? (locale === "es" ? "/es/blog" : "/blog");
-  return (
-    <nav
-      className="mb-8 flex flex-wrap gap-3 text-sm font-bold uppercase tracking-wide"
-      aria-label={breadcrumbLabel}
-    >
-      <Link href="/" className="text-white/55 hover:text-brand-gold">
-        {homeLabel}
-      </Link>
-      <span className="text-white/30" aria-hidden>
-        /
-      </span>
-      <Link href={blogHref} className="text-brand-gold hover:underline">
-        {blogLabel}
-      </Link>
-    </nav>
   );
 }

@@ -2,7 +2,9 @@ import Link from "next/link";
 import type { BlogLocale, BlogPostMeta } from "@/lib/blog";
 import { blogPath } from "@/lib/blog";
 import { getDictionary } from "@/lib/i18n";
-import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
+import BlogShell from "@/components/BlogShell";
+import PageHero from "@/components/PageHero";
+import LangSwitch from "@/components/LangSwitch";
 import JsonLd from "@/components/JsonLd";
 import { breadcrumbJsonLd } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
@@ -24,54 +26,23 @@ export default function BlogListing({ locale, posts }: Props) {
           { name: t.nav.blog, url: listingUrl },
         ])}
       />
+      <PageHero
+        crumbs={[{ name: t.nav.home, href: "/" }, { name: t.nav.blog }]}
+        breadcrumbLabel={t.a11y.breadcrumb}
+        eyebrow={t.nav.blog}
+        title={t.blog.title}
+        titleId="blog-listing-heading"
+        intro={<p>{t.blog.subtitle}</p>}
+        extra={<LangSwitch locale={locale} enHref="/blog" esHref="/es/blog" />}
+      />
       <section className="section-pad" aria-labelledby="blog-listing-heading">
         <div className="container-site">
-          <BlogBackLinks
-            locale={locale}
-            homeLabel={t.nav.home}
-            blogLabel={t.nav.blog}
-            breadcrumbLabel={t.a11y.breadcrumb}
-          />
-          <p className="mb-3 text-[0.65rem] font-black uppercase tracking-[0.25em] text-brand-gold">
-            {t.nav.blog}
-          </p>
-          <h1
-            id="blog-listing-heading"
-            className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
-          >
-            {t.blog.title}
-          </h1>
-          <p className="mt-4 max-w-2xl text-white/70">{t.blog.subtitle}</p>
-
-          <div className="mt-6 flex flex-wrap gap-2 text-xs font-bold uppercase tracking-wide">
-            <Link
-              href="/blog"
-              className={`rounded-none border px-3 py-1.5 ${
-                locale === "en"
-                  ? "border-brand-gold/40 bg-transparent text-brand-gold"
-                  : "border-white/15 text-white/60 hover:border-brand-gold/50 hover:text-brand-gold"
-              }`}
-            >
-              English
-            </Link>
-            <Link
-              href="/es/blog"
-              className={`rounded-none border px-3 py-1.5 ${
-                locale === "es"
-                  ? "border-brand-gold/40 bg-transparent text-brand-gold"
-                  : "border-white/15 text-white/60 hover:border-brand-gold/50 hover:text-brand-gold"
-              }`}
-            >
-              Español
-            </Link>
-          </div>
-
           {posts.length === 0 ? (
             <p className="mt-10 text-white/55">{t.blog.empty}</p>
           ) : (
             <ul className="mt-10 grid gap-4 sm:grid-cols-2">
               {posts.map((post) => (
-                <li key={`${post.locale}-${post.slug}`} className="card-dark !p-0">
+                <li key={`${post.locale}-${post.slug}`} className="card-dark !p-0 border-t-2 !border-t-brand-gold">
                   <Link
                     href={blogPath(post.locale, post.slug)}
                     className="block p-5 transition hover:bg-white/[0.04]"
@@ -87,7 +58,7 @@ export default function BlogListing({ locale, posts }: Props) {
                         </time>
                       </p>
                     </div>
-                    <h2 className="headline text-lg text-white sm:text-xl">
+                    <h2 className="headline text-2xl font-bold leading-tight text-white">
                       {post.h1 || post.title}
                     </h2>
                     <p className="mt-2 text-sm leading-relaxed text-white/60">

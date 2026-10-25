@@ -3,7 +3,8 @@ import type { BlogPost } from "@/lib/blog";
 import { blogPath, postModifiedDate } from "@/lib/blog";
 import { getDictionary } from "@/lib/i18n";
 import JsonLd from "@/components/JsonLd";
-import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
+import BlogShell from "@/components/BlogShell";
+import PageHero from "@/components/PageHero";
 import { articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
 import { servicesPath } from "@/lib/service-routes";
 import { locationPath } from "@/lib/place-routes";
@@ -38,38 +39,31 @@ export default function BlogArticle({ post }: Props) {
           { name: post.title, url },
         ])}
       />
+      <PageHero
+        crumbs={[
+          { name: t.nav.home, href: "/" },
+          { name: t.nav.blog, href: blogPath(post.locale) },
+        ]}
+        breadcrumbLabel={t.a11y.breadcrumb}
+        title={post.h1 || post.title}
+        titleId="article-heading"
+        intro={<p>{post.description}</p>}
+        meta={
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="rounded-none border border-brand-gold/30 bg-transparent px-2 py-0.5 text-[0.6rem] font-black uppercase tracking-wider text-brand-gold">
+              {post.locale.toUpperCase()}
+            </span>
+            <p className="text-[0.7rem] uppercase tracking-wide text-white/55">
+              {t.blog.lastUpdated}:{" "}
+              <time dateTime={modified} className="text-white/70">
+                {modified}
+              </time>
+            </p>
+          </div>
+        }
+      />
       <article className="section-pad" aria-labelledby="article-heading">
         <div className="container-site max-w-3xl">
-          <BlogBackLinks
-            locale={post.locale}
-            homeLabel={t.nav.home}
-            blogLabel={t.nav.blog}
-            breadcrumbLabel={t.a11y.breadcrumb}
-          />
-
-          <header className="mb-8 border-b border-white/10 pb-8">
-            <div className="mb-4 flex flex-wrap items-center gap-2">
-              <span className="rounded-none border border-brand-gold/30 bg-transparent px-2 py-0.5 text-[0.6rem] font-black uppercase tracking-wider text-brand-gold">
-                {post.locale.toUpperCase()}
-              </span>
-              <p className="text-[0.7rem] uppercase tracking-wide text-white/45">
-                {t.blog.lastUpdated}:{" "}
-                <time dateTime={modified} className="text-white/60">
-                  {modified}
-                </time>
-              </p>
-            </div>
-            <h1
-              id="article-heading"
-              className="headline text-3xl leading-[0.95] text-white sm:text-4xl lg:text-5xl"
-            >
-              {post.h1 || post.title}
-            </h1>
-            <p className="mt-4 text-base leading-relaxed text-white/70 sm:text-lg">
-              {post.description}
-            </p>
-          </header>
-
           <div
             className="blog-prose max-w-none text-white/80"
             dangerouslySetInnerHTML={{ __html: post.html }}

@@ -1,7 +1,11 @@
 import PhotoStrip from "@/components/PhotoStrip";
 import { PHOTOS } from "@/lib/photos";
 import Link from "next/link";
-import BlogShell, { BlogBackLinks } from "@/components/BlogShell";
+import BlogShell from "@/components/BlogShell";
+import PageHero from "@/components/PageHero";
+import LangSwitch from "@/components/LangSwitch";
+import InfoStrip from "@/components/InfoStrip";
+import Reviews from "@/components/Reviews";
 import JsonLd from "@/components/JsonLd";
 import PromoPanel from "@/components/PromoPanel";
 import {
@@ -70,50 +74,24 @@ export default function PlacePage({ locale, kind }: Props) {
           mainEntity: { "@id": `${SITE_URL}/#business` },
         }}
       />
+      <PageHero
+        crumbs={[{ name: t.nav.home, href: "/" }, { name: label }]}
+        breadcrumbLabel={t.a11y.breadcrumb}
+        eyebrow={label}
+        title={h1}
+        titleId="place-heading"
+        intro={<p>{kind === "location" ? t.location.subtitle : t.contact.subtitle}</p>}
+        extra={
+          <LangSwitch
+            locale={locale}
+            enHref={kind === "location" ? locationPath("en") : contactPath("en")}
+            esHref={kind === "location" ? locationPath("es") : contactPath("es")}
+          />
+        }
+      />
+      <InfoStrip />
       <section className="section-pad" aria-labelledby="place-heading">
         <div className="container-site">
-          <BlogBackLinks
-            locale={locale}
-            homeLabel={t.nav.home}
-            blogLabel={label}
-            breadcrumbLabel={t.a11y.breadcrumb}
-            sectionHref={path}
-          />
-          <p className="section-label mb-3">{label}</p>
-          <h1
-            id="place-heading"
-            className="headline max-w-[16ch] text-3xl leading-[0.95] text-white sm:max-w-none sm:text-4xl lg:text-5xl"
-          >
-            {h1}
-          </h1>
-          <span className="accent-rule" aria-hidden />
-          <p className="mt-4 max-w-2xl text-white/70">
-            {kind === "location" ? t.location.subtitle : t.contact.subtitle}
-          </p>
-
-          <div className="mt-6 flex flex-wrap gap-2 text-xs font-bold uppercase tracking-wide">
-            <Link
-              href={kind === "location" ? locationPath("en") : contactPath("en")}
-              className={`rounded-none border px-3 py-1.5 ${
-                locale === "en"
-                  ? "border-brand-gold/40 bg-transparent text-brand-gold"
-                  : "border-white/15 text-white/60 hover:border-brand-gold/50 hover:text-brand-gold"
-              }`}
-            >
-              English
-            </Link>
-            <Link
-              href={kind === "location" ? locationPath("es") : contactPath("es")}
-              className={`rounded-none border px-3 py-1.5 ${
-                locale === "es"
-                  ? "border-brand-gold/40 bg-transparent text-brand-gold"
-                  : "border-white/15 text-white/60 hover:border-brand-gold/50 hover:text-brand-gold"
-              }`}
-            >
-              Español
-            </Link>
-          </div>
-
           {kind === "location" ? <LocationBody locale={locale} /> : <ContactBody locale={locale} />}
 
           <p className="mt-8">
@@ -126,6 +104,7 @@ export default function PlacePage({ locale, kind }: Props) {
           </p>
         </div>
       </section>
+      {kind === "location" ? <Reviews locale={locale} /> : null}
     </BlogShell>
   );
 }

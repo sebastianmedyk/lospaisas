@@ -61,7 +61,7 @@ export default function Header() {
 
         <div className="flex shrink-0 items-center gap-2 sm:gap-3">
           <LanguageToggle />
-          {/* Desktop only — mobile uses FloatingCallButton, avoid competing bars */}
+          {/* Desktop only — mobile uses the MobileBar, avoid competing bars */}
           <a
             href={BUSINESS.phoneTel}
             className={`cut-sm hidden items-center gap-1.5 rounded-none border border-brand-gold/50 bg-transparent px-3 py-2 text-[0.65rem] font-extrabold uppercase tracking-[0.14em] text-brand-gold transition hover:bg-brand-gold hover:text-brand-bg md:inline-flex ${focusRing}`}

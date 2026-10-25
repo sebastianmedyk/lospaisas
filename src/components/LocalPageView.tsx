@@ -1,7 +1,10 @@
 import Link from "next/link";
 import BlogShell from "@/components/BlogShell";
 import JsonLd from "@/components/JsonLd";
-import { MapPinIcon, PhoneIcon, WhatsAppIcon } from "@/components/Icons";
+import PageHero from "@/components/PageHero";
+import InfoStrip from "@/components/InfoStrip";
+import SectionHeading from "@/components/SectionHeading";
+import Reviews from "@/components/Reviews";
 import { BUSINESS } from "@/lib/constants";
 import { getDictionary } from "@/lib/i18n";
 import type { LocalPage } from "@/lib/local-pages";
@@ -38,62 +41,23 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
       <JsonLd data={breadcrumbJsonLd(crumbs)} />
 
       <article>
-        <header className="hero-bleed border-b border-white/15">
-          <div className="container-site section-pad-sm max-w-3xl">
-            <nav
-              className="mb-6 flex flex-wrap gap-2 text-xs font-bold uppercase tracking-[0.16em] text-white/50"
-              aria-label={t.a11y.breadcrumb}
-            >
-              {crumbs.map((crumb, index) => (
-                <span key={crumb.url} className="inline-flex items-center gap-2">
-                  {index > 0 ? <span aria-hidden>/</span> : null}
-                  {index < crumbs.length - 1 ? (
-                    <Link href={crumb.url.replace(absoluteUrl(""), "") || "/"} className="hover:text-brand-gold">
-                      {crumb.name}
-                    </Link>
-                  ) : (
-                    <span className="text-white/80">{crumb.name}</span>
-                  )}
-                </span>
-              ))}
-            </nav>
-
-            <p className="section-label mb-4">{page.eyebrow}</p>
-            <h1 className="headline max-w-[18ch] text-[2.35rem] leading-[0.92] text-white sm:max-w-none sm:text-5xl lg:text-6xl">
-              {page.h1}
-            </h1>
-            <span className="accent-rule accent-rule-lg" aria-hidden />
-            <div className="mt-5 space-y-4 text-base leading-relaxed text-white/80 sm:text-lg">
-              {page.intro.map((paragraph, index) => (
-                <p key={index}>{paragraph}</p>
-              ))}
-            </div>
-            <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
-              <a href={BUSINESS.phoneTel} className="btn-gold min-h-[48px]">
-                <PhoneIcon className="h-4 w-4" />
-                {t.hero.ctaCall}
-              </a>
-              <a
-                href={BUSINESS.mapsDirectionsUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn-outline min-h-[48px]"
-              >
-                <MapPinIcon className="h-4 w-4" />
-                {t.hero.ctaDirections}
-              </a>
-              <a
-                href={BUSINESS.whatsapp}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn-quiet min-h-[48px]"
-              >
-                <WhatsAppIcon className="h-4 w-4" />
-                {t.hero.ctaWhatsApp}
-              </a>
-            </div>
-          </div>
-        </header>
+        <PageHero
+          crumbs={crumbs.map((crumb, index) => ({
+            name: crumb.name,
+            href:
+              index < crumbs.length - 1
+                ? crumb.url.replace(absoluteUrl(""), "") || "/"
+                : undefined,
+          }))}
+          breadcrumbLabel={t.a11y.breadcrumb}
+          eyebrow={page.eyebrow}
+          title={page.h1}
+          intro={page.intro.map((paragraph, index) => (
+            <p key={index}>{paragraph}</p>
+          ))}
+          cta
+        />
+        <InfoStrip />
 
         {page.kind === "service" && SERVICE_PHOTOS[page.enPath] ? (
           <section className="border-b border-white/15 py-8">
@@ -106,10 +70,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
         {page.sections.map((section) => (
           <section key={section.heading} className="section-pad border-b border-white/15">
             <div className="container-site max-w-3xl">
-              <h2 className="headline text-3xl leading-[0.95] text-white sm:text-4xl">
-                {section.heading}
-              </h2>
-              <span className="accent-rule" aria-hidden />
+              <SectionHeading title={section.heading} />
               <div className="mt-5 space-y-4 text-base leading-relaxed text-white/80">
                 {section.paragraphs.map((paragraph, index) => (
                   <p key={index}>{paragraph}</p>
@@ -132,14 +93,11 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
 
         <section className="section-pad border-b border-white/15" aria-labelledby="page-faq">
           <div className="container-site max-w-3xl">
-            <h2 id="page-faq" className="headline text-3xl leading-[0.95] text-white sm:text-4xl">
-              {page.faqHeading}
-            </h2>
-            <span className="accent-rule" aria-hidden />
+            <SectionHeading id="page-faq" title={page.faqHeading} />
             <div className="mt-8 space-y-8">
               {page.faqs.map((faq) => (
                 <div key={faq.question} className="border-t border-white/15 pt-6">
-                  <h3 className="headline text-2xl leading-tight text-white">{faq.question}</h3>
+                  <h3 className="headline text-2xl font-bold leading-tight text-white">{faq.question}</h3>
                   <p className="mt-3 leading-relaxed text-white/80">{faq.answer}</p>
                 </div>
               ))}
@@ -147,12 +105,11 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
           </div>
         </section>
 
+        <Reviews locale={page.locale} />
+
         <section className="section-pad" aria-labelledby="page-more">
           <div className="container-site max-w-3xl">
-            <h2 id="page-more" className="headline text-3xl leading-[0.95] text-white sm:text-4xl">
-              {page.moreHeading}
-            </h2>
-            <span className="accent-rule" aria-hidden />
+            <SectionHeading id="page-more" title={page.moreHeading} />
             <ul className="mt-6 grid gap-3 sm:grid-cols-2">
               {page.links.map((link) => (
                 <li key={link.href}>
