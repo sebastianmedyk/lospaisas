@@ -1,0 +1,85 @@
+{
+  "path": "/pl/uslugi/montaz-opon",
+  "locale": "pl",
+  "kind": "service",
+  "title": "Montaż opon w West Palm Beach | Los Paisas Tires Shop",
+  "description": "Montaż opon w West Palm Beach dla opon, które już kupiłeś. Montujemy je pod 1114 S Military Trl. Otwarte codziennie 8 AM–7 PM. Zadzwoń: (561) 429-4041.",
+  "h1": "Montaż opon w West Palm Beach",
+  "eyebrow": "Opony, które już masz",
+  "serviceName": "Montaż opon klienta",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Montaż opon w West Palm Beach oznacza na tej stronie, że zakładamy opony, które już kupiłeś. Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Możesz przywieźć komplet z internetu, z innego sklepu albo od znajomego. Zakładamy je na felgi i na auto. Sprzedajemy też nowe i używane opony, jeśli wolisz ich nie wozić.",
+    "Zadzwoń pod (561) 429-4041, zanim zapakujesz bagażnik, żebyśmy znali rozmiar i liczbę opon. Godziny otwarcia: 8:00 AM do 7:00 PM, siedem dni w tygodniu. Nie podajemy tu ceny montażu."
+  ],
+  "sections": [
+    {
+      "heading": "Montaż opon, które już masz",
+      "paragraphs": [
+        "Opony klienta też muszą mieć właściwy rozmiar dla auta. Sprawdzamy to przed montażem. Opona kupiona okazyjnie, ale ze złym indeksem nośności, przestaje być okazją na autostradzie. Jeśli przywieziona opona jest popękana, wybrzuszona albo tak stara, że guma pęka, nie zamontujemy jej tylko dlatego, że komuś za nią zapłaciłeś. Wolimy stracić montaż, niż wypuścić Cię na karkasie, który widać, że jest skończony.",
+        "Praca to zdjęcie starej opony, założenie przywiezionej i osadzenie jej tak, by trzymała powietrze. Kolejnym krokiem jest zwykle wyważanie, które wyceniamy przed rozpoczęciem, bez ukrytych opłat. Jeśli stara opona zużyła się tylko na jednym barku, zapytaj przy okazji o geometrię. Stanowisko do geometrii jest w tym warsztacie. Nie jest częścią podstawowego montażu, chyba że tego chcesz."
+      ],
+      "bullets": [
+        "Opony kupione gdzie indziej, jeśli są bezpieczne do montażu",
+        "Sprawdzenie rozmiaru względem auta",
+        "Odmowa, gdy karkas jest popękany lub ma bąble",
+        "Wyważanie wyceniane z góry, geometria tylko na życzenie albo gdy wymaga tego zużycie"
+      ]
+    },
+    {
+      "heading": "Co ze sobą przywieźć",
+      "paragraphs": [
+        "Przywieź opony, a jeśli mają być założone dziś, także auto. Jeśli opony leżą luzem w pickupie, i tak potrzebujemy auta, do którego należą, żeby dokończyć montaż. Znaj rozmiar z boku opony albo pozwól nam go odczytać. Jeśli koło zapasowe też jest złe, powiedz to. Nowy komplet z martwym zapasem to znany niedzielny problem.",
+        "Nie musisz przywozić ciężarków ani zestawu zaworów. Powiedz nam, jeśli kontrolka czujnika ciśnienia już się świeci, żeby nie zaskoczyło nas to przy zdejmowaniu opony. Nie obiecamy naprawy czujnika, której ta strona nie opisuje. Powiemy, co widzimy."
+      ]
+    },
+    {
+      "heading": "Gdzie odbywa się montaż",
+      "paragraphs": [
+        "Stanowisko mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają z Greenacres, Palm Springs i Lake Worth Beach. Te miejscowości są w promieniu 10 mil od warsztatu. Jeśli nie możesz ruszyć auta, a opony są już pod tym adresem, zadzwoń i zapytaj, czy montaż mobilny jest możliwy w promieniu 10 mil. Najpierw potwierdzamy miejsce. Podjazd nie zawsze jest bezpieczny do montażu opon i powiemy to.",
+        "Nadal jest tylko jeden warsztat. Nie szukaj drugiego adresu Los Paisas. Telefon: (561) 429-4041, codziennie do 7:00 PM."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Pytania o montaż Twoich opon",
+  "faqs": [
+    {
+      "question": "Czy zamontujecie opony kupione w internecie?",
+      "answer": "Tak, jeśli mają właściwy rozmiar, a karkas jest bezpieczny. Przywieź je pod 1114 S Military Trl. Uszkodzonej opony nie założymy na auto."
+    },
+    {
+      "question": "Czy montaż obejmuje wyważanie?",
+      "answer": "Wyważanie proponujemy razem z montażem, a cenę podajemy przed rozpoczęciem, bez ukrytych opłat. To nie jest niespodziewany dodatek na koniec."
+    },
+    {
+      "question": "Czy sprzedacie mi oponę, jeśli jedna z moich jest zła?",
+      "answer": "Tak. Jeśli przywieziona opona nie nadaje się do montażu, możemy porozmawiać o nowej lub używanej oponie z warsztatu na to koło."
+    }
+  ],
+  "moreHeading": "Jeśli potrzebujesz od nas opon",
+  "links": [
+    {
+      "href": "/pl/uslugi/nowe-opony",
+      "label": "Nowe opony sprzedawane w warsztacie"
+    },
+    {
+      "href": "/pl/uslugi/uzywane-opony",
+      "label": "Używane opony sprawdzane przed montażem"
+    },
+    {
+      "href": "/pl/uslugi/wywazanie-kol",
+      "label": "Wyważanie z ceną podaną z góry"
+    },
+    {
+      "href": "/pl/blog/montaz-opon-klienta-west-palm-beach",
+      "label": "Przywożenie własnych opon na Military Trl"
+    }
+  ]
+}

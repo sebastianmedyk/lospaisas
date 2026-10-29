@@ -1,0 +1,94 @@
+{
+  "path": "/pl/uslugi/wywazanie-kol",
+  "locale": "pl",
+  "kind": "service",
+  "title": "Wyważanie kół w West Palm Beach | Los Paisas Tires Shop",
+  "description": "Wyważanie kół w West Palm Beach bez ukrytych opłat. Cenę podajemy przed rozpoczęciem pracy, 1114 S Military Trl. Otwarte codziennie 8 AM–7 PM. Zadzwoń: (561) 429-4041.",
+  "h1": "Wyważanie kół w West Palm Beach",
+  "eyebrow": "Bez ukrytych opłat",
+  "serviceName": "Wyważanie kół",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Wyważanie kół w West Palm Beach to rozwiązanie, gdy koło drga przy prędkości, a reszta auta jest w porządku. Los Paisas Tires Shop wyważa koła pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. „Bez ukrytych opłat” znaczy u nas po prostu: cenę wyważania słyszysz, zanim założymy ciężarki, a nie potem.",
+    "Zadzwoń: (561) 429-4041. Warsztat jest otwarty 8:00 AM do 7:00 PM codziennie, także w niedzielę. Nie podajemy tu kwoty, bo praca zależy od koła, które mamy przed sobą."
+  ],
+  "sections": [
+    {
+      "heading": "Wyważanie bez ukrytych opłat",
+      "paragraphs": [
+        "Opona i felga prawie nigdy nie są idealnie równe. Ciężarki wyważające to korygują, żeby koło nie podskakiwało ani nie drgało podczas obrotu. Robimy to na wyważarce w warsztacie, gdy opona jest już osadzona na feldze. Jeśli opona była właśnie montowana, naprawiana albo przełożona z innego auta, to ten krok utrzymuje kierownicę w spokoju.",
+        "Bez ukrytych opłat oznacza, że przy kasie nie wymyślamy drugiej pozycji za coś, o czym od początku wiedzieliśmy, że praca tego wymaga. Jeśli felga jest krzywa i nie da się jej wyważyć, przerywamy i mówimy Ci o tym. Jeśli opona jest rozwarstwiona w środku, ciężarki jej nie wygładzą, i to też powiemy. Nie powinieneś płacić za wyważanie, które nie może zadziałać."
+      ],
+      "bullets": [
+        "Cenę podajemy przed rozpoczęciem pracy",
+        "Ciężarki na kole, które faktycznie da się wyważyć",
+        "Przerwa i wyjaśnienie, jeśli prawdziwym problemem jest felga albo opona",
+        "Ta sama zasada, czy oponę kupiłeś u nas, czy ją przywiozłeś"
+      ]
+    },
+    {
+      "heading": "Co zwykle oznaczają drgania przy prędkości",
+      "paragraphs": [
+        "Drgania, które pojawiają się na autostradzie i znikają po zwolnieniu, to klasyczny objaw niewyważenia. Stałe ściąganie w prawo lub w lewo to częściej geometria. Pytamy, co czujesz, żeby nie sprzedawać Ci obu usług z przyzwyczajenia. Jeśli opony zużywają się też na barku, geometria wchodzi do rozmowy, gdy koła są już okrągłe i równe.",
+        "Zgubione ciężarki, opona z kołkiem, której nikt potem nie sprawdził, albo felga po spotkaniu z krawężnikiem to zwykłe powody, by tu przyjechać. Przyjedź autem w godzinach otwarcia. Po angielsku lub po hiszpańsku. Możesz poczekać, aż zakręcimy kołami, które drgają."
+      ]
+    },
+    {
+      "heading": "Godziny otwarcia i dojazd",
+      "paragraphs": [
+        "Wyważanie robimy w warsztacie pod 1114 S Military Trl. Kierowcy przyjeżdżają z West Palm Beach oraz z Greenacres, Palm Springs i Lake Worth Beach, które są w promieniu 10 mil. Nie podajemy szacowanego czasu dojazdu. Jeśli nie możesz przyjechać przez gumę, zadzwoń w sprawie mobilnego serwisu opon dla samej opony. Wyważanie i tak robi się na maszynie w warsztacie, gdy koło tego potrzebuje.",
+        "Siedem dni w tygodniu, 8:00 AM do 7:00 PM. Telefon i WhatsApp: (561) 429-4041. Jeden adres, bez drugiej lady."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Pytania o wyważanie kół",
+  "faqs": [
+    {
+      "question": "Co oznacza „bez ukrytych opłat” przy wyważaniu?",
+      "answer": "Podajemy koszt wyważania, zanim je zrobimy. Przy płaceniu nie dodajemy niespodziewanej pozycji za tę samą pracę."
+    },
+    {
+      "question": "Czy drgania to zawsze problem z wyważeniem?",
+      "answer": "Często, gdy pojawiają się przy prędkości. Ściąganie na bok to raczej geometria. Opisz, co robi auto, a powiemy, która usługa pasuje."
+    },
+    {
+      "question": "Czy wyważacie opony kupione gdzie indziej?",
+      "answer": "Tak. Przywieź auto albo luźne opony, jeśli nie są jeszcze zamontowane, pod 1114 S Military Trl. Montaż opon, które już masz, to osobna usługa, jeśli trzeba je jeszcze założyć na felgi."
+    }
+  ],
+  "moreHeading": "Jeśli wyważenie to tylko część problemu",
+  "links": [
+    {
+      "href": "/pl/uslugi/ustawianie-geometrii",
+      "label": "Geometria, gdy auto ściąga"
+    },
+    {
+      "href": "/pl/uslugi/montaz-opon",
+      "label": "Montaż opon, które już kupiłeś"
+    },
+    {
+      "href": "/pl/uslugi/naprawa-opon",
+      "label": "Napraw przebicie przed wyważaniem"
+    },
+    {
+      "href": "/pl/blog/wywazanie-kol-bez-ukrytych-oplat",
+      "label": "Dlaczego mówimy o ukrytych opłatach"
+    },
+    {
+      "href": "/pl/blog/dlaczego-kierowcy-ufaja-los-paisas-west-palm-beach",
+      "label": "Dlaczego kierowcy ufają Los Paisas: cena przed pracą"
+    },
+    {
+      "href": "/pl/blog/auto-drga-przy-duzej-predkosci-west-palm-beach",
+      "label": "Dlaczego auto drga przy dużej prędkości?"
+    }
+  ],
+  "updated": "2026-10-19"
+}

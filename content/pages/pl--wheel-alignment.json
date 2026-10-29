@@ -1,0 +1,85 @@
+{
+  "path": "/pl/uslugi/ustawianie-geometrii",
+  "locale": "pl",
+  "kind": "service",
+  "title": "Ustawianie geometrii w West Palm Beach | Los Paisas Tires Shop",
+  "description": "Ustawianie geometrii kół w West Palm Beach, 1114 S Military Trl. Ustawiamy geometrię tak, by auto jechało prosto. Otwarte codziennie 8 AM–7 PM. Zadzwoń: (561) 429-4041.",
+  "h1": "Ustawianie geometrii w West Palm Beach",
+  "eyebrow": "Geometria kół (geometría)",
+  "serviceName": "Ustawianie geometrii",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Ustawianie geometrii w West Palm Beach to właściwa praca, gdy auto znosi, kierownica stoi krzywo albo opony zużywają się na jednej krawędzi. Los Paisas Tires Shop robi to pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Kierowcy mówiący po hiszpańsku często pytają o „geometría”. To ta sama usługa: mierzymy ustawienie kół i korygujemy je tak, jak auto powinno jechać.",
+    "Geometrię ustawiamy w warsztacie, a nie na podjeździe. Zadzwoń: (561) 429-4041. Jesteśmy otwarci codziennie, 8:00 AM do 7:00 PM, także w niedzielę. Ta strona nie podaje ceny, bo regulacja zależy od auta."
+  ],
+  "sections": [
+    {
+      "heading": "Co obejmuje ustawianie geometrii",
+      "paragraphs": [
+        "Koła muszą być skierowane tam, dokąd jedzie auto. Gdy tak nie jest, czujesz ściąganie, ciągle korygujesz kierownicą, a bieżnik ściera się na jednym barku. Dziura, krawężnik albo nowy komplet opon na aucie, które już było krzywo ustawione, to typowe powody, dla których ludzie do nas trafiają.",
+        "Wjeżdżamy autem na stanowisko do geometrii i odczytujemy kąty. Potem regulujemy to, na co pozwala zawieszenie. Jeśli jakaś część jest zużyta i ustawienie się nie utrzyma, mówimy o tym. Nie sprzedajemy geometrii, która nie utrzyma się tam, gdzie ją ustawiliśmy. Naszą pracą są opony i geometria, która je chroni."
+      ],
+      "bullets": [
+        "Ściąganie na bok albo krzywo ustawiona kierownica",
+        "Zużycie wewnętrznego lub zewnętrznego barku opon",
+        "Kontrola po założeniu nowych opon, żeby nowy bieżnik się nie zmarnował",
+        "„Geometría”, jeśli tak mówisz w domu"
+      ]
+    },
+    {
+      "heading": "Jak wygląda wizyta na geometrię",
+      "paragraphs": [
+        "Przyjedź, jeśli auto jest bezpieczne do jazdy. Powiedz nam, co czujesz: ściąganie, drgania albo oponę łysą na jednej krawędzi. Same drgania to często wyważenie, a nie geometria. Ściąganie albo ząbkowany bieżnik to objaw geometrii. Powiemy, czemu się przyglądamy, żebyś nie płacił za niewłaściwą pracę.",
+        "Auto zostaje pod 1114 S Military Trl na czas pomiaru i regulacji. Nie musisz przywozić specjalnych narzędzi. W sobotę i niedzielę godziny się nie zmieniają. Jeśli chcesz zrobić geometrię i wyważanie, zrobimy je podczas jednej wizyty i przed rozpoczęciem powiemy, na czym polega każda część pracy. Wyważanie wyceniamy bez ukrytych opłat."
+      ]
+    },
+    {
+      "heading": "Kierowcy, którzy przyjeżdżają na S Military Trl",
+      "paragraphs": [
+        "Stanowisko do geometrii jest tylko w warsztacie. Greenacres, Palm Springs i Lake Worth Beach są na tyle blisko, że ludzie tu przyjeżdżają, a wszystkie trzy miejscowości są w promieniu 10 mil od adresu, ale sama geometria nie jest usługą mobilną. Jeśli masz gumę i nie możesz do nas dojechać, zadzwoń w sprawie mobilnego serwisu opon. Na geometrię przyjedź na stanowisko.",
+        "Nie ma drugiego adresu ani innego stanowiska Los Paisas do tej pracy. Przyjedź pod 1114 S Military Trl, West Palm Beach, FL 33415, albo zadzwoń: (561) 429-4041."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Pytania o geometrię",
+  "faqs": [
+    {
+      "question": "Czy „geometría” to to samo co ustawianie geometrii kół?",
+      "answer": "Tak. „Geometría” to hiszpańska nazwa, której kierowcy używają dla tej samej usługi w tym warsztacie."
+    },
+    {
+      "question": "Czy geometria usunie drgania kierownicy?",
+      "answer": "Drgania przy prędkości to zwykle problem z wyważeniem. Ściąganie albo nierówne zużycie krawędzi to problem z geometrią. Powiemy, który z nich ma Twoje auto."
+    },
+    {
+      "question": "Czy możecie ustawić geometrię pod moim domem?",
+      "answer": "Nie. Geometrię ustawiamy na sprzęcie pod 1114 S Military Trl. Serwis mobilny obejmuje prace przy oponach w promieniu 10 mil, a nie geometrię."
+    }
+  ],
+  "moreHeading": "Prace, które często idą w parze z geometrią",
+  "links": [
+    {
+      "href": "/pl/uslugi/wywazanie-kol",
+      "label": "Wyważanie, gdy koło drga"
+    },
+    {
+      "href": "/pl/uslugi/nowe-opony",
+      "label": "Nowe opony, zanim zużyją się krzywo"
+    },
+    {
+      "href": "/pl/uslugi/uzywane-opony",
+      "label": "Używane opony, gdy zobaczymy zużycie"
+    },
+    {
+      "href": "/pl/blog/ustawianie-geometrii-military-trail-west-palm-beach",
+      "label": "Geometria przy Military Trl"
+    }
+  ]
+}

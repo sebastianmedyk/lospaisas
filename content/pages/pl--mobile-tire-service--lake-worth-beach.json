@@ -1,0 +1,104 @@
+{
+  "path": "/pl/uslugi/mobilny-serwis-opon/lake-worth-beach",
+  "locale": "pl",
+  "kind": "city",
+  "parentPath": "/pl/uslugi/mobilny-serwis-opon",
+  "parentLabel": "Mobilny serwis opon",
+  "title": "Mobilny serwis opon w Lake Worth Beach | Los Paisas",
+  "description": "Mobilny serwis opon w Lake Worth Beach, w promieniu 10 mil od 1114 S Military Trl. Zadzwoń, by potwierdzić miejsce. Otwarte codziennie 8 AM–7 PM. (561) 429-4041.",
+  "h1": "Mobilny serwis opon w Lake Worth Beach",
+  "eyebrow": "Na wschód od warsztatu, nadal jeden adres",
+  "serviceName": "Mobilny serwis opon w Lake Worth Beach",
+  "areaServed": [
+    "Lake Worth Beach",
+    "West Palm Beach"
+  ],
+  "intro": [
+    "Mobilny serwis opon w Lake Worth Beach jest dla auta, które nie powinno jechać na zachód do warsztatu. Los Paisas Tires Shop nie ma stanowiska w Lake Worth Beach. Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, nadmorskie miasto dawniej nazywane Lake Worth, leży na wschód od warsztatu, w stronę Dixie Highway i Intracoastal. Granice miasta są w promieniu 10 mil, więc możesz wezwać van. Zadzwoń pod (561) 429-4041, a potwierdzimy miejsce.",
+    "Nie podamy liczby minut z plaży na Military Trl. Jeśli opona trzyma powietrze, najprostsza jest wizyta w warsztacie. Van to druga opcja, tylko w godzinach pracy warsztatu."
+  ],
+  "sections": [
+    {
+      "heading": "Co obejmuje wizyta w Lake Worth Beach",
+      "paragraphs": [
+        "Ludzie stąd są często na wschód od warsztatu, bliżej Dixie Highway niż naszego stanowiska. Wizyta mobilna może załatwić gwóźdź w bieżniku, gdy oponę warto jeszcze naprawić, założenie zapasu, żebyś mógł później do nas dojechać, albo opony, które masz przy aucie, jeśli możemy bezpiecznie pracować. Podaj rozmiar. Oponę na wymianę przywozimy tylko wtedy, gdy potwierdzimy, że jest w warsztacie.",
+        "Nie ustawiamy geometrii na ulicy w Lake Worth Beach i nie wyważamy koła, które wymaga maszyny warsztatowej, na miejscu parkingowym przy Intracoastal. Te prace robimy pod 1114 S Military Trl. Ciasny krawężnik, zatłoczony parking albo pobocze przy ruchu to powód, by odmówić i poprosić Cię o przyjazd."
+      ],
+      "bullets": [
+        "Guma na wschód od warsztatu, gdy jazda zniszczyłaby oponę",
+        "Założenie zapasu, żebyś mógł potem dojechać na Military Trl",
+        "Montaż tylko tam, gdzie auto i opony już są razem, a miejsce jest bezpieczne",
+        "Bez geometrii poza stanowiskiem"
+      ]
+    },
+    {
+      "heading": "Nadmorskie miasto z centrum i plażą",
+      "paragraphs": [
+        "Lake Worth Beach zmieniło nazwę z Lake Worth w 2019 roku. Rozciąga się od osiedli w głębi lądu na wschód do Lake Worth Lagoon, z centrum wzdłuż Lake Avenue i Lucerne Avenue oraz miejską plażą po drugiej stronie mostu, na wyspie barierowej. Ta mieszanka wpływa na to, jak wygląda wizyta mobilna.",
+        "Centrum i okolice plaży to parkowanie przy ulicy, płatne miejsca i zatłoczone parkingi, które często nie są bezpiecznym miejscem do podnoszenia auta. Dom na jednym z osiedli mieszkaniowych jest zwykle łatwiejszy. Jeśli złapałeś gumę przy plaży albo w centrum, a opona w ogóle nie trzyma, powiedz nam dokładnie, gdzie stoi auto, a szczerze powiemy, czy możemy tam pracować, czy bardziej sensowne jest odholowanie do warsztatu."
+      ],
+      "bullets": [
+        "Ulica mieszkaniowa lub podjazd: zwykle się nadaje",
+        "Centrum przy Lake Ave lub Lucerne Ave: parkowanie przy ulicy może być za ciasne",
+        "Parking przy plaży: powiedz, gdzie stoisz, a ocenimy, czy jest bezpiecznie"
+      ]
+    },
+    {
+      "heading": "Kiedy pojechać na zachód do warsztatu",
+      "paragraphs": [
+        "Lake Worth Road to jedna z dróg wschód–zachód, którymi ludzie jadą w głąb lądu. Warsztat jest przy S Military Trl w West Palm Beach, a nie przy Dixie Highway ani na plaży. Jeśli i tak jedziesz w tę stronę, a opona trzyma, przyjedź pod ten adres. Możesz obejrzeć używane i nowe opony, zrobić naprawę wulkanizowaną od środka i dostać wycenę wyważania bez ukrytych opłat.",
+        "W niedzielę godziny są takie same jak w poniedziałek: 8:00 AM do 7:00 PM. Nie ma nocnego vana. Dzwoń w ciągu dnia."
+      ]
+    },
+    {
+      "heading": "Jak potwierdzamy, że adres jest w zasięgu",
+      "paragraphs": [
+        "Lake Worth Beach jako miasto jest w promieniu 10 mil od 1114 S Military Trl. Dlatego ta strona istnieje. To nie obietnica dotycząca każdej prywatnej drogi, parkingu przy marinie czy miejsca, w którym nie możemy pracować. Podaj adres. Jeśli jest w zasięgu i jest bezpieczny, przyjedziemy. Jeśli to nie miejsce na podnoszenie auta, powiemy to.",
+        "Nadal jest jeden numer telefonu, (561) 429-4041, i jeden warsztat. Nie szukaj w Lake Worth Beach punktu z naszą nazwą."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Pytania z Lake Worth Beach",
+  "faqs": [
+    {
+      "question": "Czy to wy jesteście warsztatem oponiarskim przy Dixie Highway?",
+      "answer": "Nie. Warsztat mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach jest w obszarze serwisu mobilnego, w promieniu 10 mil. To nie drugi adres."
+    },
+    {
+      "question": "Czy Lake Worth to to samo co Lake Worth Beach?",
+      "answer": "Miasto nazywa się Lake Worth Beach. Starsze wskazówki mogą wciąż mówić Lake Worth. Tak czy inaczej, zadzwoń z adresem, żebyśmy potwierdzili miejsce."
+    },
+    {
+      "question": "Czy przyjedziecie na zatłoczony parking nad wodą?",
+      "answer": "Tylko jeśli możemy bezpiecznie pracować. Jeśli nie, poprosimy Cię o dostarczenie auta pod 1114 S Military Trl."
+    },
+    {
+      "question": "Złapałem gumę na plaży w Lake Worth Beach. Czy możecie przyjechać?",
+      "answer": "Zadzwoń pod (561) 429-4041 i powiedz dokładnie, gdzie stoi auto. Parkingi przy plaży i w centrum mogą być za ciasne albo za ruchliwe, by bezpiecznie pracować. Jeśli tak jest, powiemy Ci to i zaproponujemy dostarczenie auta do warsztatu."
+    }
+  ],
+  "moreHeading": "Strona warsztatu i sąsiednie miejscowości",
+  "links": [
+    {
+      "href": "/pl/uslugi/mobilny-serwis-opon",
+      "label": "Mobilny serwis opon w promieniu 10 mil"
+    },
+    {
+      "href": "/pl/uslugi/mobilny-serwis-opon/greenacres",
+      "label": "Mobilny serwis opon w Greenacres"
+    },
+    {
+      "href": "/pl/uslugi/mobilny-serwis-opon/palm-springs",
+      "label": "Mobilny serwis opon w Palm Springs"
+    },
+    {
+      "href": "/pl/uslugi/naprawa-opon",
+      "label": "Naprawa i wulkanizacja w warsztacie"
+    },
+    {
+      "href": "/pl/blog/mobilny-serwis-opon-west-palm-beach",
+      "label": "Czego potrzebujemy przy zamawianiu serwisu mobilnego"
+    }
+  ]
+}

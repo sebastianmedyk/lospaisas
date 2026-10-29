@@ -1,0 +1,99 @@
+{
+  "path": "/pl/uslugi/nowe-opony",
+  "locale": "pl",
+  "kind": "service",
+  "title": "Nowe opony w West Palm Beach | Los Paisas Tires Shop",
+  "description": "Nowe opony w West Palm Beach, 1114 S Military Trl. Dobieramy rozmiar i indeks nośności, potem montujemy. Otwarte 7 dni, 8 AM–7 PM. Zadzwoń: (561) 429-4041.",
+  "h1": "Nowe opony w West Palm Beach",
+  "eyebrow": "Warsztat oponiarski przy S Military Trl",
+  "serviceName": "Nowe opony",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Nowe opony w West Palm Beach zaczynają się od auta, które mamy przed sobą, a nie od sloganu. Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Sprzedajemy nowe i używane opony i powiemy Ci, kiedy nowa opona to właściwy zakup, a kiedy wystarczy sprawdzona używana.",
+    "Nie publikujemy cen na tej stronie. Nowa opona zależy od rozmiaru z tabliczki na drzwiach i od tego, czego faktycznie oczekujesz od auta. Zadzwoń pod (561) 429-4041 w dowolny dzień od 8:00 AM do 7:00 PM i zapytaj o rozmiar, zanim założysz, że mamy go na regale. Szukasz frazy „nowe opony w pobliżu” z Greenacres, Palm Springs albo Lake Worth Beach? Te miejscowości są w promieniu 10 mil od tego jednego warsztatu przy Military Trail."
+  ],
+  "sections": [
+    {
+      "heading": "Co obejmuje zakup nowych opon",
+      "paragraphs": [
+        "Nowy komplet to opona, montaż i szczera rozmowa o pozostałych trzech kołach. Wymiana jednej łysej opony przy trzech zużytych to sposób, by auto zaczęło źle się prowadzić przy dużej prędkości. Oglądamy wszystkie cztery, plus zapas, jeśli wciąż na nim polegasz, i mówimy, czy potrzebujesz jednej opony, czy więcej.",
+        "Upał Florydy nie oszczędza gumy, która już swoje przeżyła na słońcu. Nowa opona nie naprawi krzywej felgi ani auta, które ściąga. Jeśli stare opony zużyły się na jednym barku, po założeniu nowych porozmawiamy o geometrii, żebyś nie zdarł nowego bieżnika w miesiąc. Wyważanie jest częścią normalnego montażu, gdy koło go potrzebuje, a tę pracę wyceniamy bez ukrytych opłat."
+      ],
+      "bullets": [
+        "Rozmiar i indeks nośności według auta, a nie tylko ze startego boku opony",
+        "Przegląd pozostałych opon, zanim sprzedamy Ci jedną",
+        "Montaż w warsztacie przy S Military Trl",
+        "Wyważanie wyceniane przed rozpoczęciem, a nie doliczane na parkingu"
+      ]
+    },
+    {
+      "heading": "Jak dobieramy oponę do auta",
+      "paragraphs": [
+        "Przyjedź autem, jeśli możesz. Tabliczka w framudze drzwi to punkt odniesienia dla rozmiaru i ciśnienia na zimno dla tego auta. Nie wymyślamy wartości ciśnienia na stronie internetowej. Jeśli znasz tylko rozmiar ze starej opony, zadzwoń i nam go przeczytaj. Jeśli stara opona miała już zły rozmiar, powiemy to.",
+        "Wizyta jest prosta. Przyjeżdżasz w godzinach otwarcia, od poniedziałku do niedzieli, 8:00 AM do 7:00 PM. Potwierdzamy rozmiar, pokazujemy oponę, montujemy ją i wracasz na drogę. Po angielsku lub po hiszpańsku, przy tej samej ladzie. Jeśli kupiłeś opony w internecie i potrzebujesz tylko montażu, zajrzyj na stronę montażu. Ta strona dotyczy opon kupowanych w warsztacie."
+      ]
+    },
+    {
+      "heading": "Warsztat przy S Military Trl",
+      "paragraphs": [
+        "Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają tu z Greenacres, Palm Springs i Lake Worth Beach. Wszystkie trzy są w promieniu 10 mil od warsztatu. Przyjedź na stanowisko, gdy auto może jechać. Jeśli opona już siadła i nie powinieneś jechać, zadzwoń i zapytaj o van, który jeździ w tym promieniu 10 mil i nie jest drugim adresem.",
+        "Jesteśmy warsztatem oponiarskim. Praca opisana na tej stronie to nowe opony montowane u nas, z wyważaniem i geometrią dostępnymi w tym samym budynku, gdy auto ich potrzebuje."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Pytania o nowe opony",
+  "faqs": [
+    {
+      "question": "Czy mogę kupić jedną nową oponę zamiast czterech?",
+      "answer": "Czasem tak. Najpierw oglądamy pozostałe opony. Jeśli są zużyte albo mają bardzo różną głębokość bieżnika, jedna nowa opona może sprawić, że auto będzie niestabilne, i powiemy Ci o tym."
+    },
+    {
+      "question": "Czy montujecie opony, które już kupiłem?",
+      "answer": "Tak, ale to osobna usługa. Przywieź opony pod 1114 S Military Trl, a zamontujemy to, co już masz. Ta strona dotyczy nowych opon sprzedawanych przez warsztat."
+    },
+    {
+      "question": "Czy w niedzielę mogę kupić nową oponę?",
+      "answer": "Tak. Godziny otwarcia to 8:00 AM do 7:00 PM codziennie, także w niedzielę. Zadzwoń pod (561) 429-4041, jeśli chcesz potwierdzić rozmiar przed przyjazdem."
+    }
+  ],
+  "moreHeading": "Powiązane prace podczas tej samej wizyty",
+  "links": [
+    {
+      "href": "/pl/uslugi/uzywane-opony",
+      "label": "Używane opony, gdy nowy komplet to więcej, niż potrzebujesz"
+    },
+    {
+      "href": "/pl/uslugi/ustawianie-geometrii",
+      "label": "Geometria po nierównym zużyciu"
+    },
+    {
+      "href": "/pl/uslugi/wywazanie-kol",
+      "label": "Wyważanie bez ukrytych opłat"
+    },
+    {
+      "href": "/pl/blog/nowe-opony-west-palm-beach-military-trail",
+      "label": "Nowe opony przy Military Trl"
+    },
+    {
+      "href": "/pl/blog/uzywane-czy-nowe-opony-upal-floryda",
+      "label": "Używane czy nowe opony w upale Florydy"
+    },
+    {
+      "href": "/pl/blog/serwis-opon-po-hiszpansku-i-kreolsku-west-palm-beach",
+      "label": "Wybór opon wyjaśniony po hiszpańsku, angielsku lub kreolsku"
+    }
+  ],
+  "keywords": [
+    "nowe opony West Palm Beach",
+    "nowe opony w pobliżu",
+    "montaż nowych opon Military Trl"
+  ],
+  "updated": "2026-10-19"
+}

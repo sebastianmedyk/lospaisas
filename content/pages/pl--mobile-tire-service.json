@@ -1,0 +1,94 @@
+{
+  "path": "/pl/uslugi/mobilny-serwis-opon",
+  "locale": "pl",
+  "kind": "service",
+  "title": "Mobilny serwis opon w West Palm Beach | Los Paisas",
+  "description": "Mobilny serwis opon w West Palm Beach, w promieniu 10 mil od 1114 S Military Trl. Zadzwoń najpierw, żebyśmy potwierdzili adres. Otwarte codziennie 8 AM–7 PM. (561) 429-4041.",
+  "h1": "Mobilny serwis opon w West Palm Beach",
+  "eyebrow": "W promieniu 10 mil od warsztatu",
+  "serviceName": "Mobilny serwis opon",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Mobilny serwis opon w West Palm Beach to van Los Paisas Tires Shop, a nie drugi punkt. Sam warsztat pozostaje pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Jeśli auto nie powinno się ruszać, możemy przyjechać do Ciebie, gdy adres jest w promieniu 10 mil od warsztatu. Zadzwoń pod (561) 429-4041, a potwierdzimy miejsce, zanim ktokolwiek wyjedzie.",
+    "Van jeździ w godzinach pracy warsztatu: 8:00 AM do 7:00 PM, siedem dni w tygodniu, także w niedzielę. Jeśli opona trzyma powietrze i możesz jechać, stanowisko jest zwykle lepszym miejscem, zwłaszcza gdy chcesz przejrzeć używane opony albo ustawić geometrię."
+  ],
+  "sections": [
+    {
+      "heading": "Co może obejmować wizyta mobilna",
+      "paragraphs": [
+        "Podczas wizyty mobilnej możemy naprawić przebicie, gdy naprawa jest bezpieczna, wymienić oponę, którą masz przy sobie, albo zamontować opony na miejscu, jeśli da się tam bezpiecznie pracować. Podaj rozmiar opony przy telefonie. Jeśli potrzebujesz dowiezienia używanej lub nowej opony, obiecamy to dopiero po potwierdzeniu rozmiaru i tego, że faktycznie ją mamy. Nie będziemy udawać, że van wozi cały warsztat.",
+        "Geometria to nie usługa na podjeździe. Sprzęt do geometrii zostaje pod 1114 S Military Trl. Wyważanie wymagające maszyny warsztatowej też tam zostaje. Guma, montaż, na który nie możesz dojechać, albo zapas, na którym tu nie dojedziesz, to powody, by wezwać van."
+      ],
+      "bullets": [
+        "Guma lub powolny wyciek, gdy nie powinieneś jechać",
+        "Montaż opon, które są już tam, gdzie auto, jeśli miejsce jest bezpieczne",
+        "Opona na wymianę dopiero po telefonicznym potwierdzeniu rozmiaru i dostępności",
+        "Bez geometrii na parkingu"
+      ]
+    },
+    {
+      "heading": "Jak wezwać van",
+      "paragraphs": [
+        "Zadzwoń lub napisz na WhatsApp: (561) 429-4041. Podaj adres, auto i to, co zawiodło. Powiedz, czy masz koło zapasowe i czy auto stoi na podjeździe, parkingu czy poboczu. Jeśli miejsce nie jest bezpieczne, poprosimy Cię o dostarczenie auta do warsztatu, zamiast pracować w ruchu.",
+        "Wyceniamy pracę, zanim zobowiążemy się do dojazdu. Na tej stronie nie ma cennika. Godziny są takie jak w warsztacie. Telefon w nocy nie tworzy obietnicy całodobowej. Po angielsku lub po hiszpańsku, ten sam numer."
+      ]
+    },
+    {
+      "heading": "Miejscowości w promieniu 10 mil",
+      "paragraphs": [
+        "Greenacres, Palm Springs i Lake Worth Beach leżą w promieniu 10 mil od 1114 S Military Trl. Sprawdziliśmy granice tych miejscowości względem warsztatu i mieszczą się w tym promieniu, więc możesz tam wezwać van. Konkretny adres i tak potwierdzamy, bo miejsce pracy musi pozwalać na pracę. Nie publikujemy czasu dojazdu.",
+        "West Palm Beach to miasto warsztatu. Jeśli jesteś dalej, zapytaj. Jeśli jesteś poza promieniem 10 mil, odpowiedzią jest przyjazd do warsztatu, a nie naciąganie zasięgu vana. Osobne informacje dla Greenacres, Lake Worth Beach i Palm Springs znajdziesz w linkach poniżej. To strony o serwisie mobilnym, a nie kopie każdej usługi."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Pytania o serwis mobilny",
+  "faqs": [
+    {
+      "question": "Jak daleko dojeżdżacie?",
+      "answer": "W promieniu 10 mil od 1114 S Military Trl, West Palm Beach, FL 33415. Zadzwoń z adresem, a potwierdzimy go przed wyjazdem."
+    },
+    {
+      "question": "Czy ustawicie geometrię na moim podjeździe?",
+      "answer": "Nie. Geometria zostaje w warsztacie. Serwis mobilny to praca przy oponach: guma, montaż albo opona, której dowiezienie już uzgodniliśmy."
+    },
+    {
+      "question": "Czy jesteście całodobową pomocą drogową?",
+      "answer": "Nie. Van pracuje w tych samych godzinach co warsztat, 8:00 AM do 7:00 PM, siedem dni w tygodniu. Dzwoń w tych godzinach."
+    }
+  ],
+  "moreHeading": "Serwis mobilny w trzech pobliskich miejscowościach",
+  "links": [
+    {
+      "href": "/pl/uslugi/mobilny-serwis-opon/greenacres",
+      "label": "Mobilny serwis opon w Greenacres"
+    },
+    {
+      "href": "/pl/uslugi/mobilny-serwis-opon/lake-worth-beach",
+      "label": "Mobilny serwis opon w Lake Worth Beach"
+    },
+    {
+      "href": "/pl/uslugi/mobilny-serwis-opon/palm-springs",
+      "label": "Mobilny serwis opon w Palm Springs"
+    },
+    {
+      "href": "/pl/uslugi/naprawa-opon",
+      "label": "Naprawa opon, jeśli możesz dojechać do warsztatu"
+    },
+    {
+      "href": "/pl/blog/mobilny-serwis-opon-west-palm-beach",
+      "label": "Jak działa serwis mobilny"
+    },
+    {
+      "href": "/pl/blog/zlapana-guma-w-niedziele-military-trail",
+      "label": "Guma w niedzielę? Co może zrobić warsztat"
+    }
+  ],
+  "updated": "2026-10-19"
+}

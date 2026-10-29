@@ -1,0 +1,102 @@
+{
+  "path": "/pl/uslugi/naprawa-opon",
+  "locale": "pl",
+  "kind": "service",
+  "title": "Naprawa opon w West Palm Beach | Los Paisas Tires Shop",
+  "description": "Naprawa opon w West Palm Beach: gwóźdź, łatka albo kołek. Wulkanizacja, gdy oponę da się bezpiecznie uratować. 1114 S Military Trl. Zadzwoń: (561) 429-4041.",
+  "h1": "Naprawa opon w West Palm Beach",
+  "eyebrow": "Łatka, kołek, wulkanizacja",
+  "serviceName": "Naprawa i wulkanizacja opon",
+  "areaServed": [
+    "West Palm Beach",
+    "Greenacres",
+    "Palm Springs",
+    "Lake Worth Beach",
+    "Palm Beach County"
+  ],
+  "intro": [
+    "Naprawa opon w West Palm Beach to to, czego potrzebujesz, gdy w bieżniku tkwi gwóźdź albo śruba, a reszta opony ma jeszcze przed sobą życie. Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415, naprawia opony, gdy uszkodzenie jest w bezpiecznym miejscu. Gdy nie jest, mówimy to i rozmawiamy o wymianie na używaną lub nową oponę zamiast łatki, która nie wytrzyma.",
+    "W warsztacie naprawę od środka nazywamy wulkanizacją. Kołek ze schowka to nie ta sama praca. Zadzwoń pod (561) 429-4041 w dowolny dzień, 8:00 AM do 7:00 PM, także w niedzielę, zanim pojedziesz daleko na oponie, która wciąż traci powietrze."
+  ],
+  "sections": [
+    {
+      "heading": "Łatka, kołek i wulkanizacja",
+      "paragraphs": [
+        "Dziura do naprawy to zwykle małe przebicie w bieżniku, a nie rozcięcie boku ani opona starta do wskaźników zużycia. Zdejmujemy oponę z felgi, gdy musimy zobaczyć środek. Wulkanizacja to właśnie ta naprawa od środka: uszkodzenie jest czyszczone i uszczelniane od wewnętrznej warstwy, czyli tak, jak robi to warsztat, a nie sznurkowy kołek wbity na parkingu.",
+        "Jeśli dziura jest za duża, za blisko barku albo w boku, nie załatamy jej. Wcześniejsza naprawa w złym miejscu też może zakończyć temat. To nie jest skrypt sprzedażowy. Oponę, która się nie utrzyma, wymieniamy."
+      ],
+      "bullets": [
+        "Gwóźdź lub śruba w bieżniku, gdy reszta karkasu jest zdrowa",
+        "Kontrola od środka, a nie zgadywanie z zewnątrz",
+        "Wulkanizacja, gdy przebicie da się bezpiecznie uszczelnić",
+        "Jasne „nie”, gdy uszkodzony jest bok albo bark"
+      ]
+    },
+    {
+      "heading": "Co robimy z gwoździem albo gumą",
+      "paragraphs": [
+        "Jeśli opona trzyma dość powietrza, by bezpiecznie jechać, przyjedź do warsztatu. Jeśli siada do felgi, nie jedź dalej. Krótki dojazd na stanowisko może zniszczyć oponę, którą jeszcze dało się naprawić. Użyj koła zapasowego, jeśli je masz, albo zadzwoń i zapytaj, czy serwis mobilny może do Ciebie przyjechać. Van jeździ tylko w promieniu 10 mil od 1114 S Military Trl, a adres najpierw potwierdzamy.",
+        "W warsztacie znajdujemy wyciek, decydujemy: naprawa czy wymiana, i montujemy z powrotem. Po naprawie często robimy wyważanie, żeby koło nie drgało, a jego cenę podajemy z góry, bez ukrytych opłat. Jeśli bieżnik jest już zbyt cienki, by warto go ratować, pokażemy używane i nowe opcje podczas tej samej wizyty."
+      ]
+    },
+    {
+      "heading": "Kiedy przyjechać, a kiedy wezwać van",
+      "paragraphs": [
+        "Warsztat jest otwarty siedem dni w tygodniu, 8:00 AM do 7:00 PM. Jeden adres: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs i Lake Worth Beach są w promieniu 10 mil, więc wielu kierowców stamtąd po prostu przyjeżdża na stanowisko. Nie wymyślimy czasu dojazdu. Jeśli nie wiesz, czy opona wytrzyma, zadzwoń.",
+        "Naprawa mobilna jest dla auta, które nie powinno się ruszać, w tym samym promieniu 10 mil. To nie obietnica, że każde miejsce parkingowe jest bezpieczne do pracy. Jeśli ulica się nie nadaje, poprosimy Cię o przyjazd do warsztatu."
+      ],
+      "nap": true
+    }
+  ],
+  "faqHeading": "Pytania o naprawę opon",
+  "faqs": [
+    {
+      "question": "Czy załatacie bok opony?",
+      "answer": "Nie. Rozcięcie albo bąbel na boku to nie praca do wulkanizacji. Powiemy, że oponę trzeba wymienić."
+    },
+    {
+      "question": "Czy kołek to to samo co wulkanizacja?",
+      "answer": "Nie. Sam kołek to nie sposób, w jaki kończymy naprawę, za którą ręczymy. Wulkanizacja oznacza naprawę od środka po zdjęciu opony z felgi."
+    },
+    {
+      "question": "Czy mogę poczekać, jeśli opona z gwoździem wciąż trzyma powietrze?",
+      "answer": "Nie traktuj powolnego wycieku jak planu. Zadzwoń pod (561) 429-4041 i przyjedź, póki opona ma powietrze. Jazda na gumie niszczy bok."
+    }
+  ],
+  "moreHeading": "Jeśli opony nie da się uratować",
+  "links": [
+    {
+      "href": "/pl/uslugi/uzywane-opony",
+      "label": "Używane opony, gdy naprawa nie jest bezpieczna"
+    },
+    {
+      "href": "/pl/uslugi/nowe-opony",
+      "label": "Nowe opony z tego samego warsztatu"
+    },
+    {
+      "href": "/pl/uslugi/mobilny-serwis-opon",
+      "label": "Mobilny serwis opon w promieniu 10 mil"
+    },
+    {
+      "href": "/pl/blog/naprawa-i-wulkanizacja-opon-west-palm-beach",
+      "label": "Jak decydujemy: naprawa czy wymiana"
+    },
+    {
+      "href": "/pl/blog/jazda-na-zalatanej-oponie",
+      "label": "Jazda na łatce albo kołku"
+    },
+    {
+      "href": "/pl/blog/zlapana-guma-w-niedziele-military-trail",
+      "label": "Guma w niedzielę? Warsztat jest otwarty"
+    },
+    {
+      "href": "/pl/blog/cisnienie-w-oponach-latem-palm-beach",
+      "label": "Ciśnienie w oponach latem w Palm Beach"
+    },
+    {
+      "href": "/pl/blog/czy-potrzebuje-czterech-nowych-opon",
+      "label": "Usłyszałeś, że potrzebujesz czterech nowych opon? Kiedy wystarczy naprawa"
+    }
+  ],
+  "updated": "2026-10-19"
+}

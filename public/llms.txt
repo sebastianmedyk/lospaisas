@@ -56,36 +56,51 @@ West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby Palm Bea
 
 ## Service pages
 
-- https://www.lospaisastires.com/new-tires
-- https://www.lospaisastires.com/used-tires
-- https://www.lospaisastires.com/tire-repair
-- https://www.lospaisastires.com/wheel-alignment
-- https://www.lospaisastires.com/tire-balancing
-- https://www.lospaisastires.com/tire-installation
-- https://www.lospaisastires.com/mobile-tire-service
-- https://www.lospaisastires.com/mobile-tire-service/greenacres
-- https://www.lospaisastires.com/mobile-tire-service/lake-worth-beach
-- https://www.lospaisastires.com/mobile-tire-service/palm-springs
-- https://www.lospaisastires.com/es/llantas-nuevas
-- https://www.lospaisastires.com/es/llantas-usadas
-- https://www.lospaisastires.com/es/reparacion-de-llantas
-- https://www.lospaisastires.com/es/alineacion
-- https://www.lospaisastires.com/es/balanceo
-- https://www.lospaisastires.com/es/instalacion-de-llantas
-- https://www.lospaisastires.com/es/servicio-movil
-- https://www.lospaisastires.com/es/servicio-movil/greenacres
-- https://www.lospaisastires.com/es/servicio-movil/lake-worth-beach
-- https://www.lospaisastires.com/es/servicio-movil/palm-springs
+Spanish (primary, x-default):
+- https://www.lospaisastires.com/servicios/alineacion
+- https://www.lospaisastires.com/servicios/balanceo
+- https://www.lospaisastires.com/servicios/instalacion-de-llantas
+- https://www.lospaisastires.com/servicios/llantas-nuevas
+- https://www.lospaisastires.com/servicios/llantas-usadas
+- https://www.lospaisastires.com/servicios/reparacion-de-llantas
+- https://www.lospaisastires.com/servicios/servicio-movil
+- https://www.lospaisastires.com/servicios/servicio-movil/greenacres
+- https://www.lospaisastires.com/servicios/servicio-movil/lake-worth-beach
+- https://www.lospaisastires.com/servicios/servicio-movil/palm-springs
+
+English:
+- https://www.lospaisastires.com/en/services/mobile-tire-service
+- https://www.lospaisastires.com/en/services/mobile-tire-service/greenacres
+- https://www.lospaisastires.com/en/services/mobile-tire-service/lake-worth-beach
+- https://www.lospaisastires.com/en/services/mobile-tire-service/palm-springs
+- https://www.lospaisastires.com/en/services/new-tires
+- https://www.lospaisastires.com/en/services/tire-balancing
+- https://www.lospaisastires.com/en/services/tire-installation
+- https://www.lospaisastires.com/en/services/tire-repair
+- https://www.lospaisastires.com/en/services/used-tires
+- https://www.lospaisastires.com/en/services/wheel-alignment
+
+Polish (Polski):
+- https://www.lospaisastires.com/pl/uslugi/mobilny-serwis-opon
+- https://www.lospaisastires.com/pl/uslugi/mobilny-serwis-opon/greenacres
+- https://www.lospaisastires.com/pl/uslugi/mobilny-serwis-opon/lake-worth-beach
+- https://www.lospaisastires.com/pl/uslugi/mobilny-serwis-opon/palm-springs
+- https://www.lospaisastires.com/pl/uslugi/montaz-opon
+- https://www.lospaisastires.com/pl/uslugi/naprawa-opon
+- https://www.lospaisastires.com/pl/uslugi/nowe-opony
+- https://www.lospaisastires.com/pl/uslugi/ustawianie-geometrii
+- https://www.lospaisastires.com/pl/uslugi/uzywane-opony
+- https://www.lospaisastires.com/pl/uslugi/wywazanie-kol
 
 ## Key URLs
 
-- Home: https://www.lospaisastires.com/
-- Blog (EN): https://www.lospaisastires.com/blog
-- Blog (ES): https://www.lospaisastires.com/es/blog
-- Contact: https://www.lospaisastires.com/#contact
-- FAQ: https://www.lospaisastires.com/#faq
-- Services: https://www.lospaisastires.com/#services
-- Location: https://www.lospaisastires.com/#location
+- Languages: Spanish (default, at the root), English under /en, Polish under /pl
+- Home (ES): https://www.lospaisastires.com/
+- Home (EN): https://www.lospaisastires.com/en
+- Home (PL): https://www.lospaisastires.com/pl
+- Blog: https://www.lospaisastires.com/blog · https://www.lospaisastires.com/en/blog · https://www.lospaisastires.com/pl/blog
+- Location: https://www.lospaisastires.com/ubicacion · https://www.lospaisastires.com/en/location · https://www.lospaisastires.com/pl/lokalizacja
+- Contact: https://www.lospaisastires.com/contacto · https://www.lospaisastires.com/en/contact · https://www.lospaisastires.com/pl/kontakt
 - Google Maps: https://maps.app.goo.gl/cSra4sX7rxDgGtMV9
 - Catalogue: https://catalogo-tireshoplospaisas.netlify.app/
 
