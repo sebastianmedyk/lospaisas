@@ -163,6 +163,7 @@ export function localBusinessJsonLd() {
       itemListElement: SERVICE_OFFERS.map((service, index) => ({
         "@type": "Offer",
         position: index + 1,
+        ...(service.name === "Used Tires" ? { priceSpecification: { "@type": "PriceSpecification", minPrice: 65, priceCurrency: "USD" } } : {}),
         itemOffered: {
           "@type": "Service",
           name: service.name,
@@ -177,6 +178,7 @@ export function localBusinessJsonLd() {
     },
     makesOffer: SERVICE_OFFERS.map((service) => ({
       "@type": "Offer",
+      ...(service.name === "Used Tires" ? { priceSpecification: { "@type": "PriceSpecification", minPrice: 65, priceCurrency: "USD" } } : {}),
       itemOffered: {
         "@type": "Service",
         name: service.name,
