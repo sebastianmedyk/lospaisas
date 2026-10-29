@@ -6,3 +6,9 @@
 *.pem
 .env*.local
 *.tsbuildinfo
+
+# Cloudflare / OpenNext
+.open-next/
+.wrangler/
+.dev.vars*
+!.dev.vars.example
