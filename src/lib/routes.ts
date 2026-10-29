@@ -57,6 +57,20 @@ export const BLOG_SLUGS: LocalePaths[] = [
   { en: "tire-shop-spanish-creole-west-palm-beach", es: "taller-llantas-espanol-criollo-west-palm-beach", pl: "serwis-opon-po-hiszpansku-i-kreolsku-west-palm-beach" },
   { en: "do-i-need-four-new-tires", es: "necesito-cuatro-llantas-nuevas", pl: "czy-potrzebuje-czterech-nowych-opon" },
   { en: "tire-shop-no-appointment-walk-in", es: "llantas-sin-cita-west-palm-beach", pl: "serwis-opon-bez-umawiania-west-palm-beach" },
+  // Posts dated in the future are hidden until a build on/after their date (lib/blog.ts isPublished).
+  { en: "hit-curb-or-pothole-alignment-check", es: "alineacion-despues-de-golpe-bache-cuneta", pl: "geometria-po-uderzeniu-w-kraweznik-lub-dziure" },
+  { en: "hurricane-season-tire-prep-palm-beach-county", es: "temporada-huracanes-llantas-palm-beach", pl: "sezon-huraganow-opony-palm-beach" },
+  { en: "new-tire-sizes-r15-r18-lt-west-palm-beach", es: "medidas-llantas-nuevas-r15-r18-lt", pl: "nowe-opony-r15-r18-lt-west-palm-beach" },
+  { en: "tire-age-dot-date-florida-heat", es: "fecha-dot-edad-llanta-calor-florida", pl: "data-dot-wiek-opony-upal-floryda" },
+  { en: "used-tire-inspection-checklist", es: "revision-llantas-usadas-antes-de-montar", pl: "kontrola-uzywanych-opon-przed-montazem" },
+  { en: "how-to-read-tire-size-on-sidewall", es: "como-leer-medida-llanta-costado", pl: "jak-odczytac-rozmiar-opony" },
+  { en: "sidewall-bulge-or-cut-tire", es: "bulto-corte-costado-llanta", pl: "wybrzuszenie-lub-rozciecie-boku-opony" },
+  { en: "slow-leak-after-storm-nails-debris", es: "llanta-pierde-aire-despues-tormenta", pl: "opona-traci-powietrze-po-burzy" },
+  { en: "donut-spare-tire-limits", es: "llanta-de-repuesto-donut-limites", pl: "dojazdowka-kolo-zapasowe-ograniczenia" },
+  { en: "full-set-four-tires-one-visit", es: "juego-cuatro-llantas-una-visita", pl: "komplet-czterech-opon-jedna-wizyta" },
+  { en: "new-or-used-tires-by-how-you-drive", es: "llantas-nuevas-o-usadas-segun-como-manejas", pl: "nowe-czy-uzywane-opony-styl-jazdy" },
+  { en: "lt-tires-work-trucks-suvs", es: "llantas-lt-trocas-de-trabajo", pl: "opony-lt-do-pickupow-i-suv" },
+  { en: "thanksgiving-road-trip-tire-check", es: "revisar-llantas-antes-de-viajar-thanksgiving", pl: "sprawdz-opony-przed-podroza-thanksgiving" },
 ];
 
 export const servicesPath = (l: Locale) => `${prefix(l)}/${SERVICES_SEGMENT[l]}`;

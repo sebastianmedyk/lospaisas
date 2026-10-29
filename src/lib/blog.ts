@@ -29,6 +29,27 @@ export type BlogPost = BlogPostMeta & {
 
 const BLOG_DIR = path.join(process.cwd(), "content", "blog");
 
+/**
+ * Scheduled publishing: a post whose `date` is after "today" (shop time zone,
+ * America/New_York) is treated as a draft. It is not rendered (404), not listed,
+ * and not in sitemaps. The site is static, so it goes live on the first build
+ * on/after its date (see scripts/republish.sh). `BLOG_TODAY=YYYY-MM-DD` overrides for testing.
+ */
+export function blogToday(): string {
+  const override = process.env.BLOG_TODAY;
+  if (override && /^\d{4}-\d{2}-\d{2}$/.test(override)) return override;
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
+}
+
+export function isPublished(post: Pick<BlogPostMeta, "date">): boolean {
+  return post.date <= blogToday();
+}
+
 function isLocale(value: unknown): value is BlogLocale {
   return value === "en" || value === "es" || value === "pl";
 }
@@ -85,6 +106,7 @@ export function getAllPosts(locale?: BlogLocale): BlogPostMeta[] {
   const posts = files
     .map((file) => parsePost(path.join(BLOG_DIR, file)))
     .filter((p): p is BlogPost => p !== null)
+    .filter(isPublished)
     .filter((p) => (locale ? p.locale === locale : true))
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 
@@ -110,7 +132,7 @@ export function getPost(slug: string, locale: BlogLocale): BlogPost | null {
 
   for (const file of files) {
     const post = parsePost(path.join(BLOG_DIR, file));
-    if (post && post.slug === slug && post.locale === locale) {
+    if (post && post.slug === slug && post.locale === locale && isPublished(post)) {
       return post;
     }
   }

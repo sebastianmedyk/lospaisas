@@ -53,7 +53,12 @@ export function sitemapEntries(): SitemapEntry[] {
     return 0.8;
   };
 
-  return PAGE_GROUPS.flatMap((group) => {
+  // Skip blog article groups whose post is not published yet (scheduled / future date).
+  const isLiveGroup = (group: (typeof PAGE_GROUPS)[number]): boolean =>
+    !group.es.startsWith(`${blogPath("es")}/`) ||
+    LOCALES.every((l) => posts.some((p) => p.locale === l && blogPath(l, p.slug) === group[l]));
+
+  return PAGE_GROUPS.filter(isLiveGroup).flatMap((group) => {
     const languages = Object.fromEntries(
       Object.entries(languageAlternates(group)).map(([k, v]) => [k, abs(v)]),
     );
