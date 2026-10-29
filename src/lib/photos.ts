@@ -46,9 +46,12 @@ export const PHOTOS = {
   repair2: P("tire-patch-plug-repair-west-palm-beach-los-paisas-11.webp", 1440, 2560,
     "Technician working a repair from the inside of a tire",
     "Técnico haciendo una reparación desde el interior de una llanta"),
+  newTiresRack: P("new-tires-rack-west-palm-beach-los-paisas.webp", 1600, 1200,
+    "Shelves of new tires with manufacturer stickers on the tread, sorted by size, and a Los Paisas technician in the shop",
+    "Estantes de llantas nuevas con etiquetas del fabricante en la banda de rodadura, ordenadas por medida, y un técnico de Los Paisas en el taller"),
   newTread: P("new-tires-west-palm-beach-los-paisas-tread-12.webp", 1440, 2560,
-    "Close-up of a tire tread with deep grooves",
-    "Primer plano de la banda de rodadura de una llanta con surcos profundos"),
+    "Close-up of a tire tread with a nail stuck in it",
+    "Primer plano de la banda de rodadura de una llanta con un clavo"),
   install: P("tire-installation-west-palm-beach-los-paisas-14.webp", 1440, 2560,
     "Technician crouched at the front wheel of a silver car with an air hose",
     "Técnico agachado junto a la rueda delantera de un carro plateado con una manguera de aire"),
@@ -60,16 +63,16 @@ export const PHOTOS = {
 /** Lighter copies (640/800px wide WebP) for above-the-fold hero use. `images.unoptimized` is on, so file weight is what ships. */
 export const HERO_LITE = {
   exterior: { ...PHOTOS.exterior, src: "/photos/tire-shop-near-me-west-palm-beach-los-paisas-exterior-03-640.webp", width: 640, height: 1138 },
-  newTread: { ...PHOTOS.newTread, src: "/photos/new-tires-west-palm-beach-los-paisas-tread-12-800.webp", width: 800, height: 1422 },
+  newTiresRack: { ...PHOTOS.newTiresRack, src: "/photos/new-tires-rack-west-palm-beach-los-paisas-800.webp", width: 800, height: 600 },
 } as const;
 
 /** Photos per service page, keyed by the EN path (ES pages use page.enPath). */
 export const SERVICE_PHOTOS: Record<string, Photo[]> = {
   "/services/mobile-tire-service": [PHOTOS.truck1, PHOTOS.truck2],
   "/services/tire-balancing": [PHOTOS.balancer1, PHOTOS.balancer2],
-  "/services/new-tires": [PHOTOS.newTread],
+  "/services/new-tires": [PHOTOS.newTiresRack],
   "/services/tire-installation": [PHOTOS.install],
-  "/services/tire-repair": [PHOTOS.repair1, PHOTOS.repair2],
+  "/services/tire-repair": [PHOTOS.repair1, PHOTOS.repair2, PHOTOS.newTread],
   // used-tires: no photo yet. #13 shows a worn-out tire and #15 a single loose tire,
   // neither shows used tires for sale. TODO(Sebastian): photo of the used-tire rack/stack.
 };

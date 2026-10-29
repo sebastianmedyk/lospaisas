@@ -19,7 +19,7 @@ const OTHER: [number, Photo][] = [
   [6, PHOTOS.truck1],
 ];
 const PHOTO_BY_INDEX: Record<number, Photo> = {
-  0: PHOTOS.newTread,
+  0: PHOTOS.newTiresRack,
   1: PHOTOS.poleSign,
   2: PHOTOS.balancer2,
   3: PHOTOS.balancer1,
@@ -194,7 +194,7 @@ export default function ServiceCards({
   }
 
   const split: { index: number; photo: Photo }[] = [
-    { index: 0, photo: PHOTOS.newTread },
+    { index: 0, photo: PHOTOS.newTiresRack },
     { index: 1, photo: PHOTOS.poleSign },
   ];
 

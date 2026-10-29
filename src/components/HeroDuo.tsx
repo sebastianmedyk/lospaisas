@@ -14,7 +14,7 @@ export default function HeroDuo() {
   const { t, locale } = useLanguage();
   const es = locale === "es";
   const doors = [
-    { index: 0, photo: HERO_LITE.newTread, tag: es ? "Nuevas" : "New", tagCls: "bg-brand-gold text-brand-bg", pos: "object-center" },
+    { index: 0, photo: HERO_LITE.newTiresRack, tag: es ? "Nuevas" : "New", tagCls: "bg-brand-gold text-brand-bg", pos: "object-center" },
     { index: 1, photo: PHOTOS.poleSign, tag: es ? "Usadas" : "Used", tagCls: "bg-brand-red text-white", pos: "object-center" },
   ];
   return (
