@@ -1,4 +1,3 @@
-import type { MetadataRoute } from "next";
 import { getAllPosts, postModifiedDate } from "@/lib/blog";
 import { getAllLocalPages } from "@/lib/local-pages";
 import { blogPath, homePath, languageAlternates, LOCALES, PAGE_GROUPS, servicesPath, type Locale } from "@/lib/routes";
@@ -10,7 +9,24 @@ const SITE_PAGES_UPDATED = "2026-10-29";
 const abs = (path: string) => (path === "/" ? SITE_URL : `${SITE_URL}${path}`);
 
 /** One entry per page per language (es, en, pl), each with the full hreflang set (es = x-default). */
-export default function sitemap(): MetadataRoute.Sitemap {
+export type SitemapSection = "pages" | "services" | "blog";
+
+export interface SitemapEntry {
+  url: string;
+  lastModified?: Date;
+  changeFrequency: "weekly" | "monthly";
+  priority: number;
+  section: SitemapSection;
+  languages: Record<string, string>;
+}
+
+function sectionFor(esPath: string): SitemapSection {
+  if (esPath.startsWith(`${servicesPath("es")}/`)) return "services";
+  if (esPath === blogPath("es") || esPath.startsWith(`${blogPath("es")}/`)) return "blog";
+  return "pages";
+}
+
+export function sitemapEntries(): SitemapEntry[] {
   const posts = getAllPosts();
   const localPages = getAllLocalPages();
 
@@ -48,7 +64,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         ...(modified ? { lastModified: modified } : {}),
         changeFrequency: group.es === "/" || group.es === blogPath("es") ? ("weekly" as const) : ("monthly" as const),
         priority: priority(group),
-        alternates: { languages },
+        section: sectionFor(group.es),
+        languages,
       };
     });
   });
