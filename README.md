@@ -136,3 +136,7 @@ Body in Markdown. Prefer an **answer-first first paragraph** with NAP when relev
 - `public/brand` — decorative brand assets
 - `public/llms.txt` — AI / GEO summary
 - `public/manifest.webmanifest` — theme / install metadata
+
+## IndexNow (Bing)
+After publishing content changes (and after deploy finishes), resubmit all sitemap URLs:
+`node scripts/indexnow.mjs` (key file lives in `public/<key>.txt`; don't delete it).
