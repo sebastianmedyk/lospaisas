@@ -3,22 +3,18 @@
 import { usePathname, useRouter } from "next/navigation";
 import { useLanguage } from "@/contexts/LanguageContext";
 import type { Locale } from "@/lib/i18n";
-import { getAlternateBlogPath } from "@/lib/blog-routes";
-import { getAlternateLocalPath } from "@/lib/local-routes";
+import { LOCALES, alternatePath } from "@/lib/routes";
 
 export default function LanguageToggle() {
   const { locale, setLocale, t } = useLanguage();
   const pathname = usePathname() || "/";
   const router = useRouter();
 
-  const options: Locale[] = ["en", "es"];
+  const options: Locale[] = LOCALES;
 
   function switchTo(code: Locale) {
     setLocale(code);
-    const nextPath =
-      getAlternateBlogPath(pathname, code) ??
-      getAlternateLocalPath(pathname, code) ??
-      (code === "es" ? "/es" : "/");
+    const nextPath = alternatePath(pathname, code);
     if (code !== locale && nextPath !== pathname) {
       router.push(nextPath);
     }

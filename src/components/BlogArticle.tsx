@@ -6,8 +6,7 @@ import JsonLd from "@/components/JsonLd";
 import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
 import { articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
-import { servicesPath } from "@/lib/service-routes";
-import { locationPath } from "@/lib/place-routes";
+import { homePath, locationPath, servicesPath } from "@/lib/routes";
 import { absoluteUrl } from "@/lib/site";
 
 type Props = {
@@ -34,14 +33,14 @@ export default function BlogArticle({ post }: Props) {
       />
       <JsonLd
         data={breadcrumbJsonLd([
-          { name: t.nav.home, url: absoluteUrl("/") },
+          { name: t.nav.home, url: absoluteUrl(homePath(post.locale)) },
           { name: t.nav.blog, url: listingUrl },
           { name: post.title, url },
         ])}
       />
       <PageHero
         crumbs={[
-          { name: t.nav.home, href: "/" },
+          { name: t.nav.home, href: homePath(post.locale) },
           { name: t.nav.blog, href: blogPath(post.locale) },
         ]}
         breadcrumbLabel={t.a11y.breadcrumb}
@@ -76,7 +75,7 @@ export default function BlogArticle({ post }: Props) {
             >
               {t.blog.backToBlog}
             </Link>
-            <Link href="/" className="btn-gold py-2.5 text-xs">
+            <Link href={homePath(post.locale)} className="btn-gold py-2.5 text-xs">
               {t.blog.backHome}
             </Link>
             <Link href={servicesPath(post.locale)} className="btn-outline py-2.5 text-xs">

@@ -1,3 +1,4 @@
+import { homePath } from "@/lib/routes";
 import Link from "next/link";
 import type { BlogLocale, BlogPostMeta } from "@/lib/blog";
 import { blogPath } from "@/lib/blog";
@@ -22,18 +23,18 @@ export default function BlogListing({ locale, posts }: Props) {
     <BlogShell locale={locale}>
       <JsonLd
         data={breadcrumbJsonLd([
-          { name: t.nav.home, url: absoluteUrl("/") },
+          { name: t.nav.home, url: absoluteUrl(homePath(locale)) },
           { name: t.nav.blog, url: listingUrl },
         ])}
       />
       <PageHero
-        crumbs={[{ name: t.nav.home, href: "/" }, { name: t.nav.blog }]}
+        crumbs={[{ name: t.nav.home, href: homePath(locale) }, { name: t.nav.blog }]}
         breadcrumbLabel={t.a11y.breadcrumb}
         eyebrow={t.nav.blog}
         title={t.blog.title}
         titleId="blog-listing-heading"
         intro={<p>{t.blog.subtitle}</p>}
-        extra={<LangSwitch locale={locale} enHref="/blog" esHref="/es/blog" />}
+        extra={<LangSwitch locale={locale} hrefs={{ es: blogPath("es"), en: blogPath("en"), pl: blogPath("pl") }} />}
       />
       <section className="section-pad" aria-labelledby="blog-listing-heading">
         <div className="container-site">

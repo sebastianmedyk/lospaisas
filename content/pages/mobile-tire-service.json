@@ -1,7 +1,5 @@
 {
-  "path": "/services/mobile-tire-service",
-  "enPath": "/services/mobile-tire-service",
-  "esPath": "/es/servicios/servicio-movil",
+  "path": "/en/services/mobile-tire-service",
   "locale": "en",
   "kind": "service",
   "title": "Mobile Tire Service in West Palm Beach | Los Paisas",
@@ -68,27 +66,27 @@
   "moreHeading": "Mobile notes for three nearby towns",
   "links": [
     {
-      "href": "/services/mobile-tire-service/greenacres",
+      "href": "/en/services/mobile-tire-service/greenacres",
       "label": "Mobile tire service in Greenacres"
     },
     {
-      "href": "/services/mobile-tire-service/lake-worth-beach",
+      "href": "/en/services/mobile-tire-service/lake-worth-beach",
       "label": "Mobile tire service in Lake Worth Beach"
     },
     {
-      "href": "/services/mobile-tire-service/palm-springs",
+      "href": "/en/services/mobile-tire-service/palm-springs",
       "label": "Mobile tire service in Palm Springs"
     },
     {
-      "href": "/services/tire-repair",
+      "href": "/en/services/tire-repair",
       "label": "Tire repair if you can reach the shop"
     },
     {
-      "href": "/blog/mobile-tire-service-west-palm-beach",
+      "href": "/en/blog/mobile-tire-service-west-palm-beach",
       "label": "How mobile service works"
     },
     {
-      "href": "/blog/flat-tire-sunday-military-trail",
+      "href": "/en/blog/flat-tire-sunday-military-trail",
       "label": "Flat tire on Sunday? What the shop can do"
     }
   ],

@@ -35,13 +35,13 @@ Any day. We are open **7 days a week, 8:00 AM – 7:00 PM**, including Sunday. I
 
 ## How do I find a used tire in my size?
 
-Call or WhatsApp **(561) 429-4041** with your tire size, or stop by the shop, or [see our services](/services/used-tires) for alignment, balancing with no hidden fees, repair & vulcanization, and customer-tire install.
+Call or WhatsApp **(561) 429-4041** with your tire size, or stop by the shop, or [see our services](/en/services/used-tires) for alignment, balancing with no hidden fees, repair & vulcanization, and customer-tire install.
 
 **Los Paisas Tires Shop** — local tire help on Military Trl in West Palm Beach.
 
-Ready to buy? See [used tires at Los Paisas Tires Shop](/services/used-tires) for how we sell them at the shop.
+Ready to buy? See [used tires at Los Paisas Tires Shop](/en/services/used-tires) for how we sell them at the shop.
 
-Related guides: [What used tires cost in West Palm Beach](/blog/used-tire-prices-west-palm-beach), [Used vs new tires in Florida heat](/blog/used-vs-new-tires-florida-heat), and [Buying new tires: sizes and driving needs](/blog/new-tires-west-palm-beach-military-trail).
+Related guides: [What used tires cost in West Palm Beach](/en/blog/used-tire-prices-west-palm-beach), [Used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat), and [Buying new tires: sizes and driving needs](/en/blog/new-tires-west-palm-beach-military-trail).
 
 ## Questions about buying used tires
 

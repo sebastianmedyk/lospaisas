@@ -61,11 +61,11 @@ No hacemos cambio de aceite, frenos ni aire acondicionado. Si el problema no es 
 
 ## ¿Dónde queda el taller y a qué hora abre?
 
-Estamos en **1114 S Military Trl, West Palm Beach, FL 33415**. Abrimos **de lunes a domingo, de 8:00 AM a 7:00 PM**. Llame o escriba por WhatsApp al **(561) 429-4041**. Vea [cómo llegar](/es/ubicacion).
+Estamos en **1114 S Military Trl, West Palm Beach, FL 33415**. Abrimos **de lunes a domingo, de 8:00 AM a 7:00 PM**. Llame o escriba por WhatsApp al **(561) 429-4041**. Vea [cómo llegar](/ubicacion).
 
-Si está pensando en cambiar llantas, vea [llantas nuevas en Los Paisas Tires Shop](/es/servicios/llantas-nuevas).
+Si está pensando en cambiar llantas, vea [llantas nuevas en Los Paisas Tires Shop](/servicios/llantas-nuevas).
 
-Guías relacionadas: [Por qué confían en Los Paisas Tires Shop](/es/blog/por-que-confiar-en-los-paisas-west-palm-beach), [Comprar llantas nuevas: medidas y tipo de manejo explicados](/es/blog/llantas-nuevas-west-palm-beach-military-trail) y [¿Cuándo se puede reparar una ponchadura?](/es/blog/reparacion-vulcanizacion-llantas-west-palm-beach)
+Guías relacionadas: [Por qué confían en Los Paisas Tires Shop](/blog/por-que-confiar-en-los-paisas-west-palm-beach), [Comprar llantas nuevas: medidas y tipo de manejo explicados](/blog/llantas-nuevas-west-palm-beach-military-trail) y [¿Cuándo se puede reparar una ponchadura?](/blog/reparacion-vulcanizacion-llantas-west-palm-beach)
 
 ## Preguntas sobre el idioma en Los Paisas Tires Shop
 

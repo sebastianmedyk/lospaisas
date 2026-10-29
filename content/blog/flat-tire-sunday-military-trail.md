@@ -45,9 +45,9 @@ Call or WhatsApp first, so we know what the tire looks like before you arrive.
 
 Save this number before the next roadside surprise. Need a Sunday tire fix in West Palm Beach? We are on Military Trl and ready to help.
 
-Need the repair itself? See [tire repair and vulcanization](/services/tire-repair) or [used tires](/services/used-tires) if it can't be fixed.
+Need the repair itself? See [tire repair and vulcanization](/en/services/tire-repair) or [used tires](/en/services/used-tires) if it can't be fixed.
 
-Related guides: [When can a flat be repaired?](/blog/tire-repair-vulcanization-west-palm-beach), [Driving on a tire patch or plug](/blog/driving-on-a-tire-patch-or-plug), and [Booking mobile tire service](/blog/mobile-tire-service-west-palm-beach).
+Related guides: [When can a flat be repaired?](/en/blog/tire-repair-vulcanization-west-palm-beach), [Driving on a tire patch or plug](/en/blog/driving-on-a-tire-patch-or-plug), and [Booking mobile tire service](/en/blog/mobile-tire-service-west-palm-beach).
 
 ## Questions about a Sunday flat
 

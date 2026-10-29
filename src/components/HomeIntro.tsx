@@ -1,8 +1,7 @@
 import Link from "next/link";
 import type { Locale } from "@/lib/i18n";
 import { BUSINESS } from "@/lib/constants";
-import { contactPath, locationPath } from "@/lib/place-routes";
-import { serviceHref, servicesPath } from "@/lib/service-routes";
+import { contactPath, locationPath, pick, serviceHref, servicesPath } from "@/lib/routes";
 
 /* serviceHref indexes: 0 new, 1 used, 2 alignment, 3 balancing, 4 repair, 5 install, 6 mobile */
 const linkCls =
@@ -10,7 +9,6 @@ const linkCls =
 
 export default function HomeIntro({ locale }: { locale: Locale }) {
   const L = (i: number) => serviceHref(locale, i);
-  const es = locale === "es";
 
   return (
     <section
@@ -20,18 +18,20 @@ export default function HomeIntro({ locale }: { locale: Locale }) {
     >
       <div className="container-site">
         <div className="mx-auto max-w-3xl">
-          <p className="section-label mb-3">{es ? "El taller" : "The shop"}</p>
+          <p className="section-label mb-3">{pick(locale, { es: "El taller", en: "The shop", pl: "Warsztat" })}</p>
           <h2
             id="intro-heading"
             className="headline text-4xl font-bold leading-[0.92] tracking-tight text-white sm:text-5xl lg:text-6xl"
           >
-            {es
-              ? "Un taller solo de llantas en S Military Trl"
-              : "A tire-only shop on S Military Trl"}
+            {pick(locale, {
+              es: "Un taller solo de llantas en S Military Trl",
+              en: "A tire-only shop on S Military Trl",
+              pl: "Warsztat tylko od opon przy S Military Trl",
+            })}
           </h2>
           <span className="accent-rule" aria-hidden />
 
-          {es ? (
+          {locale === "es" ? (
             <div className="mt-6 space-y-4 text-base leading-relaxed text-white/80">
               <p>
                 Los Paisas Tires Shop está en {BUSINESS.address}, sobre el corredor de Military Trail.
@@ -78,6 +78,54 @@ export default function HomeIntro({ locale }: { locale: Locale }) {
                 la página de <Link href={contactPath("es")} className={linkCls}>contacto</Link>.
               </p>
               {/* TODO(Sebastian): "Sobre nosotros" — año de apertura, dueño/equipo, formas de pago confirmadas. No inventar. */}
+            </div>
+          ) : locale === "pl" ? (
+            <div className="mt-6 space-y-4 text-base leading-relaxed text-white/80">
+              <p>
+                Los Paisas Tires Shop mieści się pod adresem {BUSINESS.address}, przy Military Trail.
+                Zajmujemy się wyłącznie oponami: sprzedajemy, montujemy, naprawiamy i ustawiamy
+                geometrię. Nie wymieniamy oleju, nie robimy hamulców ani klimatyzacji, więc kiedy
+                podjeżdżasz, wiesz dokładnie, o czym będziemy rozmawiać. Zespół mówi po hiszpańsku
+                i po angielsku.
+              </p>
+              <h3 className="headline pt-2 text-2xl text-white">Używane i nowe opony</h3>
+              <p>
+                Wielu kierowców przyjeżdża do nas po{" "}
+                <Link href={L(1)} className={linkCls}>używane opony w West Palm Beach</Link>, bo muszą
+                wrócić na drogę jeszcze dziś, nie płacąc za cały nowy komplet. Każdą używaną oponę
+                sprawdzamy, zanim ją zaproponujemy, i mówimy wprost, w jakim jest stanie. Gdy lepszym
+                wyborem jest nowa opona, na przykład przy codziennych dojazdach autostradą albo gdy
+                chcesz równy komplet, oferujemy też{" "}
+                <Link href={L(0)} className={linkCls}>nowe opony dobrane do Twojego auta</Link>.
+                Omawiamy obie opcje, a decyzja należy do Ciebie.
+              </p>
+              <h3 className="headline pt-2 text-2xl text-white">Naprawa, wyważanie i geometria</h3>
+              <p>
+                Przy złapanej gumie najpierw sprawdzamy, czy oponę da się bezpiecznie{" "}
+                <Link href={L(4)} className={linkCls}>naprawić lub zwulkanizować</Link>, zanim w ogóle
+                padnie słowo o wymianie. Robimy{" "}
+                <Link href={L(3)} className={linkCls}>wyważanie kół</Link> z zakresem pracy ustalonym
+                przed rozpoczęciem, bez ukrytych opłat, oraz{" "}
+                <Link href={L(2)} className={linkCls}>ustawianie geometrii</Link>, gdy auto ściąga na
+                bok albo opony zużywają się nierówno. Kupiłeś opony gdzie indziej? Też je{" "}
+                <Link href={L(5)} className={linkCls}>zamontujemy</Link>.
+              </p>
+              <h3 className="headline pt-2 text-2xl text-white">Otwarte 7 dni w tygodniu i serwis mobilny</h3>
+              <p>
+                Jesteśmy otwarci od poniedziałku do niedzieli, 8 AM–7 PM, także w niedzielę, kiedy
+                wiele warsztatów jest zamkniętych. Jeśli auto nie nadaje się do jazdy, oferujemy{" "}
+                <Link href={L(6)} className={linkCls}>mobilny serwis opon</Link> w promieniu około
+                10 mil od warsztatu, co obejmuje West Palm Beach i sąsiednie miasta, takie jak
+                Greenacres, Palm Springs i Lake Worth Beach. Zadzwoń pod{" "}
+                <a href={BUSINESS.phoneTel} className={linkCls}>{BUSINESS.phoneDisplay}</a> albo napisz
+                najpierw na WhatsApp i podaj rozmiar opony z jej boku, żebyśmy mieli gotową właściwą
+                oponę.
+              </p>
+              <p>
+                Zobacz wszystkie <Link href={servicesPath("pl")} className={linkCls}>usługi</Link>,{" "}
+                <Link href={locationPath("pl")} className={linkCls}>lokalizację warsztatu</Link> albo
+                stronę <Link href={contactPath("pl")} className={linkCls}>kontaktu</Link>.
+              </p>
             </div>
           ) : (
             <div className="mt-6 space-y-4 text-base leading-relaxed text-white/80">

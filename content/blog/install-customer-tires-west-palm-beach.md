@@ -39,7 +39,7 @@ Balancing, alignment, a replacement tire, or a repair can be done on the same vi
 - A backup **used** spare or a full **new** set if one customer tire fails inspection
 - Repair or vulcanization on a tire that still has life
 
-We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while you wait. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for shop updates. See [services](/services/tire-installation) for the full tire-focused list.
+We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while you wait. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for shop updates. See [services](/en/services/tire-installation) for the full tire-focused list.
 
 ## Customer-tire install at a glance
 
@@ -49,9 +49,9 @@ We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while
 
 Bought the tires already? Bring them to Military Trl in West Palm Beach and we will get them on the car.
 
-For the service itself, see [installing customer tires](/services/tire-installation).
+For the service itself, see [installing customer tires](/en/services/tire-installation).
 
-Related guides: [Buying new tires: sizes and driving needs](/blog/new-tires-west-palm-beach-military-trail), [Why wheels need balancing](/blog/wheel-balancing-no-hidden-fees), and [How to check a used tire before you buy](/blog/used-tires-west-palm-beach).
+Related guides: [Buying new tires: sizes and driving needs](/en/blog/new-tires-west-palm-beach-military-trail), [Why wheels need balancing](/en/blog/wheel-balancing-no-hidden-fees), and [How to check a used tire before you buy](/en/blog/used-tires-west-palm-beach).
 
 ## Questions about installing your own tires
 

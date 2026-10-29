@@ -53,15 +53,15 @@ While you wait there is Wi‑Fi, and you can pay by credit, debit, or NFC tap. T
 
 ## What if I can't drive to the shop?
 
-Walk-in only works if the car can get there safely. If a tire is flat on the rim or the car should not be moved, call or WhatsApp **(561) 429-4041** about mobile tire service within 10 miles of the shop. See [how to request mobile tire service](/blog/mobile-tire-service-west-palm-beach).
+Walk-in only works if the car can get there safely. If a tire is flat on the rim or the car should not be moved, call or WhatsApp **(561) 429-4041** about mobile tire service within 10 miles of the shop. See [how to request mobile tire service](/en/blog/mobile-tire-service-west-palm-beach).
 
 ## Where is the shop?
 
-**1114 S Military Trl, West Palm Beach, FL 33415.** See [our location](/location) for the map.
+**1114 S Military Trl, West Palm Beach, FL 33415.** See [our location](/en/location) for the map.
 
-For tire options, see [used tires at Los Paisas Tires Shop](/services/used-tires) or [new tires](/services/new-tires).
+For tire options, see [used tires at Los Paisas Tires Shop](/en/services/used-tires) or [new tires](/en/services/new-tires).
 
-Related guides: [Flat tire on Sunday? We're open on S Military Trl](/blog/flat-tire-sunday-military-trail), [How to check a used tire before you buy](/blog/used-tires-west-palm-beach), and [Do I really need four new tires?](/blog/do-i-need-four-new-tires)
+Related guides: [Flat tire on Sunday? We're open on S Military Trl](/en/blog/flat-tire-sunday-military-trail), [How to check a used tire before you buy](/en/blog/used-tires-west-palm-beach), and [Do I really need four new tires?](/en/blog/do-i-need-four-new-tires)
 
 ## Questions about appointments
 

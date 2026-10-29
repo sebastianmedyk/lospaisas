@@ -44,9 +44,9 @@ Payments are credit, debit, or NFC. Accessible parking and entrance, Wi‑Fi whi
 
 Punctured on Military Trl or nearby? Reach Los Paisas Tires Shop and we will get you sorted.
 
-For the service itself, see [tire repair at the shop](/services/tire-repair).
+For the service itself, see [tire repair at the shop](/en/services/tire-repair).
 
-Related guides: [Driving on a tire patch or plug](/blog/driving-on-a-tire-patch-or-plug), [Flat tire on Sunday?](/blog/flat-tire-sunday-military-trail), and [Booking mobile tire service](/blog/mobile-tire-service-west-palm-beach).
+Related guides: [Driving on a tire patch or plug](/en/blog/driving-on-a-tire-patch-or-plug), [Flat tire on Sunday?](/en/blog/flat-tire-sunday-military-trail), and [Booking mobile tire service](/en/blog/mobile-tire-service-west-palm-beach).
 
 ## Questions about tire repair
 

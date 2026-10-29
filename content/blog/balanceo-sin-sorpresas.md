@@ -39,11 +39,11 @@ Balancea una rueda después de montar, reparar o cambiar una llanta de otro carr
 
 ## ¿Cómo balanceo mis ruedas?
 
-Trae el carro al taller: el balanceo se hace en la máquina en 1114 S Military Trl, abierto **7 días, 8:00 AM – 7:00 PM**. Llama o WhatsApp **(561) 429-4041**. Mira [nuestra ubicación](/es/ubicacion) en el mapa y la lista completa de [servicios](/es/servicios/balanceo).
+Trae el carro al taller: el balanceo se hace en la máquina en 1114 S Military Trl, abierto **7 días, 8:00 AM – 7:00 PM**. Llama o WhatsApp **(561) 429-4041**. Mira [nuestra ubicación](/ubicacion) en el mapa y la lista completa de [servicios](/servicios/balanceo).
 
-Para el servicio, mira [balanceo en Los Paisas Tires Shop](/es/servicios/balanceo).
+Para el servicio, mira [balanceo en Los Paisas Tires Shop](/servicios/balanceo).
 
-Guías relacionadas: [Señales de que tu carro necesita alineación](/es/blog/alineacion-geometria-military-trail-west-palm-beach), [¿Compraste llantas en línea? Qué saber antes de instalarlas](/es/blog/instalacion-llantas-del-cliente-west-palm-beach) y [Por qué confían en Los Paisas Tires Shop](/es/blog/por-que-confiar-en-los-paisas-west-palm-beach).
+Guías relacionadas: [Señales de que tu carro necesita alineación](/blog/alineacion-geometria-military-trail-west-palm-beach), [¿Compraste llantas en línea? Qué saber antes de instalarlas](/blog/instalacion-llantas-del-cliente-west-palm-beach) y [Por qué confían en Los Paisas Tires Shop](/blog/por-que-confiar-en-los-paisas-west-palm-beach).
 
 ## Preguntas sobre el balanceo
 

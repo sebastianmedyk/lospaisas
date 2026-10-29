@@ -33,7 +33,7 @@ If only one or two tires failed, we discuss matching the remaining tread so the 
 
 ## Can I get new tires installed on a Sunday?
 
-Yes. Hours are **8:00 AM – 7:00 PM daily**, and Sunday new-tire installs are normal here, which helps when the weekday calendar is packed. If you cannot leave home or work, ask about **mobile tire service within 10 miles** of the shop. Call or WhatsApp **(561) 429-4041**, see [services](/services/new-tires), or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Yes. Hours are **8:00 AM – 7:00 PM daily**, and Sunday new-tire installs are normal here, which helps when the weekday calendar is packed. If you cannot leave home or work, ask about **mobile tire service within 10 miles** of the shop. Call or WhatsApp **(561) 429-4041**, see [services](/en/services/new-tires), or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while you wait. Rated **4.4★** from **282** Google reviews as a bilingual small business focused on tires.
 
@@ -45,9 +45,9 @@ We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while
 
 Ready for a fresh set on Military Trl? Stop by Los Paisas Tires Shop in West Palm Beach and we will get you rolling.
 
-When you know what you need, see [new tires at Los Paisas Tires Shop](/services/new-tires).
+When you know what you need, see [new tires at Los Paisas Tires Shop](/en/services/new-tires).
 
-Related guides: [Used vs new tires in Florida heat](/blog/used-vs-new-tires-florida-heat), [Bought tires online? What to know before installation](/blog/install-customer-tires-west-palm-beach), and [Signs your car needs a wheel alignment](/blog/wheel-alignment-military-trail-west-palm-beach).
+Related guides: [Used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat), [Bought tires online? What to know before installation](/en/blog/install-customer-tires-west-palm-beach), and [Signs your car needs a wheel alignment](/en/blog/wheel-alignment-military-trail-west-palm-beach).
 
 ## Questions about buying new tires
 

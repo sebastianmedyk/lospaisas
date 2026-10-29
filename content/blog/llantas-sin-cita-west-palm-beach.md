@@ -53,15 +53,15 @@ Mientras espera hay Wi‑Fi, y puede pagar con tarjeta de crédito, débito o pa
 
 ## ¿Y si no puedo llevar el carro al taller?
 
-Llegar sin cita solo funciona si el carro puede llegar con seguridad. Si la llanta está en el rin o el carro no se debe mover, llame o escriba por WhatsApp al **(561) 429-4041** y pregunte por el servicio móvil dentro de 10 millas del taller. Vea [cómo pedir el servicio móvil de llantas](/es/blog/servicio-movil-llantas-west-palm-beach).
+Llegar sin cita solo funciona si el carro puede llegar con seguridad. Si la llanta está en el rin o el carro no se debe mover, llame o escriba por WhatsApp al **(561) 429-4041** y pregunte por el servicio móvil dentro de 10 millas del taller. Vea [cómo pedir el servicio móvil de llantas](/blog/servicio-movil-llantas-west-palm-beach).
 
 ## ¿Dónde queda el taller?
 
-**1114 S Military Trl, West Palm Beach, FL 33415.** Vea [cómo llegar](/es/ubicacion).
+**1114 S Military Trl, West Palm Beach, FL 33415.** Vea [cómo llegar](/ubicacion).
 
-Para ver opciones de llantas, vea [llantas usadas en Los Paisas Tires Shop](/es/servicios/llantas-usadas) o [llantas nuevas](/es/servicios/llantas-nuevas).
+Para ver opciones de llantas, vea [llantas usadas en Los Paisas Tires Shop](/servicios/llantas-usadas) o [llantas nuevas](/servicios/llantas-nuevas).
 
-Guías relacionadas: [¿Llanta ponchada el domingo? Abrimos en S Military Trl](/es/blog/llanta-ponchada-domingo-military-trail), [Cómo revisar una llanta usada antes de comprarla](/es/blog/llantas-usadas-west-palm-beach) y [¿De verdad necesito cuatro llantas nuevas?](/es/blog/necesito-cuatro-llantas-nuevas)
+Guías relacionadas: [¿Llanta ponchada el domingo? Abrimos en S Military Trl](/blog/llanta-ponchada-domingo-military-trail), [Cómo revisar una llanta usada antes de comprarla](/blog/llantas-usadas-west-palm-beach) y [¿De verdad necesito cuatro llantas nuevas?](/blog/necesito-cuatro-llantas-nuevas)
 
 ## Preguntas sobre citas
 

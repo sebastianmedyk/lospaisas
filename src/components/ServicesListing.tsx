@@ -5,7 +5,7 @@ import LangSwitch from "@/components/LangSwitch";
 import ServiceCards from "@/components/ServiceCards";
 import { getDictionary, type Locale } from "@/lib/i18n";
 import { breadcrumbJsonLd } from "@/lib/seo";
-import { servicesPath } from "@/lib/service-routes";
+import { homePath, servicesPath } from "@/lib/routes";
 import { absoluteUrl } from "@/lib/site";
 
 type Props = {
@@ -21,18 +21,18 @@ export default function ServicesListing({ locale }: Props) {
     <BlogShell locale={locale}>
       <JsonLd
         data={breadcrumbJsonLd([
-          { name: t.nav.home, url: absoluteUrl("/") },
+          { name: t.nav.home, url: absoluteUrl(homePath(locale)) },
           { name: t.nav.services, url: listingUrl },
         ])}
       />
       <PageHero
-        crumbs={[{ name: t.nav.home, href: "/" }, { name: t.nav.services }]}
+        crumbs={[{ name: t.nav.home, href: homePath(locale) }, { name: t.nav.services }]}
         breadcrumbLabel={t.a11y.breadcrumb}
         eyebrow={t.nav.services}
         title={t.services.title}
         titleId="services-listing-heading"
         intro={<p>{t.services.subtitle}</p>}
-        extra={<LangSwitch locale={locale} enHref="/services" esHref="/es/servicios" />}
+        extra={<LangSwitch locale={locale} hrefs={{ es: servicesPath("es"), en: servicesPath("en"), pl: servicesPath("pl") }} />}
       />
       <section className="section-pad" aria-labelledby="services-listing-heading">
         <div className="container-site">

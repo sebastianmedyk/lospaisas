@@ -51,9 +51,9 @@ Hours are **8:00 AM – 7:00 PM every day**, including Sunday. A flat on the wee
 
 Trust is built one honest visit at a time. If you need tires, alignment, or balancing on Military Trl in West Palm Beach, we are ready to help.
 
-See [used tires](/services/used-tires), [new tires](/services/new-tires) and [all services](/services).
+See [used tires](/en/services/used-tires), [new tires](/en/services/new-tires) and [all services](/en/services).
 
-Related guides: [Why wheels need balancing, and how to avoid surprise fees](/blog/wheel-balancing-no-hidden-fees), [What used tires cost in West Palm Beach](/blog/used-tire-prices-west-palm-beach), and [Flat tire on Sunday?](/blog/flat-tire-sunday-military-trail).
+Related guides: [Why wheels need balancing, and how to avoid surprise fees](/en/blog/wheel-balancing-no-hidden-fees), [What used tires cost in West Palm Beach](/en/blog/used-tire-prices-west-palm-beach), and [Flat tire on Sunday?](/en/blog/flat-tire-sunday-military-trail).
 
 ## Questions about Los Paisas Tires Shop
 

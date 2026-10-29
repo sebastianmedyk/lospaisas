@@ -1,5 +1,6 @@
 "use client";
 
+import { pick } from "@/lib/routes";
 import Image from "next/image";
 import { BUSINESS } from "@/lib/constants";
 import { HERO_LITE } from "@/lib/photos";
@@ -11,7 +12,6 @@ import UsedPriceLine from "./UsedPriceLine";
 /** Variant A hero: type-led split. Big stacked headline on black, tall real photo offset to the right. */
 export default function HeroSplit() {
   const { t, locale } = useLanguage();
-  const es = locale === "es";
   return (
     <section id="top" className="relative overflow-hidden border-b border-white/15 bg-brand-bg">
       <div className="container-site grid gap-10 px-4 pb-12 pt-10 sm:px-6 md:grid-cols-12 md:pb-0 md:pt-16 lg:px-8">
@@ -27,7 +27,7 @@ export default function HeroSplit() {
           <UsedPriceLine className="fade-up mt-6 text-s2" />
           <CtaButtons size="lg" className="fade-up mt-8" />
           <p className="fade-up mt-5 text-sm font-semibold text-white/80">
-            {es ? "Abiertos hoy" : "Open today"} · {BUSINESS.hoursShort} · {BUSINESS.address}
+            {pick(locale, { es: "Abiertos hoy", en: "Open today", pl: "Dziś otwarte" })} · {BUSINESS.hoursShort} · {BUSINESS.address}
           </p>
         </div>
 

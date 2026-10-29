@@ -1,10 +1,8 @@
 {
-  "path": "/services/mobile-tire-service/greenacres",
-  "enPath": "/services/mobile-tire-service/greenacres",
-  "esPath": "/es/servicios/servicio-movil/greenacres",
+  "path": "/en/services/mobile-tire-service/greenacres",
   "locale": "en",
   "kind": "city",
-  "parentPath": "/services/mobile-tire-service",
+  "parentPath": "/en/services/mobile-tire-service",
   "parentLabel": "Mobile tire service",
   "title": "Mobile Tire Service in Greenacres | Los Paisas Tires",
   "description": "Mobile tire service in Greenacres, within 10 miles of 1114 S Military Trl. Call to confirm the address or drive in. Open daily 8 AM–7 PM. (561) 429-4041.",
@@ -84,23 +82,23 @@
   "moreHeading": "The shop, and the other two towns",
   "links": [
     {
-      "href": "/services/mobile-tire-service",
+      "href": "/en/services/mobile-tire-service",
       "label": "Mobile tire service from the shop"
     },
     {
-      "href": "/services/mobile-tire-service/palm-springs",
+      "href": "/en/services/mobile-tire-service/palm-springs",
       "label": "Mobile tire service in Palm Springs"
     },
     {
-      "href": "/services/mobile-tire-service/lake-worth-beach",
+      "href": "/en/services/mobile-tire-service/lake-worth-beach",
       "label": "Mobile tire service in Lake Worth Beach"
     },
     {
-      "href": "/services/tire-repair",
+      "href": "/en/services/tire-repair",
       "label": "Tire repair at the bay"
     },
     {
-      "href": "/blog/mobile-tire-service-west-palm-beach",
+      "href": "/en/blog/mobile-tire-service-west-palm-beach",
       "label": "What to tell us when you book the van"
     }
   ]

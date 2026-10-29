@@ -1,16 +1,11 @@
 import Link from "next/link";
 import type { Locale } from "@/lib/i18n";
+import { LOCALES, type LocalePaths } from "@/lib/routes";
 
-/** English / Español pills pointing at the same page in the other language. */
-export default function LangSwitch({
-  locale,
-  enHref,
-  esHref,
-}: {
-  locale: Locale;
-  enHref: string;
-  esHref: string;
-}) {
+const LABEL: Record<Locale, string> = { es: "Español", en: "English", pl: "Polski" };
+
+/** Español / English / Polski pills pointing at the same page in each language. */
+export default function LangSwitch({ locale, hrefs }: { locale: Locale; hrefs: LocalePaths }) {
   const cls = (active: boolean) =>
     `inline-flex min-h-[44px] items-center rounded-none border px-4 ${
       active
@@ -19,12 +14,11 @@ export default function LangSwitch({
     }`;
   return (
     <div className="flex flex-wrap gap-2 text-xs font-bold uppercase tracking-wide">
-      <Link href={enHref} className={cls(locale === "en")}>
-        English
-      </Link>
-      <Link href={esHref} className={cls(locale === "es")}>
-        Español
-      </Link>
+      {LOCALES.map((l) => (
+        <Link key={l} href={hrefs[l]} hrefLang={l} className={cls(locale === l)}>
+          {LABEL[l]}
+        </Link>
+      ))}
     </div>
   );
 }

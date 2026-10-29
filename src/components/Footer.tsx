@@ -1,10 +1,11 @@
 "use client";
 
+import { blogPath } from "@/lib/routes";
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { contactPath, locationPath } from "@/lib/place-routes";
-import { servicesPath } from "@/lib/service-routes";
+import { contactPath, locationPath } from "@/lib/routes";
+import { servicesPath } from "@/lib/routes";
 import {
   FacebookIcon,
   InstagramIcon,
@@ -16,7 +17,7 @@ import {
 export default function Footer() {
   const { t, locale } = useLanguage();
   const year = new Date().getFullYear();
-  const blogHref = locale === "es" ? "/es/blog" : "/blog";
+  const blogHref = blogPath(locale);
   const servicesHref = servicesPath(locale);
 
   const socialClass =

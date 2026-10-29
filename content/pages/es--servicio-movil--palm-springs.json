@@ -1,10 +1,8 @@
 {
-  "path": "/es/servicios/servicio-movil/palm-springs",
-  "enPath": "/services/mobile-tire-service/palm-springs",
-  "esPath": "/es/servicios/servicio-movil/palm-springs",
+  "path": "/servicios/servicio-movil/palm-springs",
   "locale": "es",
   "kind": "city",
-  "parentPath": "/es/servicios/servicio-movil",
+  "parentPath": "/servicios/servicio-movil",
   "parentLabel": "Servicio móvil",
   "title": "Servicio Móvil de Llantas en Palm Springs | Los Paisas",
   "description": "Servicio móvil en Palm Springs, Florida, a 10 millas de 1114 S Military Trl. No es California. Llama al (561) 429-4041. Abierto 8 AM–7 PM.",
@@ -83,23 +81,23 @@
   "moreHeading": "De vuelta al taller y a los otros pueblos",
   "links": [
     {
-      "href": "/es/servicios/servicio-movil",
+      "href": "/servicios/servicio-movil",
       "label": "Servicio móvil a 10 millas"
     },
     {
-      "href": "/es/servicios/servicio-movil/greenacres",
+      "href": "/servicios/servicio-movil/greenacres",
       "label": "Servicio móvil en Greenacres"
     },
     {
-      "href": "/es/servicios/servicio-movil/lake-worth-beach",
+      "href": "/servicios/servicio-movil/lake-worth-beach",
       "label": "Servicio móvil en Lake Worth Beach"
     },
     {
-      "href": "/es/servicios/llantas-usadas",
+      "href": "/servicios/llantas-usadas",
       "label": "Llantas usadas si puedes llegar al taller"
     },
     {
-      "href": "/es/blog/servicio-movil-llantas-west-palm-beach",
+      "href": "/blog/servicio-movil-llantas-west-palm-beach",
       "label": "Cómo es la visita de la van"
     }
   ]

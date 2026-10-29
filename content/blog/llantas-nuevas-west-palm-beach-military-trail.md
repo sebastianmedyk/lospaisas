@@ -33,7 +33,7 @@ Si solo fallaron una o dos llantas, hablamos de igualar la banda restante para q
 
 ## ¿Puedo instalar llantas nuevas un domingo?
 
-Sí. El horario es **8:00 AM – 7:00 PM todos los días**, e instalar llantas nuevas un domingo es normal aquí, útil cuando entre semana no hay hueco. Si no puedes salir de casa o del trabajo, pregunta por **servicio móvil a 10 millas** del taller. Llama o WhatsApp **(561) 429-4041**, mira [servicios](/es/servicios/llantas-nuevas) o sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Sí. El horario es **8:00 AM – 7:00 PM todos los días**, e instalar llantas nuevas un domingo es normal aquí, útil cuando entre semana no hay hueco. Si no puedes salir de casa o del trabajo, pregunta por **servicio móvil a 10 millas** del taller. Llama o WhatsApp **(561) 429-4041**, mira [servicios](/servicios/llantas-nuevas) o sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi mientras esperas. **4.4★** con **282** reseñas en Google como negocio local bilingüe enfocado en llantas.
 
@@ -45,9 +45,9 @@ Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi
 
 ¿Listo para un juego fresco en Military Trl? Pasa por Los Paisas Tires Shop en West Palm Beach y te dejamos rodando.
 
-Cuando sepas lo que necesitas, mira [llantas nuevas en Los Paisas Tires Shop](/es/servicios/llantas-nuevas).
+Cuando sepas lo que necesitas, mira [llantas nuevas en Los Paisas Tires Shop](/servicios/llantas-nuevas).
 
-Guías relacionadas: [Llantas usadas o nuevas con el calor de Florida](/es/blog/llantas-usadas-o-nuevas-calor-florida), [¿Compraste llantas en línea? Qué saber antes de instalarlas](/es/blog/instalacion-llantas-del-cliente-west-palm-beach) y [Señales de que tu carro necesita alineación](/es/blog/alineacion-geometria-military-trail-west-palm-beach).
+Guías relacionadas: [Llantas usadas o nuevas con el calor de Florida](/blog/llantas-usadas-o-nuevas-calor-florida), [¿Compraste llantas en línea? Qué saber antes de instalarlas](/blog/instalacion-llantas-del-cliente-west-palm-beach) y [Señales de que tu carro necesita alineación](/blog/alineacion-geometria-military-trail-west-palm-beach).
 
 ## Preguntas sobre comprar llantas nuevas
 

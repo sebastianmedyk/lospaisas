@@ -14,19 +14,18 @@ import {
   type Dictionary,
   type Locale,
 } from "@/lib/i18n";
+import { localeFromPath } from "@/lib/routes";
 
 type LanguageContextValue = {
   locale: Locale;
-  /** Kept for API compatibility; the URL decides the language (/es/* = Spanish). */
+  /** Kept for API compatibility; the URL decides the language (root = ES, /en = EN, /pl = PL). */
   setLocale: (locale: Locale) => void;
   t: Dictionary;
 };
 
 const LanguageContext = createContext<LanguageContextValue | null>(null);
 
-export function localeFromPath(pathname: string): Locale {
-  return pathname === "/es" || pathname.startsWith("/es/") ? "es" : "en";
-}
+export { localeFromPath };
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const pathname = usePathname() || "/";

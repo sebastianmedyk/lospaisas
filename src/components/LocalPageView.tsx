@@ -9,7 +9,8 @@ import { BUSINESS } from "@/lib/constants";
 import { getDictionary } from "@/lib/i18n";
 import type { LocalPage } from "@/lib/local-pages";
 import { breadcrumbJsonLd, faqPageJsonLd, pageServiceJsonLd } from "@/lib/seo";
-import { servicesPath } from "@/lib/service-routes";
+import { homePath, servicesPath } from "@/lib/routes";
+import type { Locale } from "@/lib/i18n";
 import { absoluteUrl } from "@/lib/site";
 import PhotoStrip from "@/components/PhotoStrip";
 import { SERVICE_PHOTOS } from "@/lib/photos";
@@ -19,7 +20,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
   const pageUrl = absoluteUrl(page.path);
   const sectionPath = servicesPath(page.locale);
   const crumbs = [
-    { name: t.nav.home, url: absoluteUrl("/") },
+    { name: t.nav.home, url: absoluteUrl(homePath(page.locale)) },
     { name: t.nav.services, url: absoluteUrl(sectionPath) },
     ...(page.parentPath && page.parentLabel
       ? [{ name: page.parentLabel, url: absoluteUrl(page.parentPath) }]
@@ -59,10 +60,10 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
         />
         <InfoStrip />
 
-        {page.kind === "service" && SERVICE_PHOTOS[page.enPath] ? (
+        {page.kind === "service" && SERVICE_PHOTOS[page.paths.en] ? (
           <section className="border-b border-white/15 py-8">
             <div className="container-site max-w-3xl">
-              <PhotoStrip photos={SERVICE_PHOTOS[page.enPath]} locale={page.locale} />
+              <PhotoStrip photos={SERVICE_PHOTOS[page.paths.en]} locale={page.locale} />
             </div>
           </section>
         ) : null}
@@ -126,7 +127,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
   );
 }
 
-function NapCard({ locale }: { locale: "en" | "es" }) {
+function NapCard({ locale }: { locale: Locale }) {
   const t = getDictionary(locale);
   return (
     <address className="card-dark mt-6 not-italic text-white/85">

@@ -3,7 +3,9 @@ import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
 
-export type BlogLocale = "en" | "es";
+import type { Locale } from "@/lib/routes";
+
+export type BlogLocale = Locale;
 
 export type BlogPostMeta = {
   title: string;
@@ -28,7 +30,7 @@ export type BlogPost = BlogPostMeta & {
 const BLOG_DIR = path.join(process.cwd(), "content", "blog");
 
 function isLocale(value: unknown): value is BlogLocale {
-  return value === "en" || value === "es";
+  return value === "en" || value === "es" || value === "pl";
 }
 
 function parsePost(filePath: string): BlogPost | null {
@@ -124,4 +126,4 @@ export function postModifiedDate(post: Pick<BlogPostMeta, "date" | "updated">): 
   return post.updated || post.date;
 }
 
-export { blogPath } from "@/lib/blog-routes";
+export { blogPath } from "@/lib/routes";

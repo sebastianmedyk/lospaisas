@@ -1,18 +1,20 @@
 "use client";
 
+import { homePath } from "@/lib/routes";
+import { blogPath } from "@/lib/routes";
 import { useState } from "react";
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { contactPath, locationPath } from "@/lib/place-routes";
-import { servicesPath } from "@/lib/service-routes";
+import { contactPath, locationPath } from "@/lib/routes";
+import { servicesPath } from "@/lib/routes";
 import LanguageToggle from "./LanguageToggle";
 import { PhoneIcon, WhatsAppIcon } from "./Icons";
 
 export default function Header() {
   const { t, locale } = useLanguage();
   const [open, setOpen] = useState(false);
-  const blogHref = locale === "es" ? "/es/blog" : "/blog";
+  const blogHref = blogPath(locale);
   const servicesHref = servicesPath(locale);
 
   const links = [
@@ -32,7 +34,7 @@ export default function Header() {
       </a>
       <div className="container-site flex items-center justify-between gap-3 px-4 py-3 sm:gap-4 sm:px-6 lg:px-8">
         <Link
-          href="/"
+          href={homePath(locale)}
           className={`group flex min-h-[44px] min-w-0 items-center gap-2.5 rounded-none ${focusRing}`}
         >
           <span className="cut-tr relative flex h-10 w-10 shrink-0 items-center justify-center rounded-none border border-brand-gold/40 bg-brand-bg text-xs font-extrabold uppercase tracking-wide text-brand-gold">

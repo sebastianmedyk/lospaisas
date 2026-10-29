@@ -1,19 +1,21 @@
 "use client";
 
+import { pick } from "@/lib/routes";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { CheckIcon } from "./Icons";
 
 export default function InfoStrip() {
   const { locale } = useLanguage();
-  const es = locale === "es";
-  const items = es
-    ? ["Sin cita, pasa cuando quieras", "Hablamos español", "Nou pale Kreyòl", "Abierto 7 días"]
-    : ["Walk-ins welcome", "We speak Spanish", "We speak Creole (Kreyòl)", "Open 7 days"];
+  const items = pick(locale, {
+    es: ["Sin cita, pasa cuando quieras", "Hablamos español", "Nou pale Kreyòl", "Abierto 7 días"],
+    en: ["Walk-ins welcome", "We speak Spanish", "We speak Creole (Kreyòl)", "Open 7 days"],
+    pl: ["Bez umawiania", "Mówimy po hiszpańsku", "Mówimy po kreolsku (Kreyòl)", "Otwarte 7 dni"],
+  });
 
   return (
     <section
       className="border-b border-brand-red/60 bg-brand-gold text-brand-bg"
-      aria-label={es ? "Datos del taller" : "Shop highlights"}
+      aria-label={pick(locale, { es: "Datos del taller", en: "Shop highlights", pl: "Najważniejsze informacje" })}
     >
       <ul className="container-site grid grid-cols-2 gap-x-4 gap-y-2 px-4 py-3.5 sm:px-6 md:flex md:justify-between lg:px-8">
         {items.map((label) => (

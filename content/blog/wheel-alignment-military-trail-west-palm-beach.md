@@ -34,7 +34,7 @@ We also mount and balance **new** or **used** tires, repair and vulcanize when s
 
 Wheels that are out of alignment wear the tread unevenly, so skipping an alignment after new tires, or after a hard hit, can wear the tires out early. Palm Beach County roads are hard on tires: heat, sudden stops, and uneven pavement. Getting geometría checked at a neighborhood shop keeps the conversation personal and the quote honest.
 
-We are open **7 days a week, 8:00 AM – 7:00 PM**. No weekday-only bottleneck. Call or WhatsApp **(561) 429-4041**, or see [services](/services/wheel-alignment) and [location](/location) on our site. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for shop updates.
+We are open **7 days a week, 8:00 AM – 7:00 PM**. No weekday-only bottleneck. Call or WhatsApp **(561) 429-4041**, or see [services](/en/services/wheel-alignment) and [location](/en/location) on our site. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for shop updates.
 
 ## Wheel alignment at Los Paisas at a glance
 
@@ -44,9 +44,9 @@ We are open **7 days a week, 8:00 AM – 7:00 PM**. No weekday-only bottleneck. 
 
 Crooked steering or uneven wear? Stop by Military Trl in West Palm Beach and we will help you straighten it out.
 
-For the service itself, see [wheel alignment at Los Paisas Tires Shop](/services/wheel-alignment).
+For the service itself, see [wheel alignment at Los Paisas Tires Shop](/en/services/wheel-alignment).
 
-Related guides: [Why wheels need balancing](/blog/wheel-balancing-no-hidden-fees), [Tire pressure in Palm Beach summer](/blog/tire-pressure-palm-beach-summer), and [Buying new tires: sizes and driving needs](/blog/new-tires-west-palm-beach-military-trail).
+Related guides: [Why wheels need balancing](/en/blog/wheel-balancing-no-hidden-fees), [Tire pressure in Palm Beach summer](/en/blog/tire-pressure-palm-beach-summer), and [Buying new tires: sizes and driving needs](/en/blog/new-tires-west-palm-beach-military-trail).
 
 ## Questions about wheel alignment
 

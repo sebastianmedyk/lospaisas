@@ -34,7 +34,7 @@ También montamos y balanceamos **llantas nuevas** o **usadas**, reparamos y vul
 
 Las ruedas desalineadas gastan la banda de forma irregular, así que saltar la alineación después de montar llantas nuevas, o después de un golpe fuerte, puede acabar las llantas antes de tiempo. Las calles de Palm Beach County castigan las llantas: calor, frenadas y pavimento irregular. Revisar la geometría en un taller de barrio mantiene la charla personal y la cotización honesta.
 
-Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de solo días hábiles. Llama o WhatsApp **(561) 429-4041**, o mira [servicios](/es/servicios/alineacion) y [ubicación](/es/ubicacion). Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de solo días hábiles. Llama o WhatsApp **(561) 429-4041**, o mira [servicios](/servicios/alineacion) y [ubicación](/ubicacion). Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 ## Alineación en Los Paisas en resumen
 
@@ -44,9 +44,9 @@ Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de s
 
 ¿Volante torcido o desgaste irregular? Pasa por Military Trl en West Palm Beach y te ayudamos a enderezarlo.
 
-Para el servicio, mira [alineación en Los Paisas Tires Shop](/es/servicios/alineacion).
+Para el servicio, mira [alineación en Los Paisas Tires Shop](/servicios/alineacion).
 
-Guías relacionadas: [Por qué se balancean las ruedas](/es/blog/balanceo-sin-sorpresas), [Presión de llantas en verano y huracanes](/es/blog/presion-llantas-verano-huracanes) y [Comprar llantas nuevas: medidas y tipo de manejo](/es/blog/llantas-nuevas-west-palm-beach-military-trail).
+Guías relacionadas: [Por qué se balancean las ruedas](/blog/balanceo-sin-sorpresas), [Presión de llantas en verano y huracanes](/blog/presion-llantas-verano-huracanes) y [Comprar llantas nuevas: medidas y tipo de manejo](/blog/llantas-nuevas-west-palm-beach-military-trail).
 
 ## Preguntas sobre la alineación
 

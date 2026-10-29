@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { locationPath } from "@/lib/place-routes";
+import { locationPath } from "@/lib/routes";
 import { ClockIcon, MapPinIcon, PhoneIcon } from "./Icons";
 
 export default function Location() {

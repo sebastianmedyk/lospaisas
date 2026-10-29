@@ -1,4 +1,6 @@
-export type Locale = "en" | "es";
+import type { Locale } from "@/lib/routes";
+export type { Locale };
+import { pl } from "@/lib/i18n-pl";
 
 export const translations = {
   en: {
@@ -637,6 +639,16 @@ export const translations = {
 
 export type Dictionary = (typeof translations)["en"];
 
+const ALL: Record<Locale, Dictionary> = { ...translations, pl } as unknown as Record<Locale, Dictionary>;
+
 export function getDictionary(locale: Locale): Dictionary {
-  return translations[locale] as Dictionary;
+  return ALL[locale];
 }
+
+type Widen<T> = T extends string
+  ? string
+  : T extends readonly (infer U)[]
+    ? readonly Widen<U>[]
+    : { readonly [K in keyof T]: Widen<T[K]> };
+/** Compile-time check that the Polish dictionary has the same shape as English. */
+export type DictionaryShape = Widen<Dictionary>;

@@ -1,7 +1,5 @@
 {
-  "path": "/es/servicios/servicio-movil",
-  "enPath": "/services/mobile-tire-service",
-  "esPath": "/es/servicios/servicio-movil",
+  "path": "/servicios/servicio-movil",
   "locale": "es",
   "kind": "service",
   "title": "Servicio Móvil de Llantas en West Palm Beach | Los Paisas",
@@ -68,27 +66,27 @@
   "moreHeading": "Notas móviles de tres pueblos cercanos",
   "links": [
     {
-      "href": "/es/servicios/servicio-movil/greenacres",
+      "href": "/servicios/servicio-movil/greenacres",
       "label": "Servicio móvil de llantas en Greenacres"
     },
     {
-      "href": "/es/servicios/servicio-movil/lake-worth-beach",
+      "href": "/servicios/servicio-movil/lake-worth-beach",
       "label": "Servicio móvil de llantas en Lake Worth Beach"
     },
     {
-      "href": "/es/servicios/servicio-movil/palm-springs",
+      "href": "/servicios/servicio-movil/palm-springs",
       "label": "Servicio móvil de llantas en Palm Springs"
     },
     {
-      "href": "/es/servicios/reparacion-de-llantas",
+      "href": "/servicios/reparacion-de-llantas",
       "label": "Reparación si puedes llegar al taller"
     },
     {
-      "href": "/es/blog/servicio-movil-llantas-west-palm-beach",
+      "href": "/blog/servicio-movil-llantas-west-palm-beach",
       "label": "Cómo funciona el servicio móvil"
     },
     {
-      "href": "/es/blog/llanta-ponchada-domingo-military-trail",
+      "href": "/blog/llanta-ponchada-domingo-military-trail",
       "label": "¿Llanta ponchada el domingo? Qué puede hacer el taller"
     }
   ],

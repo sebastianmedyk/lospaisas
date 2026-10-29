@@ -1,7 +1,5 @@
 {
-  "path": "/es/servicios/reparacion-de-llantas",
-  "enPath": "/services/tire-repair",
-  "esPath": "/es/servicios/reparacion-de-llantas",
+  "path": "/servicios/reparacion-de-llantas",
   "locale": "es",
   "kind": "service",
   "title": "Reparación de Llantas en West Palm Beach | Los Paisas",
@@ -68,35 +66,35 @@
   "moreHeading": "Si la llanta no se puede salvar",
   "links": [
     {
-      "href": "/es/servicios/llantas-usadas",
+      "href": "/servicios/llantas-usadas",
       "label": "Llantas usadas cuando no se puede reparar"
     },
     {
-      "href": "/es/servicios/llantas-nuevas",
+      "href": "/servicios/llantas-nuevas",
       "label": "Llantas nuevas del mismo taller"
     },
     {
-      "href": "/es/servicios/servicio-movil",
+      "href": "/servicios/servicio-movil",
       "label": "Servicio móvil a 10 millas"
     },
     {
-      "href": "/es/blog/reparacion-vulcanizacion-llantas-west-palm-beach",
+      "href": "/blog/reparacion-vulcanizacion-llantas-west-palm-beach",
       "label": "Cómo decidimos reparar o cambiar"
     },
     {
-      "href": "/es/blog/manejar-con-llanta-parcheada",
+      "href": "/blog/manejar-con-llanta-parcheada",
       "label": "Manejar con parche o plug"
     },
     {
-      "href": "/es/blog/llanta-ponchada-domingo-military-trail",
+      "href": "/blog/llanta-ponchada-domingo-military-trail",
       "label": "¿Llanta ponchada el domingo? Abrimos"
     },
     {
-      "href": "/es/blog/presion-llantas-verano-huracanes",
+      "href": "/blog/presion-llantas-verano-huracanes",
       "label": "Presión de llantas en verano y huracanes"
     },
     {
-      "href": "/es/blog/necesito-cuatro-llantas-nuevas",
+      "href": "/blog/necesito-cuatro-llantas-nuevas",
       "label": "¿Le dijeron que necesita cuatro llantas? Cuándo basta reparar"
     }
   ],

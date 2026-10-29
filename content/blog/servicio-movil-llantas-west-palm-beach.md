@@ -39,7 +39,7 @@ Un estacionamiento o driveway seguro nos ayuda a trabajar bien. Si el sitio no e
 
 Una visita móvil cubre el mismo trabajo de llantas que el taller: llantas, instalación, reparación cuando es segura y servicios relacionados que ofrecemos en el bay — incluyendo charlas sobre **balanceo** y **alineación** cuando encajan. Explicamos opciones en español o inglés y cotizamos antes de comprometernos.
 
-En el taller sigues teniendo estacionamiento y entrada accesibles, Wi‑Fi y pagos con crédito, débito o NFC en visitas presenciales. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mapa y horario: [ubicación](/es/ubicacion).
+En el taller sigues teniendo estacionamiento y entrada accesibles, Wi‑Fi y pagos con crédito, débito o NFC en visitas presenciales. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mapa y horario: [ubicación](/ubicacion).
 
 Si tu dirección queda justo en el límite de las 10 millas, dilo al llamar: confirmamos cobertura antes de salir para no hacerte esperar en vano.
 
@@ -51,9 +51,9 @@ Si tu dirección queda justo en el límite de las 10 millas, dilo al llamar: con
 
 ¿Estás cerca de Military Trl o a pocas millas? Escribe a Los Paisas Tires Shop y vemos si podemos ir a ti.
 
-Para la cobertura y lo que hace la van, mira [servicio móvil de llantas](/es/servicios/servicio-movil).
+Para la cobertura y lo que hace la van, mira [servicio móvil de llantas](/servicios/servicio-movil).
 
-Guías relacionadas: [¿Llanta ponchada el domingo?](/es/blog/llanta-ponchada-domingo-military-trail), [¿Cuándo se puede reparar una ponchadura?](/es/blog/reparacion-vulcanizacion-llantas-west-palm-beach) y [¿Compraste llantas en línea? Qué saber antes de instalarlas](/es/blog/instalacion-llantas-del-cliente-west-palm-beach).
+Guías relacionadas: [¿Llanta ponchada el domingo?](/blog/llanta-ponchada-domingo-military-trail), [¿Cuándo se puede reparar una ponchadura?](/blog/reparacion-vulcanizacion-llantas-west-palm-beach) y [¿Compraste llantas en línea? Qué saber antes de instalarlas](/blog/instalacion-llantas-del-cliente-west-palm-beach).
 
 ## Preguntas sobre el servicio móvil de llantas
 

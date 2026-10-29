@@ -39,7 +39,7 @@ Safe, legal parking or a driveway helps us work efficiently. If the site is not 
 
 A mobile visit covers the same tire work as the shop: tires, install, repair when safe, and related services we offer in the bay — including conversations about **balancing** and **alignment** when those fit. We explain options in English or Spanish and quote before we commit to the work.
 
-Back at the shop you will still find accessible parking and entrance, Wi‑Fi, and payments by credit, debit, or NFC for in-person visits. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for updates. Map and hours: [location](/location).
+Back at the shop you will still find accessible parking and entrance, Wi‑Fi, and payments by credit, debit, or NFC for in-person visits. Follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)** for updates. Map and hours: [location](/en/location).
 
 ## Mobile tire service at a glance
 
@@ -49,9 +49,9 @@ Back at the shop you will still find accessible parking and entrance, Wi‑Fi, a
 
 Stuck near Military Trl or a few miles out? Message Los Paisas Tires Shop and we will see if we can come to you.
 
-For coverage and what the van can do, see [mobile tire service](/services/mobile-tire-service).
+For coverage and what the van can do, see [mobile tire service](/en/services/mobile-tire-service).
 
-Related guides: [Flat tire on Sunday?](/blog/flat-tire-sunday-military-trail), [When can a flat be repaired?](/blog/tire-repair-vulcanization-west-palm-beach), and [Bought tires online? What to know before installation](/blog/install-customer-tires-west-palm-beach).
+Related guides: [Flat tire on Sunday?](/en/blog/flat-tire-sunday-military-trail), [When can a flat be repaired?](/en/blog/tire-repair-vulcanization-west-palm-beach), and [Bought tires online? What to know before installation](/en/blog/install-customer-tires-west-palm-beach).
 
 ## Questions about mobile tire service
 

@@ -39,7 +39,7 @@ Balanceo, alineación, una llanta de reemplazo o una reparación se pueden hacer
 - Un repuesto **usado** o un juego **nuevo** si una llanta del cliente no pasa inspección
 - Reparación o vulcanización en una llanta que aún tiene vida
 
-Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi mientras esperas. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mira [servicios](/es/servicios/instalacion-de-llantas) para la lista completa enfocada en llantas.
+Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi mientras esperas. Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**. Mira [servicios](/servicios/instalacion-de-llantas) para la lista completa enfocada en llantas.
 
 ## Instalación de llantas del cliente en resumen
 
@@ -49,9 +49,9 @@ Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi
 
 ¿Ya compraste las llantas? Tráelas a Military Trl en West Palm Beach y las dejamos listas en el auto.
 
-Para el servicio, mira [instalación de llantas del cliente](/es/servicios/instalacion-de-llantas).
+Para el servicio, mira [instalación de llantas del cliente](/servicios/instalacion-de-llantas).
 
-Guías relacionadas: [Comprar llantas nuevas: medidas y tipo de manejo](/es/blog/llantas-nuevas-west-palm-beach-military-trail), [Por qué se balancean las ruedas](/es/blog/balanceo-sin-sorpresas) y [Cómo revisar una llanta usada antes de comprarla](/es/blog/llantas-usadas-west-palm-beach).
+Guías relacionadas: [Comprar llantas nuevas: medidas y tipo de manejo](/blog/llantas-nuevas-west-palm-beach-military-trail), [Por qué se balancean las ruedas](/blog/balanceo-sin-sorpresas) y [Cómo revisar una llanta usada antes de comprarla](/blog/llantas-usadas-west-palm-beach).
 
 ## Preguntas sobre instalar tus propias llantas
 

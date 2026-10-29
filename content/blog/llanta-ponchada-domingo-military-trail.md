@@ -44,9 +44,9 @@ Llama o escribe por WhatsApp primero, así sabemos cómo está la llanta antes d
 
 Guarda este número antes del próximo imprevisto. ¿Necesitas arreglo de llanta un domingo en West Palm Beach? Estamos en Military Trl listos para ayudar.
 
-¿Necesitas la reparación? Mira [reparación y vulcanización](/es/servicios/reparacion-de-llantas) o [llantas usadas](/es/servicios/llantas-usadas) si no tiene arreglo.
+¿Necesitas la reparación? Mira [reparación y vulcanización](/servicios/reparacion-de-llantas) o [llantas usadas](/servicios/llantas-usadas) si no tiene arreglo.
 
-Guías relacionadas: [¿Cuándo se puede reparar una ponchadura?](/es/blog/reparacion-vulcanizacion-llantas-west-palm-beach), [Manejar con una llanta parcheada](/es/blog/manejar-con-llanta-parcheada) y [Cómo pedir el servicio móvil de llantas](/es/blog/servicio-movil-llantas-west-palm-beach).
+Guías relacionadas: [¿Cuándo se puede reparar una ponchadura?](/blog/reparacion-vulcanizacion-llantas-west-palm-beach), [Manejar con una llanta parcheada](/blog/manejar-con-llanta-parcheada) y [Cómo pedir el servicio móvil de llantas](/blog/servicio-movil-llantas-west-palm-beach).
 
 ## Preguntas sobre una llanta ponchada en domingo
 

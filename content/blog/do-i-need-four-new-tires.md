@@ -42,7 +42,7 @@ Then you hear the options, the reason for each, and the price, before any work s
 | Two tires worn, two still good | Two tires, with the fresher tread on the rear axle | Car or tread condition calls for a matched set |
 | All four worn down or aging | A full set, new or used | — |
 
-For the repair side in detail, see [when can a flat be repaired?](/blog/tire-repair-vulcanization-west-palm-beach)
+For the repair side in detail, see [when can a flat be repaired?](/en/blog/tire-repair-vulcanization-west-palm-beach)
 
 ## Can I replace only two tires?
 
@@ -50,15 +50,15 @@ Yes, often. The rule Los Paisas Tires Shop gives every customer on a tight budge
 
 ## Is a used tire a safe option?
 
-A good used tire can be the right answer when one tire is ruined and the rest are fine. At Los Paisas Tires Shop every used tire is checked for tread and safety before it goes on a car, and the shop carries economic used tires as well as new ones. The aim is a good used tire, not just any tire. See [how to check a used tire before you buy](/blog/used-tires-west-palm-beach).
+A good used tire can be the right answer when one tire is ruined and the rest are fine. At Los Paisas Tires Shop every used tire is checked for tread and safety before it goes on a car, and the shop carries economic used tires as well as new ones. The aim is a good used tire, not just any tire. See [how to check a used tire before you buy](/en/blog/used-tires-west-palm-beach).
 
 ## How do I get a second opinion?
 
 Bring the car to 1114 S Military Trl, West Palm Beach, FL 33415, open **8:00 AM to 7:00 PM, seven days a week**. Call or WhatsApp **(561) 429-4041**. If another shop told you the car needs a full set, tell us. We inspect the tires and say plainly what we see. The explanation comes in English or Spanish.
 
-For the service itself, see [tire repair at Los Paisas Tires Shop](/services/tire-repair).
+For the service itself, see [tire repair at Los Paisas Tires Shop](/en/services/tire-repair).
 
-Related guides: [Why drivers trust Los Paisas Tires Shop](/blog/why-drivers-trust-los-paisas-west-palm-beach), [Used vs new tires in Florida heat](/blog/used-vs-new-tires-florida-heat), and [Can you keep driving on a patch](/blog/driving-on-a-tire-patch-or-plug).
+Related guides: [Why drivers trust Los Paisas Tires Shop](/en/blog/why-drivers-trust-los-paisas-west-palm-beach), [Used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat), and [Can you keep driving on a patch](/en/blog/driving-on-a-tire-patch-or-plug).
 
 ## Questions about replacing tires
 

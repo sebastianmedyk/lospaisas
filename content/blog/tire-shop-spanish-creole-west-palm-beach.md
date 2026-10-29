@@ -61,11 +61,11 @@ The shop does not do oil changes, brakes, or A/C. If your problem is outside tir
 
 ## Where is the shop and when is it open?
 
-The shop is at **1114 S Military Trl, West Palm Beach, FL 33415**. Hours are **8:00 AM to 7:00 PM, Monday through Sunday**. Call or WhatsApp **(561) 429-4041**. See [our location](/location) for the map.
+The shop is at **1114 S Military Trl, West Palm Beach, FL 33415**. Hours are **8:00 AM to 7:00 PM, Monday through Sunday**. Call or WhatsApp **(561) 429-4041**. See [our location](/en/location) for the map.
 
-For a full look at choosing tires, see [new tires at Los Paisas Tires Shop](/services/new-tires).
+For a full look at choosing tires, see [new tires at Los Paisas Tires Shop](/en/services/new-tires).
 
-Related guides: [Why drivers trust Los Paisas Tires Shop](/blog/why-drivers-trust-los-paisas-west-palm-beach), [Buying new tires: sizes and driving needs explained](/blog/new-tires-west-palm-beach-military-trail), and [When can a flat be repaired?](/blog/tire-repair-vulcanization-west-palm-beach)
+Related guides: [Why drivers trust Los Paisas Tires Shop](/en/blog/why-drivers-trust-los-paisas-west-palm-beach), [Buying new tires: sizes and driving needs explained](/en/blog/new-tires-west-palm-beach-military-trail), and [When can a flat be repaired?](/en/blog/tire-repair-vulcanization-west-palm-beach)
 
 ## Questions about language at Los Paisas Tires Shop
 

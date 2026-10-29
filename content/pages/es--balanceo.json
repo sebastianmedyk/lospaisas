@@ -1,7 +1,5 @@
 {
-  "path": "/es/servicios/balanceo",
-  "enPath": "/services/tire-balancing",
-  "esPath": "/es/servicios/balanceo",
+  "path": "/servicios/balanceo",
   "locale": "es",
   "kind": "service",
   "title": "Balanceo de Llantas en West Palm Beach | Los Paisas",
@@ -68,27 +66,27 @@
   "moreHeading": "Si el balanceo es solo una parte",
   "links": [
     {
-      "href": "/es/servicios/alineacion",
+      "href": "/servicios/alineacion",
       "label": "Alineación cuando el carro jala"
     },
     {
-      "href": "/es/servicios/instalacion-de-llantas",
+      "href": "/servicios/instalacion-de-llantas",
       "label": "Instalar llantas que ya compraste"
     },
     {
-      "href": "/es/servicios/reparacion-de-llantas",
+      "href": "/servicios/reparacion-de-llantas",
       "label": "Reparar un clavo antes de balancear"
     },
     {
-      "href": "/es/blog/balanceo-sin-sorpresas",
+      "href": "/blog/balanceo-sin-sorpresas",
       "label": "Por qué hablamos de cargos ocultos"
     },
     {
-      "href": "/es/blog/por-que-confiar-en-los-paisas-west-palm-beach",
+      "href": "/blog/por-que-confiar-en-los-paisas-west-palm-beach",
       "label": "Por qué confían en Los Paisas: precio antes del trabajo"
     },
     {
-      "href": "/es/blog/carro-vibra-en-carretera-volante-asiento",
+      "href": "/blog/carro-vibra-en-carretera-volante-asiento",
       "label": "¿Por qué vibra el carro cuando voy rápido?"
     }
   ],

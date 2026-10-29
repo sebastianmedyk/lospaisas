@@ -42,7 +42,7 @@ Después le explicamos las opciones, el porqué de cada una y el precio, antes d
 | Dos gastadas y dos buenas | Dos llantas, con las de más dibujo atrás | El carro o el desgaste piden un juego parejo |
 | Las cuatro gastadas o viejas | Un juego completo, nuevo o usado | — |
 
-Para ver la parte de reparación con más detalle, lea [¿cuándo se puede reparar una ponchadura?](/es/blog/reparacion-vulcanizacion-llantas-west-palm-beach)
+Para ver la parte de reparación con más detalle, lea [¿cuándo se puede reparar una ponchadura?](/blog/reparacion-vulcanizacion-llantas-west-palm-beach)
 
 ## ¿Puedo cambiar solo dos llantas?
 
@@ -50,15 +50,15 @@ Claro que sí, muchas veces. Esta es la regla que le damos a cada cliente con el
 
 ## ¿Una llanta usada es una opción segura?
 
-Una buena llanta usada puede ser la solución cuando una se arruinó y las demás están bien. En Los Paisas Tires Shop revisamos el dibujo y la seguridad de cada llanta usada antes de instalarla, y tenemos llantas usadas económicas además de las nuevas. La idea es que se lleve una usada en buen estado, no cualquier cosa. Vea [cómo revisar una llanta usada antes de comprarla](/es/blog/llantas-usadas-west-palm-beach).
+Una buena llanta usada puede ser la solución cuando una se arruinó y las demás están bien. En Los Paisas Tires Shop revisamos el dibujo y la seguridad de cada llanta usada antes de instalarla, y tenemos llantas usadas económicas además de las nuevas. La idea es que se lleve una usada en buen estado, no cualquier cosa. Vea [cómo revisar una llanta usada antes de comprarla](/blog/llantas-usadas-west-palm-beach).
 
 ## ¿Cómo pido una segunda opinión?
 
 Traiga el carro a 1114 S Military Trl, West Palm Beach, FL 33415. Abrimos **los siete días, de 8:00 AM a 7:00 PM**. Llame o escriba por WhatsApp al **(561) 429-4041**. Si en otro taller le dijeron que necesita el juego completo, cuéntenos. Revisamos las llantas y le decimos sin rodeos lo que vemos, en español o en inglés.
 
-Para el servicio, vea [reparación de llantas en Los Paisas Tires Shop](/es/servicios/reparacion-de-llantas).
+Para el servicio, vea [reparación de llantas en Los Paisas Tires Shop](/servicios/reparacion-de-llantas).
 
-Guías relacionadas: [Por qué confían en Los Paisas Tires Shop](/es/blog/por-que-confiar-en-los-paisas-west-palm-beach), [Llantas usadas o nuevas con el calor de Florida](/es/blog/llantas-usadas-o-nuevas-calor-florida) y [Manejar con una llanta parcheada](/es/blog/manejar-con-llanta-parcheada).
+Guías relacionadas: [Por qué confían en Los Paisas Tires Shop](/blog/por-que-confiar-en-los-paisas-west-palm-beach), [Llantas usadas o nuevas con el calor de Florida](/blog/llantas-usadas-o-nuevas-calor-florida) y [Manejar con una llanta parcheada](/blog/manejar-con-llanta-parcheada).
 
 ## Preguntas sobre cambiar llantas
 

@@ -1,7 +1,5 @@
 {
-  "path": "/services/tire-repair",
-  "enPath": "/services/tire-repair",
-  "esPath": "/es/servicios/reparacion-de-llantas",
+  "path": "/en/services/tire-repair",
   "locale": "en",
   "kind": "service",
   "title": "Tire Repair in West Palm Beach | Los Paisas Tires Shop",
@@ -68,35 +66,35 @@
   "moreHeading": "If the tire cannot be saved",
   "links": [
     {
-      "href": "/services/used-tires",
+      "href": "/en/services/used-tires",
       "label": "Used tires when a repair is not safe"
     },
     {
-      "href": "/services/new-tires",
+      "href": "/en/services/new-tires",
       "label": "New tires from the same shop"
     },
     {
-      "href": "/services/mobile-tire-service",
+      "href": "/en/services/mobile-tire-service",
       "label": "Mobile tire service within 10 miles"
     },
     {
-      "href": "/blog/tire-repair-vulcanization-west-palm-beach",
+      "href": "/en/blog/tire-repair-vulcanization-west-palm-beach",
       "label": "How we decide repair or replace"
     },
     {
-      "href": "/blog/driving-on-a-tire-patch-or-plug",
+      "href": "/en/blog/driving-on-a-tire-patch-or-plug",
       "label": "Driving on a patch or a plug"
     },
     {
-      "href": "/blog/flat-tire-sunday-military-trail",
+      "href": "/en/blog/flat-tire-sunday-military-trail",
       "label": "Flat tire on Sunday? The shop is open"
     },
     {
-      "href": "/blog/tire-pressure-palm-beach-summer",
+      "href": "/en/blog/tire-pressure-palm-beach-summer",
       "label": "Tire pressure in Palm Beach summer"
     },
     {
-      "href": "/blog/do-i-need-four-new-tires",
+      "href": "/en/blog/do-i-need-four-new-tires",
       "label": "Told you need four new tires? When a repair is enough"
     }
   ],

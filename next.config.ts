@@ -1,29 +1,37 @@
 import type { NextConfig } from "next";
+import { BLOG_SLUGS, SERVICE_SLUGS } from "./src/lib/routes";
 
-/** Old flat service URLs -> nested section URLs. statusCode 301, not 308. */
-const LEGACY_REDIRECTS: { source: string; destination: string }[] = [
-  { source: "/new-tires", destination: "/services/new-tires" },
-  { source: "/used-tires", destination: "/services/used-tires" },
-  { source: "/tire-repair", destination: "/services/tire-repair" },
-  { source: "/wheel-alignment", destination: "/services/wheel-alignment" },
-  { source: "/tire-balancing", destination: "/services/tire-balancing" },
-  { source: "/tire-installation", destination: "/services/tire-installation" },
-  { source: "/mobile-tire-service", destination: "/services/mobile-tire-service" },
-  {
-    source: "/mobile-tire-service/:city",
-    destination: "/services/mobile-tire-service/:city",
-  },
-  { source: "/es/llantas-nuevas", destination: "/es/servicios/llantas-nuevas" },
-  { source: "/es/llantas-usadas", destination: "/es/servicios/llantas-usadas" },
-  { source: "/es/reparacion-de-llantas", destination: "/es/servicios/reparacion-de-llantas" },
-  { source: "/es/alineacion", destination: "/es/servicios/alineacion" },
-  { source: "/es/balanceo", destination: "/es/servicios/balanceo" },
-  { source: "/es/instalacion-de-llantas", destination: "/es/servicios/instalacion-de-llantas" },
-  { source: "/es/servicio-movil", destination: "/es/servicios/servicio-movil" },
-  {
-    source: "/es/servicio-movil/:city",
-    destination: "/es/servicios/servicio-movil/:city",
-  },
+/*
+ * URL scheme (2026-10): ES at the root, EN under /en, PL under /pl.
+ * Every old URL 301s straight to its final target (no chains).
+ * Not redirectable: the old EN home "/" and EN blog index "/blog" are now the ES pages.
+ */
+const EN_SERVICE = SERVICE_SLUGS.map((s) => s.en);
+const ES_SERVICE = SERVICE_SLUGS.map((s) => s.es);
+const MOBILE = { en: "mobile-tire-service", es: "servicio-movil" };
+
+const REDIRECTS: { source: string; destination: string }[] = [
+  // Old EN root pages -> /en
+  { source: "/services", destination: "/en/services" },
+  { source: "/services/:path*", destination: "/en/services/:path*" },
+  { source: "/location", destination: "/en/location" },
+  { source: "/contact", destination: "/en/contact" },
+  ...BLOG_SLUGS.map((s) => ({ source: `/blog/${s.en}`, destination: `/en/blog/${s.en}` })),
+  // Old ES /es pages -> root
+  { source: "/es", destination: "/" },
+  { source: "/es/servicios", destination: "/servicios" },
+  { source: "/es/servicios/:path*", destination: "/servicios/:path*" },
+  { source: "/es/ubicacion", destination: "/ubicacion" },
+  { source: "/es/contacto", destination: "/contacto" },
+  { source: "/es/blog", destination: "/blog" },
+  { source: "/es/blog/:slug", destination: "/blog/:slug" },
+  // Legacy flat service URLs -> final targets
+  ...EN_SERVICE.map((slug) => ({ source: `/${slug}`, destination: `/en/services/${slug}` })),
+  { source: `/${MOBILE.en}/:city`, destination: `/en/services/${MOBILE.en}/:city` },
+  ...ES_SERVICE.map((slug) => ({ source: `/es/${slug}`, destination: `/servicios/${slug}` })),
+  { source: `/es/${MOBILE.es}/:city`, destination: `/servicios/${MOBILE.es}/:city` },
+  // Former design previews
+  { source: "/preview/:path*", destination: "/" },
 ];
 
 const nextConfig: NextConfig = {
@@ -31,11 +39,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   async redirects() {
-    return LEGACY_REDIRECTS.map((item) => ({
-      source: item.source,
-      destination: item.destination,
-      statusCode: 301,
-    }));
+    return REDIRECTS.map((item) => ({ ...item, statusCode: 301 }));
   },
 };
 

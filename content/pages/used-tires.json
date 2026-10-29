@@ -1,7 +1,5 @@
 {
-  "path": "/services/used-tires",
-  "enPath": "/services/used-tires",
-  "esPath": "/es/servicios/llantas-usadas",
+  "path": "/en/services/used-tires",
   "locale": "en",
   "kind": "service",
   "title": "Used Tires in West Palm Beach | Los Paisas Tires Shop",
@@ -69,31 +67,31 @@
   "moreHeading": "Other tire work at this shop",
   "links": [
     {
-      "href": "/services/new-tires",
+      "href": "/en/services/new-tires",
       "label": "New tires in West Palm Beach"
     },
     {
-      "href": "/services/tire-balancing",
+      "href": "/en/services/tire-balancing",
       "label": "Tire balancing, no hidden fees"
     },
     {
-      "href": "/services/tire-repair",
+      "href": "/en/services/tire-repair",
       "label": "Tire repair and vulcanization"
     },
     {
-      "href": "/blog/used-tires-west-palm-beach",
+      "href": "/en/blog/used-tires-west-palm-beach",
       "label": "What to look for in a used tire"
     },
     {
-      "href": "/blog/used-tire-prices-west-palm-beach",
+      "href": "/en/blog/used-tire-prices-west-palm-beach",
       "label": "Why used tire prices are not listed here"
     },
     {
-      "href": "/blog/used-vs-new-tires-florida-heat",
+      "href": "/en/blog/used-vs-new-tires-florida-heat",
       "label": "Used or new tires in Florida heat"
     },
     {
-      "href": "/blog/tire-shop-no-appointment-walk-in",
+      "href": "/en/blog/tire-shop-no-appointment-walk-in",
       "label": "No appointment needed: walk in for tires"
     }
   ],

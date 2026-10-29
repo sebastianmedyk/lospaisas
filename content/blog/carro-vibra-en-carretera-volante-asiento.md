@@ -43,7 +43,7 @@ Mucha gente llega pidiendo alineación cuando lo que tiene es un problema de bal
 | La llanta se gasta más de un lado | Alineación | El desgaste y la alineación |
 | Empezó a vibrar después de un hoyo o de pegarle a la acera | Rin doblado o llanta dañada | Estado del rin y la llanta |
 
-Si el carro se jala y además vibra, puede que necesite las dos cosas. Le explicamos cuál va primero, sin rodeos, antes de empezar. Para el tema del jalón, vea [señales de que su carro necesita alineación](/es/blog/alineacion-geometria-military-trail-west-palm-beach).
+Si el carro se jala y además vibra, puede que necesite las dos cosas. Le explicamos cuál va primero, sin rodeos, antes de empezar. Para el tema del jalón, vea [señales de que su carro necesita alineación](/blog/alineacion-geometria-military-trail-west-palm-beach).
 
 ## ¿Qué más puede causar la vibración?
 
@@ -64,9 +64,9 @@ Recomendamos balancear cada vez que pone llantas nuevas o usadas, y de ahí en a
 
 Traiga el carro a 1114 S Military Trl, West Palm Beach, FL 33415. Abrimos **de lunes a domingo, de 8:00 AM a 7:00 PM**. Llame o escriba por WhatsApp al **(561) 429-4041**. El balanceo se hace en la máquina del taller, y antes de poner las pesas le decimos qué incluye el trabajo. Le atendemos en español o en inglés.
 
-Para el servicio, vea [balanceo de llantas en Los Paisas Tires Shop](/es/servicios/balanceo).
+Para el servicio, vea [balanceo de llantas en Los Paisas Tires Shop](/servicios/balanceo).
 
-Guías relacionadas: [Por qué se balancean las ruedas y cómo evitar cargos sorpresa](/es/blog/balanceo-sin-sorpresas), [Señales de que su carro necesita alineación](/es/blog/alineacion-geometria-military-trail-west-palm-beach) y [Manejar con una llanta parcheada](/es/blog/manejar-con-llanta-parcheada).
+Guías relacionadas: [Por qué se balancean las ruedas y cómo evitar cargos sorpresa](/blog/balanceo-sin-sorpresas), [Señales de que su carro necesita alineación](/blog/alineacion-geometria-military-trail-west-palm-beach) y [Manejar con una llanta parcheada](/blog/manejar-con-llanta-parcheada).
 
 ## Preguntas sobre la vibración a alta velocidad
 
@@ -84,4 +84,4 @@ Sí. En Los Paisas Tires Shop balanceamos todas las llantas que instalamos, nuev
 
 ### ¿Me balancean llantas que compré en otro lado?
 
-Sí. Balanceamos las llantas que usted trae igual que las que compra aquí. Vea [instalación de llantas del cliente](/es/blog/instalacion-llantas-del-cliente-west-palm-beach).
+Sí. Balanceamos las llantas que usted trae igual que las que compra aquí. Vea [instalación de llantas del cliente](/blog/instalacion-llantas-del-cliente-west-palm-beach).

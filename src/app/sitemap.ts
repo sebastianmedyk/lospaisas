@@ -1,157 +1,50 @@
 import type { MetadataRoute } from "next";
-import { getAllPosts, blogPath, postModifiedDate } from "@/lib/blog";
-import { blogLanguageAlternates } from "@/lib/blog-routes";
+import { getAllPosts, postModifiedDate } from "@/lib/blog";
 import { getAllLocalPages } from "@/lib/local-pages";
-import {
-  contactLanguageAlternates,
-  contactPath,
-  locationLanguageAlternates,
-  locationPath,
-} from "@/lib/place-routes";
-import { serviceLanguageAlternates, servicesPath } from "@/lib/service-routes";
+import { blogPath, homePath, languageAlternates, LOCALES, PAGE_GROUPS, servicesPath, type Locale } from "@/lib/routes";
 import { SITE_URL } from "@/lib/site";
 
-function placeEntry(
-  path: string,
-  languages: Record<string, string>,
-): MetadataRoute.Sitemap[number] {
-  return {
-    url: `${SITE_URL}${path}`,
-    changeFrequency: "monthly",
-    priority: 0.8,
-    alternates: {
-      languages: {
-        en: `${SITE_URL}${languages.en}`,
-        es: `${SITE_URL}${languages.es}`,
-        "x-default": `${SITE_URL}${languages["x-default"]}`,
-      },
-    },
-  };
-}
+const abs = (path: string) => (path === "/" ? SITE_URL : `${SITE_URL}${path}`);
 
+/** One entry per page per language (es, en, pl), each with the full hreflang set (es = x-default). */
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
-  // Only real content dates: posts use `updated`/`date`; listings use their newest post.
-  // Pages without a tracked content date omit lastModified instead of faking "now".
-  const newestPostDate = (locale?: "en" | "es") => {
-    const dates = posts
-      .filter((p) => (locale ? p.locale === locale : true))
-      .map((p) => postModifiedDate(p))
-      .sort();
-    return dates.length ? new Date(dates[dates.length - 1]) : undefined;
+  const localPages = getAllLocalPages();
+
+  // Only real content dates: posts use `updated`/`date`, listings their newest post,
+  // service/city pages their `updated` field. Others omit lastModified rather than fake "now".
+  const lastModified = (path: string, locale: Locale): Date | undefined => {
+    const post = posts.find((p) => p.locale === locale && blogPath(locale, p.slug) === path);
+    if (post) return new Date(postModifiedDate(post));
+    if (path === blogPath(locale)) {
+      const dates = posts.filter((p) => p.locale === locale).map(postModifiedDate).sort();
+      return dates.length ? new Date(dates[dates.length - 1]) : undefined;
+    }
+    const page = localPages.find((p) => p.path === path);
+    return page?.updated ? new Date(page.updated) : undefined;
   };
 
-  const staticRoutes: MetadataRoute.Sitemap = [
-    {
-      url: SITE_URL,
-      changeFrequency: "weekly",
-      priority: 1,
-      alternates: {
-        languages: {
-          en: SITE_URL,
-          es: `${SITE_URL}/es`,
-          "x-default": SITE_URL,
-        },
-      },
-    },
-    {
-      url: `${SITE_URL}/es`,
-      changeFrequency: "weekly",
-      priority: 1,
-      alternates: {
-        languages: {
-          en: SITE_URL,
-          es: `${SITE_URL}/es`,
-          "x-default": SITE_URL,
-        },
-      },
-    },
-    {
-      url: `${SITE_URL}/blog`,
-      lastModified: newestPostDate("en"),
-      changeFrequency: "weekly",
-      priority: 0.8,
-      alternates: {
-        languages: {
-          en: `${SITE_URL}/blog`,
-          es: `${SITE_URL}/es/blog`,
-          "x-default": `${SITE_URL}/blog`,
-        },
-      },
-    },
-    {
-      url: `${SITE_URL}/es/blog`,
-      lastModified: newestPostDate("es"),
-      changeFrequency: "weekly",
-      priority: 0.8,
-      alternates: {
-        languages: {
-          en: `${SITE_URL}/blog`,
-          es: `${SITE_URL}/es/blog`,
-          "x-default": `${SITE_URL}/blog`,
-        },
-      },
-    },
-    {
-      url: `${SITE_URL}${servicesPath("en")}`,
-      changeFrequency: "weekly",
-      priority: 0.9,
-      alternates: {
-        languages: {
-          en: `${SITE_URL}${serviceLanguageAlternates().en}`,
-          es: `${SITE_URL}${serviceLanguageAlternates().es}`,
-          "x-default": `${SITE_URL}${serviceLanguageAlternates()["x-default"]}`,
-        },
-      },
-    },
-    {
-      url: `${SITE_URL}${servicesPath("es")}`,
-      changeFrequency: "weekly",
-      priority: 0.9,
-      alternates: {
-        languages: {
-          en: `${SITE_URL}${serviceLanguageAlternates().en}`,
-          es: `${SITE_URL}${serviceLanguageAlternates().es}`,
-          "x-default": `${SITE_URL}${serviceLanguageAlternates()["x-default"]}`,
-        },
-      },
-    },
-    placeEntry(locationPath("en"), locationLanguageAlternates()),
-    placeEntry(locationPath("es"), locationLanguageAlternates()),
-    placeEntry(contactPath("en"), contactLanguageAlternates()),
-    placeEntry(contactPath("es"), contactLanguageAlternates()),
-  ];
+  const priority = (group: (typeof PAGE_GROUPS)[number]): number => {
+    if (group.es === homePath("es")) return 1;
+    if (group.es === servicesPath("es")) return 0.9;
+    if (group.es.startsWith(`${servicesPath("es")}/`)) return group.es.split("/").length > 3 ? 0.6 : 0.85;
+    if (group.es.startsWith(`${blogPath("es")}/`)) return 0.7;
+    return 0.8;
+  };
 
-  const postRoutes: MetadataRoute.Sitemap = posts.map((post) => {
-    const langs = blogLanguageAlternates(post.locale, post.slug);
-    return {
-      url: `${SITE_URL}${blogPath(post.locale, post.slug)}`,
-      lastModified: new Date(postModifiedDate(post)),
-      changeFrequency: "monthly" as const,
-      priority: 0.7,
-      alternates: {
-        languages: {
-          en: `${SITE_URL}${langs.en}`,
-          es: `${SITE_URL}${langs.es}`,
-          "x-default": `${SITE_URL}${langs["x-default"]}`,
-        },
-      },
-    };
+  return PAGE_GROUPS.flatMap((group) => {
+    const languages = Object.fromEntries(
+      Object.entries(languageAlternates(group)).map(([k, v]) => [k, abs(v)]),
+    );
+    return LOCALES.map((locale) => {
+      const modified = lastModified(group[locale], locale);
+      return {
+        url: abs(group[locale]),
+        ...(modified ? { lastModified: modified } : {}),
+        changeFrequency: group.es === "/" || group.es === blogPath("es") ? ("weekly" as const) : ("monthly" as const),
+        priority: priority(group),
+        alternates: { languages },
+      };
+    });
   });
-
-  const localRoutes: MetadataRoute.Sitemap = getAllLocalPages().map((page) => ({
-    url: `${SITE_URL}${page.path}`,
-    ...(page.updated ? { lastModified: new Date(page.updated) } : {}),
-    changeFrequency: "monthly" as const,
-    priority: page.kind === "city" ? 0.6 : 0.85,
-    alternates: {
-      languages: {
-        en: `${SITE_URL}${page.enPath}`,
-        es: `${SITE_URL}${page.esPath}`,
-        "x-default": `${SITE_URL}${page.enPath}`,
-      },
-    },
-  }));
-
-  return [...staticRoutes, ...localRoutes, ...postRoutes];
 }

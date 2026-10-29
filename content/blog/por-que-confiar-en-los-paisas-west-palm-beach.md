@@ -51,9 +51,9 @@ Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo. Una ponchad
 
 La confianza se construye visita a visita. Si necesitas llantas, alineación o balanceo en Military Trl, West Palm Beach, estamos listos para ayudarte.
 
-Mira [llantas usadas](/es/servicios/llantas-usadas), [llantas nuevas](/es/servicios/llantas-nuevas) y [todos los servicios](/es/servicios).
+Mira [llantas usadas](/servicios/llantas-usadas), [llantas nuevas](/servicios/llantas-nuevas) y [todos los servicios](/servicios).
 
-Guías relacionadas: [Por qué se balancean las ruedas y cómo evitar cargos sorpresa](/es/blog/balanceo-sin-sorpresas), [Precio de llantas usadas en West Palm Beach](/es/blog/precio-llantas-usadas-west-palm-beach) y [¿Llanta ponchada el domingo?](/es/blog/llanta-ponchada-domingo-military-trail).
+Guías relacionadas: [Por qué se balancean las ruedas y cómo evitar cargos sorpresa](/blog/balanceo-sin-sorpresas), [Precio de llantas usadas en West Palm Beach](/blog/precio-llantas-usadas-west-palm-beach) y [¿Llanta ponchada el domingo?](/blog/llanta-ponchada-domingo-military-trail).
 
 ## Preguntas sobre Los Paisas Tires Shop
 

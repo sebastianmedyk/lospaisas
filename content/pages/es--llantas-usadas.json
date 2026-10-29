@@ -1,7 +1,5 @@
 {
-  "path": "/es/servicios/llantas-usadas",
-  "enPath": "/services/used-tires",
-  "esPath": "/es/servicios/llantas-usadas",
+  "path": "/servicios/llantas-usadas",
   "locale": "es",
   "kind": "service",
   "title": "Llantas Usadas en West Palm Beach | Los Paisas Tires Shop",
@@ -69,31 +67,31 @@
   "moreHeading": "Otro trabajo de llantas en el taller",
   "links": [
     {
-      "href": "/es/servicios/llantas-nuevas",
+      "href": "/servicios/llantas-nuevas",
       "label": "Llantas nuevas en West Palm Beach"
     },
     {
-      "href": "/es/servicios/balanceo",
+      "href": "/servicios/balanceo",
       "label": "Balanceo sin cargos ocultos"
     },
     {
-      "href": "/es/servicios/reparacion-de-llantas",
+      "href": "/servicios/reparacion-de-llantas",
       "label": "Reparación y vulcanización"
     },
     {
-      "href": "/es/blog/llantas-usadas-west-palm-beach",
+      "href": "/blog/llantas-usadas-west-palm-beach",
       "label": "Qué mirar en una llanta usada"
     },
     {
-      "href": "/es/blog/precio-llantas-usadas-west-palm-beach",
+      "href": "/blog/precio-llantas-usadas-west-palm-beach",
       "label": "Por qué aquí no hay precios"
     },
     {
-      "href": "/es/blog/llantas-usadas-o-nuevas-calor-florida",
+      "href": "/blog/llantas-usadas-o-nuevas-calor-florida",
       "label": "Usadas o nuevas con el calor de Florida"
     },
     {
-      "href": "/es/blog/llantas-sin-cita-west-palm-beach",
+      "href": "/blog/llantas-sin-cita-west-palm-beach",
       "label": "Sin cita: llegue directo por sus llantas"
     }
   ],

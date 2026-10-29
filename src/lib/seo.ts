@@ -1,5 +1,6 @@
 import { BUSINESS, LOGO_PATH, SHOP_PHOTOS } from "@/lib/constants";
 import { SITE_URL, absoluteUrl } from "@/lib/site";
+import { IN_LANGUAGE, type Locale } from "@/lib/routes";
 
 export const AREA_SERVED = [
   "West Palm Beach",
@@ -20,43 +21,43 @@ export const SERVICE_OFFERS = [
     name: "New Tires",
     description:
       "New tires matched to the vehicle at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.",
-    url: "/services/new-tires",
+    url: "/en/services/new-tires",
   },
   {
     name: "Used Tires",
     description:
       "Checked used tires at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.",
-    url: "/services/used-tires",
+    url: "/en/services/used-tires",
   },
   {
     name: "Wheel Alignment",
     description:
       "Precision wheel alignment (geometría) for safer handling and even tire wear on the S Military Trl corridor in West Palm Beach.",
-    url: "/services/wheel-alignment",
+    url: "/en/services/wheel-alignment",
   },
   {
     name: "Tire Balancing",
     description:
       "Wheel balancing with no hidden fees at Los Paisas Tires Shop in West Palm Beach.",
-    url: "/services/tire-balancing",
+    url: "/en/services/tire-balancing",
   },
   {
     name: "Tire Repair & Vulcanization",
     description:
       "Professional tire repair and vulcanization to get West Palm Beach and Palm Beach County drivers back on the road safely.",
-    url: "/services/tire-repair",
+    url: "/en/services/tire-repair",
   },
   {
     name: "Install Customer Tires",
     description:
       "Mount and install tires you already purchased — careful install by the Los Paisas Tires Shop team on S Military Trl.",
-    url: "/services/tire-installation",
+    url: "/en/services/tire-installation",
   },
   {
     name: "Mobile Tire Service Within 10 Miles",
     description:
       "Mobile tire service within 10 miles of 1114 S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
-    url: "/services/mobile-tire-service",
+    url: "/en/services/mobile-tire-service",
   },
 ] as const;
 
@@ -155,7 +156,7 @@ export function localBusinessJsonLd() {
       },
     ],
     hasMap: BUSINESS.mapsPlaceUrl,
-    knowsLanguage: ["en", "es"],
+    knowsLanguage: ["es", "en"],
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "Tire services at Los Paisas Tires Shop",
@@ -215,7 +216,7 @@ export function webSiteJsonLd() {
     "@id": `${SITE_URL}/#website`,
     name: BUSINESS.name,
     url: SITE_URL,
-    inLanguage: ["en-US", "es-US"],
+    inLanguage: ["es-US", "en-US", "pl-PL"],
     description:
       "Official website for Los Paisas Tires Shop — new & used tires, alignment, balancing, repair & vulcanization on S Military Trl, West Palm Beach, FL.",
     publisher: organizationPublisher(),
@@ -247,7 +248,7 @@ export function articleJsonLd(input: {
   /** Last real content update; defaults to `date`. */
   dateModified?: string;
   url: string;
-  locale: "en" | "es";
+  locale: Locale;
 }) {
   return {
     "@context": "https://schema.org",
@@ -256,7 +257,7 @@ export function articleJsonLd(input: {
     description: input.description,
     datePublished: input.date,
     dateModified: input.dateModified || input.date,
-    inLanguage: input.locale === "es" ? "es-US" : "en-US",
+    inLanguage: IN_LANGUAGE[input.locale],
     image: [absoluteUrl("/brand/promo-sunday.jpg")],
     author: {
       "@type": "Organization",
@@ -314,21 +315,21 @@ export function flatTireSundayHowToJsonLd() {
         position: 1,
         name: "Call or WhatsApp the shop",
         text: "Call or WhatsApp Los Paisas Tires Shop at (561) 429-4041. Confirm you need tire repair, vulcanization, a new or used tire, or an install — and whether you can drive in or need mobile service within 10 miles.",
-        url: absoluteUrl("/contact"),
+        url: absoluteUrl("/en/contact"),
       },
       {
         "@type": "HowToStep",
         position: 2,
         name: "Come in or request mobile service",
         text: "Drive to 1114 S Military Trl, West Palm Beach, FL 33415 if the vehicle is safe to move. If not, ask about mobile tire service within 10 miles of the shop covering West Palm Beach and nearby Palm Beach County cities.",
-        url: absoluteUrl("/location"),
+        url: absoluteUrl("/en/location"),
       },
       {
         "@type": "HowToStep",
         position: 3,
         name: "Get repair, vulcanization, or a replacement tire",
         text: "The Los Paisas Tires Shop team inspects the tire and repairs or vulcanizes when possible, or mounts a new or used tire, installs customer-owned tires, and balances as needed with no hidden fees. Open Sunday 8:00 AM–7:00 PM — same hours as every other day.",
-        url: absoluteUrl("/services/tire-repair"),
+        url: absoluteUrl("/en/services/tire-repair"),
       },
     ],
   };

@@ -39,11 +39,11 @@ Balance a wheel after a tire is mounted, repaired, or moved from another car, or
 
 ## How do I get my wheels balanced?
 
-Bring the car to the shop: balancing is done on the machine at 1114 S Military Trl, open **7 days, 8:00 AM – 7:00 PM**. Call or WhatsApp **(561) 429-4041**. See [our location](/location) for the map and [services](/services/tire-balancing) for the full tire-focused list.
+Bring the car to the shop: balancing is done on the machine at 1114 S Military Trl, open **7 days, 8:00 AM – 7:00 PM**. Call or WhatsApp **(561) 429-4041**. See [our location](/en/location) for the map and [services](/en/services/tire-balancing) for the full tire-focused list.
 
-For the service itself, see [tire balancing at Los Paisas Tires Shop](/services/tire-balancing).
+For the service itself, see [tire balancing at Los Paisas Tires Shop](/en/services/tire-balancing).
 
-Related guides: [Signs your car needs a wheel alignment](/blog/wheel-alignment-military-trail-west-palm-beach), [Bought tires online? What to know before installation](/blog/install-customer-tires-west-palm-beach), and [Why drivers trust Los Paisas Tires Shop](/blog/why-drivers-trust-los-paisas-west-palm-beach).
+Related guides: [Signs your car needs a wheel alignment](/en/blog/wheel-alignment-military-trail-west-palm-beach), [Bought tires online? What to know before installation](/en/blog/install-customer-tires-west-palm-beach), and [Why drivers trust Los Paisas Tires Shop](/en/blog/why-drivers-trust-los-paisas-west-palm-beach).
 
 ## Questions about wheel balancing
 

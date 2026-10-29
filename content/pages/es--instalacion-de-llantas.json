@@ -1,7 +1,5 @@
 {
-  "path": "/es/servicios/instalacion-de-llantas",
-  "enPath": "/services/tire-installation",
-  "esPath": "/es/servicios/instalacion-de-llantas",
+  "path": "/servicios/instalacion-de-llantas",
   "locale": "es",
   "kind": "service",
   "title": "Instalación de Llantas en West Palm Beach | Los Paisas",
@@ -68,19 +66,19 @@
   "moreHeading": "Si todavía necesitas llantas nuestras",
   "links": [
     {
-      "href": "/es/servicios/llantas-nuevas",
+      "href": "/servicios/llantas-nuevas",
       "label": "Llantas nuevas vendidas en el taller"
     },
     {
-      "href": "/es/servicios/llantas-usadas",
+      "href": "/servicios/llantas-usadas",
       "label": "Llantas usadas revisadas antes de montar"
     },
     {
-      "href": "/es/servicios/balanceo",
+      "href": "/servicios/balanceo",
       "label": "Balanceo con el precio dicho primero"
     },
     {
-      "href": "/es/blog/instalacion-llantas-del-cliente-west-palm-beach",
+      "href": "/blog/instalacion-llantas-del-cliente-west-palm-beach",
       "label": "Traer tus propias llantas a Military Trl"
     }
   ]

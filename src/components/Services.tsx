@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { servicesPath } from "@/lib/service-routes";
+import { servicesPath } from "@/lib/routes";
 import SectionHeading from "./SectionHeading";
 import ServiceCards, { type ServiceLayout } from "./ServiceCards";
 

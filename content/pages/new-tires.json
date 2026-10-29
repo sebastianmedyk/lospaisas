@@ -1,7 +1,5 @@
 {
-  "path": "/services/new-tires",
-  "enPath": "/services/new-tires",
-  "esPath": "/es/servicios/llantas-nuevas",
+  "path": "/en/services/new-tires",
   "locale": "en",
   "kind": "service",
   "title": "New Tires in West Palm Beach | Los Paisas Tires Shop",
@@ -68,27 +66,27 @@
   "moreHeading": "Related work on the same visit",
   "links": [
     {
-      "href": "/services/used-tires",
+      "href": "/en/services/used-tires",
       "label": "Used tires when a new set is more than you need"
     },
     {
-      "href": "/services/wheel-alignment",
+      "href": "/en/services/wheel-alignment",
       "label": "Wheel alignment after uneven wear"
     },
     {
-      "href": "/services/tire-balancing",
+      "href": "/en/services/tire-balancing",
       "label": "Balancing with no hidden fees"
     },
     {
-      "href": "/blog/new-tires-west-palm-beach-military-trail",
+      "href": "/en/blog/new-tires-west-palm-beach-military-trail",
       "label": "New tires on Military Trl"
     },
     {
-      "href": "/blog/used-vs-new-tires-florida-heat",
+      "href": "/en/blog/used-vs-new-tires-florida-heat",
       "label": "Used or new tires in Florida heat"
     },
     {
-      "href": "/blog/tire-shop-spanish-creole-west-palm-beach",
+      "href": "/en/blog/tire-shop-spanish-creole-west-palm-beach",
       "label": "Tire choices explained in Spanish, English, or Creole"
     }
   ],

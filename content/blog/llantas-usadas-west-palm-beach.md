@@ -35,13 +35,13 @@ Cualquier día. Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**, incluyendo
 
 ## ¿Cómo encuentro una llanta usada en mi medida?
 
-Llama o escribe por WhatsApp al **(561) 429-4041** con la medida de tu llanta, o visita el taller o [mira nuestros servicios](/es/servicios/llantas-usadas): alineación, balanceo sin cargos ocultos, reparación y vulcanización, e instalación de llantas del cliente.
+Llama o escribe por WhatsApp al **(561) 429-4041** con la medida de tu llanta, o visita el taller o [mira nuestros servicios](/servicios/llantas-usadas): alineación, balanceo sin cargos ocultos, reparación y vulcanización, e instalación de llantas del cliente.
 
 **Los Paisas Tires Shop** — ayuda local con llantas en Military Trl, West Palm Beach.
 
-¿Listo para comprar? Mira [llantas usadas en Los Paisas Tires Shop](/es/servicios/llantas-usadas) para ver cómo las vendemos en el taller.
+¿Listo para comprar? Mira [llantas usadas en Los Paisas Tires Shop](/servicios/llantas-usadas) para ver cómo las vendemos en el taller.
 
-Guías relacionadas: [Precio de llantas usadas en West Palm Beach](/es/blog/precio-llantas-usadas-west-palm-beach), [Llantas usadas o nuevas con el calor de Florida](/es/blog/llantas-usadas-o-nuevas-calor-florida) y [Comprar llantas nuevas: medidas y tipo de manejo](/es/blog/llantas-nuevas-west-palm-beach-military-trail).
+Guías relacionadas: [Precio de llantas usadas en West Palm Beach](/blog/precio-llantas-usadas-west-palm-beach), [Llantas usadas o nuevas con el calor de Florida](/blog/llantas-usadas-o-nuevas-calor-florida) y [Comprar llantas nuevas: medidas y tipo de manejo](/blog/llantas-nuevas-west-palm-beach-military-trail).
 
 ## Preguntas sobre comprar llantas usadas
 

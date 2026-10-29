@@ -1,7 +1,5 @@
 {
-  "path": "/services/tire-balancing",
-  "enPath": "/services/tire-balancing",
-  "esPath": "/es/servicios/balanceo",
+  "path": "/en/services/tire-balancing",
   "locale": "en",
   "kind": "service",
   "title": "Tire Balancing in West Palm Beach | Los Paisas Tires Shop",
@@ -68,27 +66,27 @@
   "moreHeading": "If balance is only part of the problem",
   "links": [
     {
-      "href": "/services/wheel-alignment",
+      "href": "/en/services/wheel-alignment",
       "label": "Wheel alignment when the car pulls"
     },
     {
-      "href": "/services/tire-installation",
+      "href": "/en/services/tire-installation",
       "label": "Install tires you already bought"
     },
     {
-      "href": "/services/tire-repair",
+      "href": "/en/services/tire-repair",
       "label": "Repair a nail before you balance"
     },
     {
-      "href": "/blog/wheel-balancing-no-hidden-fees",
+      "href": "/en/blog/wheel-balancing-no-hidden-fees",
       "label": "Why we talk about hidden fees"
     },
     {
-      "href": "/blog/why-drivers-trust-los-paisas-west-palm-beach",
+      "href": "/en/blog/why-drivers-trust-los-paisas-west-palm-beach",
       "label": "Why drivers trust Los Paisas: price before the work"
     },
     {
-      "href": "/blog/car-shakes-at-highway-speed-west-palm-beach",
+      "href": "/en/blog/car-shakes-at-highway-speed-west-palm-beach",
       "label": "Why does my car shake at highway speed?"
     }
   ],

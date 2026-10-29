@@ -1,13 +1,14 @@
 "use client";
 
+import { blogPath, pick } from "@/lib/routes";
 import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { BUSINESS } from "@/lib/constants";
-import { contactPath, locationPath } from "@/lib/place-routes";
+import { contactPath, locationPath } from "@/lib/routes";
 
 export default function KeyFacts() {
   const { t, locale } = useLanguage();
-  const blogHref = locale === "es" ? "/es/blog" : "/blog";
+  const blogHref = blogPath(locale);
   const kf = t.keyFacts;
 
   return (
@@ -73,9 +74,11 @@ export default function KeyFacts() {
               <li>{BUSINESS.address}</li>
               <li>{BUSINESS.phoneDisplay}</li>
               <li>
-                {locale === "es"
-                  ? `Abierto 7 días · ${BUSINESS.hours} (incluyendo domingo)`
-                  : `Open 7 days · ${BUSINESS.hours} (including Sunday)`}
+                {pick(locale, {
+                  es: `Abierto 7 días · ${BUSINESS.hours} (incluyendo domingo)`,
+                  en: `Open 7 days · ${BUSINESS.hours} (including Sunday)`,
+                  pl: `Otwarte 7 dni · ${BUSINESS.hours} (także w niedzielę)`,
+                })}
               </li>
             </ul>
           </div>

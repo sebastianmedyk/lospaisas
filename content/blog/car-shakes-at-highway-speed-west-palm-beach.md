@@ -43,7 +43,7 @@ Many drivers come in asking for an alignment when the real problem is balance. T
 | Tread wearing on one shoulder | Alignment | Tread pattern and alignment |
 | Shake that started after a curb or pothole hit | Bent wheel or damaged tire | Wheel and tire condition |
 
-If the car pulls and also shakes, both may be needed. We explain which one first, in plain words, before any work starts. See [signs your car needs a wheel alignment](/blog/wheel-alignment-military-trail-west-palm-beach) for the pulling side of the story.
+If the car pulls and also shakes, both may be needed. We explain which one first, in plain words, before any work starts. See [signs your car needs a wheel alignment](/en/blog/wheel-alignment-military-trail-west-palm-beach) for the pulling side of the story.
 
 ## What else can cause a vibration at speed?
 
@@ -64,9 +64,9 @@ Los Paisas Tires Shop recommends balancing every time you put on new or used tir
 
 Bring the car to 1114 S Military Trl, West Palm Beach, FL 33415. The shop is open **8:00 AM to 7:00 PM, Monday through Sunday**. Call or WhatsApp **(561) 429-4041**. Balancing is done on the machine in the shop, and you hear what the work involves before the weights go on. The team explains it in English or Spanish.
 
-For the service itself, see [tire balancing at Los Paisas Tires Shop](/services/tire-balancing).
+For the service itself, see [tire balancing at Los Paisas Tires Shop](/en/services/tire-balancing).
 
-Related guides: [Why wheels need balancing, and how to avoid surprise fees](/blog/wheel-balancing-no-hidden-fees), [Signs your car needs a wheel alignment](/blog/wheel-alignment-military-trail-west-palm-beach), and [Can you keep driving on a patch](/blog/driving-on-a-tire-patch-or-plug).
+Related guides: [Why wheels need balancing, and how to avoid surprise fees](/en/blog/wheel-balancing-no-hidden-fees), [Signs your car needs a wheel alignment](/en/blog/wheel-alignment-military-trail-west-palm-beach), and [Can you keep driving on a patch](/en/blog/driving-on-a-tire-patch-or-plug).
 
 ## Questions about a car that shakes at speed
 
@@ -84,4 +84,4 @@ Yes. Los Paisas Tires Shop balances whatever tires it installs, new or used, so 
 
 ### Can you balance tires I bought somewhere else?
 
-Yes. The shop balances tires you bring in, the same as tires bought here. See [installing customer-owned tires](/blog/install-customer-tires-west-palm-beach).
+Yes. The shop balances tires you bring in, the same as tires bought here. See [installing customer-owned tires](/en/blog/install-customer-tires-west-palm-beach).

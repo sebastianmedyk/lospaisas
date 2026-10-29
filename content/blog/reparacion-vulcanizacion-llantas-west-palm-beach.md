@@ -46,9 +46,9 @@ Si llegas con el repuesto puesto, también podemos ayudarte a volver al juego co
 
 ¿Pinchazo en Military Trl o cerca? Contacta Los Paisas Tires Shop y te ayudamos.
 
-Para el servicio, mira [reparación de llantas en el taller](/es/servicios/reparacion-de-llantas).
+Para el servicio, mira [reparación de llantas en el taller](/servicios/reparacion-de-llantas).
 
-Guías relacionadas: [Manejar con una llanta parcheada](/es/blog/manejar-con-llanta-parcheada), [¿Llanta ponchada el domingo?](/es/blog/llanta-ponchada-domingo-military-trail) y [Cómo pedir el servicio móvil de llantas](/es/blog/servicio-movil-llantas-west-palm-beach).
+Guías relacionadas: [Manejar con una llanta parcheada](/blog/manejar-con-llanta-parcheada), [¿Llanta ponchada el domingo?](/blog/llanta-ponchada-domingo-military-trail) y [Cómo pedir el servicio móvil de llantas](/blog/servicio-movil-llantas-west-palm-beach).
 
 ## Preguntas sobre la reparación de llantas
 

@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { PHOTOS, type Photo } from "@/lib/photos";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { serviceHref } from "@/lib/service-routes";
+import { pick, serviceHref } from "@/lib/routes";
 import Reveal from "./Reveal";
 
 const focus =
@@ -45,14 +45,13 @@ export default function ServiceCards({
   layout?: ServiceLayout;
 }) {
   const { t, locale } = useLanguage();
-  const es = locale === "es";
   const items = t.services.items;
   const Heading = headingLevel;
   const tagFor = (index: number) =>
     index === 0
-      ? { text: es ? "Nuevas" : "New", cls: "bg-brand-gold text-brand-bg" }
+      ? { text: pick(locale, { es: "Nuevas", en: "New", pl: "Nowe" }), cls: "bg-brand-gold text-brand-bg" }
       : index === 1
-        ? { text: es ? "Usadas" : "Used", cls: "bg-brand-red text-white" }
+        ? { text: pick(locale, { es: "Usadas", en: "Used", pl: "Używane" }), cls: "bg-brand-red text-white" }
         : null;
   const order = [0, 1, 4, 3, 2, 5, 6];
 

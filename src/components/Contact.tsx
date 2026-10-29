@@ -1,9 +1,10 @@
 "use client";
+import { promoLocale } from "@/lib/routes";
 
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { contactPath } from "@/lib/place-routes";
+import { contactPath } from "@/lib/routes";
 import {
   AppleMapsIcon,
   CatalogIcon,
@@ -107,7 +108,7 @@ export default function Contact() {
 
         <div className="relative mx-auto w-full max-w-md lg:max-w-none">
           <PromoPanel
-            imageSrc={`/brand/locale/balance-${locale}.webp`}
+            imageSrc={`/brand/locale/balance-${promoLocale(locale)}.webp`}
             alt={t.promo.balance}
           />
         </div>

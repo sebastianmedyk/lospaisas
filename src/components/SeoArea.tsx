@@ -1,12 +1,13 @@
 "use client";
 
+import { blogPath } from "@/lib/routes";
 import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { locationPath } from "@/lib/place-routes";
+import { locationPath } from "@/lib/routes";
 
 export default function SeoArea() {
   const { t, locale } = useLanguage();
-  const blogHref = locale === "es" ? "/es/blog" : "/blog";
+  const blogHref = blogPath(locale);
 
   return (
     <section

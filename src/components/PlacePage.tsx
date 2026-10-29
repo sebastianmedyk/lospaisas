@@ -22,18 +22,20 @@ import {
 } from "@/components/Icons";
 import { BUSINESS } from "@/lib/constants";
 import { getDictionary, type Locale } from "@/lib/i18n";
-import { contactPath, locationPath } from "@/lib/place-routes";
+import { contactPath, homePath, IN_LANGUAGE, locationPath, promoLocale } from "@/lib/routes";
 import { breadcrumbJsonLd } from "@/lib/seo";
 import { absoluteUrl, SITE_URL } from "@/lib/site";
 
 const H1 = {
   location: {
-    en: "The Shop on S Military Trl",
     es: "El taller en S Military Trl",
+    en: "The Shop on S Military Trl",
+    pl: "Warsztat przy S Military Trl",
   },
   contact: {
-    en: "Call, WhatsApp, or Visit",
     es: "Llama, WhatsApp o visítanos",
+    en: "Call, WhatsApp, or Visit",
+    pl: "Zadzwoń, napisz na WhatsApp albo wpadnij",
   },
 } as const;
 
@@ -57,7 +59,7 @@ export default function PlacePage({ locale, kind }: Props) {
     <BlogShell locale={locale}>
       <JsonLd
         data={breadcrumbJsonLd([
-          { name: t.nav.home, url: absoluteUrl("/") },
+          { name: t.nav.home, url: absoluteUrl(homePath(locale)) },
           { name: label, url: pageUrl },
         ])}
       />
@@ -68,14 +70,14 @@ export default function PlacePage({ locale, kind }: Props) {
           "@id": `${pageUrl}#webpage`,
           url: pageUrl,
           name: h1,
-          inLanguage: locale === "es" ? "es-US" : "en-US",
+          inLanguage: IN_LANGUAGE[locale],
           isPartOf: { "@id": `${SITE_URL}/#website` },
           about: { "@id": `${SITE_URL}/#business` },
           mainEntity: { "@id": `${SITE_URL}/#business` },
         }}
       />
       <PageHero
-        crumbs={[{ name: t.nav.home, href: "/" }, { name: label }]}
+        crumbs={[{ name: t.nav.home, href: homePath(locale) }, { name: label }]}
         breadcrumbLabel={t.a11y.breadcrumb}
         eyebrow={label}
         title={h1}
@@ -84,8 +86,11 @@ export default function PlacePage({ locale, kind }: Props) {
         extra={
           <LangSwitch
             locale={locale}
-            enHref={kind === "location" ? locationPath("en") : contactPath("en")}
-            esHref={kind === "location" ? locationPath("es") : contactPath("es")}
+            hrefs={{
+              es: kind === "location" ? locationPath("es") : contactPath("es"),
+              en: kind === "location" ? locationPath("en") : contactPath("en"),
+              pl: kind === "location" ? locationPath("pl") : contactPath("pl"),
+            }}
           />
         }
       />
@@ -268,7 +273,7 @@ function ContactBody({ locale }: { locale: Locale }) {
       </div>
       <div className="relative mx-auto w-full max-w-md lg:max-w-none">
         <PhotoStrip photos={[PHOTOS.office]} locale={locale} className="mb-6" />
-        <PromoPanel imageSrc={`/brand/locale/balance-${locale}.webp`} alt={t.promo.balance} />
+        <PromoPanel imageSrc={`/brand/locale/balance-${promoLocale(locale)}.webp`} alt={t.promo.balance} />
       </div>
     </div>
   );
