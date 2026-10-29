@@ -1,5 +1,5 @@
 ---
-title: "Guma w niedzielę? Jesteśmy otwarci przy S Military Trl"
+title: "Guma w niedzielę? Jesteśmy otwarci"
 description: "Złapałeś gumę w niedzielę w West Palm Beach? Los Paisas Tires Shop przy S Military Trl jest otwarty 7 dni w tygodniu, 8 AM–7 PM: naprawa, wulkanizacja i montaż."
 date: "2026-08-28"
 updated: "2026-10-19"

@@ -1,5 +1,5 @@
 ---
-title: "Dlaczego koła trzeba wyważać i jak uniknąć niespodzianek na rachunku"
+title: "Wyważanie kół bez niespodzianek na rachunku"
 description: "Masz dość niespodziewanych opłat w warsztacie? Los Paisas Tires Shop przy S Military Trl uczciwie wyważa koła, z jasnymi cenami dla kierowców z West Palm Beach."
 date: "2026-08-23"
 updated: "2026-10-19"

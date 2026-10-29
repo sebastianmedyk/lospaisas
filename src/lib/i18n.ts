@@ -7,7 +7,7 @@ export const translations = {
     meta: {
       title: "Tire Shop in West Palm Beach – New & Used Tires | Los Paisas",
       description:
-        "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach — new & used tires, alignment, balancing, repair & vulcanization. Serving West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach & Palm Beach County. Mobile within 10 miles. Open 7 days, 8 AM–7 PM. Call or WhatsApp (561) 429-4041.",
+        "New & used tires, alignment, balancing and tire repair at 1114 S Military Trl, West Palm Beach. Walk-ins welcome, open 7 days, 8 AM–7 PM. (561) 429-4041.",
       keywords: [
         "tire shop West Palm Beach",
         "used tires Military Trl",
@@ -323,7 +323,7 @@ export const translations = {
     meta: {
       title: "Llantera en West Palm Beach: usadas y nuevas | Los Paisas",
       description:
-        "Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach — llantas nuevas y usadas, alineación, balanceo, reparación y vulcanización. Atendemos West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County. Servicio a domicilio a 10 millas. Abierto 7 días, 8 AM–7 PM. Llama o WhatsApp (561) 429-4041.",
+        "Llantas nuevas y usadas, alineación, balanceo y reparación en 1114 S Military Trl, West Palm Beach. Sin cita, abierto 7 días de 8 AM a 7 PM. (561) 429-4041.",
       keywords: [
         "llantas West Palm Beach",
         "tienda de llantas cerca de mí West Palm Beach",

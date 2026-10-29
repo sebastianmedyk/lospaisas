@@ -1,5 +1,5 @@
 ---
-title: "Told You Need Four New Tires? When a Repair or One Tire Is Enough"
+title: "Do You Really Need Four New Tires?"
 description: "Told you need a full set of new tires? Often one repairable puncture or one good used tire is enough. How Los Paisas Tires Shop on S Military Trl decides."
 date: "2026-08-16"
 updated: "2026-08-16"

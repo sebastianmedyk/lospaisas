@@ -1,5 +1,5 @@
 ---
-title: "Opony kupione w internecie? Co warto wiedzieć przed montażem"
+title: "Opony z internetu? Zanim je zamontujesz"
 description: "Kupiłeś opony w internecie albo gdzie indziej? Los Paisas Tires Shop przy S Military Trl montuje opony klienta z jasną ceną: otwarte 7 dni w West Palm Beach."
 date: "2026-08-12"
 updated: "2026-10-19"

@@ -1,6 +1,7 @@
 ---
-title: "Dlaczego kierowcy z West Palm Beach ufają Los Paisas Tires Shop"
-description: "Dlaczego kierowcy z West Palm Beach ufają Los Paisas przy S Military Trl: uczciwe ceny, jasne wyjaśnienia, nowe i używane opony, geometria, wyważanie, 7 dni w tygodniu."
+title: "Dlaczego kierowcy z West Palm Beach ufają Los Paisas"
+absoluteTitle: true
+description: "Dlaczego kierowcy ufają Los Paisas przy S Military Trl: uczciwe ceny, jasne wyjaśnienia, nowe i używane opony, geometria, wyważanie, 7 dni."
 date: "2026-09-03"
 updated: "2026-10-19"
 locale: pl

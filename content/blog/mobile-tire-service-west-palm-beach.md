@@ -1,5 +1,5 @@
 ---
-title: "Booking Mobile Tire Service: What to Tell Us Before the Van Comes"
+title: "Mobile Tire Service: What to Tell Us First"
 description: "Need tires without driving in? Los Paisas offers mobile tire service within 10 miles of S Military Trl — West Palm Beach, Greenacres, Palm Springs & nearby."
 date: "2026-07-15"
 updated: "2026-10-19"

@@ -1,5 +1,5 @@
 ---
-title: "Cómo pedir el servicio móvil de llantas: qué decirnos antes de que salga la van"
+title: "Servicio móvil de llantas: qué decirnos antes"
 description: "¿Necesitas llantas sin llegar al taller? Los Paisas ofrece servicio móvil a 10 millas de S Military Trl — West Palm Beach, Greenacres, Palm Springs y cerca."
 date: "2026-07-15"
 updated: "2026-10-19"

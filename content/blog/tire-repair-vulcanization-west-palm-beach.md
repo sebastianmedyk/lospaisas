@@ -1,5 +1,5 @@
 ---
-title: "When Can a Flat Be Repaired? Repair vs. Vulcanization Explained"
+title: "When Can a Flat Tire Be Repaired?"
 description: "Flat or puncture in West Palm Beach? Los Paisas Tires Shop on S Military Trl offers tire repair and vulcanization when safe — open 7 days, bilingual staff."
 date: "2026-08-03"
 updated: "2026-10-19"

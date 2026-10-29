@@ -1,6 +1,6 @@
 ---
 title: "Señales de que tu carro necesita alineación"
-description: "¿Necesitas alineación en West Palm Beach? Los Paisas Tires Shop en S Military Trl revisa desvío, desgaste irregular y geometría — abiertos 7 días, precios claros."
+description: "¿Necesitas alineación en West Palm Beach? En S Military Trl revisamos desvío, desgaste irregular y geometría. Abiertos 7 días, precios claros."
 date: "2026-07-22"
 updated: "2026-10-19"
 locale: es

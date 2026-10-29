@@ -77,6 +77,7 @@ export default function PlacePage({ locale, kind }: Props) {
         }}
       />
       <PageHero
+  locale={locale}
         crumbs={[{ name: t.nav.home, href: homePath(locale) }, { name: label }]}
         breadcrumbLabel={t.a11y.breadcrumb}
         eyebrow={label}
@@ -270,6 +271,16 @@ function ContactBody({ locale }: { locale: Locale }) {
           </p>
           <p className="mt-2 text-sm text-white/55">{t.location.servingNote}</p>
         </address>
+        <div className="cut-md mt-8 overflow-hidden rounded-none border border-white/15 bg-black/40">
+          <iframe
+            title={t.location.mapTitle}
+            src={BUSINESS.mapsEmbed}
+            className="h-[280px] w-full min-h-[280px] border-0 sm:h-[360px] sm:min-h-[360px]"
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            allowFullScreen
+          />
+        </div>
       </div>
       <div className="relative mx-auto w-full max-w-md lg:max-w-none">
         <PhotoStrip photos={[PHOTOS.office]} locale={locale} className="mb-6" />

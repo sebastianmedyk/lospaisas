@@ -1,19 +1,19 @@
 ---
-title: "A Tire Shop in West Palm Beach That Speaks Spanish and Creole"
-description: "Los Paisas Tires Shop on S Military Trl serves customers in Spanish, English, and Creole, and explains tire work clearly before it starts. Open 7 days, 8–7."
+title: "Spanish & English Tire Shop in West Palm Beach"
+description: "Los Paisas Tires Shop on S Military Trl serves customers in Spanish and English, and explains tire work clearly before it starts. Open 7 days, 8–7."
 date: "2026-08-14"
 updated: "2026-08-14"
 locale: en
 slug: tire-shop-spanish-creole-west-palm-beach
-h1: "Is There a Tire Shop in West Palm Beach That Speaks Spanish and Creole?"
+h1: "Is There a Tire Shop in West Palm Beach That Speaks Spanish and English?"
 keywords:
   - Spanish speaking tire shop West Palm Beach
-  - Creole speaking tire shop West Palm Beach
+  - English and Spanish tire shop West Palm Beach
   - bilingual tire shop Military Trail
   - tire shop that explains the work
 ---
 
-Yes. **Los Paisas Tires Shop**, at 1114 S Military Trl in West Palm Beach, serves customers in **Spanish, English, and Creole**. The team explains tire choices, balancing, alignment, and repairs in the language you prefer, before any work starts, seven days a week from 8:00 AM to 7:00 PM.
+Yes. **Los Paisas Tires Shop**, at 1114 S Military Trl in West Palm Beach, serves customers in **Spanish and English**. The team explains tire choices, balancing, alignment, and repairs in the language you prefer, before any work starts, seven days a week from 8:00 AM to 7:00 PM.
 
 ## Why does language matter at a tire shop?
 
@@ -23,11 +23,10 @@ Los Paisas Tires Shop is a local shop on S Military Trail that serves the whole 
 
 ## Which languages does Los Paisas Tires Shop speak?
 
-The shop serves customers in three languages:
+The shop serves customers in two languages:
 
 - **Spanish** (español)
 - **English**
-- **Creole** (criollo)
 
 You do not need to ask ahead or book anything special. Tell the person at the counter which language you are comfortable in, and the conversation continues in that language.
 
@@ -69,11 +68,11 @@ Related guides: [Why drivers trust Los Paisas Tires Shop](/en/blog/why-drivers-t
 
 ## Questions about language at Los Paisas Tires Shop
 
-### Does Los Paisas Tires Shop speak Creole?
+### Which languages does the team speak?
 
-Yes. The shop serves customers in Spanish, English, and Creole.
+Spanish and English.
 
-### Do I need to ask for a Spanish or Creole speaker in advance?
+### Do I need to ask for a Spanish speaker in advance?
 
 No. Tell the team which language you prefer when you arrive or call, and they continue in that language.
 

@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import type { ReactNode } from "react";
 import { PHOTOS } from "@/lib/photos";
+import type { Locale } from "@/lib/i18n";
 import CtaButtons from "./CtaButtons";
 
 export type Crumb = { name: string; href?: string };
@@ -20,6 +21,7 @@ export default function PageHero({
   meta,
   extra,
   cta = false,
+  locale = "es",
 }: {
   crumbs: Crumb[];
   breadcrumbLabel: string;
@@ -30,13 +32,14 @@ export default function PageHero({
   meta?: ReactNode;
   extra?: ReactNode;
   cta?: boolean;
+  locale?: Locale;
 }) {
   return (
     <header className="relative isolate overflow-hidden border-b border-white/15 bg-brand-bg">
       <div className="pointer-events-none absolute inset-0 -z-10" aria-hidden>
         <Image
           src={PHOTOS.storefront.src}
-          alt=""
+          alt={PHOTOS.storefront.alt[locale]}
           fill
           sizes="100vw"
           className="object-cover object-[60%_center] opacity-25"

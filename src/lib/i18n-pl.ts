@@ -5,7 +5,7 @@ export const pl: DictionaryShape = {
   meta: {
     title: "Serwis opon w West Palm Beach – nowe i używane opony | Los Paisas",
     description:
-      "Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach — nowe i używane opony, ustawianie geometrii, wyważanie, naprawa i wulkanizacja. West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice Palm Beach County. Dojazd do 10 mil. Otwarte 7 dni, 8 AM–7 PM. Zadzwoń lub napisz na WhatsApp: (561) 429-4041.",
+      "Nowe i używane opony, geometria, wyważanie i naprawa opon przy 1114 S Military Trl w West Palm Beach. Bez umawiania, 7 dni w tygodniu, 8–19. (561) 429-4041.",
     keywords: [
       "serwis opon West Palm Beach",
       "wulkanizacja West Palm Beach",

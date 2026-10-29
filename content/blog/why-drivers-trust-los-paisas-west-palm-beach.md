@@ -1,5 +1,6 @@
 ---
-title: "Why Drivers Trust Los Paisas Tires Shop in West Palm Beach"
+title: "Why West Palm Beach Drivers Trust Los Paisas"
+absoluteTitle: true
 description: "Why West Palm Beach drivers trust Los Paisas on S Military Trl: fair prices, clear explanations, new and used tires, alignment, balancing, open seven days."
 date: "2026-09-03"
 updated: "2026-10-19"

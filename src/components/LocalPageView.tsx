@@ -43,6 +43,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
 
       <article>
         <PageHero
+          locale={page.locale}
           crumbs={crumbs.map((crumb, index) => ({
             name: crumb.name,
             href:

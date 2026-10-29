@@ -1,6 +1,6 @@
 ---
 title: "Objawy, że auto potrzebuje ustawienia geometrii"
-description: "Potrzebujesz geometrii kół w West Palm Beach? Los Paisas Tires Shop przy S Military Trl sprawdza ściąganie, nierówne zużycie i geometrię: 7 dni w tygodniu, jasne ceny."
+description: "Geometria kół w West Palm Beach: przy S Military Trl sprawdzamy ściąganie, nierówne zużycie i ustawienie. Otwarte 7 dni w tygodniu, jasne ceny."
 date: "2026-07-22"
 updated: "2026-10-19"
 locale: pl

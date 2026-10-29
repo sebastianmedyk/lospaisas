@@ -1,6 +1,6 @@
 ---
-title: "¿Se necesita cita para cambiar llantas? Sin cita en S Military Trl"
-description: "En Los Paisas Tires Shop no necesita cita: llantas nuevas y usadas, reparación, balanceo y alineación por orden de llegada, de 8 a 7, los 7 días. 1114 S Military Trl."
+title: "¿Hace falta cita para cambiar llantas?"
+description: "Sin cita en Los Paisas Tires Shop: llantas nuevas y usadas, reparación, balanceo y alineación por orden de llegada, 8 a 7, los 7 días."
 date: "2026-10-03"
 updated: "2026-10-03"
 locale: es

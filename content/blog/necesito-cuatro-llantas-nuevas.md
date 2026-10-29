@@ -1,6 +1,6 @@
 ---
-title: "¿Le dijeron que necesita cuatro llantas nuevas? Cuándo basta una reparación o una llanta"
-description: "¿Le dijeron que necesita un juego completo? Muchas veces basta reparar una ponchadura o poner una buena llanta usada. Así decide Los Paisas Tires Shop en S Military Trl."
+title: "¿De verdad necesita cuatro llantas nuevas?"
+description: "¿Le dijeron que necesita un juego completo? Muchas veces basta reparar una ponchadura o una buena llanta usada. Así decidimos en S Military Trl."
 date: "2026-08-16"
 updated: "2026-08-16"
 locale: es

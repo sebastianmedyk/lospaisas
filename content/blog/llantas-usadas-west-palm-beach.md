@@ -1,5 +1,5 @@
 ---
-title: "Cómo revisar una llanta usada antes de comprarla: guía en Military Trl"
+title: "Cómo revisar una llanta usada antes de comprarla"
 description: "¿Buscas llantas usadas en West Palm Beach? Aprende qué revisar y por qué Los Paisas Tires Shop en S Military Trl es una opción local de confianza."
 date: "2026-07-20"
 updated: "2026-10-19"

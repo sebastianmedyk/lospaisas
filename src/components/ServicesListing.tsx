@@ -26,6 +26,7 @@ export default function ServicesListing({ locale }: Props) {
         ])}
       />
       <PageHero
+  locale={locale}
         crumbs={[{ name: t.nav.home, href: homePath(locale) }, { name: t.nav.services }]}
         breadcrumbLabel={t.a11y.breadcrumb}
         eyebrow={t.nav.services}

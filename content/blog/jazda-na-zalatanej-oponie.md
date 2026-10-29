@@ -1,6 +1,6 @@
 ---
 title: "Jazda na załatanej oponie | Los Paisas Tires"
-description: "Czy można dalej jeździć na łatce albo kołku w oponie? Co Los Paisas naprawi, a czego nie, pod adresem 1114 S Military Trl, West Palm Beach. Zadzwoń: (561) 429-4041."
+description: "Czy można jeździć na łatce albo kołku w oponie? Co Los Paisas naprawi, a czego nie, przy 1114 S Military Trl, West Palm Beach. (561) 429-4041."
 date: "2026-09-23"
 updated: "2026-10-19"
 locale: pl

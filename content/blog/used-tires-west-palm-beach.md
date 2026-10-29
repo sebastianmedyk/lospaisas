@@ -1,5 +1,5 @@
 ---
-title: "How to Check a Used Tire Before You Buy: A Military Trl Checklist"
+title: "How to Check a Used Tire Before You Buy"
 description: "Shopping for used tires in West Palm Beach? Learn what to check, how to save money, and why Los Paisas Tires Shop on S Military Trl is a trusted local option."
 date: "2026-07-20"
 updated: "2026-10-19"

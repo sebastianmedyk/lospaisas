@@ -1,5 +1,5 @@
 ---
-title: "¿Llanta ponchada el domingo? Abrimos en S Military Trl"
+title: "¿Llanta ponchada el domingo? Abrimos"
 description: "¿Se te ponchó la llanta un domingo en West Palm Beach? Los Paisas Tires Shop en S Military Trl abre 7 días, 8 AM–7 PM — reparación, vulcanización e instalación."
 date: "2026-08-28"
 updated: "2026-10-19"

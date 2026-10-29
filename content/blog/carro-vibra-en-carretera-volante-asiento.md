@@ -1,6 +1,6 @@
 ---
 title: "¿Por qué vibra el carro cuando voy rápido?"
-description: "¿Tiembla el volante o el asiento en la carretera? Casi siempre es balanceo, no alineación. Así lo revisa Los Paisas Tires Shop en S Military Trl. (561) 429-4041."
+description: "¿Tiembla el volante o el asiento en la carretera? Casi siempre es balanceo, no alineación. Así lo revisamos en S Military Trl. (561) 429-4041."
 date: "2026-08-08"
 updated: "2026-08-08"
 locale: es

@@ -1,6 +1,6 @@
 ---
 title: "Dlaczego auto drga przy dużej prędkości?"
-description: "Drga kierownica albo fotel przy prędkości autostradowej? Zwykle to wyważenie kół, a nie geometria. Jak sprawdza to Los Paisas Tires Shop przy S Military Trl. (561) 429-4041."
+description: "Drga kierownica albo fotel przy dużej prędkości? Zwykle to wyważenie kół, nie geometria. Jak to sprawdzamy przy S Military Trl. (561) 429-4041."
 date: "2026-08-08"
 updated: "2026-08-08"
 locale: pl

@@ -28,6 +28,7 @@ export default function BlogListing({ locale, posts }: Props) {
         ])}
       />
       <PageHero
+  locale={locale}
         crumbs={[{ name: t.nav.home, href: homePath(locale) }, { name: t.nav.blog }]}
         breadcrumbLabel={t.a11y.breadcrumb}
         eyebrow={t.nav.blog}

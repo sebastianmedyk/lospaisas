@@ -1,5 +1,5 @@
 ---
-title: "Do I Need an Appointment for Tires? Walk-Ins on S Military Trl"
+title: "Do I Need an Appointment for Tires?"
 description: "No appointment needed at Los Paisas Tires Shop: walk in for new and used tires, repair, balancing, or alignment, 8 AM–7 PM, 7 days. 1114 S Military Trl."
 date: "2026-10-03"
 updated: "2026-10-03"

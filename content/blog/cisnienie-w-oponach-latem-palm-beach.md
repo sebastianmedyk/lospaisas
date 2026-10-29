@@ -1,6 +1,6 @@
 ---
 title: "Ciśnienie w oponach latem w Palm Beach | Los Paisas Tires"
-description: "Ciśnienie w oponach latem i w sezonie huraganów w Palm Beach County. Kieruj się tabliczką na drzwiach, nie wymyśloną liczbą. Los Paisas, 1114 S Military Trl. (561) 429-4041."
+description: "Ciśnienie w oponach latem i w sezonie huraganów w Palm Beach County: kieruj się tabliczką na drzwiach. Los Paisas, 1114 S Military Trl."
 date: "2026-10-11"
 updated: "2026-10-19"
 locale: pl

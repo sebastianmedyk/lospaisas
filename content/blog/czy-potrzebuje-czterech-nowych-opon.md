@@ -1,6 +1,6 @@
 ---
-title: "Usłyszałeś, że potrzebujesz czterech nowych opon? Kiedy wystarczy naprawa albo jedna opona"
-description: "Usłyszałeś, że potrzebujesz pełnego kompletu nowych opon? Często wystarczy naprawa jednego przebicia albo jedna dobra używana opona. Jak decyduje Los Paisas Tires Shop przy S Military Trl."
+title: "Czy na pewno potrzebujesz czterech nowych opon?"
+description: "Często wystarczy naprawa jednego przebicia albo jedna dobra używana opona. Jak decyduje Los Paisas Tires Shop przy S Military Trl."
 date: "2026-08-16"
 updated: "2026-08-16"
 locale: pl

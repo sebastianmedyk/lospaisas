@@ -7,9 +7,9 @@ import { CheckIcon } from "./Icons";
 export default function InfoStrip() {
   const { locale } = useLanguage();
   const items = pick(locale, {
-    es: ["Sin cita, pasa cuando quieras", "Hablamos español", "Nou pale Kreyòl", "Abierto 7 días"],
-    en: ["Walk-ins welcome", "We speak Spanish", "We speak Creole (Kreyòl)", "Open 7 days"],
-    pl: ["Bez umawiania", "Mówimy po hiszpańsku", "Mówimy po kreolsku (Kreyòl)", "Otwarte 7 dni"],
+    es: ["Sin cita, pasa cuando quieras", "Hablamos español", "Hablamos inglés", "Abierto 7 días"],
+    en: ["Walk-ins welcome", "We speak Spanish", "We speak English", "Open 7 days"],
+    pl: ["Bez umawiania", "Mówimy po hiszpańsku", "Mówimy po angielsku", "Otwarte 7 dni"],
   });
 
   return (

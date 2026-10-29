@@ -1,6 +1,6 @@
 ---
-title: "Mobilny serwis opon: co nam powiedzieć, zanim przyjedzie van"
-description: "Potrzebujesz opon bez dojazdu do warsztatu? Los Paisas oferuje mobilny serwis opon w promieniu 10 mil od S Military Trl: West Palm Beach, Greenacres, Palm Springs i okolice."
+title: "Mobilny serwis opon: co nam powiedzieć"
+description: "Mobilny serwis opon do 10 mil od S Military Trl: West Palm Beach, Greenacres, Palm Springs i okolice. Co nam powiedzieć, zanim przyjedziemy."
 date: "2026-07-15"
 updated: "2026-10-19"
 locale: pl

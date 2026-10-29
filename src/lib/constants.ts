@@ -14,8 +14,8 @@ export const BUSINESS = {
   whatsapp: "https://wa.me/15614294041",
   instagram: "https://www.instagram.com/tireshop_lospaisas",
   instagramHandle: "@tireshop_lospaisas",
-  facebook: "https://www.facebook.com/people/Tire-Shop-Los-Paisas/61574500333937/",
-  tiktok: "https://www.tiktok.com/@tireshop_lospaisas",
+  facebook: "https://www.facebook.com/LosPaisasWPB",
+  tiktok: "https://www.tiktok.com/@paisastireswpb",
   /** Short Maps link + place URL (GBP) */
   mapsUrl: "https://maps.app.goo.gl/cSra4sX7rxDgGtMV9",
   mapsPlaceUrl:

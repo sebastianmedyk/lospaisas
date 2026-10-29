@@ -1,6 +1,6 @@
 ---
-title: "Jak sprawdzić używaną oponę przed zakupem: lista kontrolna z Military Trl"
-description: "Szukasz używanych opon w West Palm Beach? Zobacz, co sprawdzić, jak zaoszczędzić i dlaczego Los Paisas Tires Shop przy S Military Trl to sprawdzony lokalny warsztat."
+title: "Jak sprawdzić używaną oponę przed zakupem"
+description: "Szukasz używanych opon w West Palm Beach? Zobacz, co sprawdzić przed zakupem i jak zaoszczędzić. Los Paisas Tires Shop, S Military Trl."
 date: "2026-07-20"
 updated: "2026-10-19"
 locale: pl

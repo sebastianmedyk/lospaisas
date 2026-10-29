@@ -1,6 +1,6 @@
 ---
-title: "Kiedy przebitą oponę da się naprawić? Naprawa a wulkanizacja"
-description: "Guma albo przebicie w West Palm Beach? Los Paisas Tires Shop przy S Military Trl naprawia i wulkanizuje opony, gdy to bezpieczne: 7 dni w tygodniu, dwujęzyczny zespół."
+title: "Kiedy przebitą oponę da się naprawić?"
+description: "Guma albo przebicie w West Palm Beach? Przy S Military Trl naprawiamy i wulkanizujemy opony, gdy to bezpieczne. Otwarte 7 dni w tygodniu."
 date: "2026-08-03"
 updated: "2026-10-19"
 locale: pl

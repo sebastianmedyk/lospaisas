@@ -1,6 +1,7 @@
 ---
-title: "Por qué confían en Los Paisas Tires Shop en West Palm Beach"
-description: "Por qué conductores de West Palm Beach confían en Los Paisas en S Military Trl — precios justos, explicaciones claras, llantas nuevas y usadas, alineación y balanceo."
+title: "Por qué confían en Los Paisas en West Palm Beach"
+absoluteTitle: true
+description: "Por qué confían en Los Paisas en S Military Trl: precios justos, explicaciones claras, llantas nuevas y usadas, alineación y balanceo."
 date: "2026-09-03"
 updated: "2026-10-19"
 locale: es

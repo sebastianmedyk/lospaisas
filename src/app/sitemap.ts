@@ -4,6 +4,9 @@ import { getAllLocalPages } from "@/lib/local-pages";
 import { blogPath, homePath, languageAlternates, LOCALES, PAGE_GROUPS, servicesPath, type Locale } from "@/lib/routes";
 import { SITE_URL } from "@/lib/site";
 
+/** Last content change of home / hub / location / contact pages. Bump when they change. */
+const SITE_PAGES_UPDATED = "2026-10-29";
+
 const abs = (path: string) => (path === "/" ? SITE_URL : `${SITE_URL}${path}`);
 
 /** One entry per page per language (es, en, pl), each with the full hreflang set (es = x-default). */
@@ -21,7 +24,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       return dates.length ? new Date(dates[dates.length - 1]) : undefined;
     }
     const page = localPages.find((p) => p.path === path);
-    return page?.updated ? new Date(page.updated) : undefined;
+    if (page?.updated) return new Date(page.updated);
+    // Home, hubs, location and contact: date of their last real content change.
+    return new Date(SITE_PAGES_UPDATED);
   };
 
   const priority = (group: (typeof PAGE_GROUPS)[number]): number => {

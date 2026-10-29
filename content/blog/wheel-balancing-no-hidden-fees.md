@@ -1,5 +1,5 @@
 ---
-title: "Why Wheels Need Balancing, and How to Avoid Surprise Fees"
+title: "Wheel Balancing Without Surprise Fees"
 description: "Tired of surprise shop fees? Los Paisas Tires Shop on S Military Trl offers honest wheel balancing — transparent pricing for West Palm Beach drivers."
 date: "2026-08-23"
 updated: "2026-10-19"

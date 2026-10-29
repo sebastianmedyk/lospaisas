@@ -1,19 +1,19 @@
 ---
-title: "Warsztat oponiarski w West Palm Beach, który mówi po hiszpańsku i po kreolsku"
-description: "Los Paisas Tires Shop przy S Military Trl obsługuje klientów po hiszpańsku, angielsku i kreolsku i jasno tłumaczy pracę przy oponach, zanim się zacznie. Otwarte 7 dni, 8–7."
+title: "Serwis opon po hiszpańsku i angielsku"
+description: "Los Paisas Tires Shop przy S Military Trl obsługuje po hiszpańsku i angielsku i tłumaczy pracę przy oponach, zanim się zacznie. 7 dni, 8–19."
 date: "2026-08-14"
 updated: "2026-08-14"
 locale: pl
 slug: serwis-opon-po-hiszpansku-i-kreolsku-west-palm-beach
-h1: "Czy w West Palm Beach jest warsztat oponiarski, który mówi po hiszpańsku i po kreolsku?"
+h1: "Czy w West Palm Beach jest warsztat oponiarski, który mówi po hiszpańsku i po angielsku?"
 keywords:
   - warsztat oponiarski po hiszpańsku West Palm Beach
-  - warsztat oponiarski po kreolsku West Palm Beach
+  - warsztat oponiarski po angielsku West Palm Beach
   - dwujęzyczny warsztat oponiarski Military Trail
   - warsztat, który tłumaczy pracę
 ---
 
-Tak. **Los Paisas Tires Shop** pod adresem 1114 S Military Trl w West Palm Beach obsługuje klientów **po hiszpańsku, po angielsku i po kreolsku**. Zespół tłumaczy wybór opon, wyważanie, geometrię i naprawy w języku, który wolisz, zanim zacznie jakąkolwiek pracę, siedem dni w tygodniu od 8:00 AM do 7:00 PM.
+Tak. **Los Paisas Tires Shop** pod adresem 1114 S Military Trl w West Palm Beach obsługuje klientów **po hiszpańsku i po angielsku**. Zespół tłumaczy wybór opon, wyważanie, geometrię i naprawy w języku, który wolisz, zanim zacznie jakąkolwiek pracę, siedem dni w tygodniu od 8:00 AM do 7:00 PM.
 
 ## Dlaczego język ma znaczenie w warsztacie oponiarskim?
 
@@ -23,11 +23,10 @@ Los Paisas Tires Shop to lokalny warsztat przy S Military Trail, który obsługu
 
 ## W jakich językach mówi Los Paisas Tires Shop?
 
-Warsztat obsługuje klientów w trzech językach:
+Warsztat obsługuje klientów w dwóch językach:
 
 - **hiszpańskim** (español)
 - **angielskim**
-- **kreolskim** (criollo)
 
 Nie musisz pytać wcześniej ani niczego specjalnie umawiać. Powiedz osobie przy ladzie, w jakim języku czujesz się swobodnie, a rozmowa potoczy się w tym języku.
 
@@ -69,11 +68,11 @@ Powiązane poradniki: [Dlaczego kierowcy ufają Los Paisas Tires Shop](/pl/blog/
 
 ## Pytania o języki w Los Paisas Tires Shop
 
-### Czy Los Paisas Tires Shop mówi po kreolsku?
+### W jakich językach mówi Los Paisas Tires Shop?
 
-Tak. Warsztat obsługuje klientów po hiszpańsku, po angielsku i po kreolsku.
+Po hiszpańsku i po angielsku.
 
-### Czy muszę wcześniej prosić o osobę mówiącą po hiszpańsku albo po kreolsku?
+### Czy muszę wcześniej prosić o osobę mówiącą po hiszpańsku?
 
 Nie. Powiedz zespołowi, jaki język wolisz, gdy przyjedziesz albo zadzwonisz, a rozmowa będzie toczyć się w tym języku.
 

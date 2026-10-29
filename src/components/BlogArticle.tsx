@@ -39,6 +39,7 @@ export default function BlogArticle({ post }: Props) {
         ])}
       />
       <PageHero
+  locale={post.locale}
         crumbs={[
           { name: t.nav.home, href: homePath(post.locale) },
           { name: t.nav.blog, href: blogPath(post.locale) },

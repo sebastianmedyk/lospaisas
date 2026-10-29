@@ -74,7 +74,7 @@ export function baseMetadata(locale: Locale): Metadata {
   }[locale];
   return {
     metadataBase: new URL(SITE_URL),
-    title: { default: m.title, template: "%s | Los Paisas Tires Shop" },
+    title: { default: m.title, template: "%s | Los Paisas" },
     description: m.description,
     openGraph: {
       title: m.title,
@@ -116,25 +116,25 @@ export function homeMetadata(locale: Locale): Metadata {
 
 const SERVICES_COPY = {
   es: {
-    title: "Servicios — Llantas en S Military Trl, West Palm Beach",
+    title: "Servicios de llantas en West Palm Beach",
     description:
-      "Servicios de llantas en Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach: llantas nuevas, usadas, reparación, alineación, balanceo, instalación y servicio móvil a 10 millas. Abierto 7 días, 8 AM–7 PM. Llama al (561) 429-4041.",
+      "Llantas nuevas y usadas, reparación, alineación, balanceo, instalación y servicio móvil a 10 millas de 1114 S Military Trl. Abierto 7 días, 8 AM–7 PM.",
     og: "Servicios de llantas | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "Llantas nuevas y usadas, reparación, alineación, balanceo, instalación y servicio móvil en S Military Trl.",
     alt: "Servicios de Los Paisas Tires Shop — S Military Trl, West Palm Beach",
   },
   en: {
-    title: "Services — Tires on S Military Trl, West Palm Beach",
+    title: "Tire Services on S Military Trl, West Palm Beach",
     description:
-      "Tire services at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach: new tires, used tires, repair, alignment, balancing, install, and mobile service within 10 miles. Open 7 days, 8 AM–7 PM. Call (561) 429-4041.",
+      "New and used tires, repair, alignment, balancing, installation and mobile service within 10 miles of 1114 S Military Trl. Open 7 days, 8 AM–7 PM.",
     og: "Tire Services | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "New tires, used tires, repair, alignment, balancing, install, and mobile service on S Military Trl.",
     alt: "Los Paisas Tires Shop services — S Military Trl, West Palm Beach",
   },
   pl: {
-    title: "Usługi — opony przy S Military Trl, West Palm Beach",
+    title: "Usługi oponiarskie w West Palm Beach",
     description:
-      "Usługi Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach: nowe i używane opony, naprawa, geometria, wyważanie, montaż i dojazd do 10 mil. Otwarte 7 dni, 8 AM–7 PM. Zadzwoń: (561) 429-4041.",
+      "Nowe i używane opony, naprawa, geometria, wyważanie, montaż i serwis mobilny do 10 mil od 1114 S Military Trl. Otwarte 7 dni, 8 AM–7 PM.",
     og: "Usługi oponiarskie | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "Nowe i używane opony, naprawa, geometria, wyważanie, montaż i serwis mobilny przy S Military Trl.",
     alt: "Usługi Los Paisas Tires Shop — S Military Trl, West Palm Beach",
@@ -148,9 +148,9 @@ export function servicesIndexMetadata(locale: Locale): Metadata {
 
 const BLOG_COPY = {
   es: {
-    title: "Blog — Consejos de llantas en West Palm Beach",
+    title: "Blog: consejos de llantas en West Palm Beach",
     description:
-      "Guías locales de Los Paisas Tires Shop en S Military Trl: llantas usadas, ponchaduras en domingo, balanceo sin sorpresas y más para conductores de West Palm Beach.",
+      "Guías de Los Paisas Tires Shop en S Military Trl: llantas usadas, ponchaduras en domingo, balanceo sin sorpresas y más para West Palm Beach.",
     og: "Blog Los Paisas Tires Shop | West Palm Beach",
     ogDescription: "Consejos prácticos de llantas para Military Trl y Palm Beach County.",
     alt: "Blog Los Paisas Tires Shop — consejos de llantas West Palm Beach",
@@ -158,7 +158,7 @@ const BLOG_COPY = {
   en: {
     title: "Blog — Tire Tips for West Palm Beach",
     description:
-      "Local tire guides from Los Paisas Tires Shop on S Military Trl: used tires, Sunday flat repair, wheel balancing with no hidden fees, and more for West Palm Beach drivers.",
+      "Tire guides from Los Paisas Tires Shop on S Military Trl: used tires, Sunday flat repair, balancing with no hidden fees and more for West Palm Beach.",
     og: "Los Paisas Tires Shop Blog | West Palm Beach",
     ogDescription: "Practical tire tips for Military Trl and Palm Beach County drivers.",
     alt: "Los Paisas Tires Shop blog — West Palm Beach tire tips",
@@ -166,7 +166,7 @@ const BLOG_COPY = {
   pl: {
     title: "Blog — porady o oponach w West Palm Beach",
     description:
-      "Lokalne poradniki Los Paisas Tires Shop z S Military Trl: używane opony, guma złapana w niedzielę, wyważanie bez ukrytych opłat i więcej dla kierowców z West Palm Beach.",
+      "Poradniki Los Paisas Tires Shop z S Military Trl: używane opony, guma w niedzielę, wyważanie bez ukrytych opłat i więcej dla West Palm Beach.",
     og: "Blog Los Paisas Tires Shop | West Palm Beach",
     ogDescription: "Praktyczne porady o oponach dla kierowców z Military Trl i Palm Beach County.",
     alt: "Blog Los Paisas Tires Shop — porady o oponach, West Palm Beach",
