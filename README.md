@@ -30,7 +30,7 @@ bun start
 NEXT_PUBLIC_SITE_URL=https://www.your-real-domain.com
 ```
 
-**Must be the real production domain** for sitemap and schema to be correct. If unset, the app defaults to `https://www.lospaisastires.com` (placeholder — change when the real domain is ready).
+**Must be the real production domain** for sitemap and schema to be correct. If unset, the app defaults to `https://lospaisastires.com` (placeholder — change when the real domain is ready).
 
 ### Generated / public SEO & GEO routes
 

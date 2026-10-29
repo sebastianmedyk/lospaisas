@@ -1,6 +1,6 @@
 export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
-  "https://www.lospaisastires.com";
+  "https://lospaisastires.com";
 
 export function absoluteUrl(path = "/"): string {
   if (!path || path === "/") return SITE_URL;
