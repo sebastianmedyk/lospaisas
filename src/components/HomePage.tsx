@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import HeroSplit from "@/components/HeroSplit";
 import Services from "@/components/Services";
 import HomeIntro from "@/components/HomeIntro";
+import Channels from "@/components/Channels";
 import Reviews from "@/components/Reviews";
 import Location from "@/components/Location";
 import Contact from "@/components/Contact";
@@ -19,6 +20,7 @@ export default function HomePage({ locale }: { locale: Locale }) {
         <HeroSplit />
         <InfoStrip />
         <Services layout="list" />
+        <Channels locale={locale} />
         <Reviews locale={locale} layout="featured" />
         <HomeIntro locale={locale} />
         <Location />
