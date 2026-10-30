@@ -133,6 +133,7 @@ export function localBusinessJsonLd() {
     },
     openingHoursSpecification: openingHoursSpec(),
     sameAs: [
+      BUSINESS.instagramShop,
       BUSINESS.instagram,
       BUSINESS.facebook,
       BUSINESS.tiktok,

@@ -12,8 +12,12 @@ export const BUSINESS = {
   phoneE164: "+15614294041",
   sms: "sms:+15614294041",
   whatsapp: "https://wa.me/15614294041",
-  instagram: "https://www.instagram.com/tireshop_lospaisas",
+  /** Tire-sales Instagram */
+  instagram: "https://www.instagram.com/tireshop_lospaisas/",
   instagramHandle: "@tireshop_lospaisas",
+  /** Main shop Instagram (linked from Google Business Profile) */
+  instagramShop: "https://www.instagram.com/lospaisaswpb/",
+  instagramShopHandle: "@lospaisaswpb",
   facebook: "https://www.facebook.com/LosPaisasWPB",
   tiktok: "https://www.tiktok.com/@paisastireswpb",
   /** Short Maps link + place URL (GBP) */

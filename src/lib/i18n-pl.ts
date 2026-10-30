@@ -119,6 +119,8 @@ export const pl: DictionaryShape = {
     call: "Zadzwoń (561) 429-4041",
     whatsapp: "WhatsApp",
     sms: "SMS",
+    instagramShop: "Instagram · Warsztat",
+    instagramTires: "Instagram · Sprzedaż opon",
     instagram: "Instagram",
     tiktok: "TikTok",
     facebook: "Facebook",

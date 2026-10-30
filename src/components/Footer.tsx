@@ -65,11 +65,20 @@ export default function Footer() {
           <div className="flex flex-col items-start gap-3 sm:items-end">
             <div className="flex flex-wrap items-center gap-2">
               <a
+                href={BUSINESS.instagramShop}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={socialClass}
+                aria-label={`${t.contact.instagramShop} (${BUSINESS.instagramShopHandle})`}
+              >
+                <InstagramIcon className="h-5 w-5" />
+              </a>
+              <a
                 href={BUSINESS.instagram}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={socialClass}
-                aria-label={t.a11y.instagram}
+                aria-label={`${t.contact.instagramTires} (${BUSINESS.instagramHandle})`}
               >
                 <InstagramIcon className="h-5 w-5" />
               </a>
@@ -108,14 +117,24 @@ export default function Footer() {
                 <PhoneIcon className="h-5 w-5" />
               </a>
             </div>
-            <a
-              href={BUSINESS.instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex min-h-[44px] items-center text-sm font-bold text-white/80 transition hover:text-brand-gold"
-            >
-              {BUSINESS.instagramHandle}
-            </a>
+            <div className="flex flex-wrap gap-x-4 sm:justify-end">
+              <a
+                href={BUSINESS.instagramShop}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex min-h-[44px] items-center text-sm font-bold text-white/80 transition hover:text-brand-gold"
+              >
+                {BUSINESS.instagramShopHandle}
+              </a>
+              <a
+                href={BUSINESS.instagram}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex min-h-[44px] items-center text-sm font-bold text-white/80 transition hover:text-brand-gold"
+              >
+                {BUSINESS.instagramHandle}
+              </a>
+            </div>
             <p className="text-xs text-white/55">
               © {year} {BUSINESS.name}. {t.footer.rights}
             </p>

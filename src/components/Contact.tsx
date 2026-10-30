@@ -24,7 +24,8 @@ export default function Contact() {
   const secondary = [
     { href: BUSINESS.whatsapp, label: t.contact.whatsapp, icon: WhatsAppIcon, external: true },
     { href: BUSINESS.sms, label: t.contact.sms, icon: SmsIcon, external: false },
-    { href: BUSINESS.instagram, label: t.contact.instagram, icon: InstagramIcon, external: true },
+    { href: BUSINESS.instagramShop, label: t.contact.instagramShop, icon: InstagramIcon, external: true },
+    { href: BUSINESS.instagram, label: t.contact.instagramTires, icon: InstagramIcon, external: true },
     { href: BUSINESS.tiktok, label: t.contact.tiktok, icon: TikTokIcon, external: true },
     { href: BUSINESS.facebook, label: t.contact.facebook, icon: FacebookIcon, external: true },
     { href: BUSINESS.mapsUrl, label: t.contact.googleMaps, icon: MapPinIcon, external: true },
@@ -86,7 +87,7 @@ export default function Contact() {
           <p className="mt-6 text-[0.65rem] font-bold uppercase tracking-[0.28em] text-white/55">
             {t.contact.secondaryLabel}
           </p>
-          <div className="mt-3 grid min-w-0 grid-cols-2 gap-2 min-[480px]:grid-cols-4 sm:max-w-xl">
+          <div className="mt-3 grid min-w-0 grid-cols-2 gap-2 min-[480px]:grid-cols-3 sm:max-w-xl">
             {secondary.map((channel) => {
               const Icon = channel.icon;
               return (
