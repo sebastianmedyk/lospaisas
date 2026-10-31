@@ -59,7 +59,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
           ))}
           cta
         />
-        <InfoStrip />
+        <InfoStrip variant="subtle" />
 
         {page.kind === "service" && SERVICE_PHOTOS[page.paths.en] ? (
           <section className="border-b border-white/15 py-6">

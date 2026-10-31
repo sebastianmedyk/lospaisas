@@ -95,7 +95,7 @@ export default function PlacePage({ locale, kind }: Props) {
           />
         }
       />
-      <InfoStrip />
+      <InfoStrip variant="subtle" />
       <section className="section-pad-after-hero" aria-labelledby="place-heading">
         <div className="container-site">
           {kind === "location" ? <LocationBody locale={locale} /> : <ContactBody locale={locale} />}
