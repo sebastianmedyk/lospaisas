@@ -62,7 +62,7 @@ export default function BlogArticle({ post }: Props) {
           </div>
         }
       />
-      <article className="section-pad" aria-labelledby="article-heading">
+      <article className="section-pad-after-hero" aria-labelledby="article-heading">
         <div className="container-site max-w-3xl">
           <div
             className="blog-prose max-w-none text-white/80"

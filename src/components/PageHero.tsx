@@ -47,10 +47,10 @@ export default function PageHero({
         <div className="absolute inset-0 bg-gradient-to-r from-brand-bg via-brand-bg/90 to-brand-bg/60" />
         <div className="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-brand-red via-brand-gold to-transparent" />
       </div>
-      <div className="container-site section-pad-sm">
+      <div className="container-site px-4 py-6 sm:px-6 sm:py-8 lg:px-8 lg:py-9">
         <div className="max-w-3xl">
           <nav
-            className="fade-up mb-6 flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-[0.16em] text-white/50"
+            className="fade-up mb-4 flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-[0.16em] text-white/50"
             aria-label={breadcrumbLabel}
           >
             {crumbs.map((crumb, index) => (
@@ -67,11 +67,11 @@ export default function PageHero({
             ))}
           </nav>
 
-          {eyebrow ? <p className="section-label fade-up mb-4">{eyebrow}</p> : null}
+          {eyebrow ? <p className="section-label fade-up mb-3">{eyebrow}</p> : null}
           {meta ? <div className="fade-up mb-4">{meta}</div> : null}
           <h1
             id={titleId}
-            className="fade-up headline text-[2.4rem] font-bold leading-[0.92] tracking-tight text-white sm:text-6xl lg:text-7xl"
+            className="fade-up headline text-[2.2rem] font-bold leading-[0.92] tracking-tight text-white sm:text-5xl lg:text-6xl"
             style={{ animationDelay: "80ms" }}
           >
             {title}
@@ -79,15 +79,15 @@ export default function PageHero({
           <span className="accent-rule accent-rule-lg" aria-hidden />
           {intro ? (
             <div
-              className="fade-up mt-5 space-y-4 text-base leading-relaxed text-white/80 sm:text-lg"
+              className="fade-up mt-4 space-y-3 text-base leading-relaxed text-white/80 sm:text-lg"
               style={{ animationDelay: "140ms" }}
             >
               {intro}
             </div>
           ) : null}
-          {extra ? <div className="mt-6">{extra}</div> : null}
+          {extra ? <div className="mt-4">{extra}</div> : null}
           {cta ? (
-            <div className="fade-up mt-7" style={{ animationDelay: "200ms" }}>
+            <div className="fade-up mt-5" style={{ animationDelay: "200ms" }}>
               <CtaButtons whatsapp />
             </div>
           ) : null}

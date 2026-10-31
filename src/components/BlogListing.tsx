@@ -37,7 +37,7 @@ export default function BlogListing({ locale, posts }: Props) {
         intro={<p>{t.blog.subtitle}</p>}
         extra={<LangSwitch locale={locale} hrefs={{ es: blogPath("es"), en: blogPath("en"), pl: blogPath("pl") }} />}
       />
-      <section className="section-pad" aria-labelledby="blog-listing-heading">
+      <section className="section-pad-after-hero" aria-labelledby="blog-listing-heading">
         <div className="container-site">
           {posts.length === 0 ? (
             <p className="mt-10 text-white/55">{t.blog.empty}</p>

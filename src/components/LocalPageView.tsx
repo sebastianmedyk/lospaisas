@@ -62,15 +62,18 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
         <InfoStrip />
 
         {page.kind === "service" && SERVICE_PHOTOS[page.paths.en] ? (
-          <section className="border-b border-white/15 py-8">
+          <section className="border-b border-white/15 py-6">
             <div className="container-site max-w-3xl">
               <PhotoStrip photos={SERVICE_PHOTOS[page.paths.en]} locale={page.locale} />
             </div>
           </section>
         ) : null}
 
-        {page.sections.map((section) => (
-          <section key={section.heading} className="section-pad border-b border-white/15">
+        {page.sections.map((section, sectionIndex) => (
+          <section
+            key={section.heading}
+            className={`${sectionIndex === 0 ? "section-pad-after-hero" : "section-pad"} border-b border-white/15`}
+          >
             <div className="container-site max-w-3xl">
               <SectionHeading title={section.heading} />
               <div className="mt-5 space-y-4 text-base leading-relaxed text-white/80">

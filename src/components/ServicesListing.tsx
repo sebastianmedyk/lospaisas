@@ -1,6 +1,6 @@
 import BlogShell from "@/components/BlogShell";
 import JsonLd from "@/components/JsonLd";
-import PageHero from "@/components/PageHero";
+import Link from "next/link";
 import LangSwitch from "@/components/LangSwitch";
 import ServiceCards from "@/components/ServiceCards";
 import { getDictionary, type Locale } from "@/lib/i18n";
@@ -25,18 +25,27 @@ export default function ServicesListing({ locale }: Props) {
           { name: t.nav.services, url: listingUrl },
         ])}
       />
-      <PageHero
-  locale={locale}
-        crumbs={[{ name: t.nav.home, href: homePath(locale) }, { name: t.nav.services }]}
-        breadcrumbLabel={t.a11y.breadcrumb}
-        eyebrow={t.nav.services}
-        title={t.services.title}
-        titleId="services-listing-heading"
-        intro={<p>{t.services.subtitle}</p>}
-        extra={<LangSwitch locale={locale} hrefs={{ es: servicesPath("es"), en: servicesPath("en"), pl: servicesPath("pl") }} />}
-      />
-      <section className="section-pad" aria-labelledby="services-listing-heading">
+      <section className="px-4 pb-14 pt-6 sm:px-6 sm:pb-20 sm:pt-8 lg:px-8 lg:pb-24" aria-labelledby="services-listing-heading">
         <div className="container-site">
+          <nav
+            className="mb-3 flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-[0.16em] text-white/50"
+            aria-label={t.a11y.breadcrumb}
+          >
+            <Link href={homePath(locale)} className="transition hover:text-brand-gold">
+              {t.nav.home}
+            </Link>
+            <span aria-hidden>/</span>
+            <span className="text-white/80">{t.nav.services}</span>
+          </nav>
+          <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
+            <h1
+              id="services-listing-heading"
+              className="headline text-3xl font-bold leading-none tracking-tight text-white sm:text-4xl"
+            >
+              {t.services.title}
+            </h1>
+            <LangSwitch locale={locale} hrefs={{ es: servicesPath("es"), en: servicesPath("en"), pl: servicesPath("pl") }} />
+          </div>
           <ServiceCards showDescriptions headingLevel="h2" />
         </div>
       </section>

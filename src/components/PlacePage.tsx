@@ -96,7 +96,7 @@ export default function PlacePage({ locale, kind }: Props) {
         }
       />
       <InfoStrip />
-      <section className="section-pad" aria-labelledby="place-heading">
+      <section className="section-pad-after-hero" aria-labelledby="place-heading">
         <div className="container-site">
           {kind === "location" ? <LocationBody locale={locale} /> : <ContactBody locale={locale} />}
 
@@ -183,20 +183,20 @@ function NapFacts({ locale }: { locale: Locale }) {
 function LocationBody({ locale }: { locale: Locale }) {
   const t = getDictionary(locale);
   return (
-    <div className="mt-10 grid gap-6 lg:grid-cols-2 lg:gap-8">
-      <div className="space-y-6">
-        <NapFacts locale={locale} />
-        <PhotoStrip photos={[PHOTOS.exterior, PHOTOS.parking]} locale={locale} />
-      </div>
-      <div className="cut-md overflow-hidden rounded-none border border-white/15 bg-black/40">
+    <div className="grid gap-6 lg:grid-cols-2 lg:gap-8">
+      <div className="cut-md order-first overflow-hidden rounded-none border border-white/15 bg-black/40 lg:order-last lg:sticky lg:top-24 lg:self-start">
         <iframe
           title={t.location.mapTitle}
           src={BUSINESS.mapsEmbed}
-          className="h-[280px] w-full min-h-[280px] border-0 sm:h-[360px] sm:min-h-[360px]"
-          loading="lazy"
+          className="h-[300px] w-full min-h-[300px] border-0 sm:h-[380px] lg:h-[480px]"
+          loading="eager"
           referrerPolicy="no-referrer-when-downgrade"
           allowFullScreen
         />
+      </div>
+      <div className="space-y-6">
+        <NapFacts locale={locale} />
+        <PhotoStrip photos={[PHOTOS.exterior, PHOTOS.parking]} locale={locale} />
       </div>
     </div>
   );
@@ -217,7 +217,7 @@ function ContactBody({ locale }: { locale: Locale }) {
   ] as const;
 
   return (
-    <div className="mt-10 grid min-w-0 items-start gap-10 lg:grid-cols-2">
+    <div className="grid min-w-0 items-start gap-10 lg:grid-cols-2">
       <div>
         <p className="cut-tr inline-block rounded-none border-l border-brand-gold/40 bg-transparent px-3 py-1.5 text-sm font-bold tracking-wide text-brand-gold">
           {t.contact.hours}
@@ -272,7 +272,9 @@ function ContactBody({ locale }: { locale: Locale }) {
           </p>
           <p className="mt-2 text-sm text-white/55">{t.location.servingNote}</p>
         </address>
-        <div className="cut-md mt-8 overflow-hidden rounded-none border border-white/15 bg-black/40">
+      </div>
+      <div className="relative mx-auto w-full max-w-md lg:max-w-none">
+        <div className="cut-md mb-6 overflow-hidden rounded-none border border-white/15 bg-black/40">
           <iframe
             title={t.location.mapTitle}
             src={BUSINESS.mapsEmbed}
@@ -282,8 +284,6 @@ function ContactBody({ locale }: { locale: Locale }) {
             allowFullScreen
           />
         </div>
-      </div>
-      <div className="relative mx-auto w-full max-w-md lg:max-w-none">
         <PhotoStrip photos={[PHOTOS.office]} locale={locale} className="mb-6" />
         <PromoPanel imageSrc={`/brand/locale/balance-${promoLocale(locale)}.webp`} alt={t.promo.balance} />
       </div>
