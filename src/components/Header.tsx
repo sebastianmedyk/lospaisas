@@ -21,8 +21,8 @@ export default function Header({ liveLocales }: { liveLocales?: Locale[] } = {})
   const links = [
     { href: servicesHref, label: t.nav.services },
     { href: locationPath(locale), label: t.nav.location },
-    { href: contactPath(locale), label: t.nav.contact },
     { href: blogHref, label: t.nav.blog },
+    { href: contactPath(locale), label: t.nav.contact },
   ];
 
   const focusRing =
