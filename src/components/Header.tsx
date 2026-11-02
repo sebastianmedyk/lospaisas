@@ -9,9 +9,10 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { contactPath, locationPath } from "@/lib/routes";
 import { servicesPath } from "@/lib/routes";
 import LanguageToggle from "./LanguageToggle";
+import type { Locale } from "@/lib/routes";
 import { PhoneIcon, WhatsAppIcon } from "./Icons";
 
-export default function Header() {
+export default function Header({ liveLocales }: { liveLocales?: Locale[] } = {}) {
   const { t, locale } = useLanguage();
   const [open, setOpen] = useState(false);
   const blogHref = blogPath(locale);
@@ -62,7 +63,7 @@ export default function Header() {
         </nav>
 
         <div className="flex shrink-0 items-center gap-2 sm:gap-3">
-          <LanguageToggle />
+          <LanguageToggle liveLocales={liveLocales} />
           {/* Desktop only — mobile uses the MobileBar, avoid competing bars */}
           <a
             href={BUSINESS.phoneTel}

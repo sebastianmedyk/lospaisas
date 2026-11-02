@@ -58,7 +58,7 @@ Traiga el carro a 1114 S Military Trl, West Palm Beach, FL 33415. Abrimos **los 
 
 Para el servicio, vea [reparación de llantas en Los Paisas Tires Shop](/servicios/reparacion-de-llantas).
 
-Guías relacionadas: [Por qué confían en Los Paisas Tires Shop](/blog/por-que-confiar-en-los-paisas-west-palm-beach), [Llantas usadas o nuevas con el calor de Florida](/blog/llantas-usadas-o-nuevas-calor-florida) y [Manejar con una llanta parcheada](/blog/manejar-con-llanta-parcheada).
+Guías relacionadas: [Llantas usadas o nuevas con el calor de Florida](/blog/llantas-usadas-o-nuevas-calor-florida) y [Manejar con una llanta parcheada](/blog/manejar-con-llanta-parcheada).
 
 ## Preguntas sobre cambiar llantas
 

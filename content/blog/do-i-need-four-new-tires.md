@@ -58,7 +58,7 @@ Bring the car to 1114 S Military Trl, West Palm Beach, FL 33415, open **8:00 AM 
 
 For the service itself, see [tire repair at Los Paisas Tires Shop](/en/services/tire-repair).
 
-Related guides: [Why drivers trust Los Paisas Tires Shop](/en/blog/why-drivers-trust-los-paisas-west-palm-beach), [Used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat), and [Can you keep driving on a patch](/en/blog/driving-on-a-tire-patch-or-plug).
+Related guides: [Used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat) and [Can you keep driving on a patch](/en/blog/driving-on-a-tire-patch-or-plug).
 
 ## Questions about replacing tires
 

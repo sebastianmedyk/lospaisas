@@ -37,7 +37,7 @@ Toma una foto del costado y mándala por WhatsApp al (561) 429-4041, o llama. Re
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (llamada o WhatsApp) · abierto **los 7 días, 8:00 AM – 7:00 PM**.
 
-Página del servicio: [llantas nuevas](/servicios/llantas-nuevas). Relacionado: [llantas nuevas R15 a R18 y LT](/blog/medidas-llantas-nuevas-r15-r18-lt).
+Página del servicio: [llantas nuevas](/servicios/llantas-nuevas). Relacionado: [llantas nuevas R15 a R18 y LT](/blog/medidas-llantas-nuevas-r15-r18-lt), [cómo leer la fecha DOT en el mismo costado](/blog/fecha-dot-edad-llanta-calor-florida) y [¿necesito cuatro llantas nuevas?](/blog/necesito-cuatro-llantas-nuevas).
 
 ## Preguntas
 

@@ -12,6 +12,8 @@ type BlogShellProps = {
   children: React.ReactNode;
   /** Forces UI language to match the blog route (en|/es/blog). */
   locale?: BlogLocale;
+  /** Languages whose version of this page is live; others are hidden in the switcher. */
+  liveLocales?: BlogLocale[];
 };
 
 function BlogLocaleSync({ locale }: { locale: BlogLocale }) {
@@ -23,11 +25,11 @@ function BlogLocaleSync({ locale }: { locale: BlogLocale }) {
 }
 
 /** Shared chrome for every inner page: header, content, CTA band, footer, mobile action bar. */
-export default function BlogShell({ children, locale }: BlogShellProps) {
+export default function BlogShell({ children, locale, liveLocales }: BlogShellProps) {
   return (
     <>
       {locale ? <BlogLocaleSync locale={locale} /> : null}
-      <Header />
+      <Header liveLocales={liveLocales} />
       <main id="main-content" className="min-h-[60vh]">{children}</main>
       <CtaBand />
       <Footer />

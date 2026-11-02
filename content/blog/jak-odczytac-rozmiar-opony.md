@@ -37,7 +37,7 @@ Zrób zdjęcie boku opony i wyślij na WhatsApp (561) 429-4041 albo zadzwoń. Sp
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (telefon lub WhatsApp) · otwarte **7 dni w tygodniu, 8:00–19:00**.
 
-Strona usługi: [nowe opony](/pl/uslugi/nowe-opony). Powiązane: [nowe opony R15–R18 i LT](/pl/blog/nowe-opony-r15-r18-lt-west-palm-beach).
+Strona usługi: [nowe opony](/pl/uslugi/nowe-opony). Powiązane: [nowe opony R15–R18 i LT](/pl/blog/nowe-opony-r15-r18-lt-west-palm-beach), [jak odczytać datę DOT na tym samym boku](/pl/blog/data-dot-wiek-opony-upal-floryda) i [czy potrzebuję czterech nowych opon?](/pl/blog/czy-potrzebuje-czterech-nowych-opon).
 
 ## Pytania
 

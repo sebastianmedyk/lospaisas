@@ -1,12 +1,14 @@
 import Link from "next/link";
 import type { BlogPost } from "@/lib/blog";
-import { blogPath, postModifiedDate } from "@/lib/blog";
+import { blogPath, getRelatedPosts, liveLocalesForPost, postModifiedDate } from "@/lib/blog";
 import { getDictionary } from "@/lib/i18n";
 import JsonLd from "@/components/JsonLd";
 import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
 import { articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
-import { homePath, locationPath, servicesPath } from "@/lib/routes";
+import { blogSlugsFor, homePath, locationPath, servicesPath } from "@/lib/routes";
+
+const RELATED_HEADING = { en: "Related articles", es: "Artículos relacionados", pl: "Powiązane artykuły" } as const;
 import { absoluteUrl } from "@/lib/site";
 
 type Props = {
@@ -18,9 +20,11 @@ export default function BlogArticle({ post }: Props) {
   const url = absoluteUrl(blogPath(post.locale, post.slug));
   const listingUrl = absoluteUrl(blogPath(post.locale));
   const modified = postModifiedDate(post);
+  const related = getRelatedPosts(post, 3);
+  const liveLocales = liveLocalesForPost(blogSlugsFor(post.slug, post.locale), post.locale);
 
   return (
-    <BlogShell locale={post.locale}>
+    <BlogShell locale={post.locale} liveLocales={liveLocales}>
       <JsonLd
         data={articleJsonLd({
           title: post.h1 || post.title,
@@ -68,6 +72,26 @@ export default function BlogArticle({ post }: Props) {
             className="blog-prose max-w-none text-white/80"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
+
+          {related.length ? (
+            <section className="mt-12 border-t border-white/10 pt-8" aria-labelledby="related-heading">
+              <h2 id="related-heading" className="text-lg font-black uppercase tracking-wide text-white">
+                {RELATED_HEADING[post.locale]}
+              </h2>
+              <ul className="mt-4 grid gap-3 sm:grid-cols-3">
+                {related.map((r) => (
+                  <li key={r.slug}>
+                    <Link
+                      href={blogPath(r.locale, r.slug)}
+                      className="block h-full border border-white/15 p-4 text-sm font-bold text-white/85 transition hover:border-brand-gold/60 hover:text-brand-gold"
+                    >
+                      {r.h1 || r.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ) : null}
 
           <div className="mt-12 flex flex-wrap gap-3 border-t border-white/10 pt-8">
             <Link

@@ -58,7 +58,7 @@ Przyjedź autem pod adres 1114 S Military Trl, West Palm Beach, FL 33415, otwart
 
 O samej usłudze przeczytasz na stronie [naprawa opon w Los Paisas Tires Shop](/pl/uslugi/naprawa-opon).
 
-Powiązane poradniki: [Dlaczego kierowcy ufają Los Paisas Tires Shop](/pl/blog/dlaczego-kierowcy-ufaja-los-paisas-west-palm-beach), [Używane czy nowe opony w upale Florydy](/pl/blog/uzywane-czy-nowe-opony-upal-floryda) i [Czy można dalej jeździć na załatanej oponie](/pl/blog/jazda-na-zalatanej-oponie).
+Powiązane poradniki: [Używane czy nowe opony w upale Florydy](/pl/blog/uzywane-czy-nowe-opony-upal-floryda) i [Czy można dalej jeździć na załatanej oponie](/pl/blog/jazda-na-zalatanej-oponie).
 
 ## Pytania o wymianę opon
 

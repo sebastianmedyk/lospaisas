@@ -149,3 +149,48 @@ export function postModifiedDate(post: Pick<BlogPostMeta, "date" | "updated">): 
 }
 
 export { blogPath } from "@/lib/routes";
+
+const STOP = new Set(["west","palm","beach","military","trail","tires","tire","llantas","llanta","opony","opon","opona","oponie","los","paisas","shop","near","with","para","como","your","the","and","por","del","las","que","jak","czy","przy","check","cheap","county","guide","before","what","your","from","after","revisar","sprawdz","sprawd","cerca","okolicy","taller","warsztat","serwis","service","servicio"]);
+
+export function topicTokens(p: Pick<BlogPostMeta, "title" | "slug" | "keywords">): Set<string> {
+  const text = [p.title, p.slug.replace(/-/g, " "), ...(p.keywords ?? [])].join(" ").toLowerCase();
+  return new Set(
+    text
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .split(/[^a-z0-9]+/)
+      .filter((w) => w.length > 3 && !STOP.has(w))
+      .map((w) => w.slice(0, 5)),
+  );
+}
+
+/**
+ * Related articles: same language, live only (date-gated at build), ranked by topic overlap
+ * (title, slug, keywords). Shared words are weighted by rarity (IDF). Falls back to newest posts when nothing overlaps.
+ */
+export function getRelatedPosts(post: BlogPost, count = 3): BlogPostMeta[] {
+  const pool = getAllPosts(post.locale);
+  const tokens = new Map(pool.map((p) => [p.slug, topicTokens(p)]));
+  const df = new Map<string, number>();
+  tokens.forEach((t) => t.forEach((w) => df.set(w, (df.get(w) ?? 0) + 1)));
+  const mine = topicTokens(post);
+  const n = pool.length + 1;
+  return pool
+    .filter((p) => p.slug !== post.slug)
+    .map((p, i) => {
+      let score = 0;
+      tokens.get(p.slug)!.forEach((w) => {
+        if (mine.has(w)) score += Math.log(n / (df.get(w) ?? 1));
+      });
+      return { p, score: score - i * 0.001 };
+    })
+    .sort((a, b) => b.score - a.score)
+    .slice(0, count)
+    .map((x) => x.p);
+}
+
+/** Locales whose version of this blog post is live (for hreflang and the language switcher). */
+export function liveLocalesForPost(slugs: Record<Locale, string> | undefined, locale: Locale): Locale[] {
+  if (!slugs) return [locale];
+  return (["es", "en", "pl"] as Locale[]).filter((l) => getPost(slugs[l], l));
+}

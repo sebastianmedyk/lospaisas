@@ -37,7 +37,7 @@ Take a photo of the sidewall and send it on WhatsApp to (561) 429-4041, or call.
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (call or WhatsApp) · open **7 days a week, 8:00 AM – 7:00 PM**.
 
-Service page: [new tires](/en/services/new-tires). Related: [new tires R15 to R18 and LT sizes](/en/blog/new-tire-sizes-r15-r18-lt-west-palm-beach).
+Service page: [new tires](/en/services/new-tires). Related: [new tires R15 to R18 and LT sizes](/en/blog/new-tire-sizes-r15-r18-lt-west-palm-beach), [how to read the DOT date on the same sidewall](/en/blog/tire-age-dot-date-florida-heat), and [do I need four new tires?](/en/blog/do-i-need-four-new-tires).
 
 ## Questions
 

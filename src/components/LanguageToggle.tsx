@@ -5,12 +5,12 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import type { Locale } from "@/lib/i18n";
 import { LOCALES, alternatePath } from "@/lib/routes";
 
-export default function LanguageToggle() {
+export default function LanguageToggle({ liveLocales }: { liveLocales?: Locale[] } = {}) {
   const { locale, setLocale, t } = useLanguage();
   const pathname = usePathname() || "/";
   const router = useRouter();
 
-  const options: Locale[] = LOCALES;
+  const options: Locale[] = liveLocales?.length ? LOCALES.filter((l) => liveLocales.includes(l)) : LOCALES;
 
   function switchTo(code: Locale) {
     setLocale(code);

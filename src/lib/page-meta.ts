@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { translations } from "@/lib/i18n";
 import { pl } from "@/lib/i18n-pl";
-import { getPost } from "@/lib/blog";
+import { getPost, liveLocalesForPost } from "@/lib/blog";
 import {
   BLOG_SLUGS,
   blogPath,
@@ -184,7 +184,7 @@ export function blogPostMetadata(locale: Locale, slug: string): Metadata {
   if (!post) return {};
   const slugs = BLOG_SLUGS.find((s) => s[locale] === slug);
   const paths = slugs ? all((l) => blogPath(l, slugs[l])) : all((l) => blogPath(l));
-  const liveLocales = slugs ? LOCALES.filter((l) => getPost(slugs[l], l)) : [locale];
+  const liveLocales = liveLocalesForPost(slugs, locale);
   return pageMeta({
     liveLocales,
     locale,
