@@ -10,6 +10,7 @@ git checkout redesign
 git pull --ff-only origin redesign
 git commit --allow-empty -m "chore: scheduled rebuild"
 git -c credential.helper= -c 'credential.https://github.com.helper=!/usr/local/bin/gh auth git-credential' push origin redesign
+git -c credential.helper= -c 'credential.https://github.com.helper=!/usr/local/bin/gh auth git-credential' push origin redesign:main
 echo "Pushed $(git rev-parse --short HEAD). Waiting ${WAIT_SECONDS:-720}s for Cloudflare deploy..."
 sleep "${WAIT_SECONDS:-720}"
 node scripts/indexnow.mjs
