@@ -53,16 +53,19 @@ export function sitemapEntries(): SitemapEntry[] {
     return 0.8;
   };
 
-  // Skip blog article groups whose post is not published yet (scheduled / future date).
-  const isLiveGroup = (group: (typeof PAGE_GROUPS)[number]): boolean =>
-    !group.es.startsWith(`${blogPath("es")}/`) ||
-    LOCALES.every((l) => posts.some((p) => p.locale === l && blogPath(l, p.slug) === group[l]));
+  // Blog article groups: only languages whose post is published (scheduled / future date
+  // translations stay out of the sitemap and hreflang until their own date).
+  const liveLocales = (group: (typeof PAGE_GROUPS)[number]): Locale[] =>
+    !group.es.startsWith(`${blogPath("es")}/`)
+      ? LOCALES
+      : LOCALES.filter((l) => posts.some((p) => p.locale === l && blogPath(l, p.slug) === group[l]));
 
-  return PAGE_GROUPS.filter(isLiveGroup).flatMap((group) => {
+  return PAGE_GROUPS.flatMap((group) => {
+    const live = liveLocales(group);
     const languages = Object.fromEntries(
-      Object.entries(languageAlternates(group)).map(([k, v]) => [k, abs(v)]),
+      Object.entries(languageAlternates(group, live)).map(([k, v]) => [k, abs(v)]),
     );
-    return LOCALES.map((locale) => {
+    return live.map((locale) => {
       const modified = lastModified(group[locale], locale);
       return {
         url: abs(group[locale]),

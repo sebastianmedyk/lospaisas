@@ -117,8 +117,12 @@ export function alternatePath(pathname: string, target: Locale): string {
 }
 
 /** hreflang map for Next metadata (es is x-default). */
-export function languageAlternates(paths: LocalePaths): Record<string, string> {
-  return { es: paths.es, en: paths.en, pl: paths.pl, "x-default": paths.es };
+export function languageAlternates(paths: LocalePaths, live: readonly Locale[] = LOCALES): Record<string, string> {
+  // Only languages that are actually live (a scheduled translation may still be unpublished).
+  const langs = LOCALES.filter((l) => live.includes(l));
+  const out: Record<string, string> = Object.fromEntries(langs.map((l) => [l, paths[l]]));
+  if (langs.length) out["x-default"] = paths[langs.includes("es") ? "es" : langs[0]];
+  return out;
 }
 
 export function blogSlugsFor(slug: string, locale: Locale): LocalePaths | undefined {

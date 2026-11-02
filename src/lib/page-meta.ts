@@ -33,6 +33,7 @@ function pageMeta(input: {
   type?: "website" | "article";
   publishedTime?: string;
   keywords?: readonly string[];
+  liveLocales?: readonly Locale[];
 }): Metadata {
   const path = input.paths[input.locale];
   const ogTitle = input.ogTitle ?? input.title;
@@ -41,7 +42,7 @@ function pageMeta(input: {
     title: input.absolute ? { absolute: input.title } : input.title,
     description: input.description,
     ...(input.keywords?.length ? { keywords: [...input.keywords] } : {}),
-    alternates: { canonical: path, languages: languageAlternates(input.paths) },
+    alternates: { canonical: path, languages: languageAlternates(input.paths, input.liveLocales) },
     openGraph: {
       title: ogTitle,
       description: ogDescription,
@@ -183,7 +184,9 @@ export function blogPostMetadata(locale: Locale, slug: string): Metadata {
   if (!post) return {};
   const slugs = BLOG_SLUGS.find((s) => s[locale] === slug);
   const paths = slugs ? all((l) => blogPath(l, slugs[l])) : all((l) => blogPath(l));
+  const liveLocales = slugs ? LOCALES.filter((l) => getPost(slugs[l], l)) : [locale];
   return pageMeta({
+    liveLocales,
     locale,
     paths,
     title: post.title,
