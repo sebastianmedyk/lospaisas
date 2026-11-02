@@ -1,7 +1,7 @@
 ---
 title: "¿Viajas en Thanksgiving? Revisa tus llantas antes"
 description: "Antes de un viaje largo, revisa el dibujo, los costados, fugas lentas y vibración en carretera. En Los Paisas reparamos, balanceamos, alineamos o cambiamos."
-date: "2026-12-20"
+date: "2026-11-21"
 locale: es
 slug: revisar-llantas-antes-de-viajar-thanksgiving
 keywords:

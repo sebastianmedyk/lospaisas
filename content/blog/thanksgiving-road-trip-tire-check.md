@@ -1,7 +1,7 @@
 ---
 title: "Driving to Family for Thanksgiving? Check Your Tires"
 description: "Before a long holiday drive, check tread, sidewalls, slow leaks, and highway vibration. Los Paisas repairs, balances, aligns, or replaces tires, 7 days."
-date: "2026-12-20"
+date: "2026-11-20"
 locale: en
 slug: thanksgiving-road-trip-tire-check
 keywords:

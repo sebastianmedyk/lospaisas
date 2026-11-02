@@ -34,7 +34,7 @@ Spares lose air sitting in the trunk. Ask us to check its pressure before you le
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (call or WhatsApp) · open **7 days a week, 8:00 AM – 7:00 PM**.
 
-Service page: [tire repair](/en/services/tire-repair). Related: [flat tire on a Sunday](/en/blog/flat-tire-sunday-military-trail) and [tire losing air after a storm](/en/blog/slow-leak-after-storm-nails-debris).
+Service page: [tire repair](/en/services/tire-repair). Related: [flat tire on a Sunday](/en/blog/flat-tire-sunday-military-trail) and [checking your tires before a Thanksgiving road trip](/en/blog/thanksgiving-road-trip-tire-check).
 
 ## Questions
 

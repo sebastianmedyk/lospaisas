@@ -1,7 +1,7 @@
 ---
 title: "¿Tu llanta pierde aire después de la tormenta?"
 description: "Después de una tormenta, clavos y escombros quedan en la calle y la fuga lenta aparece días después. Cómo la encontramos, la reparamos o cambiamos la llanta."
-date: "2026-11-20"
+date: "2026-12-21"
 locale: es
 slug: llanta-pierde-aire-despues-tormenta
 keywords:

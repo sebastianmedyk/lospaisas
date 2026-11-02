@@ -1,7 +1,7 @@
 ---
 title: "Tire Losing Air After a Storm? Finding the Slow Leak"
 description: "After a storm, nails and debris cover the road and slow leaks show up a day later. How Los Paisas finds the leak, repairs it, or replaces the tire."
-date: "2026-11-20"
+date: "2026-12-20"
 locale: en
 slug: slow-leak-after-storm-nails-debris
 keywords:

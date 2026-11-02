@@ -1,7 +1,7 @@
 ---
 title: "Jedziesz do rodziny na Thanksgiving? Sprawdź opony"
 description: "Przed długą podróżą sprawdź bieżnik, boki opon, powolne wycieki i drgania na autostradzie. Los Paisas naprawia, wyważa, ustawia geometrię lub wymienia opony."
-date: "2026-12-20"
+date: "2026-11-22"
 locale: pl
 slug: sprawdz-opony-przed-podroza-thanksgiving
 keywords:

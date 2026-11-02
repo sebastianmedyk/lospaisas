@@ -34,7 +34,7 @@ Dojazdówka traci powietrze w bagażniku. Poproś o sprawdzenie ciśnienia przed
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (telefon lub WhatsApp) · otwarte **7 dni w tygodniu, 8:00–19:00**.
 
-Strona usługi: [naprawa opon](/pl/uslugi/naprawa-opon). Powiązane: [złapana guma w niedzielę](/pl/blog/zlapana-guma-w-niedziele-military-trail) i [opona traci powietrze po burzy](/pl/blog/opona-traci-powietrze-po-burzy).
+Strona usługi: [naprawa opon](/pl/uslugi/naprawa-opon). Powiązane: [złapana guma w niedzielę](/pl/blog/zlapana-guma-w-niedziele-military-trail) i [sprawdzenie opon przed podróżą na Thanksgiving](/pl/blog/sprawdz-opony-przed-podroza-thanksgiving).
 
 ## Pytania
 

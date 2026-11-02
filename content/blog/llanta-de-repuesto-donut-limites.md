@@ -34,7 +34,7 @@ Pierde aire guardada en el baúl. Pídenos revisar su presión antes de irte.
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (llamada o WhatsApp) · abierto **los 7 días, 8:00 AM – 7:00 PM**.
 
-Página del servicio: [reparación de llantas](/servicios/reparacion-de-llantas). Relacionado: [llanta ponchada un domingo](/blog/llanta-ponchada-domingo-military-trail) y [llanta que pierde aire después de la tormenta](/blog/llanta-pierde-aire-despues-tormenta).
+Página del servicio: [reparación de llantas](/servicios/reparacion-de-llantas). Relacionado: [llanta ponchada un domingo](/blog/llanta-ponchada-domingo-military-trail) y [revisar tus llantas antes de viajar en Thanksgiving](/blog/revisar-llantas-antes-de-viajar-thanksgiving).
 
 ## Preguntas
 

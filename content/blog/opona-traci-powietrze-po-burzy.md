@@ -1,7 +1,7 @@
 ---
 title: "Opona traci powietrze po burzy? Szukamy nieszczelności"
 description: "Po burzy na drogach leżą gwoździe i gruz, a powolny wyciek pojawia się dzień później. Jak Los Paisas znajduje nieszczelność, naprawia lub wymienia oponę."
-date: "2026-11-20"
+date: "2026-12-22"
 locale: pl
 slug: opona-traci-powietrze-po-burzy
 keywords:
