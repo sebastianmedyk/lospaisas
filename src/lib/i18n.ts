@@ -82,7 +82,7 @@ export const translations = {
       items: [
         {
           title: "New Tires",
-          description: "New tires matched to the car, mounted at the shop on S Military Trl.",
+          description: "New Cosmo tires from $120, R15–R18. Catalog price includes alignment and balancing.",
         },
         {
           title: "Used Tires",
@@ -181,7 +181,7 @@ export const translations = {
       title: "About Los Paisas Tires Shop",
       aboutHeading: "Who we are",
       about:
-        "Los Paisas Tires Shop is a tire-only shop at 1114 S Military Trl, West Palm Beach, FL 33415. Call (561) 429-4041. Hours are 8:00 AM–7:00 PM every day including Sunday. Services: new and used tires, alignment, balancing with no hidden fees, tire repair and vulcanization, install of customer tires, and mobile service within 10 miles. Google rating: 4.4 stars from 282 reviews. Bilingual English and Spanish team.",
+        "Los Paisas Tires Shop is a tire-only shop at 1114 S Military Trl, West Palm Beach, FL 33415. Call (561) 429-4041. Hours are 8:00 AM–7:00 PM every day including Sunday. Services: new and used tires (new Cosmo tires from $120, alignment and balancing included in the catalog price), alignment, balancing with no hidden fees, tire repair and vulcanization, install of customer tires, and mobile service within 10 miles. Google rating: 4.4 stars from 282 reviews. Bilingual English and Spanish team.",
       blocks: [
         {
           question: "Is there a tire shop open Sunday in West Palm Beach?",
@@ -400,7 +400,7 @@ export const translations = {
       items: [
         {
           title: "Llantas nuevas",
-          description: "Llantas nuevas según el carro, montadas en el taller de S Military Trl.",
+          description: "Llantas nuevas Cosmo desde $120, R15–R18. Precio incluye alineación y balanceo.",
         },
         {
           title: "Llantas usadas",
@@ -499,7 +499,7 @@ export const translations = {
       title: "Sobre Los Paisas Tires Shop",
       aboutHeading: "Quiénes somos",
       about:
-        "Los Paisas Tires Shop es un taller solo de llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono (561) 429-4041. Horario: 8:00 AM–7:00 PM todos los días, incluyendo domingo. Servicios: llantas nuevas y usadas, alineación, balanceo sin cargos ocultos, reparación y vulcanización, instalación de llantas del cliente y domicilio a 10 millas. Calificación en Google: 4.4 estrellas con 282 reseñas. Equipo bilingüe inglés y español.",
+        "Los Paisas Tires Shop es un taller solo de llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono (561) 429-4041. Horario: 8:00 AM–7:00 PM todos los días, incluyendo domingo. Servicios: llantas nuevas y usadas (llantas nuevas Cosmo desde $120, con alineación y balanceo incluidos en el precio de catálogo), alineación, balanceo sin cargos ocultos, reparación y vulcanización, instalación de llantas del cliente y domicilio a 10 millas. Calificación en Google: 4.4 estrellas con 282 reseñas. Equipo bilingüe inglés y español.",
       blocks: [
         {
           question: "¿Hay una tienda de llantas abierta el domingo en West Palm Beach?",

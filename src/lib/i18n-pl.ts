@@ -75,7 +75,7 @@ export const pl: DictionaryShape = {
     all: "Wszystkie usługi",
     view: "Zobacz usługę",
     items: [
-      { title: "Nowe opony", description: "Nowe opony dobrane do auta, montowane w warsztacie przy S Military Trl." },
+      { title: "Nowe opony", description: "Nowe opony Cosmo od $120, R15–R18. Cena z katalogu obejmuje geometrię i wyważanie." },
       { title: "Używane opony", description: "Sprawdzone używane opony, gdy nowy komplet to więcej, niż potrzebujesz." },
       { title: "Ustawianie geometrii", description: "Precyzyjna geometria kół, żeby auto jechało prosto, a opony zużywały się równo." },
       { title: "Wyważanie kół", description: "Płynna jazda. Zakres pracy ustalamy przed startem — bez ukrytych opłat." },
@@ -141,7 +141,7 @@ export const pl: DictionaryShape = {
     title: "O Los Paisas Tires Shop",
     aboutHeading: "Kim jesteśmy",
     about:
-      "Los Paisas Tires Shop to warsztat zajmujący się wyłącznie oponami, pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Telefon: (561) 429-4041. Otwarte codziennie, także w niedzielę, 8:00 AM–7:00 PM. Usługi: nowe i używane opony, geometria, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd do 10 mil. Ocena w Google: 4,4 gwiazdki na podstawie 282 opinii. Zespół mówi po angielsku i hiszpańsku.",
+      "Los Paisas Tires Shop to warsztat zajmujący się wyłącznie oponami, pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Telefon: (561) 429-4041. Otwarte codziennie, także w niedzielę, 8:00 AM–7:00 PM. Usługi: nowe i używane opony (nowe opony Cosmo od $120, z geometrią i wyważaniem w cenie katalogowej), geometria, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd do 10 mil. Ocena w Google: 4,4 gwiazdki na podstawie 282 opinii. Zespół mówi po angielsku i hiszpańsku.",
     blocks: [
       {
         question: "Czy w West Palm Beach jest serwis opon otwarty w niedzielę?",

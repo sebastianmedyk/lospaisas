@@ -8,7 +8,9 @@ import Reviews from "@/components/Reviews";
 import { BUSINESS } from "@/lib/constants";
 import { getDictionary } from "@/lib/i18n";
 import type { LocalPage } from "@/lib/local-pages";
-import { breadcrumbJsonLd, faqPageJsonLd, pageServiceJsonLd } from "@/lib/seo";
+import { breadcrumbJsonLd, faqPageJsonLd, newTireOffersJsonLd, pageServiceJsonLd } from "@/lib/seo";
+import NewTireCatalog from "@/components/NewTireCatalog";
+import { NEW_TIRES_EN_PATH } from "@/lib/new-tire-catalog";
 import { homePath, servicesPath } from "@/lib/routes";
 import type { Locale } from "@/lib/i18n";
 import { absoluteUrl } from "@/lib/site";
@@ -19,6 +21,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
   const t = getDictionary(page.locale);
   const pageUrl = absoluteUrl(page.path);
   const sectionPath = servicesPath(page.locale);
+  const isNewTires = page.kind === "service" && page.paths.en === NEW_TIRES_EN_PATH;
   const crumbs = [
     { name: t.nav.home, url: absoluteUrl(homePath(page.locale)) },
     { name: t.nav.services, url: absoluteUrl(sectionPath) },
@@ -36,6 +39,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
           description: page.description,
           url: pageUrl,
           areaServed: page.areaServed,
+          offers: isNewTires ? newTireOffersJsonLd(pageUrl) : undefined,
         })}
       />
       <JsonLd data={faqPageJsonLd(page.faqs)} />
@@ -68,6 +72,8 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
             </div>
           </section>
         ) : null}
+
+        {isNewTires ? <NewTireCatalog locale={page.locale} /> : null}
 
         {page.sections.map((section, sectionIndex) => (
           <section

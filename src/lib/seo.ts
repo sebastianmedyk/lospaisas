@@ -1,6 +1,7 @@
 import { BUSINESS, LOGO_PATH, SHOP_PHOTOS } from "@/lib/constants";
 import { SITE_URL, absoluteUrl } from "@/lib/site";
 import { IN_LANGUAGE, type Locale } from "@/lib/routes";
+import { NEW_TIRES, NEW_TIRE_MAX_PRICE, NEW_TIRE_MIN_PRICE } from "@/lib/new-tire-catalog";
 
 export const AREA_SERVED = [
   "West Palm Beach",
@@ -105,6 +106,50 @@ function organizationPublisher() {
   };
 }
 
+function servicePriceSpec(name: string) {
+  if (name === "Used Tires") {
+    return { priceSpecification: { "@type": "PriceSpecification", minPrice: 65, priceCurrency: "USD" } };
+  }
+  if (name === "New Tires") {
+    return {
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: NEW_TIRE_MIN_PRICE,
+        maxPrice: NEW_TIRE_MAX_PRICE,
+        priceCurrency: "USD",
+      },
+    };
+  }
+  return {};
+}
+
+/** AggregateOffer + one Offer per catalog size. Only for the new-tires pages, which show the full table. */
+export function newTireOffersJsonLd(pageUrl: string) {
+  return {
+    "@type": "AggregateOffer",
+    priceCurrency: "USD",
+    lowPrice: NEW_TIRE_MIN_PRICE,
+    highPrice: NEW_TIRE_MAX_PRICE,
+    offerCount: NEW_TIRES.length,
+    url: pageUrl,
+    seller: { "@id": `${SITE_URL}/#business` },
+    offers: NEW_TIRES.map((t) => ({
+      "@type": "Offer",
+      name: `Cosmo ${t.size} new tire`,
+      price: t.price,
+      priceCurrency: "USD",
+      url: pageUrl,
+      itemOffered: {
+        "@type": "Product",
+        name: `Cosmo ${t.size}`,
+        sku: t.ref,
+        brand: { "@type": "Brand", name: t.brand },
+        description: "New tire; catalog price includes alignment and balancing.",
+      },
+    })),
+  };
+}
+
 export function localBusinessJsonLd() {
   return {
     "@context": "https://schema.org",
@@ -164,7 +209,7 @@ export function localBusinessJsonLd() {
       itemListElement: SERVICE_OFFERS.map((service, index) => ({
         "@type": "Offer",
         position: index + 1,
-        ...(service.name === "Used Tires" ? { priceSpecification: { "@type": "PriceSpecification", minPrice: 65, priceCurrency: "USD" } } : {}),
+        ...servicePriceSpec(service.name),
         itemOffered: {
           "@type": "Service",
           name: service.name,
@@ -179,7 +224,7 @@ export function localBusinessJsonLd() {
     },
     makesOffer: SERVICE_OFFERS.map((service) => ({
       "@type": "Offer",
-      ...(service.name === "Used Tires" ? { priceSpecification: { "@type": "PriceSpecification", minPrice: 65, priceCurrency: "USD" } } : {}),
+      ...servicePriceSpec(service.name),
       itemOffered: {
         "@type": "Service",
         name: service.name,
@@ -343,10 +388,13 @@ export function pageServiceJsonLd(input: {
   description: string;
   url: string;
   areaServed: readonly string[];
+  /** Optional offers (e.g. newTireOffersJsonLd) — only when the same prices are visible on the page. */
+  offers?: Record<string, unknown>;
 }) {
   return {
     "@context": "https://schema.org",
     "@type": "Service",
+    ...(input.offers ? { offers: input.offers } : {}),
     name: input.name,
     description: input.description,
     url: input.url,

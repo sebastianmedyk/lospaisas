@@ -1,4 +1,5 @@
 import type { Locale } from "@/lib/i18n";
+import type { CatalogImageKey } from "@/lib/new-tire-catalog";
 
 /** Real shop photos (from the shop's own videos). Alt text describes only what is visible. */
 export type Photo = {
@@ -89,4 +90,67 @@ export const SERVICE_PHOTOS: Record<string, Photo[]> = {
   "/en/services/tire-repair": [PHOTOS.repair1, PHOTOS.repair2, PHOTOS.newTread],
   // used-tires: no photo yet. #13 shows a worn-out tire and #15 a single loose tire,
   // neither shows used tires for sale. TODO(Sebastian): photo of the used-tire rack/stack.
+};
+
+/**
+ * Illustrations from the shop's online new-tire catalog (7 images reused across 26 sizes).
+ * They are catalog illustrations, not a unique photo of each size.
+ */
+export const CATALOG_PHOTOS: Record<CatalogImageKey, Photo> = {
+  cosmo01: {
+    src: "/photos/catalog/cosmo-new-tire-catalog-los-paisas-01.webp", width: 631, height: 772,
+    alt: {
+      en: "Cosmo tire from the Los Paisas Tires Shop new-tire catalog",
+      es: "Llanta Cosmo del catálogo de llantas nuevas de Los Paisas Tires Shop",
+      pl: "Opona Cosmo z katalogu nowych opon Los Paisas Tires Shop",
+    },
+  },
+  cosmo02: {
+    src: "/photos/catalog/cosmo-new-tire-catalog-los-paisas-02.webp", width: 667, height: 838,
+    alt: {
+      en: "Cosmo tire from the Los Paisas Tires Shop new-tire catalog",
+      es: "Llanta Cosmo del catálogo de llantas nuevas de Los Paisas Tires Shop",
+      pl: "Opona Cosmo z katalogu nowych opon Los Paisas Tires Shop",
+    },
+  },
+  cosmo03: {
+    src: "/photos/catalog/cosmo-new-tire-catalog-los-paisas-03.webp", width: 600, height: 522,
+    alt: {
+      en: "Cosmo tire from the Los Paisas Tires Shop new-tire catalog",
+      es: "Llanta Cosmo del catálogo de llantas nuevas de Los Paisas Tires Shop",
+      pl: "Opona Cosmo z katalogu nowych opon Los Paisas Tires Shop",
+    },
+  },
+  cosmo04: {
+    src: "/photos/catalog/cosmo-new-tire-catalog-los-paisas-04.webp", width: 600, height: 522,
+    alt: {
+      en: "Cosmo tire from the Los Paisas Tires Shop new-tire catalog",
+      es: "Llanta Cosmo del catálogo de llantas nuevas de Los Paisas Tires Shop",
+      pl: "Opona Cosmo z katalogu nowych opon Los Paisas Tires Shop",
+    },
+  },
+  cosmo05: {
+    src: "/photos/catalog/cosmo-new-tire-catalog-los-paisas-05.webp", width: 683, height: 881,
+    alt: {
+      en: "Cosmo tire from the Los Paisas Tires Shop new-tire catalog",
+      es: "Llanta Cosmo del catálogo de llantas nuevas de Los Paisas Tires Shop",
+      pl: "Opona Cosmo z katalogu nowych opon Los Paisas Tires Shop",
+    },
+  },
+  cosmo06: {
+    src: "/photos/catalog/cosmo-new-tire-catalog-los-paisas-06.webp", width: 324, height: 451,
+    alt: {
+      en: "Cosmo tire from the Los Paisas Tires Shop new-tire catalog",
+      es: "Llanta Cosmo del catálogo de llantas nuevas de Los Paisas Tires Shop",
+      pl: "Opona Cosmo z katalogu nowych opon Los Paisas Tires Shop",
+    },
+  },
+  cosmo07: {
+    src: "/photos/catalog/cosmo-new-tire-catalog-los-paisas-07.webp", width: 600, height: 522,
+    alt: {
+      en: "Cosmo tire from the Los Paisas Tires Shop new-tire catalog",
+      es: "Llanta Cosmo del catálogo de llantas nuevas de Los Paisas Tires Shop",
+      pl: "Opona Cosmo z katalogu nowych opon Los Paisas Tires Shop",
+    },
+  },
 };
