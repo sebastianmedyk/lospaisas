@@ -37,6 +37,7 @@ export const MOBILE_CITIES = ["greenacres", "lake-worth-beach", "palm-springs"] 
 
 const LOCATION_SEGMENT: LocalePaths = { es: "ubicacion", en: "location", pl: "lokalizacja" };
 const CONTACT_SEGMENT: LocalePaths = { es: "contacto", en: "contact", pl: "kontakt" };
+const CATALOG_SEGMENT: LocalePaths = { es: "catalogo", en: "catalog", pl: "katalog" };
 
 /** Blog slug per locale, one entry per article. */
 export const BLOG_SLUGS: LocalePaths[] = [
@@ -78,6 +79,7 @@ export const serviceHref = (l: Locale, index: number) => `${servicesPath(l)}/${S
 export const cityHref = (l: Locale, city: string) => `${serviceHref(l, MOBILE_SERVICE_INDEX)}/${city}`;
 export const locationPath = (l: Locale) => `${prefix(l)}/${LOCATION_SEGMENT[l]}`;
 export const contactPath = (l: Locale) => `${prefix(l)}/${CONTACT_SEGMENT[l]}`;
+export const catalogPath = (l: Locale) => `${prefix(l)}/${CATALOG_SEGMENT[l]}`;
 export const blogPath = (l: Locale, slug?: string) => `${prefix(l)}/blog${slug ? `/${slug}` : ""}`;
 
 const all = (fn: (l: Locale) => string): LocalePaths => ({ es: fn("es"), en: fn("en"), pl: fn("pl") });
@@ -88,6 +90,7 @@ export const PAGE_GROUPS: LocalePaths[] = [
   all(servicesPath),
   ...SERVICE_SLUGS.map((_, i) => all((l) => serviceHref(l, i))),
   ...MOBILE_CITIES.map((c) => all((l) => cityHref(l, c))),
+  all(catalogPath),
   all(locationPath),
   all(contactPath),
   all((l) => blogPath(l)),

@@ -4,7 +4,7 @@ import { blogPath } from "@/lib/routes";
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { contactPath, locationPath } from "@/lib/routes";
+import { catalogPath, contactPath, locationPath } from "@/lib/routes";
 import { servicesPath } from "@/lib/routes";
 import {
   FacebookIcon,
@@ -50,14 +50,17 @@ export default function Footer() {
               <Link href={servicesHref} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.services}
               </Link>
+              <Link href={catalogPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
+                {t.nav.catalog}
+              </Link>
               <Link href={locationPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.location}
               </Link>
-              <Link href={contactPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
-                {t.nav.contact}
-              </Link>
               <Link href={blogHref} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.blog}
+              </Link>
+              <Link href={contactPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
+                {t.nav.contact}
               </Link>
             </nav>
           </div>

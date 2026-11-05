@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { Locale } from "@/lib/i18n";
-import { contactPath, languageAlternates, LOCALES, locationPath, OG_LOCALE } from "@/lib/routes";
+import { catalogPath, contactPath, languageAlternates, LOCALES, locationPath, OG_LOCALE } from "@/lib/routes";
 import { absoluteUrl } from "@/lib/site";
 
 const OG = {
@@ -51,6 +51,53 @@ const COPY = {
     },
   },
 } as const;
+
+const CATALOG_COPY = {
+  en: {
+    title: "New Tire Catalog from $120 | Los Paisas Tires Shop, West Palm Beach",
+    description:
+      "Cosmo new tires R15–R18, from $120 per tire. Catalog price includes alignment and balancing. Los Paisas Tires Shop, West Palm Beach. Call or WhatsApp (561) 429-4041 to confirm stock.",
+    ogAlt: "Cosmo new tire catalog at Los Paisas Tires Shop, West Palm Beach",
+  },
+  es: {
+    title: "Catálogo de llantas nuevas desde $120 | Los Paisas Tires Shop, West Palm Beach",
+    description:
+      "Llantas nuevas Cosmo R15–R18, desde $120 por llanta. El precio incluye alineación y balanceo. Los Paisas Tires Shop, West Palm Beach. Llama o escribe por WhatsApp al (561) 429-4041.",
+    ogAlt: "Catálogo de llantas nuevas Cosmo en Los Paisas Tires Shop, West Palm Beach",
+  },
+  pl: {
+    title: "Katalog nowych opon od $120 | Los Paisas Tires Shop, West Palm Beach",
+    description:
+      "Nowe opony Cosmo R15–R18, od $120 za oponę. Cena z katalogu obejmuje geometrię i wyważanie. Los Paisas Tires Shop, West Palm Beach. Zadzwoń lub napisz na WhatsApp: (561) 429-4041.",
+    ogAlt: "Katalog nowych opon Cosmo w Los Paisas Tires Shop, West Palm Beach",
+  },
+} as const;
+
+export function catalogMetadata(locale: Locale): Metadata {
+  const copy = CATALOG_COPY[locale];
+  const path = catalogPath(locale);
+  const languages = languageAlternates({ es: catalogPath("es"), en: catalogPath("en"), pl: catalogPath("pl") });
+  return {
+    title: { absolute: copy.title },
+    description: copy.description,
+    alternates: { canonical: path, languages },
+    openGraph: {
+      title: copy.title,
+      description: copy.description,
+      url: absoluteUrl(path),
+      locale: OG_LOCALE[locale],
+      alternateLocale: LOCALES.filter((l) => l !== locale).map((l) => OG_LOCALE[l]),
+      siteName: "Los Paisas Tires Shop",
+      images: [{ ...OG, alt: copy.ogAlt }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: copy.title,
+      description: copy.description,
+      images: [OG.url],
+    },
+  };
+}
 
 export function placeMetadata(kind: "location" | "contact", locale: Locale): Metadata {
   const copy = COPY[kind][locale];

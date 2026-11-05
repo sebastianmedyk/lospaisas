@@ -24,6 +24,7 @@ export const translations = {
     nav: {
       services: "Services",
       whyUs: "Why Us",
+      catalog: "Catalog",
       location: "Location",
       contact: "Contact",
       blog: "Blog",
@@ -342,6 +343,7 @@ export const translations = {
     nav: {
       services: "Servicios",
       whyUs: "Por Qué Nosotros",
+      catalog: "Catálogo",
       location: "Ubicación",
       contact: "Contacto",
       blog: "Blog",

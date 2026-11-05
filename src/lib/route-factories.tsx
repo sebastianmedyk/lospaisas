@@ -4,12 +4,13 @@ import HomePage from "@/components/HomePage";
 import ServicesListing from "@/components/ServicesListing";
 import LocalPageView from "@/components/LocalPageView";
 import PlacePage from "@/components/PlacePage";
+import CatalogPage from "@/components/CatalogPage";
 import BlogListing from "@/components/BlogListing";
 import BlogArticle from "@/components/BlogArticle";
 import RootDocument from "@/components/RootDocument";
 import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
 import { getLocalPage, localPageMetadata, localParams } from "@/lib/local-pages";
-import { placeMetadata } from "@/lib/place-meta";
+import { catalogMetadata, placeMetadata } from "@/lib/place-meta";
 import { baseMetadata, blogIndexMetadata, blogPostMetadata, homeMetadata, servicesIndexMetadata } from "@/lib/page-meta";
 import { servicesPath, type Locale } from "@/lib/routes";
 
@@ -82,6 +83,10 @@ export function cityRoute(locale: Locale) {
 
 export function placeRoute(locale: Locale, kind: "location" | "contact") {
   return { metadata: placeMetadata(kind, locale), Page: () => <PlacePage locale={locale} kind={kind} /> };
+}
+
+export function catalogRoute(locale: Locale) {
+  return { metadata: catalogMetadata(locale), Page: () => <CatalogPage locale={locale} /> };
 }
 
 export function blogIndexRoute(locale: Locale) {

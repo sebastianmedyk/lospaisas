@@ -20,6 +20,7 @@ export const pl: DictionaryShape = {
   nav: {
     services: "Usługi",
     whyUs: "Dlaczego my",
+    catalog: "Katalog",
     location: "Lokalizacja",
     contact: "Kontakt",
     blog: "Blog",

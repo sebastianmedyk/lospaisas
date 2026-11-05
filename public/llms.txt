@@ -99,6 +99,7 @@ Polish (Polski):
 - Home (EN): https://lospaisastires.com/en
 - Home (PL): https://lospaisastires.com/pl
 - Blog: https://lospaisastires.com/blog · https://lospaisastires.com/en/blog · https://lospaisastires.com/pl/blog
+- New tire catalog (Cosmo R15–R18, from $120, price includes alignment and balancing): https://lospaisastires.com/catalogo · https://lospaisastires.com/en/catalog · https://lospaisastires.com/pl/katalog
 - Location: https://lospaisastires.com/ubicacion · https://lospaisastires.com/en/location · https://lospaisastires.com/pl/lokalizacja
 - Contact: https://lospaisastires.com/contacto · https://lospaisastires.com/en/contact · https://lospaisastires.com/pl/kontakt
 - Google Maps: https://maps.app.goo.gl/cSra4sX7rxDgGtMV9

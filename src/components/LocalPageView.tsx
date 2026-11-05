@@ -2,7 +2,6 @@ import Link from "next/link";
 import BlogShell from "@/components/BlogShell";
 import JsonLd from "@/components/JsonLd";
 import PageHero from "@/components/PageHero";
-import InfoStrip from "@/components/InfoStrip";
 import SectionHeading from "@/components/SectionHeading";
 import Reviews from "@/components/Reviews";
 import { BUSINESS } from "@/lib/constants";
@@ -63,7 +62,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
           ))}
           cta
         />
-        <InfoStrip variant="subtle" />
+        {isNewTires ? <NewTireCatalog locale={page.locale} /> : null}
 
         {page.kind === "service" && SERVICE_PHOTOS[page.paths.en] ? (
           <section className="border-b border-white/15 py-6">
@@ -72,8 +71,6 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
             </div>
           </section>
         ) : null}
-
-        {isNewTires ? <NewTireCatalog locale={page.locale} /> : null}
 
         {page.sections.map((section, sectionIndex) => (
           <section

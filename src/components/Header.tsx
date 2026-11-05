@@ -6,7 +6,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { contactPath, locationPath } from "@/lib/routes";
+import { catalogPath, contactPath, locationPath } from "@/lib/routes";
 import { servicesPath } from "@/lib/routes";
 import LanguageToggle from "./LanguageToggle";
 import type { Locale } from "@/lib/routes";
@@ -20,6 +20,7 @@ export default function Header({ liveLocales }: { liveLocales?: Locale[] } = {})
 
   const links = [
     { href: servicesHref, label: t.nav.services },
+    { href: catalogPath(locale), label: t.nav.catalog },
     { href: locationPath(locale), label: t.nav.location },
     { href: blogHref, label: t.nav.blog },
     { href: contactPath(locale), label: t.nav.contact },
