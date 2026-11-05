@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Wejdź bez umawiania na geometrię / ustawianie",
+      "paragraphs": [
+        "Umówienie nie jest wymagane. Jedź na 1114 S Military Trl w godzinach 8:00 AM–7:00 PM codziennie, także w niedzielę. Powiedz, czy auto ściąga, czy kierownica stoi krzywo, czy opony zjadły się z jednej strony.",
+        "Przyjmujemy kartę kredytową, debetową i NFC. Geometria jest na sprzęcie w warsztacie — to nie jest praca mobilna ani na podjeździe. Jeśli potrzebujesz też wyważania, zrobimy oba w jednym postoju i wycenimy każdą część przed startem."
+      ]
+    },
+    {
       "heading": "Kierowcy, którzy przyjeżdżają na S Military Trl",
       "paragraphs": [
         "Stanowisko do geometrii jest tylko w warsztacie. Greenacres, Palm Springs i Lake Worth Beach są na tyle blisko, że ludzie tu przyjeżdżają, a wszystkie trzy miejscowości są w promieniu 10 mil od adresu, ale sama geometria nie jest usługą mobilną. Jeśli masz gumę i nie możesz do nas dojechać, zadzwoń w sprawie mobilnego serwisu opon. Na geometrię przyjedź na stanowisko.",
@@ -61,6 +68,14 @@
     {
       "question": "Czy możecie ustawić geometrię pod moim domem?",
       "answer": "Nie. Geometrię ustawiamy na sprzęcie pod 1114 S Military Trl. Serwis mobilny obejmuje prace przy oponach w promieniu 10 mil, a nie geometrię."
+    },
+    {
+      "question": "Czy muszę się umawiać na geometrię?",
+      "answer": "Nie. Walk-in siedem dni, 8:00 AM–7:00 PM. Zadzwoń pod (561) 429-4041, żeby potwierdzić stanowisko."
+    },
+    {
+      "question": "Jak zapłacić za geometrię?",
+      "answer": "Kartą kredytową, debetową lub NFC w warsztacie."
     }
   ],
   "moreHeading": "Prace, które często idą w parze z geometrią",
@@ -81,5 +96,6 @@
       "href": "/pl/blog/ustawianie-geometrii-military-trail-west-palm-beach",
       "label": "Geometria przy Military Trl"
     }
-  ]
+  ],
+  "updated": "2026-11-05"
 }

@@ -5,7 +5,7 @@ date: "2026-11-03"
 locale: en
 slug: used-tire-inspection-checklist
 keywords:
-  - used tires near me West Palm Beach
+  - used tire inspection West Palm Beach
   - used tire inspection
   - how to check a used tire
   - DOT date code used tires
@@ -13,7 +13,7 @@ keywords:
 
 ![Used tires? We check every one – Los Paisas Tires Shop, West Palm Beach](/photos/used-tire-inspection-west-palm-beach-los-paisas.webp)
 
-Looking for used tires near me but worried about buying a bad one? Fair question. A used tire is only a good deal if it is safe. At **Los Paisas Tires Shop**, 1114 S Military Trl in West Palm Beach, every used tire is inspected before it goes on your car: **tread depth, the sidewall, and the DOT date code. If a tire does not pass, we do not sell it.**
+Looking for used tires but worried about buying a bad one? Fair question. A used tire is only a good deal if it is safe. At **Los Paisas Tires Shop**, 1114 S Military Trl in West Palm Beach, every used tire is inspected before it goes on your car: **tread depth, the sidewall, and the DOT date code. If a tire does not pass, we do not sell it.**
 
 ## Is a used tire safe to buy?
 

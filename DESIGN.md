@@ -92,7 +92,7 @@ All in `src/components`. Pages are made only from these. If a page needs a new b
 Full-bleed shop photo, dark gradient. Order: Google rating pill, H1, "Used Tires from $[CENA]" line, Call + Directions, open-today line. No founding year. The price comes from `USED_TIRE_PRICE_FROM` in `src/lib/constants.ts` and shows `$[CENA]` (EN) or `$[PRECIO]` (ES) until set. Inner pages use `PageHero`: breadcrumb, label, H1, intro, optional CTAs on a dimmed photo.
 
 ### InfoStrip (`InfoStrip.tsx`)
-Yellow band under the hero: walk-ins welcome, Spanish, Creole, open 7 days. Black text on yellow. Two columns on mobile, one row from `md`.
+Yellow band under the hero: walk-ins welcome, Spanish, English, open 7 days. Black text on yellow. Two columns on mobile, one row from `md`.
 
 ### ServiceCards (`ServiceCards.tsx`)
 New and Used as two large photo cards (New: yellow tag; Used: red tag with white text), then five service cards with a photo and a yellow top rule. Real photos only. Never a worn tire for Used. Layouts: `default`, `list`, `bento`, `index`.

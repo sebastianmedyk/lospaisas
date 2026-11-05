@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Wejdź bez umawiania z gwoździem lub wolnym ubytkiem",
+      "paragraphs": [
+        "Umówienie nie jest potrzebne. Przywieź auto na 1114 S Military Trl dowolnego dnia, 8:00 AM–7:00 PM, póki opona trzyma powietrze, jeśli możesz. Jazda na płaskiej może zniszczyć oponę, którą dało się jeszcze naprawić.",
+        "Przyjmujemy kartę kredytową, debetową i NFC. Cenę naprawy słyszysz przed startem. Jeśli opony nie da się uratować, pokażemy używane od $65 i nowe opcje w tej samej wizycie — bez oleju, hamulców ani klimatyzacji."
+      ]
+    },
+    {
       "heading": "Kiedy przyjechać, a kiedy wezwać van",
       "paragraphs": [
         "Warsztat jest otwarty siedem dni w tygodniu, 8:00 AM do 7:00 PM. Jeden adres: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs i Lake Worth Beach są w promieniu 10 mil, więc wielu kierowców stamtąd po prostu przyjeżdża na stanowisko. Nie wymyślimy czasu dojazdu. Jeśli nie wiesz, czy opona wytrzyma, zadzwoń.",
@@ -61,6 +68,14 @@
     {
       "question": "Czy mogę poczekać, jeśli opona z gwoździem wciąż trzyma powietrze?",
       "answer": "Nie traktuj powolnego wycieku jak planu. Zadzwoń pod (561) 429-4041 i przyjedź, póki opona ma powietrze. Jazda na gumie niszczy bok."
+    },
+    {
+      "question": "Czy muszę się umawiać na naprawę opony?",
+      "answer": "Nie. Walk-in siedem dni, 8:00 AM–7:00 PM, 1114 S Military Trl. Zadzwoń pod (561) 429-4041, jeśli auto nie jedzie i potrzebujesz mobilnego w 10 milach."
+    },
+    {
+      "question": "Jak zapłacić za naprawę?",
+      "answer": "Kartą kredytową, debetową lub NFC w warsztacie."
     }
   ],
   "moreHeading": "Jeśli opony nie da się uratować",
@@ -98,5 +113,5 @@
       "label": "Usłyszałeś, że potrzebujesz czterech nowych opon? Kiedy wystarczy naprawa"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

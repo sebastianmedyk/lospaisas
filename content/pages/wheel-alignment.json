@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Walk in for geometría / alignment",
+      "paragraphs": [
+        "No appointment is required for wheel alignment. Drive to 1114 S Military Trl during open hours, 8:00 AM to 7:00 PM every day including Sunday. Tell us if the car pulls, the steering wheel sits crooked, or the tires wore on one edge.",
+        "We accept credit, debit, and NFC. Alignment stays on the shop equipment — it is not a mobile or driveway job. If you also need balancing, we can do both in one stop and quote each part before we start."
+      ]
+    },
+    {
       "heading": "Drivers who come to S Military Trl",
       "paragraphs": [
         "The rack is only at the shop. Greenacres, Palm Springs, and Lake Worth Beach are close enough that people drive here, and all three towns are inside 10 miles of the address, but the alignment itself is not a mobile job. If a tire is flat and you cannot reach us, call about mobile tire service for the flat. Come to the bay for the geometry.",
@@ -61,6 +68,14 @@
     {
       "question": "Can you align the car at my house?",
       "answer": "No. Alignment is done on the equipment at 1114 S Military Trl. Mobile service is for tire work within 10 miles, not for geometry."
+    },
+    {
+      "question": "Do I need an appointment for alignment?",
+      "answer": "No. Walk-ins are welcome seven days a week, 8:00 AM to 7:00 PM. Call (561) 429-4041 if you want to confirm the bay before you come."
+    },
+    {
+      "question": "How do I pay for alignment?",
+      "answer": "Credit card, debit card, or NFC tap at the shop."
     }
   ],
   "moreHeading": "Work that often goes with alignment",
@@ -81,5 +96,6 @@
       "href": "/en/blog/wheel-alignment-military-trail-west-palm-beach",
       "label": "Alignment on Military Trl"
     }
-  ]
+  ],
+  "updated": "2026-11-05"
 }

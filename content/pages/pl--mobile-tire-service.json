@@ -40,6 +40,19 @@
       ]
     },
     {
+      "heading": "Co powiedzieć, gdy zamawiasz van",
+      "paragraphs": [
+        "Dzwoniąc lub pisząc na WhatsApp (561) 429-4041, podaj od razu cztery rzeczy, zanim ktokolwiek wyjedzie: pełny adres, markę i model auta, rozmiar opony (na boku) albo że mamy go odczytać na miejscu, oraz czy masz sprawne koło zapasowe.",
+        "Powiedz też, gdzie stoi auto — podjazd, parking czy pobocze — i czy da się tam bezpiecznie pracować. Jeśli miejsce jest niebezpieczne, poprosimy o dojazd do 1114 S Military Trl. Oponę zamienną obiecujemy dopiero po potwierdzeniu rozmiaru i stocku telefonicznie; van nie wozi całego magazynu."
+      ],
+      "bullets": [
+        "Pełny adres w promieniu 10 mil od warsztatu",
+        "Pojazd i rozmiar (albo prośba o odczyt na miejscu)",
+        "Czy masz koło zapasowe",
+        "Podjazd, parking lub pobocze — i czy jest bezpiecznie"
+      ]
+    },
+    {
       "heading": "Miejscowości w promieniu 10 mil",
       "paragraphs": [
         "Greenacres, Palm Springs i Lake Worth Beach leżą w promieniu 10 mil od 1114 S Military Trl. Sprawdziliśmy granice tych miejscowości względem warsztatu i mieszczą się w tym promieniu, więc możesz tam wezwać van. Konkretny adres i tak potwierdzamy, bo miejsce pracy musi pozwalać na pracę. Nie publikujemy czasu dojazdu.",
@@ -61,6 +74,14 @@
     {
       "question": "Czy jesteście całodobową pomocą drogową?",
       "answer": "Nie. Van pracuje w tych samych godzinach co warsztat, 8:00 AM do 7:00 PM, siedem dni w tygodniu. Dzwoń w tych godzinach."
+    },
+    {
+      "question": "Co mam powiedzieć przy zamawianiu serwisu mobilnego?",
+      "answer": "Adres, pojazd, rozmiar jeśli znasz, czy masz zapasowe i gdzie stoi auto. Zadzwoń lub WhatsApp (561) 429-4041 w godzinach 8:00 AM–7:00 PM."
+    },
+    {
+      "question": "Czy za van płacę tak samo jak w warsztacie?",
+      "answer": "W warsztacie: karta kredytowa, debetowa i NFC. Formę płatności za wyjazd potwierdź przy rezerwacji telefonicznej."
     }
   ],
   "moreHeading": "Serwis mobilny w trzech pobliskich miejscowościach",
@@ -90,5 +111,5 @@
       "label": "Guma w niedzielę? Co może zrobić warsztat"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

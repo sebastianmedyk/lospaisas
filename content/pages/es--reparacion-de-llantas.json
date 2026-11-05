@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Llega sin cita con un clavo o una fuga lenta",
+      "paragraphs": [
+        "No hace falta cita para reparar. Trae el carro a 1114 S Military Trl cualquier día, de 8:00 AM a 7:00 PM, mientras la llanta aún aguante aire si puedes. Rodarla desinflada puede arruinar una llanta que todavía se podía salvar.",
+        "Aceptamos crédito, débito y NFC. El precio de la reparación se dice antes de empezar. Si la llanta no se puede salvar, te mostramos usadas desde $65 y opciones nuevas en la misma visita — sin cambio de aceite, frenos ni A/C."
+      ]
+    },
+    {
       "heading": "Cuándo venir y cuándo pedir la van",
       "paragraphs": [
         "El taller abre siete días, de 8:00 AM a 7:00 PM. Una dirección: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs y Lake Worth Beach están dentro de las 10 millas, así que mucha gente simplemente llega al local. No inventamos un tiempo de camino. Si no estás seguro de que la llanta aguante, llama.",
@@ -61,6 +68,14 @@
     {
       "question": "¿Puedo esperar si el clavo todavía aguanta aire?",
       "answer": "No dejes una fuga lenta como plan. Llama al (561) 429-4041 y ven mientras la llanta tiene aire. Rodarla vacía daña el costado."
+    },
+    {
+      "question": "¿Necesito cita para una reparación?",
+      "answer": "No. Puedes llegar sin cita los siete días, de 8:00 AM a 7:00 PM, a 1114 S Military Trl. Llama al (561) 429-4041 si el carro no rueda y necesitas móvil dentro de 10 millas."
+    },
+    {
+      "question": "¿Cómo pago una reparación?",
+      "answer": "Tarjeta de crédito, débito o NFC en el taller."
     }
   ],
   "moreHeading": "Si la llanta no se puede salvar",
@@ -98,5 +113,5 @@
       "label": "¿Le dijeron que necesita cuatro llantas? Cuándo basta reparar"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Llega sin cita si hay vibración a velocidad",
+      "paragraphs": [
+        "Puedes llegar sin cita para balanceo — cualquier día de 8:00 AM a 7:00 PM. Describe si sientes vibración a velocidad de carretera o si el carro jala a un lado, para no venderte alineación cuando la rueda solo necesita pesos.",
+        "El pago es con crédito, débito o NFC. El precio del balanceo se dice antes de poner los pesos. Eso es lo que significa “sin cargos ocultos” en Los Paisas Tires Shop."
+      ]
+    },
+    {
       "heading": "Horario y cómo llegar al taller",
       "paragraphs": [
         "El balanceo es trabajo de taller en 1114 S Military Trl. Llega gente de West Palm Beach y de Greenacres, Palm Springs y Lake Worth Beach, que están dentro de las 10 millas. No damos un estimado de minutos. Si no puedes traer el carro por una ponchadura, llama por el servicio móvil para la llanta. El balanceo que necesita la máquina se queda en el taller.",
@@ -61,6 +68,14 @@
     {
       "question": "¿Balancean llantas que compré en otro lado?",
       "answer": "Sí. Trae el carro, o las llantas sueltas si todavía no están montadas, a 1114 S Military Trl. Montar llantas que ya son tuyas es otro servicio si aún hay que ponerlas en los rines."
+    },
+    {
+      "question": "¿Necesito cita para el balanceo?",
+      "answer": "No. Puedes llegar sin cita todos los días, de 8:00 AM a 7:00 PM, a 1114 S Military Trl."
+    },
+    {
+      "question": "¿Cómo pago el balanceo?",
+      "answer": "Tarjeta de crédito, débito o NFC. El precio se cotiza antes de empezar."
     }
   ],
   "moreHeading": "Si el balanceo es solo una parte",
@@ -90,5 +105,5 @@
       "label": "¿Por qué vibra el carro cuando voy rápido?"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

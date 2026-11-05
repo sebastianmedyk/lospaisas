@@ -5,12 +5,12 @@ date: "2026-10-27"
 locale: en
 slug: new-tire-sizes-r15-r18-lt-west-palm-beach
 keywords:
-  - new tires near me West Palm Beach
+  - new tire sizes West Palm Beach
   - new tires R15 R16 R17 R18
   - LT tires West Palm Beach
 ---
 
-Looking for new tires near me in West Palm Beach usually starts with one question: do they have my size? At **Los Paisas Tires Shop** on S Military Trl we keep **new tires in common sizes from R15 to R18**, plus **LT sizes for trucks and SUVs**.
+Looking for new tires in West Palm Beach usually starts with one question: do they have my size? At **Los Paisas Tires Shop** on S Military Trl we keep **new tires in common sizes from R15 to R18**, plus **LT sizes for trucks and SUVs**.
 
 ## Which sizes are in stock?
 

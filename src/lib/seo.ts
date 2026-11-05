@@ -124,7 +124,7 @@ export function localBusinessJsonLd() {
     telephone: BUSINESS.phoneE164,
     priceRange: "$$",
     currenciesAccepted: "USD",
-    paymentAccepted: "Cash, Credit Card, Debit Card",
+    paymentAccepted: "Credit Card, Debit Card, NFC",
     address: postalAddress(),
     geo: {
       "@type": "GeoCoordinates",
@@ -229,7 +229,7 @@ export function webSiteJsonLd() {
 
 export type FaqItem = { question: string; answer: string };
 
-export function faqPageJsonLd(faqs: FaqItem[]) {
+export function faqPageJsonLd(faqs: readonly FaqItem[]) {
   return {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -298,7 +298,6 @@ export function flatTireSundayHowToJsonLd() {
     name: "What to do if you get a flat tire on Sunday in West Palm Beach",
     description:
       "Step-by-step guide to get a flat tire fixed on Sunday at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415 — open 8:00 AM–7:00 PM every day including Sunday.",
-    totalTime: "PT30M",
     inLanguage: "en-US",
     supply: [
       {

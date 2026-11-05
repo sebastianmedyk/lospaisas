@@ -2,7 +2,7 @@
 title: "Mobile Tire Service: What to Tell Us First"
 description: "Need tires without driving in? Los Paisas offers mobile tire service within 10 miles of S Military Trl — West Palm Beach, Greenacres, Palm Springs & nearby."
 date: "2026-07-15"
-updated: "2026-10-19"
+updated: "2026-11-05"
 locale: en
 slug: mobile-tire-service-west-palm-beach
 keywords:
@@ -12,6 +12,9 @@ keywords:
 ---
 
 **Los Paisas Tires Shop** provides **mobile tire service within 10 miles** of the shop at 1114 S Military Trl, West Palm Beach, FL 33415, for drivers who cannot bring the car in. That coverage typically reaches drivers in West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby Palm Beach County — ask when you call so we confirm your address.
+
+![Mobile tire service truck from Los Paisas Tires Shop in West Palm Beach](/photos/mobile-tire-service-truck-west-palm-beach-los-paisas-06.webp)
+
 
 ## When does mobile tire service make sense?
 

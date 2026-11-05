@@ -41,6 +41,19 @@
       ]
     },
     {
+      "heading": "Walk in, or call first",
+      "paragraphs": [
+        "You do not need an appointment for used tires at Los Paisas Tires Shop. Walk-ins are welcome every day, 8:00 AM to 7:00 PM, including Sunday. Calling (561) 429-4041 first helps when you already know the size, so we can check stock before you drive in.",
+        "Payment at the shop is by credit card, debit card, or NFC tap. There is no online checkout for used tires on this site. The from-$65 figure is the starting point for used tires; the final price depends on size and remaining tread, and you hear that number before we mount anything."
+      ],
+      "bullets": [
+        "No appointment required — walk-ins welcome",
+        "Call ahead with the tire size if you want stock checked first",
+        "Credit, debit, or NFC at the counter",
+        "Used tires from $65; final price stated before mounting"
+      ]
+    },
+    {
       "heading": "Coming from nearby towns",
       "paragraphs": [
         "There is one shop address: 1114 S Military Trl, West Palm Beach, FL 33415. Drivers from Greenacres, Palm Springs, and Lake Worth Beach use that same bay. Those three towns sit inside the 10-mile area around the shop, so you can drive in when the tire will hold air. We do not quote a minute count, because traffic on Military Trl is not a promise.",
@@ -62,6 +75,14 @@
     {
       "question": "What if you do not have my size today?",
       "answer": "Call (561) 429-4041 and ask. Stock moves. If we do not have it, we will tell you rather than stretch a tire that does not belong on the car."
+    },
+    {
+      "question": "Do I need an appointment for used tires?",
+      "answer": "No. Walk-ins are welcome at Los Paisas Tires Shop, 1114 S Military Trl, every day from 8:00 AM to 7:00 PM. Calling (561) 429-4041 with your size first can save a trip if that size is out."
+    },
+    {
+      "question": "How can I pay for used tires?",
+      "answer": "At the shop we accept credit card, debit card, and NFC tap. Used tires start from $65; the exact price for your size is given before mounting."
     }
   ],
   "moreHeading": "Other tire work at this shop",
@@ -100,5 +121,5 @@
     "used tires near me",
     "used tire shop Military Trl"
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

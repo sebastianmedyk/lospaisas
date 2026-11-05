@@ -5,6 +5,7 @@ import { SITE_URL } from "@/lib/site";
 const AI_BOTS = [
   "GPTBot",
   "ChatGPT-User",
+  "OAI-SearchBot",
   "Google-Extended",
   "PerplexityBot",
   "ClaudeBot",

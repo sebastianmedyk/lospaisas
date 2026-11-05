@@ -40,6 +40,19 @@
       ]
     },
     {
+      "heading": "Wizyta bez umawiania po nowe opony",
+      "paragraphs": [
+        "Umówienie nie jest wymagane. Wjedź na 1114 S Military Trl w godzinach — poniedziałek–niedziela, 8:00 AM–7:00 PM — i dopasujemy rozmiar z tabliczki w drzwiach albo z tego, co podasz przez telefon.",
+        "Przyjmujemy kartę kredytową, debetową i NFC. Ta strona nie podaje cen nowych opon, bo rozmiar i nośność zmieniają wycenę. Kwotę za opony i za wyważanie słyszysz przed startem, bez ukrytych opłat."
+      ],
+      "bullets": [
+        "Walk-in; zadzwoń pod (561) 429-4041, jeśli chcesz potwierdzić rozmiar",
+        "Angielski lub hiszpański przy tym samym lady",
+        "Karta kredytowa, debetowa lub NFC",
+        "Wyważanie wycenione przed startem, gdy koło tego wymaga"
+      ]
+    },
+    {
       "heading": "Warsztat przy S Military Trl",
       "paragraphs": [
         "Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają tu z Greenacres, Palm Springs i Lake Worth Beach. Wszystkie trzy są w promieniu 10 mil od warsztatu. Przyjedź na stanowisko, gdy auto może jechać. Jeśli opona już siadła i nie powinieneś jechać, zadzwoń i zapytaj o van, który jeździ w tym promieniu 10 mil i nie jest drugim adresem.",
@@ -61,6 +74,14 @@
     {
       "question": "Czy w niedzielę mogę kupić nową oponę?",
       "answer": "Tak. Godziny otwarcia to 8:00 AM do 7:00 PM codziennie, także w niedzielę. Zadzwoń pod (561) 429-4041, jeśli chcesz potwierdzić rozmiar przed przyjazdem."
+    },
+    {
+      "question": "Czy muszę się umawiać na nowe opony?",
+      "answer": "Nie. Walk-in siedem dni w tygodniu, 8:00 AM–7:00 PM. Zadzwoń pod (561) 429-4041, żeby potwierdzić rozmiar."
+    },
+    {
+      "question": "Jakie formy płatności przyjmujecie?",
+      "answer": "Kartę kredytową, debetową i NFC w warsztacie."
     }
   ],
   "moreHeading": "Powiązane prace podczas tej samej wizyty",
@@ -95,5 +116,5 @@
     "nowe opony w pobliżu",
     "montaż nowych opon Military Trl"
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

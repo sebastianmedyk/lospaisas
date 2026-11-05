@@ -41,6 +41,19 @@
       ]
     },
     {
+      "heading": "Wejdź bez umawiania albo zadzwoń najpierw",
+      "paragraphs": [
+        "Nie potrzebujesz wizyty umówionej na używane opony w Los Paisas Tires Shop. Możesz wejść bez umawiania codziennie, od 8:00 AM do 7:00 PM, także w niedzielę. Telefon (561) 429-4041 pomaga, gdy znasz już rozmiar — sprawdzimy stan magazynu przed dojazdłem.",
+        "W warsztacie przyjmujemy kartę kredytową, debetową i NFC. Nie ma zakupu używanych online na tej stronie. Cena od $65 to punkt startowy; ostateczna kwota zależy od rozmiaru i bieżnika i pada przed montażem."
+      ],
+      "bullets": [
+        "Bez umawiania — walk-in w godzinach otwarcia",
+        "Zadzwoń z rozmiarem, jeśli chcesz sprawdzić stock",
+        "Karta kredytowa, debetowa lub NFC",
+        "Używane od $65; cena końcowa przed montażem"
+      ]
+    },
+    {
       "heading": "Dojazd z okolicznych miejscowości",
       "paragraphs": [
         "Warsztat ma jeden adres: 1114 S Military Trl, West Palm Beach, FL 33415. Kierowcy z Greenacres, Palm Springs i Lake Worth Beach korzystają z tego samego stanowiska. Te trzy miejscowości leżą w promieniu 10 mil od warsztatu, więc możesz przyjechać, jeśli opona trzyma powietrze. Nie podajemy czasu dojazdu w minutach, bo ruch na Military Trl to nie obietnica.",
@@ -62,6 +75,14 @@
     {
       "question": "Co, jeśli dziś nie macie mojego rozmiaru?",
       "answer": "Zadzwoń pod (561) 429-4041 i zapytaj. Stan się zmienia. Jeśli go nie mamy, powiemy to, zamiast naciągać oponę, która nie pasuje do auta."
+    },
+    {
+      "question": "Czy muszę się umawiać na używane opony?",
+      "answer": "Nie. Walk-in jest mile widziany w Los Paisas Tires Shop, 1114 S Military Trl, codziennie 8:00 AM–7:00 PM. Zadzwoń pod (561) 429-4041 z rozmiarem, żeby nie jechać na próżno."
+    },
+    {
+      "question": "Jak mogę zapłacić za używane opony?",
+      "answer": "W warsztacie: karta kredytowa, debetowa i NFC. Używane od $65; dokładna cena za Twój rozmiar przed montażem."
     }
   ],
   "moreHeading": "Inne prace przy oponach w tym warsztacie",
@@ -100,5 +121,5 @@
     "używane opony w pobliżu",
     "sklep z używanymi oponami Military Trl"
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

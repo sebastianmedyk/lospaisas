@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Wejdź bez umawiania z oponami, które już kupiłeś",
+      "paragraphs": [
+        "Walk-in jest mile widziany. Przywieź opony i auto na 1114 S Military Trl dowolnego dnia, 8:00 AM–7:00 PM. Telefon (561) 429-4041 z rozmiarem i liczbą opon pomaga zaplanować stanowisko.",
+        "Płatność: karta kredytowa, debetowa lub NFC. Wyważanie jest oferowane z montażem i wyceniane przed startem, bez ukrytych opłat."
+      ]
+    },
+    {
       "heading": "Gdzie odbywa się montaż",
       "paragraphs": [
         "Stanowisko mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają z Greenacres, Palm Springs i Lake Worth Beach. Te miejscowości są w promieniu 10 mil od warsztatu. Jeśli nie możesz ruszyć auta, a opony są już pod tym adresem, zadzwoń i zapytaj, czy montaż mobilny jest możliwy w promieniu 10 mil. Najpierw potwierdzamy miejsce. Podjazd nie zawsze jest bezpieczny do montażu opon i powiemy to.",
@@ -61,6 +68,14 @@
     {
       "question": "Czy sprzedacie mi oponę, jeśli jedna z moich jest zła?",
       "answer": "Tak. Jeśli przywieziona opona nie nadaje się do montażu, możemy porozmawiać o nowej lub używanej oponie z warsztatu na to koło."
+    },
+    {
+      "question": "Czy muszę się umawiać na montaż własnych opon?",
+      "answer": "Nie. Walk-in. Zadzwoń pod (561) 429-4041, jeśli chcesz, żebyśmy byli gotowi na Twój rozmiar."
+    },
+    {
+      "question": "Jak zapłacić za montaż?",
+      "answer": "Kartą kredytową, debetową lub NFC w warsztacie."
     }
   ],
   "moreHeading": "Jeśli potrzebujesz od nas opon",
@@ -81,5 +96,6 @@
       "href": "/pl/blog/montaz-opon-klienta-west-palm-beach",
       "label": "Przywożenie własnych opon na Military Trl"
     }
-  ]
+  ],
+  "updated": "2026-11-05"
 }

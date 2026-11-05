@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Llega sin cita con llantas que ya compraste",
+      "paragraphs": [
+        "Puedes llegar sin cita. Trae las llantas y el carro a 1114 S Military Trl cualquier día, de 8:00 AM a 7:00 PM. Llamar al (561) 429-4041 primero con la medida y cuántas llantas traes ayuda a planear el bay.",
+        "El pago es crédito, débito o NFC. El balanceo se ofrece con el montaje y se cotiza antes de empezar, sin cargos ocultos."
+      ]
+    },
+    {
       "heading": "Dónde se hace la instalación",
       "paragraphs": [
         "El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Esos pueblos están a menos de 10 millas. Si no puedes mover el carro y las llantas ya están en esa dirección, llama y pregunta si un montaje móvil cabe dentro de las 10 millas. Confirmamos el lugar primero. Una entrada de casa no siempre es un sitio seguro para montar, y te lo decimos.",
@@ -61,6 +68,14 @@
     {
       "question": "¿Me pueden vender una llanta si una de las mías está mala?",
       "answer": "Sí. Si una llanta que trajiste no se debe montar, podemos hablar de una nueva o una usada del taller para esa esquina."
+    },
+    {
+      "question": "¿Necesito cita para instalar mis propias llantas?",
+      "answer": "No. Puedes llegar sin cita. Llama al (561) 429-4041 primero si quieres que estemos listos con tu medida."
+    },
+    {
+      "question": "¿Cómo pago la instalación?",
+      "answer": "Tarjeta de crédito, débito o NFC en el taller."
     }
   ],
   "moreHeading": "Si todavía necesitas llantas nuestras",
@@ -81,5 +96,6 @@
       "href": "/blog/instalacion-llantas-del-cliente-west-palm-beach",
       "label": "Traer tus propias llantas a Military Trl"
     }
-  ]
+  ],
+  "updated": "2026-11-05"
 }

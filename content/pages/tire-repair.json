@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Walk in with a nail or a slow leak",
+      "paragraphs": [
+        "No appointment is needed for tire repair. Bring the car to 1114 S Military Trl any day, 8:00 AM to 7:00 PM, while the tire still holds air if you can. Driving it flat can ruin a tire that was still repairable.",
+        "We accept credit card, debit card, and NFC tap. The repair price is stated before we start. If the tire cannot be saved, we show used tires from $65 and new options in the same visit — no oil, brakes, or A/C upsells."
+      ]
+    },
+    {
       "heading": "When you should come in or call the van",
       "paragraphs": [
         "The shop is open seven days, 8:00 AM to 7:00 PM. One address: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs, and Lake Worth Beach are inside the 10-mile area, so a lot of those drivers simply come to the bay. We will not invent a drive time. If you are not sure the tire will make it, call.",
@@ -61,6 +68,14 @@
     {
       "question": "Can I wait if the nail is still holding air?",
       "answer": "Do not treat a slow leak as a plan. Call (561) 429-4041 and come in while the tire still has air. Driving it flat ruins the sidewall."
+    },
+    {
+      "question": "Do I need an appointment for a tire repair?",
+      "answer": "No. Walk-ins are welcome seven days a week, 8:00 AM to 7:00 PM, at 1114 S Military Trl. Call (561) 429-4041 if the car cannot roll and you need mobile help within 10 miles."
+    },
+    {
+      "question": "How do I pay for a repair?",
+      "answer": "Credit card, debit card, or NFC tap at the shop."
     }
   ],
   "moreHeading": "If the tire cannot be saved",
@@ -98,5 +113,5 @@
       "label": "Told you need four new tires? When a repair is enough"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

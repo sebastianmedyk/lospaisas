@@ -40,6 +40,19 @@
       ]
     },
     {
+      "heading": "Walk-in visit for new tires",
+      "paragraphs": [
+        "No appointment is required. Pull into 1114 S Military Trl during open hours — Monday through Sunday, 8:00 AM to 7:00 PM — and we match the size from the door placard or from the size you read over the phone.",
+        "We accept credit card, debit card, and NFC tap. This page does not list new-tire prices because size and load rating change the quote. You hear the number for the tires and for balancing before work starts, with no hidden fees."
+      ],
+      "bullets": [
+        "Walk-ins welcome; call (561) 429-4041 if you want the size checked first",
+        "English or Spanish at the same counter",
+        "Credit, debit, or NFC",
+        "Balancing quoted before it starts when the wheel needs it"
+      ]
+    },
+    {
       "heading": "The shop on S Military Trl",
       "paragraphs": [
         "The only address is 1114 S Military Trl, West Palm Beach, FL 33415. People drive here from Greenacres, Palm Springs, and Lake Worth Beach. All three are inside the 10-mile area around the shop. Come to the bay when the car can roll. If a tire is already flat and you should not drive, call and ask about the mobile van, which stays within those 10 miles and is not a second address.",
@@ -61,6 +74,14 @@
     {
       "question": "Are you open on Sunday for a new tire?",
       "answer": "Yes. Hours are 8:00 AM to 7:00 PM every day, including Sunday. Call (561) 429-4041 if you want to confirm the size before you come."
+    },
+    {
+      "question": "Do I need an appointment to buy new tires?",
+      "answer": "No. Walk-ins are welcome seven days a week, 8:00 AM to 7:00 PM. Call (561) 429-4041 if you want to confirm your size before you come."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "Credit card, debit card, and NFC tap at the shop."
     }
   ],
   "moreHeading": "Related work on the same visit",
@@ -95,5 +116,5 @@
     "new tires near me",
     "new tire installation Military Trl"
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Walk in for a shake at speed",
+      "paragraphs": [
+        "You can walk in for tire balancing — no appointment required — any day from 8:00 AM to 7:00 PM. Describe whether you feel a shake at highway speed or a pull to one side, so we do not sell you alignment when the wheel only needs weights.",
+        "Payment is by credit card, debit card, or NFC. The balance price is stated before the weights go on. That is what “no hidden fees” means at Los Paisas Tires Shop."
+      ]
+    },
+    {
       "heading": "Hours and how to reach the shop",
       "paragraphs": [
         "Balancing is a shop job at 1114 S Military Trl. Drivers come from West Palm Beach and from Greenacres, Palm Springs, and Lake Worth Beach, which are inside the 10-mile area. We do not give a drive-time estimate. If you cannot bring the car because of a flat, call about mobile tire service for the tire itself. The balance still belongs on the machine at the shop when that is what the wheel needs.",
@@ -61,6 +68,14 @@
     {
       "question": "Do you balance tires I bought somewhere else?",
       "answer": "Yes. Bring the car, or the loose tires if they are not mounted yet, to 1114 S Military Trl. Mounting tires you already own is its own service if they still need to go on the wheels."
+    },
+    {
+      "question": "Do I need an appointment for balancing?",
+      "answer": "No. Walk-ins are welcome every day, 8:00 AM to 7:00 PM, at 1114 S Military Trl."
+    },
+    {
+      "question": "How do I pay for balancing?",
+      "answer": "Credit card, debit card, or NFC tap. The price is quoted before we start."
     }
   ],
   "moreHeading": "If balance is only part of the problem",
@@ -90,5 +105,5 @@
       "label": "Why does my car shake at highway speed?"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

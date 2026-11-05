@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Wejdź bez umawiania przy wibracjach na prędkości",
+      "paragraphs": [
+        "Możesz wejść bez umawiania na wyważanie — codziennie 8:00 AM–7:00 PM. Opisz, czy czujesz wibracje na autostradzie, czy ściąganie w bok, żebyśmy nie sprzedawali geometrii, gdy koło potrzebuje tylko ciężarków.",
+        "Płatność kartą kredytową, debetową lub NFC. Cenę wyważania słyszysz przed założeniem ciężarków. To znaczy „bez ukrytych opłat” w Los Paisas Tires Shop."
+      ]
+    },
+    {
       "heading": "Godziny otwarcia i dojazd",
       "paragraphs": [
         "Wyważanie robimy w warsztacie pod 1114 S Military Trl. Kierowcy przyjeżdżają z West Palm Beach oraz z Greenacres, Palm Springs i Lake Worth Beach, które są w promieniu 10 mil. Nie podajemy szacowanego czasu dojazdu. Jeśli nie możesz przyjechać przez gumę, zadzwoń w sprawie mobilnego serwisu opon dla samej opony. Wyważanie i tak robi się na maszynie w warsztacie, gdy koło tego potrzebuje.",
@@ -61,6 +68,14 @@
     {
       "question": "Czy wyważacie opony kupione gdzie indziej?",
       "answer": "Tak. Przywieź auto albo luźne opony, jeśli nie są jeszcze zamontowane, pod 1114 S Military Trl. Montaż opon, które już masz, to osobna usługa, jeśli trzeba je jeszcze założyć na felgi."
+    },
+    {
+      "question": "Czy muszę się umawiać na wyważanie?",
+      "answer": "Nie. Walk-in codziennie, 8:00 AM–7:00 PM, 1114 S Military Trl."
+    },
+    {
+      "question": "Jak zapłacić za wyważanie?",
+      "answer": "Kartą kredytową, debetową lub NFC. Cena przed startem."
     }
   ],
   "moreHeading": "Jeśli wyważenie to tylko część problemu",
@@ -90,5 +105,5 @@
       "label": "Dlaczego auto drga przy dużej prędkości?"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

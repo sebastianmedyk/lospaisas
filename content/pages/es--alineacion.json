@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Llega sin cita para geometría / alineación",
+      "paragraphs": [
+        "No hace falta cita para alineación. Conduce a 1114 S Military Trl en horario, 8:00 AM a 7:00 PM todos los días, domingo incluido. Dinos si el carro jala, si el volante queda torcido o si las llantas se gastaron de un lado.",
+        "Aceptamos crédito, débito y NFC. La alineación se hace en el equipo del taller — no es trabajo móvil ni en la entrada de casa. Si también necesitas balanceo, podemos hacer ambos en una parada y cotizar cada parte antes de empezar."
+      ]
+    },
+    {
       "heading": "Quién maneja hasta S Military Trl",
       "paragraphs": [
         "El equipo está solo en el taller. Greenacres, Palm Springs y Lake Worth Beach quedan lo bastante cerca para venir, y los tres están dentro de 10 millas, pero la alineación no es un trabajo móvil. Si tienes una ponchadura y no puedes llegar, llama por el servicio móvil para la llanta. Para la geometría hay que venir al local.",
@@ -61,6 +68,14 @@
     {
       "question": "¿Pueden alinear el carro en mi casa?",
       "answer": "No. La alineación se hace con el equipo en 1114 S Military Trl. El servicio móvil es trabajo de llantas a 10 millas, no de geometría."
+    },
+    {
+      "question": "¿Necesito cita para la alineación?",
+      "answer": "No. Puedes llegar sin cita los siete días, de 8:00 AM a 7:00 PM. Llama al (561) 429-4041 si quieres confirmar el bay antes de venir."
+    },
+    {
+      "question": "¿Cómo pago la alineación?",
+      "answer": "Tarjeta de crédito, débito o NFC en el taller."
     }
   ],
   "moreHeading": "Trabajo que suele ir con la alineación",
@@ -81,5 +96,6 @@
       "href": "/blog/alineacion-geometria-military-trail-west-palm-beach",
       "label": "Alineación en Military Trl"
     }
-  ]
+  ],
+  "updated": "2026-11-05"
 }

@@ -40,6 +40,19 @@
       ]
     },
     {
+      "heading": "Visita sin cita por llantas nuevas",
+      "paragraphs": [
+        "No hace falta cita. Entra a 1114 S Military Trl en horario — lunes a domingo, 8:00 AM a 7:00 PM — y cruzamos la medida con la placa de la puerta o con la que leíste por teléfono.",
+        "Aceptamos crédito, débito y NFC. Esta página no lista precios de nuevas porque la medida y la carga cambian la cotización. Escuchas el número de las llantas y del balanceo antes de empezar, sin cargos ocultos."
+      ],
+      "bullets": [
+        "Sin cita; llama al (561) 429-4041 si quieres confirmar la medida",
+        "Español o inglés en el mismo mostrador",
+        "Crédito, débito o NFC",
+        "Balanceo cotizado antes de empezar cuando la rueda lo necesita"
+      ]
+    },
+    {
       "heading": "El taller en S Military Trl",
       "paragraphs": [
         "La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Los tres están dentro de las 10 millas del taller. Ven al local cuando el carro pueda rodar. Si una llanta ya está ponchada y no debes manejar, llama y pregunta por la van, que se queda dentro de esas 10 millas y no es otra dirección.",
@@ -61,6 +74,14 @@
     {
       "question": "¿Abren el domingo para una llanta nueva?",
       "answer": "Sí. El horario es de 8:00 AM a 7:00 PM todos los días, domingo incluido. Llama al (561) 429-4041 si quieres confirmar la medida antes de venir."
+    },
+    {
+      "question": "¿Necesito cita para comprar llantas nuevas?",
+      "answer": "No. Puedes llegar sin cita los siete días, de 8:00 AM a 7:00 PM. Llama al (561) 429-4041 si quieres confirmar la medida antes de venir."
+    },
+    {
+      "question": "¿Qué formas de pago aceptan?",
+      "answer": "Tarjeta de crédito, débito y pago con NFC en el taller."
     }
   ],
   "moreHeading": "Trabajo que cabe en la misma visita",
@@ -95,5 +116,5 @@
     "llantas nuevas cerca de mí",
     "instalación de llantas nuevas Military Trl"
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

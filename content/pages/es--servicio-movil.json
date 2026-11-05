@@ -40,6 +40,19 @@
       ]
     },
     {
+      "heading": "Qué decir cuando pides la van",
+      "paragraphs": [
+        "Al llamar o escribir por WhatsApp al (561) 429-4041, di cuatro cosas de entrada para confirmar el trabajo antes de salir: la dirección completa, la marca y modelo del vehículo, la medida de la llanta (está en el costado) o que necesitamos leerla en el lugar, y si tienes un repuesto usable.",
+        "También di dónde está el carro — entrada, estacionamiento o acera — y si es seguro trabajar ahí. Si el lugar no es seguro, te pediremos que lleves el carro a 1114 S Military Trl. Solo prometemos una llanta de reemplazo cuando confirmamos medida y stock por teléfono; la van no lleva todo el taller."
+      ],
+      "bullets": [
+        "Dirección completa dentro de las 10 millas del taller",
+        "Vehículo y medida (o pedir que la leamos en el sitio)",
+        "Si tienes repuesto",
+        "Entrada, estacionamiento o acera — y si es seguro trabajar"
+      ]
+    },
+    {
       "heading": "Pueblos dentro de las 10 millas",
       "paragraphs": [
         "Greenacres, Palm Springs y Lake Worth Beach están dentro de las 10 millas alrededor de 1114 S Military Trl. Revisamos los límites de esos pueblos contra el taller, y los pueblos mismos caben en ese radio, así que puedes pedir la van ahí. Igual confirmamos la dirección real, porque el lugar tiene que servir para trabajar. No publicamos minutos de camino.",
@@ -61,6 +74,14 @@
     {
       "question": "¿Son un servicio de carretera las 24 horas?",
       "answer": "No. La van trabaja el mismo horario del taller, de 8:00 AM a 7:00 PM, siete días. Llama en esas horas."
+    },
+    {
+      "question": "¿Qué debo decir cuando llamo por el servicio móvil?",
+      "answer": "Da la dirección, el vehículo, la medida si la sabes, si tienes repuesto y dónde está estacionado el carro. Llama o WhatsApp al (561) 429-4041 en horario del taller, 8:00 AM a 7:00 PM."
+    },
+    {
+      "question": "¿Pago a la van igual que en el taller?",
+      "answer": "En el taller aceptamos crédito, débito y NFC. Confirma el pago del servicio móvil cuando reserves la visita por teléfono."
     }
   ],
   "moreHeading": "Notas móviles de tres pueblos cercanos",
@@ -90,5 +111,5 @@
       "label": "¿Llanta ponchada el domingo? Qué puede hacer el taller"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-11-05"
 }

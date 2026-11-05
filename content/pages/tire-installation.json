@@ -40,6 +40,13 @@
       ]
     },
     {
+      "heading": "Walk in with tires you already bought",
+      "paragraphs": [
+        "Walk-ins are welcome. Bring the tires and the car to 1114 S Military Trl any day, 8:00 AM to 7:00 PM. Calling (561) 429-4041 first with the size and how many tires you are bringing helps us plan the bay.",
+        "Payment is credit, debit, or NFC. Balancing is offered with the mount and quoted before we start, with no hidden fees."
+      ]
+    },
+    {
       "heading": "Where the install happens",
       "paragraphs": [
         "The bay is at 1114 S Military Trl, West Palm Beach, FL 33415. People drive in from Greenacres, Palm Springs, and Lake Worth Beach. Those towns are within 10 miles of the shop. If you cannot move the car and the tires are already at that address, call and ask whether a mobile install is possible within the 10-mile area. We confirm the location first. A driveway is not always a safe place to mount tires, and we will say so.",
@@ -61,6 +68,14 @@
     {
       "question": "Can you sell me a tire if one of mine is bad?",
       "answer": "Yes. If a tire you brought should not be mounted, we can talk about a new or used tire from the shop for that corner."
+    },
+    {
+      "question": "Do I need an appointment to install my own tires?",
+      "answer": "No. Walk-ins are welcome. Call (561) 429-4041 first if you want us ready for your size."
+    },
+    {
+      "question": "How do I pay for installation?",
+      "answer": "Credit card, debit card, or NFC tap at the shop."
     }
   ],
   "moreHeading": "If you still need tires from us",
@@ -81,5 +96,6 @@
       "href": "/en/blog/install-customer-tires-west-palm-beach",
       "label": "Bringing your own tires to Military Trl"
     }
-  ]
+  ],
+  "updated": "2026-11-05"
 }

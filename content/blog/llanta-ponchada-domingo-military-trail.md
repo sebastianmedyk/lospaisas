@@ -2,7 +2,7 @@
 title: "¿Llanta ponchada el domingo? Abrimos"
 description: "¿Se te ponchó la llanta un domingo en West Palm Beach? Los Paisas Tires Shop en S Military Trl abre 7 días, 8 AM–7 PM — reparación, vulcanización e instalación."
 date: "2026-08-28"
-updated: "2026-10-19"
+updated: "2026-11-05"
 locale: es
 slug: llanta-ponchada-domingo-military-trail
 keywords:
@@ -12,6 +12,9 @@ keywords:
 ---
 
 Una **llanta ponchada el domingo** no tiene que dejarte esperando hasta el lunes. **Los Paisas Tires Shop** en **1114 S Military Trl, West Palm Beach** abre **todos los días, incluyendo domingo**, de **8:00 AM a 7:00 PM**.
+
+![Reparación de llanta ponchada en Los Paisas Tires Shop, West Palm Beach](/photos/flat-tire-repair-west-palm-beach-los-paisas-10.webp)
+
 
 ## ¿Qué puede hacer el taller con una llanta ponchada el domingo?
 
