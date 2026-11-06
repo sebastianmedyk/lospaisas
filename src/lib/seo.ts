@@ -139,13 +139,8 @@ export function newTireOffersJsonLd(pageUrl: string) {
       price: t.price,
       priceCurrency: "USD",
       url: pageUrl,
-      itemOffered: {
-        "@type": "Product",
-        name: `Cosmo ${t.size}`,
-        sku: t.ref,
-        brand: { "@type": "Brand", name: t.brand },
-        description: "New tire; catalog price includes alignment and balancing.",
-      },
+      sku: t.ref,
+      description: "New tire; catalog price includes alignment and balancing.",
     })),
   };
 }
