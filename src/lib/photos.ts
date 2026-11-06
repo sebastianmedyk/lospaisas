@@ -154,3 +154,22 @@ export const CATALOG_PHOTOS: Record<CatalogImageKey, Photo> = {
     },
   },
 };
+
+/**
+ * `images.unoptimized` is on (OpenNext/Cloudflare), so next/image ignores `sizes`
+ * and ships the file at `src` as-is. Use these helpers for strips/tiles/cards.
+ */
+export function asThumb(photo: Photo): Photo {
+  if (photo.src.includes("/catalog/") || /-(?:480|640|800)\.webp$/.test(photo.src)) return photo;
+  const width = 480;
+  const height = Math.round((photo.height / photo.width) * width);
+  return { ...photo, src: photo.src.replace(/\.webp$/, "-480.webp"), width, height };
+}
+
+/** ~800px-wide copy for medium cards / dim backgrounds (still far lighter than 1440–1920 sources). */
+export function asCard(photo: Photo): Photo {
+  if (photo.src.includes("/catalog/") || /-(?:480|640|800)\.webp$/.test(photo.src)) return photo;
+  const width = 800;
+  const height = Math.round((photo.height / photo.width) * width);
+  return { ...photo, src: photo.src.replace(/\.webp$/, "-800.webp"), width, height };
+}

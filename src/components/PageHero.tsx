@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { ReactNode } from "react";
-import { PHOTOS } from "@/lib/photos";
+import { PHOTOS, asCard } from "@/lib/photos";
 import type { Locale } from "@/lib/i18n";
 import CtaButtons from "./CtaButtons";
 
@@ -38,7 +38,7 @@ export default function PageHero({
     <header className="relative isolate overflow-hidden border-b border-white/15 bg-brand-bg">
       <div className="pointer-events-none absolute inset-0 -z-10" aria-hidden>
         <Image
-          src={PHOTOS.storefront.src}
+          src={asCard(PHOTOS.storefront).src}
           alt={PHOTOS.storefront.alt[locale]}
           fill
           sizes="100vw"

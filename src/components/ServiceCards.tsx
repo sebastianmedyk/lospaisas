@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { PHOTOS, type Photo } from "@/lib/photos";
+import { PHOTOS, asThumb, asCard, type Photo } from "@/lib/photos";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { pick, serviceHref } from "@/lib/routes";
 import Reveal from "./Reveal";
@@ -84,7 +84,7 @@ export default function ServiceCards({
                   </span>
                   <span className="relative block h-16 w-24 overflow-hidden bg-black sm:h-24 sm:w-40">
                     <Image
-                      src={photo.src}
+                      src={asThumb(photo).src}
                       alt={photo.alt[locale]}
                       fill
                       sizes="160px"
@@ -162,7 +162,7 @@ export default function ServiceCards({
                   className={`group relative block h-full overflow-hidden border border-white/15 bg-black transition hover:border-brand-gold/60 ${focus}`}
                 >
                   <Image
-                    src={photo.src}
+                    src={(big ? asCard(photo) : asThumb(photo)).src}
                     alt={photo.alt[locale]}
                     fill
                     sizes={big ? "(max-width: 1024px) 100vw, 560px" : "(max-width: 1024px) 50vw, 280px"}
@@ -210,7 +210,7 @@ export default function ServiceCards({
                   className={`group relative block aspect-[4/3] overflow-hidden border border-white/15 bg-black sm:aspect-[16/10] ${focus}`}
                 >
                   <Image
-                    src={photo.src}
+                    src={asCard(photo).src}
                     alt={photo.alt[locale]}
                     fill
                     sizes="(max-width: 768px) 100vw, 560px"
@@ -247,7 +247,7 @@ export default function ServiceCards({
               >
                 <div className="relative aspect-[4/3] overflow-hidden bg-black">
                   <Image
-                    src={photo.src}
+                    src={asThumb(photo).src}
                     alt={photo.alt[locale]}
                     fill
                     sizes="(max-width: 768px) 50vw, 20vw"

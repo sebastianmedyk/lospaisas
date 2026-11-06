@@ -7,17 +7,23 @@ import "@/app/globals.css";
 
 const bodyFont = DM_Sans({
   subsets: ["latin", "latin-ext"],
-  weight: ["300", "400", "500", "600", "700", "800"],
+  // Only weights used in UI (body 300, text 400/600/700/800). Dropping unused 500 cuts a render-blocking font file.
+  weight: ["300", "400", "600", "700", "800"],
   variable: "--font-body",
   display: "swap",
+  preload: true,
+  adjustFontFallback: true,
   fallback: ["system-ui", "Segoe UI", "Roboto", "sans-serif"],
 });
 
 const displayFont = Barlow_Condensed({
   subsets: ["latin", "latin-ext"],
+  // .headline defaults to font-extralight (200); many headings override with font-bold (700).
   weight: ["200", "700"],
   variable: "--font-display",
   display: "swap",
+  preload: true,
+  adjustFontFallback: true,
   fallback: ["Impact", "Arial Black", "sans-serif"],
 });
 
