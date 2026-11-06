@@ -1,6 +1,5 @@
 import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
-import LangSwitch from "@/components/LangSwitch";
 import JsonLd from "@/components/JsonLd";
 import CatalogGrid from "@/components/CatalogGrid";
 import { BUSINESS } from "@/lib/constants";
@@ -117,9 +116,6 @@ export default function CatalogPage({ locale }: { locale: Locale }) {
         title={c.h1}
         titleId="catalog-heading"
         intro={<p>{c.promo}</p>}
-        extra={
-          <LangSwitch locale={locale} hrefs={{ es: catalogPath("es"), en: catalogPath("en"), pl: catalogPath("pl") }} />
-        }
       />
       <section className="section-pad-after-hero" aria-labelledby="catalog-heading">
         <div className="container-site">

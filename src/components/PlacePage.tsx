@@ -3,8 +3,6 @@ import { PHOTOS } from "@/lib/photos";
 import Link from "next/link";
 import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
-import LangSwitch from "@/components/LangSwitch";
-import InfoStrip from "@/components/InfoStrip";
 import Reviews from "@/components/Reviews";
 import JsonLd from "@/components/JsonLd";
 import PromoPanel from "@/components/PromoPanel";
@@ -84,18 +82,7 @@ export default function PlacePage({ locale, kind }: Props) {
         title={h1}
         titleId="place-heading"
         intro={<p>{kind === "location" ? t.location.subtitle : t.contact.subtitle}</p>}
-        extra={
-          <LangSwitch
-            locale={locale}
-            hrefs={{
-              es: kind === "location" ? locationPath("es") : contactPath("es"),
-              en: kind === "location" ? locationPath("en") : contactPath("en"),
-              pl: kind === "location" ? locationPath("pl") : contactPath("pl"),
-            }}
-          />
-        }
       />
-      <InfoStrip variant="subtle" />
       <section className="section-pad-after-hero" aria-labelledby="place-heading">
         <div className="container-site">
           {kind === "location" ? <LocationBody locale={locale} /> : <ContactBody locale={locale} />}

@@ -5,7 +5,6 @@ import { blogPath } from "@/lib/blog";
 import { getDictionary } from "@/lib/i18n";
 import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
-import LangSwitch from "@/components/LangSwitch";
 import JsonLd from "@/components/JsonLd";
 import { breadcrumbJsonLd } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
@@ -35,7 +34,6 @@ export default function BlogListing({ locale, posts }: Props) {
         title={t.blog.title}
         titleId="blog-listing-heading"
         intro={<p>{t.blog.subtitle}</p>}
-        extra={<LangSwitch locale={locale} hrefs={{ es: blogPath("es"), en: blogPath("en"), pl: blogPath("pl") }} />}
       />
       <section className="section-pad-after-hero" aria-labelledby="blog-listing-heading">
         <div className="container-site">

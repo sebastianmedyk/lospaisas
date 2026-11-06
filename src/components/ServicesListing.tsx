@@ -1,7 +1,6 @@
 import BlogShell from "@/components/BlogShell";
 import JsonLd from "@/components/JsonLd";
 import Link from "next/link";
-import LangSwitch from "@/components/LangSwitch";
 import ServiceCards from "@/components/ServiceCards";
 import { getDictionary, type Locale } from "@/lib/i18n";
 import { breadcrumbJsonLd } from "@/lib/seo";
@@ -37,15 +36,12 @@ export default function ServicesListing({ locale }: Props) {
             <span aria-hidden>/</span>
             <span className="text-white/80">{t.nav.services}</span>
           </nav>
-          <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
-            <h1
-              id="services-listing-heading"
-              className="headline text-3xl font-bold leading-none tracking-tight text-white sm:text-4xl"
-            >
-              {t.services.title}
-            </h1>
-            <LangSwitch locale={locale} hrefs={{ es: servicesPath("es"), en: servicesPath("en"), pl: servicesPath("pl") }} />
-          </div>
+          <h1
+            id="services-listing-heading"
+            className="mb-6 headline text-3xl font-bold leading-none tracking-tight text-white sm:text-4xl"
+          >
+            {t.services.title}
+          </h1>
           <ServiceCards showDescriptions headingLevel="h2" />
         </div>
       </section>
