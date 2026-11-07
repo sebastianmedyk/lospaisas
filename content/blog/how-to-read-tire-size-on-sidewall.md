@@ -1,7 +1,7 @@
 ---
 title: "How to Read Your Tire Size on the Sidewall"
 description: "A code like 205/55 R16 is your tire size. What each number means and how to send it to Los Paisas Tires Shop on WhatsApp to check new and used tires."
-date: "2026-11-08"
+date: "2026-11-07"
 locale: en
 slug: how-to-read-tire-size-on-sidewall
 keywords:

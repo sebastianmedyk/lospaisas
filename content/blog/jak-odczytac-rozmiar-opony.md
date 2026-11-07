@@ -1,7 +1,7 @@
 ---
 title: "Jak odczytać rozmiar opony z boku opony"
 description: "Kod typu 205/55 R16 to rozmiar Twojej opony. Co oznacza każda liczba i jak wysłać go na WhatsApp do Los Paisas, by sprawdzić nowe i używane opony."
-date: "2026-11-08"
+date: "2026-11-09"
 locale: pl
 slug: jak-odczytac-rozmiar-opony
 keywords:
