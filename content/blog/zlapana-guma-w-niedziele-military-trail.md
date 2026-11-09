@@ -26,7 +26,7 @@ Nie wymieniamy oleju, nie robimy hamulców ani klimatyzacji. Skupiamy się na op
 
 ## Czy ktoś może do mnie przyjechać, jeśli nie dam rady dojechać?
 
-Tak, jeśli adres jest w promieniu 10 mil od 1114 S Military Trl. Przy telefonie zapytaj o **mobilny serwis opon**. Ten obszar obejmuje West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i pobliskie części Palm Beach County.
+Tak, jeśli adres jest w Palm Beach County — warsztat przy 1114 S Military Trl. Przy telefonie zapytaj o **mobilny serwis opon**. Ten obszar obejmuje West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i pobliskie części Palm Beach County.
 
 ## Jak najszybciej skontaktować się z warsztatem?
 
@@ -40,7 +40,7 @@ Najpierw zadzwoń albo napisz na WhatsApp, żebyśmy wiedzieli, jak wygląda opo
 
 - Los Paisas Tires Shop jest otwarty w niedzielę 8:00 AM–7:00 PM pod adresem 1114 S Military Trl, West Palm Beach, FL 33415.
 - Zadzwoń lub napisz na WhatsApp: **(561) 429-4041**, w sprawie naprawy, wulkanizacji, nowych i używanych opon albo montażu Twoich opon.
-- Mobilny serwis opon działa w promieniu 10 mil od warsztatu.
+- Mobilny serwis opon działa w Palm Beach County.
 
 Zapisz ten numer przed następną niespodzianką na drodze. Potrzebujesz naprawy opony w niedzielę w West Palm Beach? Jesteśmy przy Military Trl i chętnie pomożemy.
 
@@ -64,4 +64,4 @@ Nie. Los Paisas Tires Shop zajmuje się wyłącznie oponami, w każdy dzień tyg
 
 ### Co, jeśli nie mogę dojechać autem do warsztatu?
 
-Zadzwoń lub napisz na WhatsApp pod (561) 429-4041 i powiedz, gdzie jesteś. Jeśli adres jest w promieniu 10 mil od warsztatu i można tam bezpiecznie pracować, zapytaj o mobilny serwis opon.
+Zadzwoń lub napisz na WhatsApp pod (561) 429-4041 i powiedz, gdzie jesteś. Jeśli adres jest w Palm Beach County i można tam bezpiecznie pracować, zapytaj o mobilny serwis opon.

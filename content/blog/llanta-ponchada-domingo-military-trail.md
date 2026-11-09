@@ -29,7 +29,7 @@ No hacemos cambio de aceite, frenos ni A/C — nos enfocamos en llantas para hac
 
 ## ¿Pueden venir a donde estoy si no puedo manejar?
 
-Sí, cuando la dirección está a 10 millas o menos de 1114 S Military Trl. Pregunta por el **servicio móvil de llantas** al llamar. Esa área incluye West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County cercano.
+Sí, cuando la dirección está en Palm Beach County. Pregunta por el **servicio móvil de llantas** al llamar. Esa área incluye West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y Palm Beach County cercano.
 
 ## ¿Cómo contacto al taller rápido?
 
@@ -43,7 +43,7 @@ Llama o escribe por WhatsApp primero, así sabemos cómo está la llanta antes d
 
 - Los Paisas Tires Shop abre el domingo de 8:00 AM a 7:00 PM en 1114 S Military Trl, West Palm Beach, FL 33415.
 - Llama o WhatsApp **(561) 429-4041** para reparación, vulcanización, llantas nuevas/usadas o instalación.
-- Servicio a domicilio a 10 millas del taller.
+- Servicio a domicilio en Palm Beach County.
 
 Guarda este número antes del próximo imprevisto. ¿Necesitas arreglo de llanta un domingo en West Palm Beach? Estamos en Military Trl listos para ayudar.
 
@@ -67,4 +67,4 @@ No. Los Paisas Tires Shop trabaja solo con llantas, cualquier día. No ofrece ca
 
 ### ¿Qué hago si no puedo llevar el carro al taller?
 
-Llama o escribe por WhatsApp al (561) 429-4041 y di dónde estás. Si la dirección está a 10 millas o menos del taller y es un lugar seguro para trabajar, pregunta por el servicio móvil.
+Llama o escribe por WhatsApp al (561) 429-4041 y di dónde estás. Si la dirección está en Palm Beach County y es un lugar seguro para trabajar, pregunta por el servicio móvil.

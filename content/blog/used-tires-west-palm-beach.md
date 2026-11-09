@@ -31,7 +31,7 @@ We also offer **new tires**, so you can compare options side by side.
 
 ## When can I come in to look at used tires?
 
-Any day. We are open **7 days a week, 8:00 AM – 7:00 PM**, including Sunday. If you cannot roll into the shop, ask about **mobile service within 10 miles** of our Military Trl location — covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby areas.
+Any day. We are open **7 days a week, 8:00 AM – 7:00 PM**, including Sunday. If you cannot roll into the shop, ask about **mobile service across Palm Beach County** of our Military Trl location — covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby areas.
 
 ## How do I find a used tire in my size?
 

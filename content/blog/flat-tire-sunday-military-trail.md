@@ -29,7 +29,7 @@ We do not do oil changes, brakes, or A/C — we stay focused on tires so the wor
 
 ## Can someone come to me if I cannot drive in?
 
-Yes, when the address is within 10 miles of 1114 S Military Trl. Ask about **mobile tire service** when you call. That area includes West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby Palm Beach County.
+Yes, when the address is in Palm Beach County near 1114 S Military Trl. Ask about **mobile tire service** when you call. That area includes West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby Palm Beach County.
 
 ## How do I reach the shop fast?
 
@@ -44,7 +44,7 @@ Call or WhatsApp first, so we know what the tire looks like before you arrive.
 
 - Los Paisas Tires Shop is open Sunday 8:00 AM–7:00 PM at 1114 S Military Trl, West Palm Beach, FL 33415.
 - Call or WhatsApp **(561) 429-4041** for repair, vulcanization, new/used tires, or customer-tire install.
-- Mobile tire service is available within 10 miles of the shop.
+- Mobile tire service is available across Palm Beach County.
 
 Save this number before the next roadside surprise. Need a Sunday tire fix in West Palm Beach? We are on Military Trl and ready to help.
 
@@ -68,4 +68,4 @@ No. Los Paisas Tires Shop works on tires only, on any day. Oil changes, brakes, 
 
 ### What if I cannot drive the car to the shop?
 
-Call or WhatsApp (561) 429-4041 and say where you are. If the address is within 10 miles of the shop and safe to work at, ask about mobile tire service.
+Call or WhatsApp (561) 429-4041 and say where you are. If the address is in Palm Beach County and safe to work at, ask about mobile tire service.

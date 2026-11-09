@@ -28,7 +28,7 @@ La alineación sola no arregla toda vibración — eso suele ser **balanceo** �
 
 En **1114 S Military Trl, West Palm Beach, FL 33415** revisamos cómo asienta y rastrea tu vehículo, y ajustamos dentro de los servicios de llantas que ofrecemos. Explicamos lo que encontramos en **español o inglés** para que sepas si conviene alineación, balanceo, un juego nuevo o uno usado según tu presupuesto.
 
-También montamos y balanceamos **llantas nuevas** o **usadas**, reparamos y vulcanizamos cuando es seguro, e instalamos **llantas del cliente**. Si no puedes llegar, pregunta por **servicio móvil a 10 millas** del taller (West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y alrededores).
+También montamos y balanceamos **llantas nuevas** o **usadas**, reparamos y vulcanizamos cuando es seguro, e instalamos **llantas del cliente**. Si no puedes llegar, pregunta por **servicio móvil en Palm Beach County** del taller (West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y alrededores).
 
 ## ¿Por qué importa la alineación para la vida de las llantas?
 

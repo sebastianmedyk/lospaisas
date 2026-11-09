@@ -33,7 +33,7 @@ If only one or two tires failed, we discuss matching the remaining tread so the 
 
 ## Can I get new tires installed on a Sunday?
 
-Yes. Hours are **8:00 AM – 7:00 PM daily**, and Sunday new-tire installs are normal here, which helps when the weekday calendar is packed. If you cannot leave home or work, ask about **mobile tire service within 10 miles** of the shop. Call or WhatsApp **(561) 429-4041**, see [services](/en/services/new-tires), or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Yes. Hours are **8:00 AM – 7:00 PM daily**, and Sunday new-tire installs are normal here, which helps when the weekday calendar is packed. If you cannot leave home or work, ask about **mobile tire service across Palm Beach County** of the shop. Call or WhatsApp **(561) 429-4041**, see [services](/en/services/new-tires), or follow **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while you wait. Rated **4.4★** from **282** Google reviews as a bilingual small business focused on tires.
 
@@ -41,7 +41,7 @@ We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while
 
 - New tires available at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.
 - Open 7 days, 8:00 AM–7:00 PM; compare new vs. used in person; install and balance on site.
-- Also: alignment, repair/vulcanization, customer-tire install, mobile within 10 miles.
+- Also: alignment, repair/vulcanization, customer-tire install, mobile across Palm Beach County.
 
 Ready for a fresh set on Military Trl? Stop by Los Paisas Tires Shop in West Palm Beach and we will get you rolling.
 

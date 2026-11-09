@@ -31,7 +31,7 @@ También ofrecemos **llantas nuevas**, para que compares opciones en el mismo lu
 
 ## ¿Cuándo puedo ir a ver llantas usadas?
 
-Cualquier día. Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**, incluyendo domingo. Si no puedes llegar al taller, pregunta por **servicio a domicilio a 10 millas** de nuestra ubicación en Military Trl — West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y alrededores.
+Cualquier día. Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**, incluyendo domingo. Si no puedes llegar al taller, pregunta por **servicio a domicilio en Palm Beach County** de nuestra ubicación en Military Trl — West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach y alrededores.
 
 ## ¿Cómo encuentro una llanta usada en mi medida?
 

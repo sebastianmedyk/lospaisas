@@ -50,7 +50,7 @@ Jeśli wahasz się między popękaną używaną oponą a czekaniem, załatw to, 
 
 Opona, która wczoraj była w porządku, a dziś rano jest płaska, coś złapała albo ma wyciek przy stopce lub zaworze. Poszukaj gwoździa w bieżniku, jeśli możesz to zrobić bez wchodzenia na jezdnię. Potem przestań na niej jeździć. Krótka jazda na zaginającym się boku to sposób, w jaki gwóźdź do załatania zamienia się w oponę do wymiany.
 
-[Serwis mobilny](/pl/uslugi/mobilny-serwis-opon) jest dostępny w promieniu 10 mil od 1114 S Military Trl, gdy nie możesz jechać. Greenacres, Palm Springs i Lake Worth Beach są w tym obszarze. Zadzwoń i podaj adres. Nie jeździmy vanem przez burzę, żeby coś udowodnić, i nie pracujemy na zalanej ulicy. Jeśli pogoda już Cię dopadła, bezpieczniej może być poczekać, aż obie strony bezpiecznie dojadą, niż spotkać się na poboczu.
+[Serwis mobilny](/pl/uslugi/mobilny-serwis-opon) jest dostępny w Palm Beach County — warsztat przy 1114 S Military Trl, gdy nie możesz jechać. Greenacres, Palm Springs i Lake Worth Beach są w tym obszarze. Zadzwoń i podaj adres. Nie jeździmy vanem przez burzę, żeby coś udowodnić, i nie pracujemy na zalanej ulicy. Jeśli pogoda już Cię dopadła, bezpieczniej może być poczekać, aż obie strony bezpiecznie dojadą, niż spotkać się na poboczu.
 
 ## Gdzie sprawdzić opony
 

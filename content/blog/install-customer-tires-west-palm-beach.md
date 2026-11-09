@@ -28,7 +28,7 @@ We stay honest: if a casing has sidewall damage, severe dry rot, or the wrong lo
 
 Bring the vehicle and the tires to **1114 S Military Trl, West Palm Beach, FL 33415**. Have the size (for example P215/60R16) ready if the labels are worn. If you are unsure whether the set matches your car, call or WhatsApp **(561) 429-4041** first — a two-minute check can save a wasted trip.
 
-Hours are **8:00 AM – 7:00 PM every day**, including Sunday. That matters when your delivery arrives on a weekend and you need the old tires off before Monday. We also offer **mobile tire service within 10 miles** of the shop for many install situations — ask when you book.
+Hours are **8:00 AM – 7:00 PM every day**, including Sunday. That matters when your delivery arrives on a weekend and you need the old tires off before Monday. We also offer **mobile tire service across Palm Beach County** of the shop for many install situations — ask when you book.
 
 ## What else can be done during the same visit?
 
@@ -44,7 +44,7 @@ We accept credit, debit, and NFC. Accessible parking and entrance, Wi‑Fi while
 ## Customer-tire install at a glance
 
 - Customer-owned tire install at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.
-- Open 7 days, 8:00 AM–7:00 PM; English and Spanish; mobile within 10 miles when available.
+- Open 7 days, 8:00 AM–7:00 PM; English and Spanish; mobile across Palm Beach County when available.
 - We install what you bring when it is safe — we will not mount a tire that fails a basic safety check.
 
 Bought the tires already? Bring them to Military Trl in West Palm Beach and we will get them on the car.
@@ -69,4 +69,4 @@ Yes. Balancing can be done on the same visit so the ride is not shaky, and its p
 
 ### Can you install my tires at home or at work?
 
-Ask about mobile tire service when you call (561) 429-4041. It covers many install situations within 10 miles of the shop.
+Ask about mobile tire service when you call (561) 429-4041. It covers many install situations across Palm Beach County.

@@ -32,11 +32,11 @@ Driving on a flat, or on a tire that is low enough to fold the sidewall, can tur
 
 ## Plug, patch, and vulcanization at the shop
 
-Here is the visit, without a do-it-yourself recipe. You come to 1114 S Military Trl, or you call for the van if you are within 10 miles and the car should not move. We find the leak. If it is a small tread puncture and the rest of the tire is sound, we repair it from the inside and remount. If it is not that, we say replace. Balancing afterward is common, and that price is quoted before we start, with no hidden fees. There is no dollar amount for the repair on this page, because we have not seen the hole.
+Here is the visit, without a do-it-yourself recipe. You come to 1114 S Military Trl, or you call for the van if you are in Palm Beach County and the car should not move. We find the leak. If it is a small tread puncture and the rest of the tire is sound, we repair it from the inside and remount. If it is not that, we say replace. Balancing afterward is common, and that price is quoted before we start, with no hidden fees. There is no dollar amount for the repair on this page, because we have not seen the hole.
 
 We also look for an old repair. Two injuries in a bad pattern, or a plug already in the shoulder, can end the job. You should hear that before anyone sells you a second patch on top of a mistake.
 
-[Mobile tire service](/en/services/mobile-tire-service) can cover a flat within 10 miles of the shop, including Greenacres, Palm Springs, and Lake Worth Beach, when the address is a safe place to work. It is not a 24-hour promise. The hours are the shop hours. Alignment is not part of a roadside patch.
+[Mobile tire service](/en/services/mobile-tire-service) can cover a flat across Palm Beach County, including Greenacres, Palm Springs, and Lake Worth Beach, when the address is a safe place to work. It is not a 24-hour promise. The hours are the shop hours. Alignment is not part of a roadside patch.
 
 ## Plug, patch, or replace: which one applies?
 
@@ -53,7 +53,7 @@ It depends on where the damage is and how the tire was driven: a small puncture 
 
 ## If the tire is losing air right now
 
-Pull off the road somewhere safe. Do not sit in a live lane. If you have a spare and you know how to use it, that is the way to get to the shop. If you do not, call **(561) 429-4041** and say where you are. If you are inside 10 miles and we can work there, we will tell you. If you are not, we will not pretend the van is coming from across the county.
+Pull off the road somewhere safe. Do not sit in a live lane. If you have a spare and you know how to use it, that is the way to get to the shop. If you do not, call **(561) 429-4041** and say where you are. If you are in Palm Beach County and we can work there, we will tell you. If you are not, we will not pretend the van is coming from across the county.
 
 Do not keep adding air at a gas station all week. A tire that needs air every morning has a leak. The nail you can see is not always the only leak. Driving it "topped off" is how people show up with a destroyed sidewall and a repair that is no longer possible.
 

@@ -28,7 +28,7 @@ Sama geometria nie usuwa każdych drgań, bo często winne jest **wyważanie**, 
 
 Pod adresem **1114 S Military Trl, West Palm Beach, FL 33415** sprawdzamy, jak auto stoi i jak się prowadzi, a potem regulujemy je w zakresie usług naszego warsztatu oponiarskiego. To, co znajdziemy, tłumaczymy **po angielsku lub po hiszpańsku**, żebyś wiedział, czy przy Twoim budżecie najbardziej sensowna jest geometria, wyważanie, nowy komplet czy używany.
 
-Zakładamy i wyważamy też **nowe** i **używane** opony, naprawiamy i wulkanizujemy, gdy to bezpieczne, oraz montujemy **opony klienta**. Jeśli nie możesz dojechać, zapytaj o **mobilny serwis opon w promieniu 10 mil** od warsztatu (West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice).
+Zakładamy i wyważamy też **nowe** i **używane** opony, naprawiamy i wulkanizujemy, gdy to bezpieczne, oraz montujemy **opony klienta**. Jeśli nie możesz dojechać, zapytaj o **mobilny serwis opon w Palm Beach County** od warsztatu (West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice).
 
 ## Dlaczego geometria ma znaczenie dla żywotności opon?
 

@@ -31,7 +31,7 @@ Mamy też **nowe opony**, więc możesz porównać obie opcje obok siebie.
 
 ## Kiedy mogę przyjechać obejrzeć używane opony?
 
-W każdy dzień. Jesteśmy otwarci **7 dni w tygodniu, 8:00 AM – 7:00 PM**, także w niedzielę. Jeśli nie możesz dojechać do warsztatu, zapytaj o **serwis mobilny w promieniu 10 mil** od naszego warsztatu przy Military Trl. Obejmuje on West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice.
+W każdy dzień. Jesteśmy otwarci **7 dni w tygodniu, 8:00 AM – 7:00 PM**, także w niedzielę. Jeśli nie możesz dojechać do warsztatu, zapytaj o **serwis mobilny w Palm Beach County** od naszego warsztatu przy Military Trl. Obejmuje on West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice.
 
 ## Jak znaleźć używaną oponę w moim rozmiarze?
 

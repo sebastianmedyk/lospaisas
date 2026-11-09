@@ -50,7 +50,7 @@ Si estás entre una usada cuarteada y esperar, haz el mandado antes de que el pr
 
 Una llanta que ayer estaba bien y esta mañana está vacía agarró algo, o tiene una fuga en el talón o en la válvula. Busca un clavo en el piso si puedes hacerlo sin meterte al tráfico. Luego deja de manejarla. Un tramo corto con el costado doblado es como un clavo reparable se vuelve una llanta que hay que cambiar.
 
-El [servicio móvil](/servicios/servicio-movil) está disponible a 10 millas de 1114 S Military Trl cuando no puedes manejar. Greenacres, Palm Springs y Lake Worth Beach están dentro de esa área. Llama y da la dirección. No sacamos la van en medio de una tormenta para demostrar algo, y no trabajamos en una calle inundada. Si el tiempo ya te alcanzó, lo seguro puede ser esperar a que los dos podamos llegar, no encontrarnos en un hombrillo.
+El [servicio móvil](/servicios/servicio-movil) está disponible en Palm Beach County desde 1114 S Military Trl cuando no puedes manejar. Greenacres, Palm Springs y Lake Worth Beach están dentro de esa área. Llama y da la dirección. No sacamos la van en medio de una tormenta para demostrar algo, y no trabajamos en una calle inundada. Si el tiempo ya te alcanzó, lo seguro puede ser esperar a que los dos podamos llegar, no encontrarnos en un hombrillo.
 
 ## Dónde revisar las llantas
 

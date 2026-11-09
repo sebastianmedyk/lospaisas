@@ -38,7 +38,7 @@ Cualquier hora en que estemos abiertos le sirve: **de lunes a domingo, de 8:00 A
 | Necesita llantas nuevas o usadas | Llegar directo, o llamar para preguntar por su medida | Leemos la medida y le enseñamos lo que le queda a su carro y a su presupuesto |
 | Vibración o el carro se jala | Llegar directo | El balanceo y la alineación se hacen en el taller |
 | Tiene poco tiempo | Llamar primero | Para confirmar que no estamos llenos |
-| El carro no se puede manejar | Llamar | El servicio móvil va a donde está, dentro de 10 millas |
+| El carro no se puede manejar | Llamar | El servicio móvil va a donde está, en Palm Beach County |
 | Trae llantas que compró en otro lado | Llamar primero | Para confirmar las llantas y el trabajo antes de venir |
 
 ## ¿Qué debo traer o saber antes de llegar?
@@ -53,7 +53,7 @@ Mientras espera hay Wi‑Fi, y puede pagar con tarjeta de crédito, débito o pa
 
 ## ¿Y si no puedo llevar el carro al taller?
 
-Llegar sin cita solo funciona si el carro puede llegar con seguridad. Si la llanta está en el rin o el carro no se debe mover, llame o escriba por WhatsApp al **(561) 429-4041** y pregunte por el servicio móvil dentro de 10 millas del taller. Vea [cómo pedir el servicio móvil de llantas](/blog/servicio-movil-llantas-west-palm-beach).
+Llegar sin cita solo funciona si el carro puede llegar con seguridad. Si la llanta está en el rin o el carro no se debe mover, llame o escriba por WhatsApp al **(561) 429-4041** y pregunte por el servicio móvil en Palm Beach County. Vea [cómo pedir el servicio móvil de llantas](/blog/servicio-movil-llantas-west-palm-beach).
 
 ## ¿Dónde queda el taller?
 

@@ -33,7 +33,7 @@ Si solo fallaron una o dos llantas, hablamos de igualar la banda restante para q
 
 ## ¿Puedo instalar llantas nuevas un domingo?
 
-Sí. El horario es **8:00 AM – 7:00 PM todos los días**, e instalar llantas nuevas un domingo es normal aquí, útil cuando entre semana no hay hueco. Si no puedes salir de casa o del trabajo, pregunta por **servicio móvil a 10 millas** del taller. Llama o WhatsApp **(561) 429-4041**, mira [servicios](/servicios/llantas-nuevas) o sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Sí. El horario es **8:00 AM – 7:00 PM todos los días**, e instalar llantas nuevas un domingo es normal aquí, útil cuando entre semana no hay hueco. Si no puedes salir de casa o del trabajo, pregunta por **servicio móvil en Palm Beach County** del taller. Llama o WhatsApp **(561) 429-4041**, mira [servicios](/servicios/llantas-nuevas) o sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi mientras esperas. **4.4★** con **282** reseñas en Google como negocio local bilingüe enfocado en llantas.
 
@@ -41,7 +41,7 @@ Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi
 
 - Llantas nuevas en Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.
 - Abrimos 7 días, 8:00 AM–7:00 PM; compara nuevas vs. usadas en persona; montaje y balanceo en sitio.
-- También: alineación, reparación/vulcanización, instalación de llantas del cliente, móvil a 10 millas.
+- También: alineación, reparación/vulcanización, instalación de llantas del cliente, móvil en Palm Beach County.
 
 ¿Listo para un juego fresco en Military Trl? Pasa por Los Paisas Tires Shop en West Palm Beach y te dejamos rodando.
 

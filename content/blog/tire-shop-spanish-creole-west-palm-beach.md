@@ -54,7 +54,7 @@ Los Paisas Tires Shop works on tires only:
 - Wheel balancing
 - Wheel alignment (geometría)
 - Installing tires you bought somewhere else
-- Mobile tire service within 10 miles of the shop
+- Mobile tire service across Palm Beach County
 
 The shop does not do oil changes, brakes, or A/C. If your problem is outside tires, the team will tell you that plainly instead of guessing.
 

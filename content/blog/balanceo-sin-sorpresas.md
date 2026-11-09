@@ -37,7 +37,7 @@ Balancea una rueda después de montar, reparar o cambiar una llanta de otro carr
 - Alineación / geometría
 - Reparación y vulcanización
 - Instalación de llantas del cliente
-- Servicio a domicilio a 10 millas
+- Servicio a domicilio en Palm Beach County
 
 ## ¿Cómo balanceo mis ruedas?
 
@@ -63,4 +63,4 @@ Sí. La misma regla sin cargos ocultos aplica si compraste la llanta aquí o la 
 
 ### ¿El servicio móvil puede balancear mis ruedas?
 
-El balanceo se hace en la máquina del taller. El servicio móvil a 10 millas puede atender la llanta cuando no puedes manejar hasta acá.
+El balanceo se hace en la máquina del taller. El servicio móvil en Palm Beach County puede atender la llanta cuando no puedes manejar hasta acá.

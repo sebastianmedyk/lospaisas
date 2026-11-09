@@ -28,7 +28,7 @@ Somos honestos: si el casco tiene daño en el costado, reseco severo o capacidad
 
 Trae el vehículo y las llantas a **1114 S Military Trl, West Palm Beach, FL 33415**. Ten a mano el tamaño (por ejemplo P215/60R16) si las etiquetas están gastadas. Si no estás seguro de que el juego coincide con tu auto, llama o WhatsApp **(561) 429-4041** primero — dos minutos pueden ahorrarte el viaje en vano.
 
-Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo. Importa cuando el paquete llega el fin de semana y necesitas quitar las viejas antes del lunes. También ofrecemos **servicio móvil a 10 millas** del taller en muchas instalaciones — pregunta al agendar.
+Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo. Importa cuando el paquete llega el fin de semana y necesitas quitar las viejas antes del lunes. También ofrecemos **servicio móvil en Palm Beach County** del taller en muchas instalaciones — pregunta al agendar.
 
 ## ¿Qué más se puede hacer en la misma visita?
 
@@ -44,7 +44,7 @@ Aceptamos crédito, débito y NFC. Estacionamiento y entrada accesibles, Wi‑Fi
 ## Instalación de llantas del cliente en resumen
 
 - Instalación de llantas del cliente en Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.
-- Abrimos 7 días, 8:00 AM–7:00 PM; inglés y español; móvil a 10 millas cuando aplica.
+- Abrimos 7 días, 8:00 AM–7:00 PM; inglés y español; móvil en Palm Beach County cuando aplica.
 - Instalamos lo que traes cuando es seguro — no montamos una llanta que falle una revisión básica.
 
 ¿Ya compraste las llantas? Tráelas a Military Trl en West Palm Beach y las dejamos listas en el auto.
@@ -69,4 +69,4 @@ Sí. El balanceo se puede hacer en la misma visita para que el manejo no vibre, 
 
 ### ¿Pueden instalar mis llantas en casa o en el trabajo?
 
-Pregunta por el servicio móvil al llamar al (561) 429-4041. Cubre muchas instalaciones a 10 millas o menos del taller.
+Pregunta por el servicio móvil al llamar al (561) 429-4041. Cubre muchas instalaciones en Palm Beach County.

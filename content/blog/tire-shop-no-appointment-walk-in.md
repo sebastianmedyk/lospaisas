@@ -38,7 +38,7 @@ Any time the shop is open works: **8:00 AM to 7:00 PM, Monday through Sunday**, 
 | Need new or used tires | Walk in, or call first to check your size | The team reads your size and shows what fits your car and budget |
 | Vibration or pull on the road | Walk in | Balancing and alignment are done at the shop |
 | Short on time | Call first | Confirm the shop is not slammed |
-| The car cannot be driven | Call | Mobile tire service within 10 miles comes to you |
+| The car cannot be driven | Call | Mobile tire service across Palm Beach County comes to you |
 | Bringing tires you bought elsewhere | Call first | Confirm the tires and the job before you come |
 
 ## What should I bring or know before I walk in?
@@ -53,7 +53,7 @@ While you wait there is Wi‑Fi, and you can pay by credit, debit, or NFC tap. T
 
 ## What if I can't drive to the shop?
 
-Walk-in only works if the car can get there safely. If a tire is flat on the rim or the car should not be moved, call or WhatsApp **(561) 429-4041** about mobile tire service within 10 miles of the shop. See [how to request mobile tire service](/en/blog/mobile-tire-service-west-palm-beach).
+Walk-in only works if the car can get there safely. If a tire is flat on the rim or the car should not be moved, call or WhatsApp **(561) 429-4041** about mobile tire service across Palm Beach County. See [how to request mobile tire service](/en/blog/mobile-tire-service-west-palm-beach).
 
 ## Where is the shop?
 

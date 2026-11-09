@@ -38,7 +38,7 @@ Pasuje każda pora w godzinach otwarcia: **8:00 AM do 7:00 PM, od poniedziałku 
 | Potrzebujesz nowych lub używanych opon | Przyjedź albo najpierw zadzwoń, żeby sprawdzić rozmiar | Zespół odczyta rozmiar i pokaże, co pasuje do auta i budżetu |
 | Drgania lub ściąganie na drodze | Przyjedź | Wyważanie i geometrię robimy w warsztacie |
 | Mało czasu | Najpierw zadzwoń | Upewnij się, że warsztat nie jest zawalony |
-| Auto nie nadaje się do jazdy | Zadzwoń | Mobilny serwis opon w promieniu 10 mil przyjedzie do Ciebie |
+| Auto nie nadaje się do jazdy | Zadzwoń | Mobilny serwis opon w Palm Beach County przyjedzie do Ciebie |
 | Przywozisz opony kupione gdzie indziej | Najpierw zadzwoń | Potwierdź opony i zakres pracy przed przyjazdem |
 
 ## Co zabrać albo wiedzieć przed przyjazdem?
@@ -53,7 +53,7 @@ Podczas czekania jest Wi‑Fi, a zapłacić możesz kartą kredytową, debetową
 
 ## Co, jeśli nie mogę dojechać do warsztatu?
 
-Przyjazd bez umawiania działa tylko wtedy, gdy auto może bezpiecznie dojechać. Jeśli opona jest płaska do felgi albo auta nie należy ruszać, zadzwoń lub napisz na WhatsApp pod **(561) 429-4041** w sprawie mobilnego serwisu opon w promieniu 10 mil od warsztatu. Zobacz, [jak zamówić mobilny serwis opon](/pl/blog/mobilny-serwis-opon-west-palm-beach).
+Przyjazd bez umawiania działa tylko wtedy, gdy auto może bezpiecznie dojechać. Jeśli opona jest płaska do felgi albo auta nie należy ruszać, zadzwoń lub napisz na WhatsApp pod **(561) 429-4041** w sprawie mobilnego serwisu opon w Palm Beach County. Zobacz, [jak zamówić mobilny serwis opon](/pl/blog/mobilny-serwis-opon-west-palm-beach).
 
 ## Gdzie jest warsztat?
 

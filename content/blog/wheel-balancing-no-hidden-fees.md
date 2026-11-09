@@ -37,7 +37,7 @@ Balance a wheel after a tire is mounted, repaired, or moved from another car, or
 - Alignment (geometría)
 - Tire repair & vulcanization
 - Installing customer-owned tires
-- Mobile service within 10 miles
+- Mobile service across Palm Beach County
 
 ## How do I get my wheels balanced?
 
@@ -63,4 +63,4 @@ Yes. The same no-hidden-fees rule applies whether you bought the tire here or br
 
 ### Can the mobile service balance my wheels?
 
-Balancing is done on the machine at the shop. Mobile tire service within 10 miles can handle the tire itself when you cannot drive in.
+Balancing is done on the machine at the shop. Mobile tire service across Palm Beach County can handle the tire itself when you cannot drive in.

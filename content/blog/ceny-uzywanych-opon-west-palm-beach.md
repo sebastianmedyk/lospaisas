@@ -40,7 +40,7 @@ Jeśli opony kupiłeś już gdzie indziej, ten artykuł nie jest dla Ciebie. Pot
 
 Używane opony mają sens, gdy karkas jest zdrowy, rozmiar się zgadza, a Ty rozumiesz, że kupujesz pozostały bieżnik, a nie żywotność nowej opony. To kiepska oszczędność, gdy potrzebujesz równego bieżnika na wszystkich czterech kołach, gdy auto już ściąga albo gdy jedyna używana opona w tym rozmiarze jest zbyt zużyta. Wtedy wolimy sprzedać Ci nową oponę albo powiedzieć, żebyś poczekał, niż wypuścić złą używaną oponę za drzwi.
 
-Greenacres, Palm Springs i Lake Worth Beach są w promieniu 10 mil od warsztatu. Ludzie przyjeżdżają pod ten jeden adres. Jeśli auto stoi już na dojazdówce albo opona nie trzyma powietrza, zadzwoń i zapytaj o [serwis mobilny](/pl/uslugi/mobilny-serwis-opon), zamiast szukać ceny, podczas gdy felga niszczy bok opony. Van jeździ w promieniu 10 mil. Nie wozi każdej używanej opony z warsztatu.
+Greenacres, Palm Springs i Lake Worth Beach są w Palm Beach County. Ludzie przyjeżdżają pod ten jeden adres. Jeśli auto stoi już na dojazdówce albo opona nie trzyma powietrza, zadzwoń i zapytaj o [serwis mobilny](/pl/uslugi/mobilny-serwis-opon), zamiast szukać ceny, podczas gdy felga niszczy bok opony. Van jeździ po Palm Beach County. Nie wozi każdej używanej opony z warsztatu.
 
 ## Jak poznać prawdziwą kwotę jeszcze dziś
 

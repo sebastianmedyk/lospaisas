@@ -34,7 +34,7 @@ Los Paisas Tires Shop pod adresem 1114 S Military Trl, West Palm Beach, FL 33415
 - Wyważanie bez ukrytych opłat
 - Naprawa i wulkanizacja
 - Montaż opon, które już kupiłeś
-- **Mobilny serwis opon w promieniu 10 mil** od warsztatu
+- **Mobilny serwis opon w Palm Beach County** od warsztatu
 
 Czego nie robimy: wymiany oleju, hamulców ani klimatyzacji.
 
@@ -48,7 +48,7 @@ Godziny otwarcia to **8:00 AM – 7:00 PM codziennie**, także w niedzielę. Gum
 
 - Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415 i ma ocenę **4,4★** na podstawie **282** opinii w Google.
 - Otwarte 7 dni, 8:00 AM–7:00 PM; dwujęzyczny zespół; karty kredytowe, debetowe i NFC.
-- Mobilna pomoc z oponami w promieniu 10 mil: to usługa samego warsztatu, a nie Google Delivery.
+- Mobilna pomoc z oponami w Palm Beach County: to usługa samego warsztatu, a nie Google Delivery.
 
 Zaufanie buduje się jedną uczciwą wizytą naraz. Jeśli potrzebujesz opon, geometrii albo wyważania przy Military Trl w West Palm Beach, jesteśmy gotowi pomóc.
 
@@ -64,7 +64,7 @@ Pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Telefon i WhatsApp: 
 
 ### Czy warsztat wymienia olej, robi hamulce albo klimatyzację?
 
-Nie. Los Paisas Tires Shop zajmuje się wyłącznie oponami: nowe i używane opony, geometria, wyważanie, naprawa i wulkanizacja, montaż kupionych przez Ciebie opon oraz mobilny serwis opon w promieniu 10 mil.
+Nie. Los Paisas Tires Shop zajmuje się wyłącznie oponami: nowe i używane opony, geometria, wyważanie, naprawa i wulkanizacja, montaż kupionych przez Ciebie opon oraz mobilny serwis opon w Palm Beach County.
 
 ### Jakie formy płatności są akceptowane?
 
@@ -72,4 +72,4 @@ Karty kredytowe, debetowe i płatności zbliżeniowe NFC.
 
 ### Czy warsztat może przyjechać do mnie?
 
-Tak, w promieniu 10 mil od warsztatu, w godzinach jego otwarcia. Zadzwoń pod (561) 429-4041, żeby potwierdzić swój adres.
+Tak, w Palm Beach County, w godzinach jego otwarcia. Zadzwoń pod (561) 429-4041, żeby potwierdzić swój adres.

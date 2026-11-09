@@ -57,7 +57,7 @@ Si agarras un clavo en Military Trl, no decidas usada o nueva en el estacionamie
 
 ## Trae el carro a S Military Trl
 
-El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Abierto de 8:00 AM a 7:00 PM todos los días, domingo incluido. Llama al **(561) 429-4041**. Español o inglés. Greenacres, Palm Springs y Lake Worth Beach están a menos de 10 millas si vas a manejar. Si el carro no debe moverse, pregunta por el [servicio móvil](/servicios/servicio-movil). La van no lleva toda la selección de usadas y nuevas, así que una decisión de calor y piso casi siempre es mejor en el local, donde puedes ver las dos.
+El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Abierto de 8:00 AM a 7:00 PM todos los días, domingo incluido. Llama al **(561) 429-4041**. Español o inglés. Greenacres, Palm Springs y Lake Worth Beach están en Palm Beach County si vas a manejar. Si el carro no debe moverse, pregunta por el [servicio móvil](/servicios/servicio-movil). La van no lleva toda la selección de usadas y nuevas, así que una decisión de calor y piso casi siempre es mejor en el local, donde puedes ver las dos.
 
 Guías relacionadas: [Cómo revisar una llanta usada antes de comprarla](/blog/llantas-usadas-west-palm-beach), [Precio de llantas usadas en West Palm Beach](/blog/precio-llantas-usadas-west-palm-beach) y [Presión de llantas en verano y huracanes](/blog/presion-llantas-verano-huracanes).
 

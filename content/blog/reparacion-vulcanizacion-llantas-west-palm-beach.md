@@ -26,7 +26,7 @@ Si la vulcanización o una reparación correcta va a sostenerse con seguridad, e
 
 ## ¿Qué pasa durante una reparación de llanta?
 
-Desmontamos la llanta cuando hace falta, la inspeccionamos por dentro, reparamos o vulcanizamos según corresponda, la volvemos a montar y revisamos el sello. Trae el vehículo a **1114 S Military Trl, West Palm Beach, FL 33415**, o pregunta por **servicio móvil a 10 millas** si no puedes salir con seguridad del lugar. Muchos trabajos también se benefician de **balanceo** después para que el manejo quede suave.
+Desmontamos la llanta cuando hace falta, la inspeccionamos por dentro, reparamos o vulcanizamos según corresponda, la volvemos a montar y revisamos el sello. Trae el vehículo a **1114 S Military Trl, West Palm Beach, FL 33415**, o pregunta por **servicio móvil en Palm Beach County** si no puedes salir con seguridad del lugar. Muchos trabajos también se benefician de **balanceo** después para que el manejo quede suave.
 
 Atendemos en **español e inglés**. Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo — útil cuando no hay hueco entre semana. Llama o WhatsApp **(561) 429-4041** antes de venir si quieres una idea rápida del tiempo.
 
@@ -41,7 +41,7 @@ Si llegas con el repuesto puesto, también podemos ayudarte a volver al juego co
 ## Reparación de llantas en Los Paisas en resumen
 
 - Reparación y vulcanización en 1114 S Military Trl, West Palm Beach, FL 33415.
-- Abrimos 7 días, 8:00 AM–7:00 PM; bilingües; ayuda móvil a 10 millas del taller.
+- Abrimos 7 días, 8:00 AM–7:00 PM; bilingües; ayuda móvil en Palm Beach County del taller.
 - Reparamos cuando es seguro — no parchamos una llanta que debería cambiarse.
 
 ¿Pinchazo en Military Trl o cerca? Contacta Los Paisas Tires Shop y te ayudamos.

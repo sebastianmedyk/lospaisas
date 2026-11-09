@@ -54,7 +54,7 @@ Los Paisas Tires Shop zajmuje się wyłącznie oponami:
 - Wyważanie kół
 - Ustawianie geometrii (geometría)
 - Montaż opon kupionych gdzie indziej
-- Mobilny serwis opon w promieniu 10 mil od warsztatu
+- Mobilny serwis opon w Palm Beach County
 
 Warsztat nie wymienia oleju, nie robi hamulców ani klimatyzacji. Jeśli problem nie dotyczy opon, zespół powie to wprost, zamiast zgadywać.
 

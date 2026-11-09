@@ -50,7 +50,7 @@ If you are choosing between a cracked used tire and waiting, do the errand befor
 
 A tire that was correct yesterday and is flat this morning picked up something, or it has a leak at the bead or the valve. Look for a nail in the tread if you can do that without putting yourself in traffic. Then stop driving on it. A short drive on a folding sidewall is how a patchable nail becomes a tire we have to replace.
 
-[Mobile service](/en/services/mobile-tire-service) is available within 10 miles of 1114 S Military Trl when you cannot drive. Greenacres, Palm Springs, and Lake Worth Beach are inside that area. Call and give the address. We do not drive the van through a storm to prove a point, and we do not work in a flooded street. If the weather is already on you, the safe choice may be to wait until we can both get there, not to meet on a shoulder.
+[Mobile service](/en/services/mobile-tire-service) is available across Palm Beach County from 1114 S Military Trl when you cannot drive. Greenacres, Palm Springs, and Lake Worth Beach are inside that area. Call and give the address. We do not drive the van through a storm to prove a point, and we do not work in a flooded street. If the weather is already on you, the safe choice may be to wait until we can both get there, not to meet on a shoulder.
 
 ## Where to have the tires checked
 

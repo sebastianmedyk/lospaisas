@@ -26,7 +26,7 @@ Jeśli wulkanizacja albo porządna naprawa bezpiecznie wytrzyma, tłumaczymy pro
 
 ## Jak wygląda naprawa opony?
 
-W razie potrzeby zdejmujemy oponę z felgi, sprawdzamy ją od środka, naprawiamy albo wulkanizujemy, a potem zakładamy z powrotem i sprawdzamy szczelność. Przyjedź pod adres **1114 S Military Trl, West Palm Beach, FL 33415** albo zapytaj o **mobilny serwis opon w promieniu 10 mil**, jeśli nie możesz bezpiecznie ruszyć z pobocza. Przy wielu naprawach warto potem zrobić **wyważanie**, żeby jazda była płynna.
+W razie potrzeby zdejmujemy oponę z felgi, sprawdzamy ją od środka, naprawiamy albo wulkanizujemy, a potem zakładamy z powrotem i sprawdzamy szczelność. Przyjedź pod adres **1114 S Military Trl, West Palm Beach, FL 33415** albo zapytaj o **mobilny serwis opon w Palm Beach County**, jeśli nie możesz bezpiecznie ruszyć z pobocza. Przy wielu naprawach warto potem zrobić **wyważanie**, żeby jazda była płynna.
 
 Pracujemy **po angielsku i po hiszpańsku**. Godziny otwarcia to **8:00 AM – 7:00 PM codziennie**, także w niedzielę, co przydaje się, gdy wizyta w dzień roboczy jest niemożliwa. Jeśli chcesz szybko zorientować się co do czasu, zadzwoń lub napisz na WhatsApp przed przyjazdem: **(561) 429-4041**.
 
@@ -39,7 +39,7 @@ Płatność kartą kredytową, debetową lub NFC. Dostępny parking i wejście, 
 ## Naprawa opon w Los Paisas w skrócie
 
 - Naprawa i wulkanizacja opon pod adresem 1114 S Military Trl, West Palm Beach, FL 33415.
-- Otwarte 7 dni, 8:00 AM–7:00 PM; dwujęzyczny zespół; mobilna pomoc w promieniu 10 mil od warsztatu.
+- Otwarte 7 dni, 8:00 AM–7:00 PM; dwujęzyczny zespół; mobilna pomoc w Palm Beach County.
 - Naprawiamy, gdy to bezpieczne. Nie łatamy opony, którą trzeba wymienić.
 
 Przebita opona przy Military Trl albo w okolicy? Odezwij się do Los Paisas Tires Shop, a zajmiemy się tym.

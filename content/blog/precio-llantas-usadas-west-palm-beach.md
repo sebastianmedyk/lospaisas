@@ -40,7 +40,7 @@ Si ya compraste las llantas en otro lado, no necesitas este artículo. Necesitas
 
 Las usadas tienen sentido cuando la carcasa está sana, la medida es la correcta y entiendes que compras piso que queda, no la vida de una llanta nueva. Son una mala jugada cuando necesitas cuatro llantas parejas para carretera, o cuando la única usada de tu medida viene comida de un carro desalineado. Ese desgaste sigue sonando con el calor. El balanceo puede calmar un problema de peso. No vuelve a dibujar el piso.
 
-Greenacres, Palm Springs y Lake Worth Beach están a menos de 10 millas. La gente maneja a esta única dirección. Si el carro ya va en la de repuesto o la llanta no aguanta aire, llama y pregunta por el [servicio móvil](/servicios/servicio-movil) en vez de buscar un precio mientras el rin se come el costado. La van se queda a 10 millas. No carga todas las usadas del edificio.
+Greenacres, Palm Springs y Lake Worth Beach están en Palm Beach County. La gente maneja a esta única dirección. Si el carro ya va en la de repuesto o la llanta no aguanta aire, llama y pregunta por el [servicio móvil](/servicios/servicio-movil) en vez de buscar un precio mientras el rin se come el costado. La van atiende Palm Beach County. No carga todas las usadas del edificio.
 
 ## Cómo conseguir un número hoy
 

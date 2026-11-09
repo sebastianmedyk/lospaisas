@@ -57,7 +57,7 @@ Jeśli złapiesz gwóźdź na Military Trl, nie decyduj o używanej czy nowej na
 
 ## Przyjedź autem na S Military Trl
 
-Warsztat mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Otwarte 8:00 AM do 7:00 PM codziennie, także w niedzielę. Zadzwoń: **(561) 429-4041**. Po angielsku lub po hiszpańsku. Greenacres, Palm Springs i Lake Worth Beach są w promieniu 10 mil, jeśli przyjeżdżasz. Jeśli auto nie powinno jechać, zapytaj o [serwis mobilny](/pl/uslugi/mobilny-serwis-opon). Van nie wozi pełnego wyboru używanych i nowych opon, więc decyzję o upale i bieżniku lepiej podjąć na stanowisku, gdzie widzisz jedne i drugie.
+Warsztat mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Otwarte 8:00 AM do 7:00 PM codziennie, także w niedzielę. Zadzwoń: **(561) 429-4041**. Po angielsku lub po hiszpańsku. Greenacres, Palm Springs i Lake Worth Beach są w Palm Beach County, jeśli przyjeżdżasz. Jeśli auto nie powinno jechać, zapytaj o [serwis mobilny](/pl/uslugi/mobilny-serwis-opon). Van nie wozi pełnego wyboru używanych i nowych opon, więc decyzję o upale i bieżniku lepiej podjąć na stanowisku, gdzie widzisz jedne i drugie.
 
 Powiązane poradniki: [Jak sprawdzić używaną oponę przed zakupem](/pl/blog/uzywane-opony-west-palm-beach), [Ile kosztują używane opony w West Palm Beach](/pl/blog/ceny-uzywanych-opon-west-palm-beach) i [Ciśnienie w oponach latem w Palm Beach](/pl/blog/cisnienie-w-oponach-latem-palm-beach).
 

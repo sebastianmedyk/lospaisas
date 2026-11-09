@@ -28,7 +28,7 @@ Mówimy uczciwie: jeśli karkas ma uszkodzony bok, mocno popękaną gumę albo z
 
 Przyjedź autem z oponami pod adres **1114 S Military Trl, West Palm Beach, FL 33415**. Miej pod ręką rozmiar (np. P215/60R16), jeśli oznaczenia są starte. Jeśli nie masz pewności, czy komplet pasuje do auta, najpierw zadzwoń lub napisz na WhatsApp: **(561) 429-4041**. Dwuminutowe sprawdzenie może oszczędzić niepotrzebny kurs.
 
-Godziny otwarcia to **8:00 AM – 7:00 PM codziennie**, także w niedzielę. Ma to znaczenie, gdy przesyłka przychodzi w weekend, a stare opony trzeba zdjąć przed poniedziałkiem. W wielu sytuacjach oferujemy też **mobilny serwis opon w promieniu 10 mil** od warsztatu. Zapytaj przy umawianiu.
+Godziny otwarcia to **8:00 AM – 7:00 PM codziennie**, także w niedzielę. Ma to znaczenie, gdy przesyłka przychodzi w weekend, a stare opony trzeba zdjąć przed poniedziałkiem. W wielu sytuacjach oferujemy też **mobilny serwis opon w Palm Beach County** od warsztatu. Zapytaj przy umawianiu.
 
 ## Co jeszcze można zrobić podczas tej samej wizyty?
 
@@ -44,7 +44,7 @@ Przyjmujemy karty kredytowe, debetowe i NFC. Dostępny parking i wejście, Wi‑
 ## Montaż opon klienta w skrócie
 
 - Montaż opon klienta w Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.
-- Otwarte 7 dni, 8:00 AM–7:00 PM; po angielsku i po hiszpańsku; serwis mobilny w promieniu 10 mil, gdy jest dostępny.
+- Otwarte 7 dni, 8:00 AM–7:00 PM; po angielsku i po hiszpańsku; serwis mobilny w Palm Beach County, gdy jest dostępny.
 - Montujemy to, co przywieziesz, jeśli jest bezpieczne. Nie założymy opony, która nie przejdzie podstawowej kontroli bezpieczeństwa.
 
 Masz już opony? Przywieź je na Military Trl w West Palm Beach, a założymy je na auto.
@@ -69,4 +69,4 @@ Tak. Wyważanie można zrobić podczas tej samej wizyty, żeby auto nie drgało.
 
 ### Czy możecie zamontować moje opony w domu albo w pracy?
 
-Zapytaj o mobilny serwis opon, dzwoniąc pod (561) 429-4041. Obejmuje on wiele sytuacji montażowych w promieniu 10 mil od warsztatu.
+Zapytaj o mobilny serwis opon, dzwoniąc pod (561) 429-4041. Obejmuje on wiele sytuacji montażowych w Palm Beach County.

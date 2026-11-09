@@ -28,7 +28,7 @@ Alignment alone does not fix every vibration — that is often **balancing** —
 
 At **1114 S Military Trl, West Palm Beach, FL 33415**, we inspect how your vehicle sits and track, then adjust within the tire-shop services we offer. We explain what we find in **English or Spanish** so you know whether alignment, balancing, a new set, or a used set makes the most sense for your budget.
 
-We also mount and balance **new** or **used** tires, repair and vulcanize when safe, and install **customer-owned tires**. If you cannot roll in, ask about **mobile tire service within 10 miles** of the shop (West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby areas).
+We also mount and balance **new** or **used** tires, repair and vulcanize when safe, and install **customer-owned tires**. If you cannot roll in, ask about **mobile tire service across Palm Beach County** of the shop (West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby areas).
 
 ## Why does alignment matter for tire life?
 

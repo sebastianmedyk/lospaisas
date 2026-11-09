@@ -26,7 +26,7 @@ If vulcanization or a proper repair will hold safely, we explain the process and
 
 ## What happens during a tire repair?
 
-We demount the tire when needed, inspect it from the inside, repair or vulcanize as appropriate, then remount it and check the seal. Bring the vehicle to **1114 S Military Trl, West Palm Beach, FL 33415**, or ask about **mobile tire service within 10 miles** if you cannot leave the roadside safely. Many jobs also benefit from **balancing** afterward so the ride stays smooth.
+We demount the tire when needed, inspect it from the inside, repair or vulcanize as appropriate, then remount it and check the seal. Bring the vehicle to **1114 S Military Trl, West Palm Beach, FL 33415**, or ask about **mobile tire service across Palm Beach County** if you cannot leave the roadside safely. Many jobs also benefit from **balancing** afterward so the ride stays smooth.
 
 We work in **English and Spanish**. Hours are **8:00 AM – 7:00 PM daily**, including Sunday — useful when a weekday appointment is impossible. Call or WhatsApp **(561) 429-4041** before you come if you want a quick sense of timing.
 
@@ -39,7 +39,7 @@ Payments are credit, debit, or NFC. Accessible parking and entrance, Wi‑Fi whi
 ## Tire repair at Los Paisas at a glance
 
 - Tire repair and vulcanization available at 1114 S Military Trl, West Palm Beach, FL 33415.
-- Open 7 days, 8:00 AM–7:00 PM; bilingual; mobile help within 10 miles of the shop.
+- Open 7 days, 8:00 AM–7:00 PM; bilingual; mobile help across Palm Beach County.
 - We repair when safe — we will not patch a tire that should be replaced.
 
 Punctured on Military Trl or nearby? Reach Los Paisas Tires Shop and we will get you sorted.

@@ -54,7 +54,7 @@ En Los Paisas Tires Shop trabajamos solo con llantas:
 - Balanceo
 - Alineación (geometría)
 - Instalación de llantas que usted ya compró
-- Servicio móvil de llantas dentro de 10 millas del taller
+- Servicio móvil de llantas en Palm Beach County
 
 No hacemos cambio de aceite, frenos ni aire acondicionado. Si el problema no es de llantas, se lo decimos con franqueza en vez de adivinar.
 

@@ -57,7 +57,7 @@ If you pick up a nail on Military Trl, do not decide used-versus-new in the park
 
 ## Bring the car to S Military Trl
 
-The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Open 8:00 AM to 7:00 PM every day, including Sunday. Call **(561) 429-4041**. English or Spanish. Greenacres, Palm Springs, and Lake Worth Beach are within 10 miles if you are driving in. If the car should not move, ask about [mobile service](/en/services/mobile-tire-service). The van does not carry the full choice of used and new tires, so a heat-and-tread decision is usually better made at the bay, where you can see both.
+The shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Open 8:00 AM to 7:00 PM every day, including Sunday. Call **(561) 429-4041**. English or Spanish. Greenacres, Palm Springs, and Lake Worth Beach are in Palm Beach County if you are driving in. If the car should not move, ask about [mobile service](/en/services/mobile-tire-service). The van does not carry the full choice of used and new tires, so a heat-and-tread decision is usually better made at the bay, where you can see both.
 
 Related guides: [How to check a used tire before you buy](/en/blog/used-tires-west-palm-beach), [What used tires cost in West Palm Beach](/en/blog/used-tire-prices-west-palm-beach), and [Tire pressure in Palm Beach summer](/en/blog/tire-pressure-palm-beach-summer).
 

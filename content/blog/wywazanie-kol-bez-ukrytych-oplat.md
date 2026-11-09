@@ -35,7 +35,7 @@ Wyważ koło po założeniu, naprawie albo przełożeniu opony z innego auta, a 
 - Ustawienie geometrii (geometría)
 - Naprawę i wulkanizację opon
 - Montaż opon klienta
-- Serwis mobilny w promieniu 10 mil
+- Serwis mobilny w Palm Beach County
 
 ## Jak wyważyć koła?
 
@@ -61,4 +61,4 @@ Tak. Ta sama zasada bez ukrytych opłat obowiązuje bez względu na to, czy opon
 
 ### Czy serwis mobilny może wyważyć moje koła?
 
-Wyważanie robimy na maszynie w warsztacie. Serwis mobilny w promieniu 10 mil zajmie się samą oponą, gdy nie możesz dojechać.
+Wyważanie robimy na maszynie w warsztacie. Serwis mobilny w Palm Beach County zajmie się samą oponą, gdy nie możesz dojechać.

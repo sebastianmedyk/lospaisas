@@ -36,7 +36,7 @@ Los Paisas Tires Shop, en 1114 S Military Trl, West Palm Beach, FL 33415, trabaj
 - Balanceo sin cargos ocultos
 - Reparación y vulcanización
 - Instalación de llantas que ya compraste
-- **Servicio móvil a 10 millas** del taller
+- **Servicio móvil en Palm Beach County** del taller
 
 No ofrecemos: cambio de aceite, frenos ni A/C.
 
@@ -50,7 +50,7 @@ Horario **8:00 AM – 7:00 PM todos los días**, incluyendo domingo. Una ponchad
 
 - Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415, con **4.4★** y **282** reseñas en Google.
 - Abrimos 7 días, 8:00 AM–7:00 PM; personal bilingüe; aceptamos crédito, débito y NFC.
-- Ayuda móvil a 10 millas — servicio del taller, no “Google Delivery”.
+- Ayuda móvil en Palm Beach County — servicio del taller, no “Google Delivery”.
 
 La confianza se construye visita a visita. Si necesitas llantas, alineación o balanceo en Military Trl, West Palm Beach, estamos listos para ayudarte.
 
@@ -66,7 +66,7 @@ En 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono y WhatsApp: (561) 4
 
 ### ¿El taller hace cambio de aceite, frenos o A/C?
 
-No. Los Paisas Tires Shop trabaja solo con llantas: llantas nuevas y usadas, alineación, balanceo, reparación y vulcanización, instalación de llantas que ya compraste y servicio móvil a 10 millas.
+No. Los Paisas Tires Shop trabaja solo con llantas: llantas nuevas y usadas, alineación, balanceo, reparación y vulcanización, instalación de llantas que ya compraste y servicio móvil en Palm Beach County.
 
 ### ¿Qué formas de pago aceptan?
 
@@ -74,4 +74,4 @@ Crédito, débito y pago con NFC.
 
 ### ¿El taller puede venir a donde estoy?
 
-Sí, a 10 millas o menos del taller y en horario del taller. Llama al (561) 429-4041 para confirmar tu dirección.
+Sí, en Palm Beach County y en horario del taller. Llama al (561) 429-4041 para confirmar tu dirección.

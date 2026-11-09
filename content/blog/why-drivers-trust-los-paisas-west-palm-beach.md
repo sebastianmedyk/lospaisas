@@ -36,7 +36,7 @@ Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415, works o
 - Balancing with no hidden fees
 - Repair and vulcanization
 - Installing tires you already bought
-- **Mobile tire service within 10 miles** of the shop
+- **Mobile tire service across Palm Beach County**
 
 Not offered: oil changes, brakes, or A/C.
 
@@ -50,7 +50,7 @@ Hours are **8:00 AM – 7:00 PM every day**, including Sunday. A flat on the wee
 
 - Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415, rated **4.4★** from **282** Google reviews.
 - Open 7 days, 8:00 AM–7:00 PM; bilingual staff; credit, debit, and NFC accepted.
-- Mobile tire help within 10 miles — this is shop-provided service, not Google Delivery.
+- Mobile tire help across Palm Beach County — this is shop-provided service, not Google Delivery.
 
 Trust is built one honest visit at a time. If you need tires, alignment, or balancing on Military Trl in West Palm Beach, we are ready to help.
 
@@ -66,7 +66,7 @@ At 1114 S Military Trl, West Palm Beach, FL 33415. Phone and WhatsApp: (561) 429
 
 ### Does the shop do oil changes, brakes, or A/C?
 
-No. Los Paisas Tires Shop works on tires only: new and used tires, alignment, balancing, repair and vulcanization, installing tires you bought, and mobile tire service within 10 miles.
+No. Los Paisas Tires Shop works on tires only: new and used tires, alignment, balancing, repair and vulcanization, installing tires you bought, and mobile tire service across Palm Beach County.
 
 ### What payment methods are accepted?
 
@@ -74,4 +74,4 @@ Credit, debit, and NFC tap payments.
 
 ### Can the shop come to my location?
 
-Yes, within 10 miles of the shop, during shop hours. Call (561) 429-4041 to confirm your address.
+Yes, across Palm Beach County, during shop hours. Call (561) 429-4041 to confirm your address.

@@ -32,11 +32,11 @@ Jazda na gumie albo na oponie tak miękkiej, że bok się zagina, może zamieni�
 
 ## Kołek, łatka i wulkanizacja w warsztacie
 
-Tak wygląda wizyta, bez instrukcji „zrób to sam”. Przyjeżdżasz pod 1114 S Military Trl albo dzwonisz po van, jeśli jesteś w promieniu 10 mil, a auto nie powinno jechać. Znajdujemy wyciek. Jeśli to małe przebicie bieżnika, a reszta opony jest zdrowa, naprawiamy je od środka i montujemy ponownie. Jeśli nie, mówimy: wymiana. Po naprawie często robimy wyważanie, a jego cenę podajemy przed rozpoczęciem, bez ukrytych opłat. Na tej stronie nie ma kwoty za naprawę, bo nie widzieliśmy dziury.
+Tak wygląda wizyta, bez instrukcji „zrób to sam”. Przyjeżdżasz pod 1114 S Military Trl albo dzwonisz po van, jeśli jesteś w Palm Beach County, a auto nie powinno jechać. Znajdujemy wyciek. Jeśli to małe przebicie bieżnika, a reszta opony jest zdrowa, naprawiamy je od środka i montujemy ponownie. Jeśli nie, mówimy: wymiana. Po naprawie często robimy wyważanie, a jego cenę podajemy przed rozpoczęciem, bez ukrytych opłat. Na tej stronie nie ma kwoty za naprawę, bo nie widzieliśmy dziury.
 
 Szukamy też starej naprawy. Dwa uszkodzenia w złym układzie albo kołek już w barku mogą zakończyć temat. Powinieneś to usłyszeć, zanim ktoś sprzeda Ci drugą łatkę na wierzch błędu.
 
-[Mobilny serwis opon](/pl/uslugi/mobilny-serwis-opon) może obsłużyć gumę w promieniu 10 mil od warsztatu, w tym w Greenacres, Palm Springs i Lake Worth Beach, jeśli pod adresem da się bezpiecznie pracować. To nie jest obietnica całodobowa. Godziny są takie jak w warsztacie. Geometria nie jest częścią łatania przy drodze.
+[Mobilny serwis opon](/pl/uslugi/mobilny-serwis-opon) może obsłużyć gumę w Palm Beach County, w tym w Greenacres, Palm Springs i Lake Worth Beach, jeśli pod adresem da się bezpiecznie pracować. To nie jest obietnica całodobowa. Godziny są takie jak w warsztacie. Geometria nie jest częścią łatania przy drodze.
 
 ## Kołek, łatka czy wymiana: co dotyczy Twojej opony?
 
@@ -53,7 +53,7 @@ Zależy, gdzie jest uszkodzenie i jak opona była eksploatowana: małe przebicie
 
 ## Jeśli opona traci powietrze w tej chwili
 
-Zjedź z drogi w bezpieczne miejsce. Nie stój na pasie ruchu. Jeśli masz koło zapasowe i umiesz je założyć, w ten sposób dojedź do warsztatu. Jeśli nie, zadzwoń pod **(561) 429-4041** i powiedz, gdzie jesteś. Jeśli jesteś w promieniu 10 mil i możemy tam pracować, powiemy Ci. Jeśli nie, nie będziemy udawać, że van przyjedzie z drugiego końca hrabstwa.
+Zjedź z drogi w bezpieczne miejsce. Nie stój na pasie ruchu. Jeśli masz koło zapasowe i umiesz je założyć, w ten sposób dojedź do warsztatu. Jeśli nie, zadzwoń pod **(561) 429-4041** i powiedz, gdzie jesteś. Jeśli jesteś w Palm Beach County i możemy tam pracować, powiemy Ci. Jeśli nie, nie będziemy udawać, że van przyjedzie z drugiego końca hrabstwa.
 
 Nie dopompowuj opony na stacji przez cały tydzień. Opona, która co rano potrzebuje powietrza, ma wyciek. Widoczny gwóźdź nie zawsze jest jedynym wyciekiem. Jazda na „dopompowanej” oponie to sposób, w jaki ludzie przyjeżdżają ze zniszczonym bokiem i naprawą, która nie jest już możliwa.
 

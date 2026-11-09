@@ -33,7 +33,7 @@ Jeśli zawiodła tylko jedna lub dwie opony, rozmawiamy o dopasowaniu do pozosta
 
 ## Czy mogę założyć nowe opony w niedzielę?
 
-Tak. Godziny otwarcia to **8:00 AM – 7:00 PM codziennie**, a niedzielny montaż nowych opon to u nas norma, co pomaga, gdy kalendarz w tygodniu jest pełny. Jeśli nie możesz wyjść z domu albo z pracy, zapytaj o **mobilny serwis opon w promieniu 10 mil** od warsztatu. Zadzwoń lub napisz na WhatsApp: **(561) 429-4041**, zobacz [usługi](/pl/uslugi/nowe-opony) albo obserwuj **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Tak. Godziny otwarcia to **8:00 AM – 7:00 PM codziennie**, a niedzielny montaż nowych opon to u nas norma, co pomaga, gdy kalendarz w tygodniu jest pełny. Jeśli nie możesz wyjść z domu albo z pracy, zapytaj o **mobilny serwis opon w Palm Beach County** od warsztatu. Zadzwoń lub napisz na WhatsApp: **(561) 429-4041**, zobacz [usługi](/pl/uslugi/nowe-opony) albo obserwuj **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 Przyjmujemy karty kredytowe, debetowe i NFC. Dostępny parking i wejście, Wi‑Fi w czasie czekania. Ocena **4,4★** na podstawie **282** opinii w Google, dwujęzyczna mała firma skupiona na oponach.
 
@@ -41,7 +41,7 @@ Przyjmujemy karty kredytowe, debetowe i NFC. Dostępny parking i wejście, Wi‑
 
 - Nowe opony w Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415.
 - Otwarte 7 dni, 8:00 AM–7:00 PM; porównanie nowych i używanych na miejscu; montaż i wyważanie w warsztacie.
-- Także: geometria, naprawa i wulkanizacja, montaż opon klienta, serwis mobilny w promieniu 10 mil.
+- Także: geometria, naprawa i wulkanizacja, montaż opon klienta, serwis mobilny w Palm Beach County.
 
 Gotowy na nowy komplet przy Military Trl? Wpadnij do Los Paisas Tires Shop w West Palm Beach, a ruszysz w drogę.
 

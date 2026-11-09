@@ -40,7 +40,7 @@ If you already bought tires somewhere else, you do not need this article. You ne
 
 Used tires make sense when the casing is sound, the size is right, and you understand you are buying remaining tread, not a new tire's life. They are a poor save when you need matched tread on all four corners, when the car already pulls, or when the only used tire in the size is too far gone. In those cases we would rather sell you a new tire, or tell you to wait, than move a bad used tire out the door.
 
-Greenacres, Palm Springs, and Lake Worth Beach are within 10 miles of the shop. People drive to this one address. If the car is already on a spare or the tire will not hold air, call and ask about [mobile service](/en/services/mobile-tire-service) instead of shopping for a price while the rim chews the sidewall. The van stays within 10 miles. It does not carry every used tire in the building.
+Greenacres, Palm Springs, and Lake Worth Beach are in Palm Beach County. People drive to this one address. If the car is already on a spare or the tire will not hold air, call and ask about [mobile service](/en/services/mobile-tire-service) instead of shopping for a price while the rim chews the sidewall. The van serves Palm Beach County. It does not carry every used tire in the building.
 
 ## How to get a real number today
 

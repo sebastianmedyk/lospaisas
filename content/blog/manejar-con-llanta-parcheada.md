@@ -32,11 +32,11 @@ Manejar con la llanta vacía, o tan baja que el costado se dobla, puede converti
 
 ## Plug, parche y vulcanización en el taller
 
-Así es la visita, sin receta para hacerlo tú. Vienes a 1114 S Military Trl, o llamas a la van si estás a menos de 10 millas y el carro no debe moverse. Encontramos la fuga. Si es una ponchadura chica en el piso y el resto de la llanta está sana, la reparamos por dentro y la montamos de nuevo. Si no es eso, decimos que se cambia. Después es común balancear, y ese precio se dice antes de empezar, sin cargos ocultos. En esta página no hay un monto de la reparación, porque no hemos visto el hoyo.
+Así es la visita, sin receta para hacerlo tú. Vienes a 1114 S Military Trl, o llamas a la van si estás en Palm Beach County y el carro no debe moverse. Encontramos la fuga. Si es una ponchadura chica en el piso y el resto de la llanta está sana, la reparamos por dentro y la montamos de nuevo. Si no es eso, decimos que se cambia. Después es común balancear, y ese precio se dice antes de empezar, sin cargos ocultos. En esta página no hay un monto de la reparación, porque no hemos visto el hoyo.
 
 También buscamos una reparación vieja. Dos daños en un patrón malo, o un plug ya metido en el hombro, pueden cerrar el trabajo. Eso se escucha antes de que alguien te venda un segundo parche encima de un error.
 
-El [servicio móvil](/servicios/servicio-movil) puede cubrir una ponchadura a 10 millas del taller, incluyendo Greenacres, Palm Springs y Lake Worth Beach, cuando la dirección es un lugar seguro para trabajar. No es una promesa de 24 horas. El horario es el del taller. La alineación no es parte de un parche en la calle.
+El [servicio móvil](/servicios/servicio-movil) puede cubrir una ponchadura en Palm Beach County, incluyendo Greenacres, Palm Springs y Lake Worth Beach, cuando la dirección es un lugar seguro para trabajar. No es una promesa de 24 horas. El horario es el del taller. La alineación no es parte de un parche en la calle.
 
 ## Plug, parche o cambio: ¿cuál aplica?
 
@@ -53,7 +53,7 @@ Depende de dónde está el daño y de cómo se manejó la llanta: un pinchazo pe
 
 ## Si la llanta está perdiendo aire ahora
 
-Sal de la vía en un lugar seguro. No te quedes en un carril con tráfico. Si tienes repuesto y sabes usarla, ese es el modo de llegar al taller. Si no, llama al **(561) 429-4041** y di dónde estás. Si estás dentro de las 10 millas y podemos trabajar ahí, te lo decimos. Si no, no fingimos que la van cruza el condado.
+Sal de la vía en un lugar seguro. No te quedes en un carril con tráfico. Si tienes repuesto y sabes usarla, ese es el modo de llegar al taller. Si no, llama al **(561) 429-4041** y di dónde estás. Si estás dentro de Palm Beach County y podemos trabajar ahí, te lo decimos. Si no, no fingimos que la van cruza el condado.
 
 No pases la semana echándole aire en la gasolinera. Una llanta que pide aire cada mañana tiene una fuga. El clavo que ves no siempre es la única. Manejarla "rellena" es como la gente llega con el costado destruido y una reparación que ya no es posible.
 
