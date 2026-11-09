@@ -43,7 +43,7 @@
       "heading": "Wejdź bez umawiania z oponami, które już kupiłeś",
       "paragraphs": [
         "Walk-in jest mile widziany. Przywieź opony i auto na 1114 S Military Trl dowolnego dnia, 8:00 AM–7:00 PM. Telefon (561) 429-4041 z rozmiarem i liczbą opon pomaga zaplanować stanowisko.",
-        "Płatność: karta kredytowa, debetowa lub NFC. Wyważanie jest oferowane z montażem i wyceniane przed startem, bez ukrytych opłat."
+        "Płatność: gotówka, karta kredytowa, debetowa lub płatność zbliżeniowa NFC. Wyważanie jest oferowane z montażem i wyceniane przed startem, bez ukrytych opłat."
       ]
     },
     {
@@ -75,7 +75,11 @@
     },
     {
       "question": "Jak zapłacić za montaż?",
-      "answer": "Kartą kredytową, debetową lub NFC w warsztacie."
+      "answer": "Gotówką, kartą kredytową, debetową lub płatnością zbliżeniową NFC w warsztacie."
+    },
+    {
+      "question": "Ile trwa montaż opon klienta?",
+      "answer": "Typowy montaż w Los Paisas Tires Shop zajmuje poniżej 45 minut. Czas może się różnić w zależności od liczby opon i ruchu na stanowisku — zadzwoń pod (561) 429-4041, żeby potwierdzić."
     }
   ],
   "moreHeading": "Jeśli potrzebujesz od nas opon",
@@ -97,5 +101,5 @@
       "label": "Przywożenie własnych opon na Military Trl"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

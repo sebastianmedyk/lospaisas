@@ -43,7 +43,7 @@
       "heading": "Walk in for a shake at speed",
       "paragraphs": [
         "You can walk in for tire balancing — no appointment required — any day from 8:00 AM to 7:00 PM. Describe whether you feel a shake at highway speed or a pull to one side, so we do not sell you alignment when the wheel only needs weights.",
-        "Payment is by credit card, debit card, or NFC. The balance price is stated before the weights go on. That is what “no hidden fees” means at Los Paisas Tires Shop."
+        "Payment is by cash, credit card, debit card, or NFC (contactless). The balance price is stated before the weights go on. That is what “no hidden fees” means at Los Paisas Tires Shop."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "How do I pay for balancing?",
-      "answer": "Credit card, debit card, or NFC tap. The price is quoted before we start."
+      "answer": "Cash, credit card, debit card, or NFC (contactless). The price is quoted before we start."
     }
   ],
   "moreHeading": "If balance is only part of the problem",
@@ -105,5 +105,5 @@
       "label": "Why does my car shake at highway speed?"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

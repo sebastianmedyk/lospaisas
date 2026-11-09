@@ -44,7 +44,7 @@
       "heading": "Pasa sin cita, o llama antes",
       "paragraphs": [
         "No necesitas cita para llantas usadas en Los Paisas Tires Shop. Puedes llegar sin cita todos los días, de 8:00 AM a 7:00 PM, domingo incluido. Llamar al (561) 429-4041 primero ayuda si ya sabes la medida, para revisar si hay stock antes de venir.",
-        "En el taller aceptamos tarjeta de crédito, débito o pago con NFC. No hay compra en línea de usadas en este sitio. El desde $65 es el punto de partida; el precio final depende de la medida y del piso que queda, y te lo decimos antes de montar."
+        "En el taller aceptamos efectivo, tarjeta de crédito, débito o pago con NFC (contactless). No hay compra en línea de usadas en este sitio. El desde $65 es el punto de partida; el precio final depende de la medida y del piso que queda, y te lo decimos antes de montar."
       ],
       "bullets": [
         "Sin cita — puedes llegar cuando quieras en horario",
@@ -82,7 +82,19 @@
     },
     {
       "question": "¿Cómo puedo pagar las llantas usadas?",
-      "answer": "En el taller aceptamos tarjeta de crédito, débito y NFC. Las usadas empiezan desde $65; el precio exacto de tu medida se dice antes de montar."
+      "answer": "En el taller aceptamos efectivo, tarjeta de crédito, débito y NFC (contactless). Las usadas empiezan desde $65; el precio exacto de tu medida se dice antes de montar."
+    },
+    {
+      "question": "¿Hay financiamiento para llantas usadas?",
+      "answer": "Sí. El financiamiento es a través de Snap, con decisión de crédito en unos 15 minutos. Pregunta en Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, o llama al (561) 429-4041."
+    },
+    {
+      "question": "¿El montaje está incluido si compro una llanta usada?",
+      "answer": "Sí. Cuando compras una llanta en Los Paisas Tires Shop, el precio incluye montaje y balanceo. Las usadas empiezan desde $65; el precio exacto de tu medida se confirma antes de montar."
+    },
+    {
+      "question": "¿Cuánto tarda montar una llanta usada?",
+      "answer": "Un cambio o montaje típico toma menos de 45 minutos en nuestro taller de S Military Trl. Llama al (561) 429-4041 si quieres confirmar el tiempo antes de llegar."
     }
   ],
   "moreHeading": "Otro trabajo de llantas en el taller",
@@ -121,5 +133,5 @@
     "llantas usadas cerca de mí",
     "taller de llantas usadas Military Trl"
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

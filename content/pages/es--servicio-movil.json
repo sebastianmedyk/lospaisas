@@ -81,7 +81,7 @@
     },
     {
       "question": "¿Pago a la van igual que en el taller?",
-      "answer": "En el taller aceptamos crédito, débito y NFC. Confirma el pago del servicio móvil cuando reserves la visita por teléfono."
+      "answer": "En el taller aceptamos efectivo, crédito, débito y NFC (contactless). Confirma el pago del servicio móvil cuando reserves la visita por teléfono."
     }
   ],
   "moreHeading": "Notas móviles de tres pueblos cercanos",
@@ -111,5 +111,5 @@
       "label": "¿Llanta ponchada el domingo? Qué puede hacer el taller"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

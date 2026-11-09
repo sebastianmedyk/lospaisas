@@ -43,7 +43,7 @@
       "heading": "Wejdź bez umawiania przy wibracjach na prędkości",
       "paragraphs": [
         "Możesz wejść bez umawiania na wyważanie — codziennie 8:00 AM–7:00 PM. Opisz, czy czujesz wibracje na autostradzie, czy ściąganie w bok, żebyśmy nie sprzedawali geometrii, gdy koło potrzebuje tylko ciężarków.",
-        "Płatność kartą kredytową, debetową lub NFC. Cenę wyważania słyszysz przed założeniem ciężarków. To znaczy „bez ukrytych opłat” w Los Paisas Tires Shop."
+        "Płatność gotówką, kartą kredytową, debetową lub płatnością zbliżeniową NFC. Cenę wyważania słyszysz przed założeniem ciężarków. To znaczy „bez ukrytych opłat” w Los Paisas Tires Shop."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "Jak zapłacić za wyważanie?",
-      "answer": "Kartą kredytową, debetową lub NFC. Cena przed startem."
+      "answer": "Gotówką, kartą kredytową, debetową lub płatnością zbliżeniową NFC. Cena przed startem."
     }
   ],
   "moreHeading": "Jeśli wyważenie to tylko część problemu",
@@ -105,5 +105,5 @@
       "label": "Dlaczego auto drga przy dużej prędkości?"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

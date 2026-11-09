@@ -43,7 +43,7 @@
       "heading": "Visita sin cita por llantas nuevas",
       "paragraphs": [
         "No hace falta cita. Entra a 1114 S Military Trl en horario — lunes a domingo, 8:00 AM a 7:00 PM — y cruzamos la medida con la placa de la puerta o con la que leíste por teléfono.",
-        "Aceptamos crédito, débito y NFC. Los precios de llantas nuevas están en la tabla de esta página, de $120 a $190 por llanta, e incluyen alineación y balanceo. Precios sujetos a cambio sin previo aviso; llama al (561) 429-4041 para confirmar la medida y el precio antes de venir."
+        "Aceptamos efectivo, crédito, débito y NFC (contactless). Los precios de llantas nuevas están en la tabla de esta página, de $120 a $190 por llanta, e incluyen alineación y balanceo. Precios sujetos a cambio sin previo aviso; llama al (561) 429-4041 para confirmar la medida y el precio antes de venir."
       ],
       "bullets": [
         "Sin cita; llama al (561) 429-4041 si quieres confirmar la medida",
@@ -69,7 +69,7 @@
     },
     {
       "question": "¿El precio de la llanta nueva incluye alineación y balanceo?",
-      "answer": "Sí. El precio de catálogo de las llantas nuevas de esta página incluye alineación y balanceo. La alineación o el balanceo por separado, sin comprar una de estas llantas nuevas, es un servicio pagado aparte."
+      "answer": "Sí. Cuando compras una llanta nueva en Los Paisas Tires Shop, el precio incluye montaje y balanceo. En las llantas Cosmo del catálogo de esta página, el precio listado también incluye alineación. La alineación o el balanceo solos, sin comprar una de estas llantas nuevas, es un servicio aparte de pago."
     },
     {
       "question": "¿Por qué hay dos 205/65 R16 y dos 265/70 R17?",
@@ -93,7 +93,15 @@
     },
     {
       "question": "¿Qué formas de pago aceptan?",
-      "answer": "Tarjeta de crédito, débito y pago con NFC en el taller."
+      "answer": "Efectivo, tarjeta de crédito, débito y pago con NFC (contactless) en el taller."
+    },
+    {
+      "question": "¿Ofrecen financiamiento para llantas?",
+      "answer": "Sí. Los Paisas Tires Shop ofrece financiamiento a través de Snap. La decisión de crédito suele llegar en unos 15 minutos. Pregunta en el mostrador en 1114 S Military Trl, West Palm Beach, o llama al (561) 429-4041."
+    },
+    {
+      "question": "¿Cuánto tarda un cambio de llantas típico?",
+      "answer": "Un cambio o montaje típico de llantas en Los Paisas Tires Shop toma menos de 45 minutos. El tiempo exacto depende del trabajo y de cuánta gente haya — llama al (561) 429-4041 si quieres confirmar antes de venir."
     }
   ],
   "moreHeading": "Trabajo que cabe en la misma visita",
@@ -128,5 +136,5 @@
     "llantas nuevas cerca de mí",
     "instalación de llantas nuevas Military Trl"
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

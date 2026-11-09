@@ -49,7 +49,7 @@
       "bullets": [
         "No appointment required — walk-ins welcome",
         "Call ahead with the tire size if you want stock checked first",
-        "Credit, debit, or NFC at the counter",
+        "Cash, credit, debit, or NFC at the counter",
         "Used tires from $65; final price stated before mounting"
       ]
     },
@@ -82,7 +82,19 @@
     },
     {
       "question": "How can I pay for used tires?",
-      "answer": "At the shop we accept credit card, debit card, and NFC tap. Used tires start from $65; the exact price for your size is given before mounting."
+      "answer": "At the shop we accept cash, credit card, debit card, and NFC (contactless). Used tires start from $65; the exact price for your size is given before mounting."
+    },
+    {
+      "question": "Do you offer financing for used tires?",
+      "answer": "Yes. Financing is available through Snap, with a credit decision usually in about 15 minutes. Ask at Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, or call (561) 429-4041."
+    },
+    {
+      "question": "Is mounting included when I buy a used tire?",
+      "answer": "Yes. When you buy a tire from Los Paisas Tires Shop, mounting and balancing are included in the price. Used tires start from $65; the exact price for your size is confirmed before we mount."
+    },
+    {
+      "question": "How long does mounting a used tire usually take?",
+      "answer": "A typical tire swap or install takes under 45 minutes at our shop on S Military Trl. Call (561) 429-4041 if you want a timing check before you pull in."
     }
   ],
   "moreHeading": "Other tire work at this shop",
@@ -121,5 +133,5 @@
     "used tires near me",
     "used tire shop Military Trl"
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

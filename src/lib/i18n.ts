@@ -182,7 +182,7 @@ export const translations = {
       title: "About Los Paisas Tires Shop",
       aboutHeading: "Who we are",
       about:
-        "Los Paisas Tires Shop is a tire-only shop at 1114 S Military Trl, West Palm Beach, FL 33415. Call (561) 429-4041. Hours are 8:00 AM–7:00 PM every day including Sunday. Services: new and used tires (new Cosmo tires from $120, alignment and balancing included in the catalog price), alignment, balancing with no hidden fees, tire repair and vulcanization, install of customer tires, and mobile service within 10 miles. Google rating: 4.4 stars from 282 reviews. Bilingual English and Spanish team.",
+        "Los Paisas Tires Shop is a tire-only shop at 1114 S Military Trl, West Palm Beach, FL 33415. Call (561) 429-4041. Hours are 8:00 AM–7:00 PM every day including Sunday. Services: new and used tires (new Cosmo tires from $120; mounting, balancing, and alignment included in the Cosmo catalog price), alignment, balancing with no hidden fees, tire repair and vulcanization, install of customer tires, and mobile service within 10 miles. Typical tire swap under 45 minutes. Financing through Snap (about 15 minutes). Cash, credit, debit, and NFC accepted. Google rating: 4.4 stars from 282 reviews. Bilingual English and Spanish team.",
       blocks: [
         {
           question: "Is there a tire shop open Sunday in West Palm Beach?",
@@ -277,6 +277,26 @@ export const translations = {
           question: "How do I get directions to the tire shop on S Military Trl?",
           answer:
             "Navigate to Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415, or open the Google Maps short link for the shop. Call (561) 429-4041 if you need help finding the location.",
+        },
+        {
+          question: "Do you offer tire financing?",
+          answer:
+            "Yes. Los Paisas Tires Shop offers financing through Snap. The credit decision usually takes about 15 minutes. Ask at the counter at 1114 S Military Trl, West Palm Beach, or call (561) 429-4041.",
+        },
+        {
+          question: "How long does a typical tire change take?",
+          answer:
+            "A typical tire swap or install at Los Paisas Tires Shop takes under 45 minutes. Exact time depends on the job and how busy the bay is — call (561) 429-4041 if you want to check before you come.",
+        },
+        {
+          question: "What payment methods do you accept?",
+          answer:
+            "Los Paisas Tires Shop accepts cash, credit card, debit card, and NFC (contactless) at 1114 S Military Trl, West Palm Beach. Financing through Snap is also available.",
+        },
+        {
+          question: "What is included when I buy a tire?",
+          answer:
+            "When you buy a tire from Los Paisas Tires Shop, mounting and balancing are included in the price. For new Cosmo catalog tires, the listed price also includes alignment. Call (561) 429-4041 for your size.",
         },
       ],
     },
@@ -501,7 +521,7 @@ export const translations = {
       title: "Sobre Los Paisas Tires Shop",
       aboutHeading: "Quiénes somos",
       about:
-        "Los Paisas Tires Shop es un taller solo de llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono (561) 429-4041. Horario: 8:00 AM–7:00 PM todos los días, incluyendo domingo. Servicios: llantas nuevas y usadas (llantas nuevas Cosmo desde $120, con alineación y balanceo incluidos en el precio de catálogo), alineación, balanceo sin cargos ocultos, reparación y vulcanización, instalación de llantas del cliente y domicilio a 10 millas. Calificación en Google: 4.4 estrellas con 282 reseñas. Equipo bilingüe inglés y español.",
+        "Los Paisas Tires Shop es un taller solo de llantas en 1114 S Military Trl, West Palm Beach, FL 33415. Teléfono (561) 429-4041. Horario: 8:00 AM–7:00 PM todos los días, incluyendo domingo. Servicios: llantas nuevas y usadas (llantas nuevas Cosmo desde $120; montaje, balanceo y alineación incluidos en el precio de catálogo Cosmo), alineación, balanceo sin cargos ocultos, reparación y vulcanización, instalación de llantas del cliente y domicilio a 10 millas. Cambio típico de llantas en menos de 45 minutos. Financiamiento a través de Snap (unos 15 minutos). Aceptamos efectivo, crédito, débito y NFC. Calificación en Google: 4.4 estrellas con 282 reseñas. Equipo bilingüe inglés y español.",
       blocks: [
         {
           question: "¿Hay una tienda de llantas abierta el domingo en West Palm Beach?",
@@ -596,6 +616,26 @@ export const translations = {
           question: "¿Cómo llego a la tienda de llantas en S Military Trl?",
           answer:
             "Dirígete a Los Paisas Tires Shop en 1114 S Military Trl, West Palm Beach, FL 33415, o abre el enlace corto de Google Maps del negocio. Llama al (561) 429-4041 si necesitas ayuda para ubicar el local.",
+        },
+        {
+          question: "¿Ofrecen financiamiento para llantas?",
+          answer:
+            "Sí. Los Paisas Tires Shop ofrece financiamiento a través de Snap. La decisión de crédito suele llegar en unos 15 minutos. Pregunta en el mostrador en 1114 S Military Trl, West Palm Beach, o llama al (561) 429-4041.",
+        },
+        {
+          question: "¿Cuánto tarda un cambio de llantas típico?",
+          answer:
+            "Un cambio o montaje típico de llantas en Los Paisas Tires Shop toma menos de 45 minutos. El tiempo exacto depende del trabajo y de cuánta gente haya — llama al (561) 429-4041 si quieres confirmar antes de venir.",
+        },
+        {
+          question: "¿Qué formas de pago aceptan?",
+          answer:
+            "Los Paisas Tires Shop acepta efectivo, tarjeta de crédito, débito y pago con NFC (contactless) en 1114 S Military Trl, West Palm Beach. También hay financiamiento a través de Snap.",
+        },
+        {
+          question: "¿Qué incluye el precio al comprar una llanta?",
+          answer:
+            "Cuando compras una llanta en Los Paisas Tires Shop, el precio incluye montaje y balanceo. En las llantas nuevas Cosmo del catálogo, el precio listado también incluye alineación. Llama al (561) 429-4041 para tu medida.",
         },
       ],
     },

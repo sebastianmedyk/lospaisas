@@ -43,12 +43,12 @@
       "heading": "Walk-in visit for new tires",
       "paragraphs": [
         "No appointment is required. Pull into 1114 S Military Trl during open hours — Monday through Sunday, 8:00 AM to 7:00 PM — and we match the size from the door placard or from the size you read over the phone.",
-        "We accept credit card, debit card, and NFC tap. The new-tire prices are in the table on this page, from $120 to $190 per tire, and they include alignment and balancing. Prices are subject to change without notice; call (561) 429-4041 to confirm the size and the price before you come."
+        "We accept cash, credit card, debit card, and NFC (contactless). The new-tire prices are in the table on this page, from $120 to $190 per tire, and they include alignment and balancing. Prices are subject to change without notice; call (561) 429-4041 to confirm the size and the price before you come."
       ],
       "bullets": [
         "Walk-ins welcome; call (561) 429-4041 if you want the size checked first",
         "English or Spanish at the same counter",
-        "Credit, debit, or NFC",
+        "Cash, credit, debit, or NFC",
         "Alignment and balancing included with the catalog new tires listed above"
       ]
     },
@@ -69,7 +69,7 @@
     },
     {
       "question": "Does the new tire price include alignment and balancing?",
-      "answer": "Yes. The catalog price for the new tires listed on this page includes alignment and balancing. Alignment or balancing on its own, without buying one of these new tires, is a separate paid service."
+      "answer": "Yes. When you buy a new tire from Los Paisas Tires Shop, mounting and balancing are included in the price. For the Cosmo catalog tires listed on this page, the listed price also includes alignment. Alignment or balancing on its own, without buying one of these new tires, is a separate paid service."
     },
     {
       "question": "Why are there two 205/65 R16 and two 265/70 R17 tires?",
@@ -93,7 +93,15 @@
     },
     {
       "question": "What payment methods do you accept?",
-      "answer": "Credit card, debit card, and NFC tap at the shop."
+      "answer": "Cash, credit card, debit card, and NFC (contactless) at the shop."
+    },
+    {
+      "question": "Do you offer tire financing?",
+      "answer": "Yes. Los Paisas Tires Shop offers financing through Snap. The credit decision usually takes about 15 minutes. Ask at the counter at 1114 S Military Trl, West Palm Beach, or call (561) 429-4041."
+    },
+    {
+      "question": "How long does a typical tire change take?",
+      "answer": "A typical tire swap or install at Los Paisas Tires Shop takes under 45 minutes. Exact time depends on the job and how busy the bay is — call (561) 429-4041 if you want to check before you come."
     }
   ],
   "moreHeading": "Related work on the same visit",
@@ -128,5 +136,5 @@
     "new tires near me",
     "new tire installation Military Trl"
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

@@ -43,7 +43,7 @@
       "heading": "Wejdź bez umawiania na geometrię / ustawianie",
       "paragraphs": [
         "Umówienie nie jest wymagane. Jedź na 1114 S Military Trl w godzinach 8:00 AM–7:00 PM codziennie, także w niedzielę. Powiedz, czy auto ściąga, czy kierownica stoi krzywo, czy opony zjadły się z jednej strony.",
-        "Przyjmujemy kartę kredytową, debetową i NFC. Geometria jest na sprzęcie w warsztacie — to nie jest praca mobilna ani na podjeździe. Jeśli potrzebujesz też wyważania, zrobimy oba w jednym postoju i wycenimy każdą część przed startem."
+        "Przyjmujemy gotówkę, kartę kredytową, debetową i płatność zbliżeniową NFC. Geometria jest na sprzęcie w warsztacie — to nie jest praca mobilna ani na podjeździe. Jeśli potrzebujesz też wyważania, zrobimy oba w jednym postoju i wycenimy każdą część przed startem."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "Jak zapłacić za geometrię?",
-      "answer": "Kartą kredytową, debetową lub NFC w warsztacie."
+      "answer": "Gotówką, kartą kredytową, debetową lub płatnością zbliżeniową NFC w warsztacie."
     }
   ],
   "moreHeading": "Prace, które często idą w parze z geometrią",
@@ -97,5 +97,5 @@
       "label": "Geometria przy Military Trl"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

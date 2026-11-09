@@ -43,7 +43,7 @@
       "heading": "Llega sin cita para geometría / alineación",
       "paragraphs": [
         "No hace falta cita para alineación. Conduce a 1114 S Military Trl en horario, 8:00 AM a 7:00 PM todos los días, domingo incluido. Dinos si el carro jala, si el volante queda torcido o si las llantas se gastaron de un lado.",
-        "Aceptamos crédito, débito y NFC. La alineación se hace en el equipo del taller — no es trabajo móvil ni en la entrada de casa. Si también necesitas balanceo, podemos hacer ambos en una parada y cotizar cada parte antes de empezar."
+        "Aceptamos efectivo, crédito, débito y NFC (contactless). La alineación se hace en el equipo del taller — no es trabajo móvil ni en la entrada de casa. Si también necesitas balanceo, podemos hacer ambos en una parada y cotizar cada parte antes de empezar."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "¿Cómo pago la alineación?",
-      "answer": "Tarjeta de crédito, débito o NFC en el taller."
+      "answer": "Efectivo, tarjeta de crédito, débito o NFC (contactless) en el taller."
     }
   ],
   "moreHeading": "Trabajo que suele ir con la alineación",
@@ -97,5 +97,5 @@
       "label": "Alineación en Military Trl"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

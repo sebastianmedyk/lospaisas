@@ -43,7 +43,7 @@
       "heading": "Walk in with a nail or a slow leak",
       "paragraphs": [
         "No appointment is needed for tire repair. Bring the car to 1114 S Military Trl any day, 8:00 AM to 7:00 PM, while the tire still holds air if you can. Driving it flat can ruin a tire that was still repairable.",
-        "We accept credit card, debit card, and NFC tap. The repair price is stated before we start. If the tire cannot be saved, we show used tires from $65 and new options in the same visit — no oil, brakes, or A/C upsells."
+        "We accept cash, credit card, debit card, and NFC (contactless). The repair price is stated before we start. If the tire cannot be saved, we show used tires from $65 and new options in the same visit — no oil, brakes, or A/C upsells."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "How do I pay for a repair?",
-      "answer": "Credit card, debit card, or NFC tap at the shop."
+      "answer": "Cash, credit card, debit card, or NFC (contactless) at the shop."
     }
   ],
   "moreHeading": "If the tire cannot be saved",
@@ -113,5 +113,5 @@
       "label": "Told you need four new tires? When a repair is enough"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

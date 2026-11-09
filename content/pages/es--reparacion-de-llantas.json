@@ -43,7 +43,7 @@
       "heading": "Llega sin cita con un clavo o una fuga lenta",
       "paragraphs": [
         "No hace falta cita para reparar. Trae el carro a 1114 S Military Trl cualquier día, de 8:00 AM a 7:00 PM, mientras la llanta aún aguante aire si puedes. Rodarla desinflada puede arruinar una llanta que todavía se podía salvar.",
-        "Aceptamos crédito, débito y NFC. El precio de la reparación se dice antes de empezar. Si la llanta no se puede salvar, te mostramos usadas desde $65 y opciones nuevas en la misma visita — sin cambio de aceite, frenos ni A/C."
+        "Aceptamos efectivo, crédito, débito y NFC (contactless). El precio de la reparación se dice antes de empezar. Si la llanta no se puede salvar, te mostramos usadas desde $65 y opciones nuevas en la misma visita — sin cambio de aceite, frenos ni A/C."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "¿Cómo pago una reparación?",
-      "answer": "Tarjeta de crédito, débito o NFC en el taller."
+      "answer": "Efectivo, tarjeta de crédito, débito o NFC (contactless) en el taller."
     }
   ],
   "moreHeading": "Si la llanta no se puede salvar",
@@ -113,5 +113,5 @@
       "label": "¿Le dijeron que necesita cuatro llantas? Cuándo basta reparar"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

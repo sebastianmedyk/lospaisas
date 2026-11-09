@@ -43,7 +43,7 @@
       "heading": "Llega sin cita si hay vibración a velocidad",
       "paragraphs": [
         "Puedes llegar sin cita para balanceo — cualquier día de 8:00 AM a 7:00 PM. Describe si sientes vibración a velocidad de carretera o si el carro jala a un lado, para no venderte alineación cuando la rueda solo necesita pesos.",
-        "El pago es con crédito, débito o NFC. El precio del balanceo se dice antes de poner los pesos. Eso es lo que significa “sin cargos ocultos” en Los Paisas Tires Shop."
+        "El pago es con efectivo, crédito, débito o NFC (contactless). El precio del balanceo se dice antes de poner los pesos. Eso es lo que significa “sin cargos ocultos” en Los Paisas Tires Shop."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "¿Cómo pago el balanceo?",
-      "answer": "Tarjeta de crédito, débito o NFC. El precio se cotiza antes de empezar."
+      "answer": "Efectivo, tarjeta de crédito, débito o NFC (contactless). El precio se cotiza antes de empezar."
     }
   ],
   "moreHeading": "Si el balanceo es solo una parte",
@@ -105,5 +105,5 @@
       "label": "¿Por qué vibra el carro cuando voy rápido?"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

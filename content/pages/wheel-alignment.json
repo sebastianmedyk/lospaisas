@@ -43,7 +43,7 @@
       "heading": "Walk in for geometría / alignment",
       "paragraphs": [
         "No appointment is required for wheel alignment. Drive to 1114 S Military Trl during open hours, 8:00 AM to 7:00 PM every day including Sunday. Tell us if the car pulls, the steering wheel sits crooked, or the tires wore on one edge.",
-        "We accept credit, debit, and NFC. Alignment stays on the shop equipment — it is not a mobile or driveway job. If you also need balancing, we can do both in one stop and quote each part before we start."
+        "We accept cash, credit, debit, and NFC (contactless). Alignment stays on the shop equipment — it is not a mobile or driveway job. If you also need balancing, we can do both in one stop and quote each part before we start."
       ]
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "question": "How do I pay for alignment?",
-      "answer": "Credit card, debit card, or NFC tap at the shop."
+      "answer": "Cash, credit card, debit card, or NFC (contactless) at the shop."
     }
   ],
   "moreHeading": "Work that often goes with alignment",
@@ -97,5 +97,5 @@
       "label": "Alignment on Military Trl"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

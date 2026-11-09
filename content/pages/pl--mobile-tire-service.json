@@ -81,7 +81,7 @@
     },
     {
       "question": "Czy za van płacę tak samo jak w warsztacie?",
-      "answer": "W warsztacie: karta kredytowa, debetowa i NFC. Formę płatności za wyjazd potwierdź przy rezerwacji telefonicznej."
+      "answer": "W warsztacie: gotówka, karta kredytowa, debetowa i płatność zbliżeniowa NFC. Formę płatności za wyjazd potwierdź przy rezerwacji telefonicznej."
     }
   ],
   "moreHeading": "Serwis mobilny w trzech pobliskich miejscowościach",
@@ -111,5 +111,5 @@
       "label": "Guma w niedzielę? Co może zrobić warsztat"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

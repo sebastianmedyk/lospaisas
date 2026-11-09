@@ -75,7 +75,11 @@
     },
     {
       "question": "How do I pay for installation?",
-      "answer": "Credit card, debit card, or NFC tap at the shop."
+      "answer": "Cash, credit card, debit card, or NFC (contactless) at the shop."
+    },
+    {
+      "question": "How long does customer-tire installation usually take?",
+      "answer": "A typical install at Los Paisas Tires Shop takes under 45 minutes. Time can vary with the number of tires and bay traffic — call (561) 429-4041 if you need to confirm."
     }
   ],
   "moreHeading": "If you still need tires from us",
@@ -97,5 +101,5 @@
       "label": "Bringing your own tires to Military Trl"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

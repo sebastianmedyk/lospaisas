@@ -43,12 +43,12 @@
       "heading": "Wizyta bez umawiania po nowe opony",
       "paragraphs": [
         "Umówienie nie jest wymagane. Wjedź na 1114 S Military Trl w godzinach — poniedziałek–niedziela, 8:00 AM–7:00 PM — i dopasujemy rozmiar z tabliczki w drzwiach albo z tego, co podasz przez telefon.",
-        "Przyjmujemy kartę kredytową, debetową i NFC. Ceny nowych opon są w tabeli na tej stronie, od $120 do $190 za sztukę, i obejmują geometrię i wyważanie. Ceny mogą się zmienić bez uprzedzenia; zadzwoń pod (561) 429-4041, żeby potwierdzić rozmiar i cenę przed przyjazdem."
+        "Przyjmujemy gotówkę, kartę kredytową, debetową i płatność zbliżeniową NFC. Ceny nowych opon są w tabeli na tej stronie, od $120 do $190 za sztukę, i obejmują geometrię i wyważanie. Ceny mogą się zmienić bez uprzedzenia; zadzwoń pod (561) 429-4041, żeby potwierdzić rozmiar i cenę przed przyjazdem."
       ],
       "bullets": [
         "Walk-in; zadzwoń pod (561) 429-4041, jeśli chcesz potwierdzić rozmiar",
         "Angielski lub hiszpański przy tym samym lady",
-        "Karta kredytowa, debetowa lub NFC",
+        "Gotówka, karta kredytowa, debetowa lub NFC",
         "Geometria i wyważanie w cenie nowych opon z katalogu powyżej"
       ]
     },
@@ -69,7 +69,7 @@
     },
     {
       "question": "Czy cena nowej opony obejmuje geometrię i wyważanie?",
-      "answer": "Tak. Cena z katalogu nowych opon na tej stronie obejmuje geometrię i wyważanie. Sama geometria lub samo wyważanie, bez zakupu jednej z tych nowych opon, to osobna płatna usługa."
+      "answer": "Tak. Gdy kupujesz nową oponę w Los Paisas Tires Shop, w cenie jest montaż i wyważanie. W cenie katalogowej opon Cosmo z tej strony jest też geometria. Sama geometria lub samo wyważanie, bez zakupu jednej z tych nowych opon, to osobna płatna usługa."
     },
     {
       "question": "Dlaczego są dwie opony 205/65 R16 i dwie 265/70 R17?",
@@ -93,7 +93,15 @@
     },
     {
       "question": "Jakie formy płatności przyjmujecie?",
-      "answer": "Kartę kredytową, debetową i NFC w warsztacie."
+      "answer": "Gotówkę, kartę kredytową, debetową i płatność zbliżeniową NFC w warsztacie."
+    },
+    {
+      "question": "Czy oferujecie finansowanie opon?",
+      "answer": "Tak. Los Paisas Tires Shop oferuje finansowanie przez firmę Snap. Decyzja kredytowa zwykle pada w około 15 minut. Zapytaj przy ladzie pod adresem 1114 S Military Trl, West Palm Beach, albo zadzwoń pod (561) 429-4041."
+    },
+    {
+      "question": "Ile trwa typowa wymiana opon?",
+      "answer": "Typowa wymiana lub montaż opon w Los Paisas Tires Shop zajmuje poniżej 45 minut. Dokładny czas zależy od zlecenia i ruchu na stanowisku — zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem."
     }
   ],
   "moreHeading": "Powiązane prace podczas tej samej wizyty",
@@ -128,5 +136,5 @@
     "nowe opony w pobliżu",
     "montaż nowych opon Military Trl"
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

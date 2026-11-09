@@ -49,7 +49,7 @@
       "bullets": [
         "Bez umawiania — walk-in w godzinach otwarcia",
         "Zadzwoń z rozmiarem, jeśli chcesz sprawdzić stock",
-        "Karta kredytowa, debetowa lub NFC",
+        "Gotówka, karta kredytowa, debetowa lub NFC",
         "Używane od $65; cena końcowa przed montażem"
       ]
     },
@@ -82,7 +82,19 @@
     },
     {
       "question": "Jak mogę zapłacić za używane opony?",
-      "answer": "W warsztacie: karta kredytowa, debetowa i NFC. Używane od $65; dokładna cena za Twój rozmiar przed montażem."
+      "answer": "W warsztacie: gotówka, karta kredytowa, debetowa i płatność zbliżeniowa NFC. Używane od $65; dokładna cena za Twój rozmiar przed montażem."
+    },
+    {
+      "question": "Czy jest finansowanie na używane opony?",
+      "answer": "Tak. Finansowanie jest przez Snap, a decyzja kredytowa zwykle pada w około 15 minut. Zapytaj w Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, albo zadzwoń pod (561) 429-4041."
+    },
+    {
+      "question": "Czy montaż jest wliczony przy zakupie używanej opony?",
+      "answer": "Tak. Gdy kupujesz oponę w Los Paisas Tires Shop, w cenie jest montaż i wyważanie. Używane opony od $65; dokładną cenę za Twój rozmiar potwierdzamy przed montażem."
+    },
+    {
+      "question": "Ile zwykle trwa montaż używanej opony?",
+      "answer": "Typowa wymiana lub montaż zajmuje poniżej 45 minut w naszym warsztacie przy S Military Trl. Zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić czas przed przyjazdem."
     }
   ],
   "moreHeading": "Inne prace przy oponach w tym warsztacie",
@@ -121,5 +133,5 @@
     "używane opony w pobliżu",
     "sklep z używanymi oponami Military Trl"
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

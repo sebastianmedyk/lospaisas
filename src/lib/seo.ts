@@ -152,7 +152,7 @@ export function localBusinessJsonLd() {
     "@id": `${SITE_URL}/#business`,
     name: BUSINESS.name,
     description:
-      "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call (561) 429-4041.",
+      "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Typical tire swap under 45 minutes. Financing through Snap (credit decision about 15 minutes). Cash, credit, debit, and NFC accepted. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call (561) 429-4041.",
     logo: absoluteUrl(LOGO_PATH),
     image: [
       ...SHOP_PHOTOS.map((p) => absoluteUrl(p)),
@@ -164,7 +164,7 @@ export function localBusinessJsonLd() {
     telephone: BUSINESS.phoneE164,
     priceRange: "$$",
     currenciesAccepted: "USD",
-    paymentAccepted: "Credit Card, Debit Card, NFC",
+    paymentAccepted: "Cash, Credit Card, Debit Card, NFC",
     address: postalAddress(),
     geo: {
       "@type": "GeoCoordinates",

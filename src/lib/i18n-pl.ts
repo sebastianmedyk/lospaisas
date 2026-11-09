@@ -142,7 +142,7 @@ export const pl: DictionaryShape = {
     title: "O Los Paisas Tires Shop",
     aboutHeading: "Kim jesteśmy",
     about:
-      "Los Paisas Tires Shop to warsztat zajmujący się wyłącznie oponami, pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Telefon: (561) 429-4041. Otwarte codziennie, także w niedzielę, 8:00 AM–7:00 PM. Usługi: nowe i używane opony (nowe opony Cosmo od $120, z geometrią i wyważaniem w cenie katalogowej), geometria, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd do 10 mil. Ocena w Google: 4,4 gwiazdki na podstawie 282 opinii. Zespół mówi po angielsku i hiszpańsku.",
+      "Los Paisas Tires Shop to warsztat zajmujący się wyłącznie oponami, pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Telefon: (561) 429-4041. Otwarte codziennie, także w niedzielę, 8:00 AM–7:00 PM. Usługi: nowe i używane opony (nowe opony Cosmo od $120; montaż, wyważanie i geometria w cenie katalogowej Cosmo), geometria, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd do 10 mil. Typowa wymiana opon poniżej 45 minut. Finansowanie przez Snap (ok. 15 minut). Przyjmujemy gotówkę, kartę kredytową, debetową i NFC. Ocena w Google: 4,4 gwiazdki na podstawie 282 opinii. Zespół mówi po angielsku i hiszpańsku.",
     blocks: [
       {
         question: "Czy w West Palm Beach jest serwis opon otwarty w niedzielę?",
@@ -236,6 +236,26 @@ export const pl: DictionaryShape = {
         question: "Jak dojechać do warsztatu przy S Military Trl?",
         answer:
           "Ustaw nawigację na Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415, albo otwórz link do warsztatu w Google Maps. Jeśli nie możesz trafić, zadzwoń pod (561) 429-4041.",
+      },
+      {
+        question: "Czy oferujecie finansowanie opon?",
+        answer:
+          "Tak. Los Paisas Tires Shop oferuje finansowanie przez firmę Snap. Decyzja kredytowa zwykle pada w około 15 minut. Zapytaj przy ladzie pod adresem 1114 S Military Trl, West Palm Beach, albo zadzwoń pod (561) 429-4041.",
+      },
+      {
+        question: "Ile trwa typowa wymiana opon?",
+        answer:
+          "Typowa wymiana lub montaż opon w Los Paisas Tires Shop zajmuje poniżej 45 minut. Dokładny czas zależy od zlecenia i ruchu na stanowisku — zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem.",
+      },
+      {
+        question: "Jakie formy płatności przyjmujecie?",
+        answer:
+          "Los Paisas Tires Shop przyjmuje gotówkę, kartę kredytową, debetową oraz płatność zbliżeniową NFC pod adresem 1114 S Military Trl, West Palm Beach. Dostępne jest też finansowanie przez Snap.",
+      },
+      {
+        question: "Co jest wliczone w cenę przy zakupie opony?",
+        answer:
+          "Gdy kupujesz oponę w Los Paisas Tires Shop, w cenie jest montaż i wyważanie. W cenie katalogowej nowych opon Cosmo jest też geometria. Zadzwoń pod (561) 429-4041 w sprawie rozmiaru.",
       },
     ],
   },

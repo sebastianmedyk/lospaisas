@@ -43,7 +43,7 @@
       "heading": "Llega sin cita con llantas que ya compraste",
       "paragraphs": [
         "Puedes llegar sin cita. Trae las llantas y el carro a 1114 S Military Trl cualquier día, de 8:00 AM a 7:00 PM. Llamar al (561) 429-4041 primero con la medida y cuántas llantas traes ayuda a planear el bay.",
-        "El pago es crédito, débito o NFC. El balanceo se ofrece con el montaje y se cotiza antes de empezar, sin cargos ocultos."
+        "El pago es efectivo, crédito, débito o NFC (contactless). El balanceo se ofrece con el montaje y se cotiza antes de empezar, sin cargos ocultos."
       ]
     },
     {
@@ -75,7 +75,11 @@
     },
     {
       "question": "¿Cómo pago la instalación?",
-      "answer": "Tarjeta de crédito, débito o NFC en el taller."
+      "answer": "Efectivo, tarjeta de crédito, débito o NFC (contactless) en el taller."
+    },
+    {
+      "question": "¿Cuánto tarda la instalación de llantas del cliente?",
+      "answer": "Una instalación típica en Los Paisas Tires Shop toma menos de 45 minutos. El tiempo puede variar según cuántas llantas sean y cuánta gente haya — llama al (561) 429-4041 para confirmar."
     }
   ],
   "moreHeading": "Si todavía necesitas llantas nuestras",
@@ -97,5 +101,5 @@
       "label": "Traer tus propias llantas a Military Trl"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }

@@ -81,7 +81,7 @@
     },
     {
       "question": "Do I pay the van the same way as at the shop?",
-      "answer": "Payment methods at the shop are credit, debit, and NFC. Confirm payment for a mobile stop when you book the visit by phone."
+      "answer": "Payment methods at the shop are cash, credit, debit, and NFC (contactless). Confirm payment for a mobile stop when you book the visit by phone."
     }
   ],
   "moreHeading": "Mobile notes for three nearby towns",
@@ -111,5 +111,5 @@
       "label": "Flat tire on Sunday? What the shop can do"
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-09"
 }
