@@ -66,8 +66,8 @@ export default function HomeIntro({ locale }: { locale: Locale }) {
               <p>
                 Abrimos de lunes a domingo, de 8 AM a 7 PM, también el domingo, cuando muchos talleres
                 están cerrados. Si el carro no se puede mover, ofrecemos{" "}
-                <Link href={L(6)} className={linkCls}>servicio móvil de llantas</Link> dentro de unas
-                10 millas del taller, lo que cubre West Palm Beach y ciudades vecinas como Greenacres,
+                <Link href={L(6)} className={linkCls}>servicio móvil de llantas</Link> en todo
+                Palm Beach County, lo que cubre West Palm Beach y ciudades vecinas como Greenacres,
                 Palm Springs y Lake Worth Beach. Llama antes al{" "}
                 <a href={BUSINESS.phoneTel} className={linkCls}>{BUSINESS.phoneDisplay}</a> o escríbenos
                 por WhatsApp y dinos la medida de la llanta (está en el costado) para tener todo listo.
@@ -114,8 +114,8 @@ export default function HomeIntro({ locale }: { locale: Locale }) {
               <p>
                 Jesteśmy otwarci od poniedziałku do niedzieli, 8 AM–7 PM, także w niedzielę, kiedy
                 wiele warsztatów jest zamkniętych. Jeśli auto nie nadaje się do jazdy, oferujemy{" "}
-                <Link href={L(6)} className={linkCls}>mobilny serwis opon</Link> w promieniu około
-                10 mil od warsztatu, co obejmuje West Palm Beach i sąsiednie miasta, takie jak
+                <Link href={L(6)} className={linkCls}>mobilny serwis opon</Link> w całym
+                Palm Beach County, co obejmuje West Palm Beach i sąsiednie miasta, takie jak
                 Greenacres, Palm Springs i Lake Worth Beach. Zadzwoń pod{" "}
                 <a href={BUSINESS.phoneTel} className={linkCls}>{BUSINESS.phoneDisplay}</a> albo napisz
                 najpierw na WhatsApp i podaj rozmiar opony z jej boku, żebyśmy mieli gotową właściwą
@@ -161,8 +161,8 @@ export default function HomeIntro({ locale }: { locale: Locale }) {
               <p>
                 We are open Monday through Sunday, 8 AM to 7 PM, Sunday included, when a lot of shops
                 are closed. If the car can&apos;t be driven, we offer{" "}
-                <Link href={L(6)} className={linkCls}>mobile tire service</Link> within about 10 miles
-                of the shop, which covers West Palm Beach and neighbors like Greenacres, Palm Springs
+                <Link href={L(6)} className={linkCls}>mobile tire service</Link> across Palm Beach County
+                from the shop, which covers West Palm Beach and neighbors like Greenacres, Palm Springs
                 and Lake Worth Beach. Call{" "}
                 <a href={BUSINESS.phoneTel} className={linkCls}>{BUSINESS.phoneDisplay}</a> or send a
                 WhatsApp first, and tell us the tire size printed on the sidewall so we can have the

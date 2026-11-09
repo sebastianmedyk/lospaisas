@@ -49,7 +49,7 @@
     {
       "heading": "Kierowcy, którzy przyjeżdżają na S Military Trl",
       "paragraphs": [
-        "Stanowisko do geometrii jest tylko w warsztacie. Greenacres, Palm Springs i Lake Worth Beach są na tyle blisko, że ludzie tu przyjeżdżają, a wszystkie trzy miejscowości są w promieniu 10 mil od adresu, ale sama geometria nie jest usługą mobilną. Jeśli masz gumę i nie możesz do nas dojechać, zadzwoń w sprawie mobilnego serwisu opon. Na geometrię przyjedź na stanowisko.",
+        "Stanowisko do geometrii jest tylko w warsztacie. Greenacres, Palm Springs i Lake Worth Beach są na tyle blisko, że ludzie tu przyjeżdżają, a wszystkie trzy miejscowości są w Palm Beach County, ale sama geometria nie jest usługą mobilną. Jeśli masz gumę i nie możesz do nas dojechać, zadzwoń w sprawie mobilnego serwisu opon. Na geometrię przyjedź na stanowisko.",
         "Nie ma drugiego adresu ani innego stanowiska Los Paisas do tej pracy. Przyjedź pod 1114 S Military Trl, West Palm Beach, FL 33415, albo zadzwoń: (561) 429-4041."
       ],
       "nap": true
@@ -67,7 +67,7 @@
     },
     {
       "question": "Czy możecie ustawić geometrię pod moim domem?",
-      "answer": "Nie. Geometrię ustawiamy na sprzęcie pod 1114 S Military Trl. Serwis mobilny obejmuje prace przy oponach w promieniu 10 mil, a nie geometrię."
+      "answer": "Nie. Geometrię ustawiamy na sprzęcie pod 1114 S Military Trl. Serwis mobilny obejmuje prace przy oponach w Palm Beach County, a nie geometrię."
     },
     {
       "question": "Czy muszę się umawiać na geometrię?",
@@ -76,6 +76,22 @@
     {
       "question": "Jak zapłacić za geometrię?",
       "answer": "Gotówką, kartą kredytową, debetową lub płatnością zbliżeniową NFC w warsztacie."
+    },
+    {
+      "question": "Czy ustawicie geometrię u mnie w domu?",
+      "answer": "Nie. Geometrię ustawiamy na sprzęcie pod 1114 S Military Trl. Serwis mobilny obejmuje prace przy oponach w Palm Beach County, a nie geometrię."
+    },
+    {
+      "question": "Ile trwa geometria?",
+      "answer": "Sama geometria zwykle zajmuje około 1 godziny. Komplet opon z geometrią zwykle około 2 godzin. Czasy są orientacyjne. Zadzwoń pod (561) 429-4041."
+    },
+    {
+      "question": "Czy geometria jest darmowa przy 4 nowych oponach?",
+      "answer": "Tak. Przy zakupie 4 nowych opon geometria jest darmowa. W cenie katalogowej Cosmo geometria też jest wliczona."
+    },
+    {
+      "question": "Czy jest $25 zniżki na geometrię przy oponach klienta?",
+      "answer": "Tak. Przy więcej niż 2 oponach klienta do montażu masz $25 zniżki na geometrię."
     }
   ],
   "moreHeading": "Prace, które często idą w parze z geometrią",

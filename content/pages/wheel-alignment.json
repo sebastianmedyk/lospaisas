@@ -49,7 +49,7 @@
     {
       "heading": "Drivers who come to S Military Trl",
       "paragraphs": [
-        "The rack is only at the shop. Greenacres, Palm Springs, and Lake Worth Beach are close enough that people drive here, and all three towns are inside 10 miles of the address, but the alignment itself is not a mobile job. If a tire is flat and you cannot reach us, call about mobile tire service for the flat. Come to the bay for the geometry.",
+        "The rack is only at the shop. Greenacres, Palm Springs, and Lake Worth Beach are close enough that people drive here, and all three towns are in Palm Beach County near the shop, but the alignment itself is not a mobile job. If a tire is flat and you cannot reach us, call about mobile tire service for the flat. Come to the bay for the geometry.",
         "There is no second address and no other Los Paisas bay for this work. Use 1114 S Military Trl, West Palm Beach, FL 33415, and the phone (561) 429-4041."
       ],
       "nap": true
@@ -67,7 +67,7 @@
     },
     {
       "question": "Can you align the car at my house?",
-      "answer": "No. Alignment is done on the equipment at 1114 S Military Trl. Mobile service is for tire work within 10 miles, not for geometry."
+      "answer": "No. Alignment is done on the equipment at 1114 S Military Trl. Mobile service is for tire work across Palm Beach County, not for geometry."
     },
     {
       "question": "Do I need an appointment for alignment?",
@@ -76,6 +76,18 @@
     {
       "question": "How do I pay for alignment?",
       "answer": "Cash, credit card, debit card, or NFC (contactless) at the shop."
+    },
+    {
+      "question": "How long does an alignment usually take?",
+      "answer": "Alignment alone usually takes about 1 hour. A full set of tires with alignment is usually about 2 hours. Times are approximate and depend on how busy the shop is. Call (561) 429-4041."
+    },
+    {
+      "question": "Is alignment free with 4 new tires?",
+      "answer": "Yes. When you buy 4 new tires, alignment is free. Cosmo catalog tires also include alignment in the listed price."
+    },
+    {
+      "question": "Do I get $25 off alignment with customer-owned tires?",
+      "answer": "Yes. When you bring more than 2 customer-owned tires for install, you get $25 off the alignment."
     }
   ],
   "moreHeading": "Work that often goes with alignment",

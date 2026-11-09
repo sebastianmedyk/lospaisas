@@ -43,13 +43,14 @@
       "heading": "Wejdź bez umawiania z oponami, które już kupiłeś",
       "paragraphs": [
         "Walk-in jest mile widziany. Przywieź opony i auto na 1114 S Military Trl dowolnego dnia, 8:00 AM–7:00 PM. Telefon (561) 429-4041 z rozmiarem i liczbą opon pomaga zaplanować stanowisko.",
-        "Płatność: gotówka, karta kredytowa, debetowa lub płatność zbliżeniowa NFC. Wyważanie jest oferowane z montażem i wyceniane przed startem, bez ukrytych opłat."
+        "Płatność: gotówka, karta kredytowa, debetowa lub płatność zbliżeniowa NFC. Wyważanie jest oferowane z montażem i wyceniane przed startem, bez ukrytych opłat.",
+        "Przy więcej niż 2 oponach klienta masz $25 zniżki na geometrię. Wyważanie wyceniamy razem z montażem, bez ukrytych opłat."
       ]
     },
     {
       "heading": "Gdzie odbywa się montaż",
       "paragraphs": [
-        "Stanowisko mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają z Greenacres, Palm Springs i Lake Worth Beach. Te miejscowości są w promieniu 10 mil od warsztatu. Jeśli nie możesz ruszyć auta, a opony są już pod tym adresem, zadzwoń i zapytaj, czy montaż mobilny jest możliwy w promieniu 10 mil. Najpierw potwierdzamy miejsce. Podjazd nie zawsze jest bezpieczny do montażu opon i powiemy to.",
+        "Stanowisko mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają z Greenacres, Palm Springs i Lake Worth Beach. Te miejscowości są w Palm Beach County. Jeśli nie możesz ruszyć auta, a opony są już pod tym adresem, zadzwoń i zapytaj, czy montaż mobilny jest możliwy w Palm Beach County. Najpierw potwierdzamy miejsce. Podjazd nie zawsze jest bezpieczny do montażu opon i powiemy to.",
         "Nadal jest tylko jeden warsztat. Nie szukaj drugiego adresu Los Paisas. Telefon: (561) 429-4041, codziennie do 7:00 PM."
       ],
       "nap": true
@@ -79,7 +80,19 @@
     },
     {
       "question": "Ile trwa montaż opon klienta?",
-      "answer": "Typowy montaż w Los Paisas Tires Shop zajmuje poniżej 45 minut. Czas może się różnić w zależności od liczby opon i ruchu na stanowisku — zadzwoń pod (561) 429-4041, żeby potwierdzić."
+      "answer": "Czasy są orientacyjne i zależą od tego, jak ruchliwy jest warsztat. Komplet opon z geometrią zwykle zajmuje około 2 godzin; łatka lub naprawa przebicia około 15–20 minut; wyważanie około 15–20 minut; sama geometria około 1 godziny. Zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem."
+    },
+    {
+      "question": "Ile trwa typowy montaż opon klienta?",
+      "answer": "Czasy są orientacyjne i zależą od tego, jak ruchliwy jest warsztat. Komplet opon z geometrią zwykle zajmuje około 2 godzin; łatka lub naprawa przebicia około 15–20 minut; wyważanie około 15–20 minut; sama geometria około 1 godziny. Zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem."
+    },
+    {
+      "question": "Czy jest zniżka na geometrię przy własnych oponach?",
+      "answer": "Tak. Przy więcej niż 2 oponach klienta masz $25 zniżki na geometrię w Los Paisas Tires Shop, 1114 S Military Trl. Zadzwoń pod (561) 429-4041."
+    },
+    {
+      "question": "Czy są dodatkowe opłaty za montaż moich opon?",
+      "answer": "Nie. Nie ma dodatkowych opłat. Wyważanie wyceniamy przed startem, bez ukrytych opłat."
     }
   ],
   "moreHeading": "Jeśli potrzebujesz od nas opon",

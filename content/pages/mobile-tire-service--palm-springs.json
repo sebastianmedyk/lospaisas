@@ -5,7 +5,7 @@
   "parentPath": "/en/services/mobile-tire-service",
   "parentLabel": "Mobile tire service",
   "title": "Mobile Tire Service in Palm Springs | Los Paisas Tires",
-  "description": "Mobile tire service in Palm Springs, Florida, within 10 miles of 1114 S Military Trl. Not the California city. Call (561) 429-4041. Open daily 8 AM–7 PM.",
+  "description": "Mobile tire service in Palm Springs, Florida (Palm Beach County). Shop at 1114 S Military Trl, West Palm Beach. Not the California city. Call (561) 429-4041. Open daily 8 AM–7 PM.",
   "h1": "Mobile Tire Service in Palm Springs",
   "eyebrow": "Palm Beach County, not California",
   "serviceName": "Mobile tire service in Palm Springs",
@@ -14,7 +14,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "Mobile tire service in Palm Springs means the Palm Beach County village, the one between Greenacres and Lake Worth Beach, along Congress Avenue and up to Military Trl. It does not mean Palm Springs, California. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. The village is inside the 10-mile area around that shop, and its western edge runs along the east side of Military Trl. Call (561) 429-4041 if the car should not be driven.",
+    "Mobile tire service in Palm Springs means the Palm Beach County village, the one between Greenacres and Lake Worth Beach, along Congress Avenue and up to Military Trl. It does not mean Palm Springs, California. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. The village is in Palm Beach County, and its western edge runs along the east side of Military Trl. Call (561) 429-4041 if the car should not be driven.",
     "Because the village is this close, driving to the bay is often the whole job when the tire still holds air. The van is for the flat that will not make the trip. We do not print a drive time."
   ],
   "sections": [
@@ -35,7 +35,7 @@
       "heading": "Where the village actually is",
       "paragraphs": [
         "The Village of Palm Springs grew a lot through annexation from the late 1990s on. According to the Village, its limits now run from Congress Avenue down to Lake Worth Road, west to Military Trail, north along the east side of Military Trail to Forest Hill Boulevard, and east toward Florida Mango Road. Village Hall is at 226 Cypress Lane. The main commercial corridors are Congress Avenue and Lake Worth Road.",
-        "Because of that history, plenty of people in the village still say 'Lake Worth' or 'West Palm Beach' when they give an address. That is fine. What we need is the street address and the nearest cross street, not the city name. If you are not sure your street is inside the village, the Village has a boundary map on its website, but for us it does not change anything: if it is within 10 miles of the shop and safe to work, we can talk about it."
+        "Because of that history, plenty of people in the village still say 'Lake Worth' or 'West Palm Beach' when they give an address. That is fine. What we need is the street address and the nearest cross street, not the city name. If you are not sure your street is inside the village, the Village has a boundary map on its website, but for us it does not change anything: if it is in Palm Beach County and safe to work, we can talk about it."
       ],
       "bullets": [
         "Give the street address and nearest cross street",
@@ -53,7 +53,7 @@
     {
       "heading": "Asking for the van instead of driving",
       "paragraphs": [
-        "Call with the street, not just 'Palm Springs.' The village is within 10 miles of the shop, which is why mobile service can be requested here. We still need a place we can jack the car without standing in traffic. A busy lane on Congress is a reason to meet at the shop instead.",
+        "Call with the street, not just 'Palm Springs.' The village is in Palm Beach County, which is why mobile service can be requested here. We still need a place we can jack the car without standing in traffic. A busy lane on Congress is a reason to meet at the shop instead.",
         "Same number as the bay: (561) 429-4041. Same hours. The van is not a different company and it does not stay out after 7:00 PM."
       ],
       "nap": true
@@ -67,7 +67,7 @@
     },
     {
       "question": "Is your shop on Congress Avenue?",
-      "answer": "No. The only address is 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs is within 10 miles, so the van can be requested. The bay does not move."
+      "answer": "No. The only address is 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs is in Palm Beach County, so the van can be requested. The bay does not move."
     },
     {
       "question": "Should I drive in or call the van?",
@@ -82,7 +82,7 @@
   "links": [
     {
       "href": "/en/services/mobile-tire-service",
-      "label": "Mobile tire service within 10 miles"
+      "label": "Mobile tire service across Palm Beach County"
     },
     {
       "href": "/en/services/mobile-tire-service/greenacres",
@@ -100,5 +100,6 @@
       "href": "/en/blog/mobile-tire-service-west-palm-beach",
       "label": "How the van visit works"
     }
-  ]
+  ],
+  "updated": "2026-11-09"
 }

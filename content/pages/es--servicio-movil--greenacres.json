@@ -5,7 +5,7 @@
   "parentPath": "/servicios/servicio-movil",
   "parentLabel": "Servicio móvil",
   "title": "Servicio Móvil de Llantas en Greenacres | Los Paisas",
-  "description": "Servicio móvil de llantas en Greenacres, a 10 millas de 1114 S Military Trl. Llama para confirmar la dirección o ven al taller. Abierto 8 AM–7 PM.",
+  "description": "Servicio móvil de llantas en Greenacres, Palm Beach County. Taller en 1114 S Military Trl, West Palm Beach. Llama para confirmar la dirección o ven al taller. Abierto 8 AM–7 PM.",
   "h1": "Servicio Móvil de Llantas en Greenacres",
   "eyebrow": "Un taller, en S Military Trl",
   "serviceName": "Servicio móvil de llantas en Greenacres",
@@ -14,7 +14,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "El servicio móvil de llantas en Greenacres sale de la misma van de Los Paisas Tires Shop. El taller no está en Greenacres. Está en 1114 S Military Trl, West Palm Beach, FL 33415, fuera de los límites de la ciudad. Greenacres cabe dentro de las 10 millas de esa dirección, así que una parada ahí se puede pedir. Llama al (561) 429-4041 y confirmamos la entrada o el lote antes de que la van salga.",
+    "El servicio móvil de llantas en Greenacres sale de la misma van de Los Paisas Tires Shop. El taller no está en Greenacres. Está en 1114 S Military Trl, West Palm Beach, FL 33415, fuera de los límites de la ciudad. Greenacres está en Palm Beach County, así que una parada ahí se puede pedir. Llama al (561) 429-4041 y confirmamos la entrada o el lote antes de que la van salga.",
     "Si la llanta aguanta aire, muchos mandados de Greenacres ya pasan por Military Trl. Venir al local suele ser más simple que una visita móvil, porque las usadas, las nuevas y la alineación están en el taller. No cotizamos minutos."
   ],
   "sections": [
@@ -55,7 +55,7 @@
       "heading": "Manejar hasta 1114 S Military Trl",
       "paragraphs": [
         "El taller está en S Military Trl, en West Palm Beach, no dentro de Greenacres. No busques un segundo letrero de Los Paisas dentro de la ciudad. Si la llanta aguanta aire, ven a 1114 S Military Trl. Ahí te enseñamos la llanta, la balanceamos sin cargos ocultos, o subimos el carro a la alineación si está jalando.",
-        "El servicio móvil no reemplaza eso. Cubre el caso en que el carro debe quedarse en Greenacres. La ciudad está a menos de 10 millas. La dirección se confirma llamada por llamada."
+        "El servicio móvil no reemplaza eso. Cubre el caso en que el carro debe quedarse en Greenacres. La ciudad está en Palm Beach County. La dirección se confirma llamada por llamada."
       ],
       "nap": true
     }
@@ -64,7 +64,7 @@
   "faqs": [
     {
       "question": "¿El taller está en Greenacres?",
-      "answer": "No. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415, cerca de Greenacres. La van puede entrar a la ciudad porque está a menos de 10 millas."
+      "answer": "No. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415, cerca de Greenacres. La van puede entrar a la ciudad porque está en Palm Beach County."
     },
     {
       "question": "¿Publican minutos desde Melaleuca Lane?",
@@ -101,5 +101,6 @@
       "href": "/blog/servicio-movil-llantas-west-palm-beach",
       "label": "Qué decirnos al pedir la van"
     }
-  ]
+  ],
+  "updated": "2026-11-09"
 }

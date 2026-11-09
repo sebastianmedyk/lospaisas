@@ -5,7 +5,7 @@
   "parentPath": "/servicios/servicio-movil",
   "parentLabel": "Servicio móvil",
   "title": "Servicio Móvil de Llantas en Lake Worth Beach | Los Paisas",
-  "description": "Servicio móvil en Lake Worth Beach, a 10 millas de 1114 S Military Trl. Llama y confirmamos la parada. Abierto 8 AM–7 PM. (561) 429-4041.",
+  "description": "Servicio móvil en Lake Worth Beach, Palm Beach County. Taller en 1114 S Military Trl, West Palm Beach. Llama y confirmamos la parada. Abierto 8 AM–7 PM. (561) 429-4041.",
   "h1": "Servicio Móvil de Llantas en Lake Worth Beach",
   "eyebrow": "Al este del taller, una sola dirección",
   "serviceName": "Servicio móvil de llantas en Lake Worth Beach",
@@ -14,7 +14,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "El servicio móvil de llantas en Lake Worth Beach es para un carro que no debe manejar al oeste, hasta el taller. Los Paisas Tires Shop no tiene un local en Lake Worth Beach. La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, la ciudad costera que antes se llamaba Lake Worth, queda al este de ese taller, hacia Dixie Highway y el Intracoastal. Los límites de la ciudad están dentro de las 10 millas, así que puedes pedir la van. Llama al (561) 429-4041 y confirmamos la parada.",
+    "El servicio móvil de llantas en Lake Worth Beach es para un carro que no debe manejar al oeste, hasta el taller. Los Paisas Tires Shop no tiene un local en Lake Worth Beach. La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, la ciudad costera que antes se llamaba Lake Worth, queda al este de ese taller, hacia Dixie Highway y el Intracoastal. Los límites de la ciudad están en Palm Beach County, así que puedes pedir la van. Llama al (561) 429-4041 y confirmamos la parada.",
     "No te vamos a dar minutos desde la playa hasta Military Trl. Si la llanta aguanta aire, manejar al taller es la visita directa. La van es la otra opción, solo en el horario del local."
   ],
   "sections": [
@@ -53,7 +53,7 @@
     {
       "heading": "Cómo confirmamos que la dirección entra",
       "paragraphs": [
-        "Lake Worth Beach, como ciudad, está a menos de 10 millas de 1114 S Military Trl. Por eso existe esta página. No es una promesa sobre cada camino privado, lote de marina o punto donde no podemos trabajar. Danos la dirección. Si entra en el radio y es segura, vamos. Si no es lugar para levantar un carro, te lo decimos.",
+        "Lake Worth Beach, como ciudad, está en Palm Beach County cerca de 1114 S Military Trl. Por eso existe esta página. No es una promesa sobre cada camino privado, lote de marina o punto donde no podemos trabajar. Danos la dirección. Si entra en el radio y es segura, vamos. Si no es lugar para levantar un carro, te lo decimos.",
         "Sigue habiendo un teléfono, (561) 429-4041, y un taller. No busques un local nuestro en Lake Worth Beach."
       ],
       "nap": true
@@ -63,7 +63,7 @@
   "faqs": [
     {
       "question": "¿Son el taller de llantas de Dixie Highway?",
-      "answer": "No. El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach está en el área móvil, a menos de 10 millas. No es una segunda dirección."
+      "answer": "No. El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach está en el área móvil en Palm Beach County. No es una segunda dirección."
     },
     {
       "question": "¿Lake Worth es lo mismo que Lake Worth Beach?",
@@ -82,7 +82,7 @@
   "links": [
     {
       "href": "/servicios/servicio-movil",
-      "label": "Servicio móvil a 10 millas"
+      "label": "Servicio móvil en Palm Beach County"
     },
     {
       "href": "/servicios/servicio-movil/greenacres",
@@ -100,5 +100,6 @@
       "href": "/blog/servicio-movil-llantas-west-palm-beach",
       "label": "Qué necesitamos para agendar la van"
     }
-  ]
+  ],
+  "updated": "2026-11-09"
 }

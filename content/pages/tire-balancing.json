@@ -49,7 +49,7 @@
     {
       "heading": "Hours and how to reach the shop",
       "paragraphs": [
-        "Balancing is a shop job at 1114 S Military Trl. Drivers come from West Palm Beach and from Greenacres, Palm Springs, and Lake Worth Beach, which are inside the 10-mile area. We do not give a drive-time estimate. If you cannot bring the car because of a flat, call about mobile tire service for the tire itself. The balance still belongs on the machine at the shop when that is what the wheel needs.",
+        "Balancing is a shop job at 1114 S Military Trl. Drivers come from West Palm Beach and from Greenacres, Palm Springs, and Lake Worth Beach, which are in Palm Beach County. We do not give a drive-time estimate. If you cannot bring the car because of a flat, call about mobile tire service for the tire itself. The balance still belongs on the machine at the shop when that is what the wheel needs.",
         "Seven days, 8:00 AM to 7:00 PM. Phone and WhatsApp (561) 429-4041. One address, no second counter."
       ],
       "nap": true
@@ -76,6 +76,14 @@
     {
       "question": "How do I pay for balancing?",
       "answer": "Cash, credit card, debit card, or NFC (contactless). The price is quoted before we start."
+    },
+    {
+      "question": "How long does balancing usually take?",
+      "answer": "Balancing usually takes about 15–20 minutes. Times are approximate and depend on how busy the shop is. Call (561) 429-4041."
+    },
+    {
+      "question": "Are there hidden fees on balancing?",
+      "answer": "No. There are no hidden fees and no extra fees. The balance price is stated before the weights go on."
     }
   ],
   "moreHeading": "If balance is only part of the problem",

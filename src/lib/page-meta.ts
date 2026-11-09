@@ -119,7 +119,7 @@ const SERVICES_COPY = {
   es: {
     title: "Servicios de llantas en West Palm Beach",
     description:
-      "Llantas nuevas y usadas, reparación, alineación, balanceo, instalación y servicio móvil a 10 millas de 1114 S Military Trl. Abierto 7 días, 8 AM–7 PM.",
+      "Llantas nuevas y usadas, reparación, alineación, balanceo, instalación y servicio móvil en Palm Beach County, desde 1114 S Military Trl. Abierto 7 días, 8 AM–7 PM.",
     og: "Servicios de llantas | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "Llantas nuevas y usadas, reparación, alineación, balanceo, instalación y servicio móvil en S Military Trl.",
     alt: "Servicios de Los Paisas Tires Shop — S Military Trl, West Palm Beach",
@@ -127,7 +127,7 @@ const SERVICES_COPY = {
   en: {
     title: "Tire Services on S Military Trl, West Palm Beach",
     description:
-      "New and used tires, repair, alignment, balancing, installation and mobile service within 10 miles of 1114 S Military Trl. Open 7 days, 8 AM–7 PM.",
+      "New and used tires, repair, alignment, balancing, installation and mobile service across Palm Beach County from 1114 S Military Trl. Open 7 days, 8 AM–7 PM.",
     og: "Tire Services | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "New tires, used tires, repair, alignment, balancing, install, and mobile service on S Military Trl.",
     alt: "Los Paisas Tires Shop services — S Military Trl, West Palm Beach",
@@ -135,7 +135,7 @@ const SERVICES_COPY = {
   pl: {
     title: "Usługi oponiarskie w West Palm Beach",
     description:
-      "Nowe i używane opony, naprawa, geometria, wyważanie, montaż i serwis mobilny do 10 mil od 1114 S Military Trl. Otwarte 7 dni, 8 AM–7 PM.",
+      "Nowe i używane opony, naprawa, geometria, wyważanie, montaż i serwis mobilny w Palm Beach County — warsztat przy 1114 S Military Trl. Otwarte 7 dni, 8 AM–7 PM.",
     og: "Usługi oponiarskie | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "Nowe i używane opony, naprawa, geometria, wyważanie, montaż i serwis mobilny przy S Military Trl.",
     alt: "Usługi Los Paisas Tires Shop — S Military Trl, West Palm Beach",

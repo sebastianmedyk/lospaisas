@@ -35,7 +35,7 @@
     {
       "heading": "Co robimy z gwoździem albo gumą",
       "paragraphs": [
-        "Jeśli opona trzyma dość powietrza, by bezpiecznie jechać, przyjedź do warsztatu. Jeśli siada do felgi, nie jedź dalej. Krótki dojazd na stanowisko może zniszczyć oponę, którą jeszcze dało się naprawić. Użyj koła zapasowego, jeśli je masz, albo zadzwoń i zapytaj, czy serwis mobilny może do Ciebie przyjechać. Van jeździ tylko w promieniu 10 mil od 1114 S Military Trl, a adres najpierw potwierdzamy.",
+        "Jeśli opona trzyma dość powietrza, by bezpiecznie jechać, przyjedź do warsztatu. Jeśli siada do felgi, nie jedź dalej. Krótki dojazd na stanowisko może zniszczyć oponę, którą jeszcze dało się naprawić. Użyj koła zapasowego, jeśli je masz, albo zadzwoń i zapytaj, czy serwis mobilny może do Ciebie przyjechać. Van jeździ po Palm Beach County z adresu 1114 S Military Trl, a adres najpierw potwierdzamy.",
         "W warsztacie znajdujemy wyciek, decydujemy: naprawa czy wymiana, i montujemy z powrotem. Po naprawie często robimy wyważanie, żeby koło nie drgało, a jego cenę podajemy z góry, bez ukrytych opłat. Jeśli bieżnik jest już zbyt cienki, by warto go ratować, pokażemy używane i nowe opcje podczas tej samej wizyty."
       ]
     },
@@ -49,8 +49,8 @@
     {
       "heading": "Kiedy przyjechać, a kiedy wezwać van",
       "paragraphs": [
-        "Warsztat jest otwarty siedem dni w tygodniu, 8:00 AM do 7:00 PM. Jeden adres: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs i Lake Worth Beach są w promieniu 10 mil, więc wielu kierowców stamtąd po prostu przyjeżdża na stanowisko. Nie wymyślimy czasu dojazdu. Jeśli nie wiesz, czy opona wytrzyma, zadzwoń.",
-        "Naprawa mobilna jest dla auta, które nie powinno się ruszać, w tym samym promieniu 10 mil. To nie obietnica, że każde miejsce parkingowe jest bezpieczne do pracy. Jeśli ulica się nie nadaje, poprosimy Cię o przyjazd do warsztatu."
+        "Warsztat jest otwarty siedem dni w tygodniu, 8:00 AM do 7:00 PM. Jeden adres: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs i Lake Worth Beach są w Palm Beach County blisko warsztatu, więc wielu kierowców stamtąd po prostu przyjeżdża na stanowisko. Nie wymyślimy czasu dojazdu. Jeśli nie wiesz, czy opona wytrzyma, zadzwoń.",
+        "Naprawa mobilna jest dla auta, które nie powinno się ruszać, w Palm Beach County. To nie obietnica, że każde miejsce parkingowe jest bezpieczne do pracy. Jeśli ulica się nie nadaje, poprosimy Cię o przyjazd do warsztatu."
       ],
       "nap": true
     }
@@ -71,11 +71,23 @@
     },
     {
       "question": "Czy muszę się umawiać na naprawę opony?",
-      "answer": "Nie. Walk-in siedem dni, 8:00 AM–7:00 PM, 1114 S Military Trl. Zadzwoń pod (561) 429-4041, jeśli auto nie jedzie i potrzebujesz mobilnego w 10 milach."
+      "answer": "Nie. Walk-in siedem dni, 8:00 AM–7:00 PM, 1114 S Military Trl. Zadzwoń pod (561) 429-4041, jeśli auto nie jedzie i potrzebujesz mobilnego w Palm Beach County."
     },
     {
       "question": "Jak zapłacić za naprawę?",
       "answer": "Gotówką, kartą kredytową, debetową lub płatnością zbliżeniową NFC w warsztacie."
+    },
+    {
+      "question": "Czy trzeba się umawiać na naprawę opony?",
+      "answer": "Nie. Walk-in siedem dni, 8:00 AM–7:00 PM, 1114 S Military Trl. Zadzwoń pod (561) 429-4041, jeśli auto nie jedzie i potrzebujesz mobilnego w Palm Beach County."
+    },
+    {
+      "question": "Ile trwa naprawa przebicia?",
+      "answer": "Łatka lub naprawa przebicia zwykle zajmuje około 15–20 minut. Czasy są orientacyjne i zależą od ruchu w warsztacie. Zadzwoń pod (561) 429-4041."
+    },
+    {
+      "question": "Czy naprawa jest tego samego dnia?",
+      "answer": "Tak. Naprawy opon to usługa tego samego dnia, gdy da się uratować oponę — chodzi o tempo pracy, a nie osobną gwarancję. Zadzwoń pod (561) 429-4041."
     }
   ],
   "moreHeading": "Jeśli opony nie da się uratować",
@@ -90,7 +102,7 @@
     },
     {
       "href": "/pl/uslugi/mobilny-serwis-opon",
-      "label": "Mobilny serwis opon w promieniu 10 mil"
+      "label": "Mobilny serwis opon w Palm Beach County"
     },
     {
       "href": "/pl/blog/naprawa-i-wulkanizacja-opon-west-palm-beach",

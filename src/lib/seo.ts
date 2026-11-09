@@ -55,9 +55,9 @@ export const SERVICE_OFFERS = [
     url: "/en/services/tire-installation",
   },
   {
-    name: "Mobile Tire Service Within 10 Miles",
+    name: "Mobile Tire Service Across Palm Beach County",
     description:
-      "Mobile tire service within 10 miles of 1114 S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
+      "Mobile tire service across Palm Beach County from 1114 S Military Trl, covering West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach, and nearby.",
     url: "/en/services/mobile-tire-service",
   },
 ] as const;
@@ -152,7 +152,7 @@ export function localBusinessJsonLd() {
     "@id": `${SITE_URL}/#business`,
     name: BUSINESS.name,
     description:
-      "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, and mobile service within 10 miles. Typical tire swap under 45 minutes. Financing through Snap (credit decision about 15 minutes). Cash, credit, debit, and NFC accepted. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call (561) 429-4041.",
+      "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 — new & used tires, alignment, balancing with no hidden fees, tire repair & vulcanization, customer tire install, air (tire inflation), rim cleaning, and mobile service across Palm Beach County. Approximate job times depend on how busy the shop is. Financing through Snap (online form, credit decision about 15 minutes). Cash, credit, debit, and NFC accepted. Walk-ins welcome. Open 7 days, 8:00 AM–7:00 PM including Sunday. Call (561) 429-4041.",
     logo: absoluteUrl(LOGO_PATH),
     image: [
       ...SHOP_PHOTOS.map((p) => absoluteUrl(p)),
@@ -187,13 +187,8 @@ export function localBusinessJsonLd() {
         name,
       })),
       {
-        "@type": "GeoCircle",
-        geoMidpoint: {
-          "@type": "GeoCoordinates",
-          latitude: GEO.latitude,
-          longitude: GEO.longitude,
-        },
-        geoRadius: "16093",
+        "@type": "AdministrativeArea",
+        name: "Palm Beach County",
       },
     ],
     hasMap: BUSINESS.mapsPlaceUrl,
@@ -356,14 +351,14 @@ export function flatTireSundayHowToJsonLd() {
         "@type": "HowToStep",
         position: 1,
         name: "Call or WhatsApp the shop",
-        text: "Call or WhatsApp Los Paisas Tires Shop at (561) 429-4041. Confirm you need tire repair, vulcanization, a new or used tire, or an install — and whether you can drive in or need mobile service within 10 miles.",
+        text: "Call or WhatsApp Los Paisas Tires Shop at (561) 429-4041. Confirm you need tire repair, vulcanization, a new or used tire, or an install — and whether you can drive in or need mobile service across Palm Beach County.",
         url: absoluteUrl("/en/contact"),
       },
       {
         "@type": "HowToStep",
         position: 2,
         name: "Come in or request mobile service",
-        text: "Drive to 1114 S Military Trl, West Palm Beach, FL 33415 if the vehicle is safe to move. If not, ask about mobile tire service within 10 miles of the shop covering West Palm Beach and nearby Palm Beach County cities.",
+        text: "Drive to 1114 S Military Trl, West Palm Beach, FL 33415 if the vehicle is safe to move. If not, ask about mobile tire service across Palm Beach County, covering West Palm Beach and nearby cities.",
         url: absoluteUrl("/en/location"),
       },
       {

@@ -5,7 +5,7 @@
   "parentPath": "/servicios/servicio-movil",
   "parentLabel": "Servicio móvil",
   "title": "Servicio Móvil de Llantas en Palm Springs | Los Paisas",
-  "description": "Servicio móvil en Palm Springs, Florida, a 10 millas de 1114 S Military Trl. No es California. Llama al (561) 429-4041. Abierto 8 AM–7 PM.",
+  "description": "Servicio móvil en Palm Springs, Florida (Palm Beach County). Taller en 1114 S Military Trl, West Palm Beach. No es California. Llama al (561) 429-4041. Abierto 8 AM–7 PM.",
   "h1": "Servicio Móvil de Llantas en Palm Springs",
   "eyebrow": "Palm Beach County, no California",
   "serviceName": "Servicio móvil de llantas en Palm Springs",
@@ -14,7 +14,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "El servicio móvil de llantas en Palm Springs es el pueblo de Palm Beach County, el que queda entre Greenacres y Lake Worth Beach, por Congress Avenue y hasta Military Trl. No es Palm Springs, California. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. El pueblo está dentro de las 10 millas de ese taller, y una parte queda sobre este mismo corredor de Military Trl. Llama al (561) 429-4041 si el carro no debe rodar.",
+    "El servicio móvil de llantas en Palm Springs es el pueblo de Palm Beach County, el que queda entre Greenacres y Lake Worth Beach, por Congress Avenue y hasta Military Trl. No es Palm Springs, California. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. El pueblo está en Palm Beach County, y una parte queda sobre este mismo corredor de Military Trl. Llama al (561) 429-4041 si el carro no debe rodar.",
     "Como el pueblo está tan cerca, manejar al local suele ser todo el trabajo cuando la llanta todavía tiene aire. La van es para la ponchadura que no va a llegar. No imprimimos un tiempo de camino."
   ],
   "sections": [
@@ -35,7 +35,7 @@
       "heading": "Dónde queda realmente el pueblo",
       "paragraphs": [
         "El Village of Palm Springs creció mucho por anexiones desde finales de los años 90. Según el propio Village, sus límites hoy van de Congress Avenue hasta Lake Worth Road, al oeste hasta Military Trail, al norte por el lado este de Military Trail hasta Forest Hill Boulevard y al este hacia Florida Mango Road. La alcaldía (Village Hall) está en 226 Cypress Lane. Los corredores comerciales principales son Congress Avenue y Lake Worth Road.",
-        "Por esa historia, mucha gente del pueblo todavía dice 'Lake Worth' o 'West Palm Beach' al dar su dirección. No hay problema. Lo que necesitamos es la dirección y la calle que cruza más cercana, no el nombre de la ciudad. Si no sabes si tu calle está dentro del pueblo, el Village tiene un mapa de límites en su sitio web, pero para nosotros no cambia nada: si está a 10 millas del taller y es seguro trabajar, lo hablamos."
+        "Por esa historia, mucha gente del pueblo todavía dice 'Lake Worth' o 'West Palm Beach' al dar su dirección. No hay problema. Lo que necesitamos es la dirección y la calle que cruza más cercana, no el nombre de la ciudad. Si no sabes si tu calle está dentro del pueblo, el Village tiene un mapa de límites en su sitio web, pero para nosotros no cambia nada: si está en Palm Beach County y es seguro trabajar, lo hablamos."
       ],
       "bullets": [
         "Danos la dirección y la calle que cruza más cercana",
@@ -53,7 +53,7 @@
     {
       "heading": "Pedir la van en vez de manejar",
       "paragraphs": [
-        "Llama con la calle, no solo con 'Palm Springs'. El pueblo está a menos de 10 millas del taller, por eso aquí se puede pedir el servicio móvil. Igual necesitamos un lugar donde levantar el carro sin quedarnos en el tráfico. Un carril ocupado de Congress es motivo para vernos en el taller.",
+        "Llama con la calle, no solo con 'Palm Springs'. El pueblo está en Palm Beach County, por eso aquí se puede pedir el servicio móvil. Igual necesitamos un lugar donde levantar el carro sin quedarnos en el tráfico. Un carril ocupado de Congress es motivo para vernos en el taller.",
         "El mismo número del local: (561) 429-4041. El mismo horario. La van no es otra empresa y no se queda después de las 7:00 PM."
       ],
       "nap": true
@@ -67,7 +67,7 @@
     },
     {
       "question": "¿El taller está en Congress Avenue?",
-      "answer": "No. La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs está a menos de 10 millas, así que se puede pedir la van. El local no se mueve."
+      "answer": "No. La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs está en Palm Beach County, así que se puede pedir la van. El local no se mueve."
     },
     {
       "question": "¿Manejo al taller o llamo a la van?",
@@ -82,7 +82,7 @@
   "links": [
     {
       "href": "/servicios/servicio-movil",
-      "label": "Servicio móvil a 10 millas"
+      "label": "Servicio móvil en Palm Beach County"
     },
     {
       "href": "/servicios/servicio-movil/greenacres",
@@ -100,5 +100,6 @@
       "href": "/blog/servicio-movil-llantas-west-palm-beach",
       "label": "Cómo es la visita de la van"
     }
-  ]
+  ],
+  "updated": "2026-11-09"
 }

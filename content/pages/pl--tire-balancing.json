@@ -49,7 +49,7 @@
     {
       "heading": "Godziny otwarcia i dojazd",
       "paragraphs": [
-        "Wyważanie robimy w warsztacie pod 1114 S Military Trl. Kierowcy przyjeżdżają z West Palm Beach oraz z Greenacres, Palm Springs i Lake Worth Beach, które są w promieniu 10 mil. Nie podajemy szacowanego czasu dojazdu. Jeśli nie możesz przyjechać przez gumę, zadzwoń w sprawie mobilnego serwisu opon dla samej opony. Wyważanie i tak robi się na maszynie w warsztacie, gdy koło tego potrzebuje.",
+        "Wyważanie robimy w warsztacie pod 1114 S Military Trl. Kierowcy przyjeżdżają z West Palm Beach oraz z Greenacres, Palm Springs i Lake Worth Beach, które są w Palm Beach County. Nie podajemy szacowanego czasu dojazdu. Jeśli nie możesz przyjechać przez gumę, zadzwoń w sprawie mobilnego serwisu opon dla samej opony. Wyważanie i tak robi się na maszynie w warsztacie, gdy koło tego potrzebuje.",
         "Siedem dni w tygodniu, 8:00 AM do 7:00 PM. Telefon i WhatsApp: (561) 429-4041. Jeden adres, bez drugiej lady."
       ],
       "nap": true
@@ -76,6 +76,14 @@
     {
       "question": "Jak zapłacić za wyważanie?",
       "answer": "Gotówką, kartą kredytową, debetową lub płatnością zbliżeniową NFC. Cena przed startem."
+    },
+    {
+      "question": "Ile trwa wyważanie?",
+      "answer": "Wyważanie zwykle zajmuje około 15–20 minut. Czasy są orientacyjne i zależą od ruchu w warsztacie. Zadzwoń pod (561) 429-4041."
+    },
+    {
+      "question": "Czy przy wyważaniu są ukryte opłaty?",
+      "answer": "Nie. Nie ma ukrytych ani dodatkowych opłat. Cenę wyważania podajemy zanim założymy ciężarki."
     }
   ],
   "moreHeading": "Jeśli wyważenie to tylko część problemu",

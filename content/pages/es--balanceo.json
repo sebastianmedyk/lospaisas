@@ -49,7 +49,7 @@
     {
       "heading": "Horario y cómo llegar al taller",
       "paragraphs": [
-        "El balanceo es trabajo de taller en 1114 S Military Trl. Llega gente de West Palm Beach y de Greenacres, Palm Springs y Lake Worth Beach, que están dentro de las 10 millas. No damos un estimado de minutos. Si no puedes traer el carro por una ponchadura, llama por el servicio móvil para la llanta. El balanceo que necesita la máquina se queda en el taller.",
+        "El balanceo es trabajo de taller en 1114 S Military Trl. Llega gente de West Palm Beach y de Greenacres, Palm Springs y Lake Worth Beach, que están en Palm Beach County. No damos un estimado de minutos. Si no puedes traer el carro por una ponchadura, llama por el servicio móvil para la llanta. El balanceo que necesita la máquina se queda en el taller.",
         "Siete días, de 8:00 AM a 7:00 PM. Teléfono y WhatsApp (561) 429-4041. Una dirección, un solo mostrador."
       ],
       "nap": true
@@ -76,6 +76,14 @@
     {
       "question": "¿Cómo pago el balanceo?",
       "answer": "Efectivo, tarjeta de crédito, débito o NFC (contactless). El precio se cotiza antes de empezar."
+    },
+    {
+      "question": "¿Cuánto tarda el balanceo?",
+      "answer": "El balanceo suele tomar unos 15–20 minutos. Los tiempos son aproximados y dependen de cuánta gente haya. Llama al (561) 429-4041."
+    },
+    {
+      "question": "¿Hay cargos ocultos en el balanceo?",
+      "answer": "No. No hay cargos ocultos ni extras. El precio del balanceo se dice antes de poner los pesos."
     }
   ],
   "moreHeading": "Si el balanceo es solo una parte",

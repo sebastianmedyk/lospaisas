@@ -36,20 +36,22 @@
       "heading": "Qué traer a la instalación",
       "paragraphs": [
         "Trae las llantas, y el carro si van a quedar puestas hoy. Si vienen sueltas en una troca, igual necesitamos el vehículo antes de terminar la instalación. Sabé la medida del costado, o déjanos leerla. Si la de repuesto también está mala, dilo. Un juego nuevo con la de repuesto muerta es un problema típico de domingo.",
-        "No tienes que traer plomos ni válvulas de tarea. Dinos si la luz de los sensores de presión ya está encendida, para no sorprendernos al despegar el talón. No prometemos en esta página un arreglo de sensor que no describimos. Te decimos lo que vemos."
+        "No tienes que traer plomos ni válvulas de tarea. Dinos si la luz de los sensores de presión ya está encendida, para no sorprendernos al despegar el talón. No prometemos en esta página un arreglo de sensor que no describimos. Te decimos lo que vemos.",
+        "Si traes más de 2 llantas del cliente, tienes $25 de descuento en la alineación. El balanceo se cotiza con el montaje, sin cargos ocultos."
       ]
     },
     {
       "heading": "Llega sin cita con llantas que ya compraste",
       "paragraphs": [
         "Puedes llegar sin cita. Trae las llantas y el carro a 1114 S Military Trl cualquier día, de 8:00 AM a 7:00 PM. Llamar al (561) 429-4041 primero con la medida y cuántas llantas traes ayuda a planear el bay.",
-        "El pago es efectivo, crédito, débito o NFC (contactless). El balanceo se ofrece con el montaje y se cotiza antes de empezar, sin cargos ocultos."
+        "El pago es efectivo, crédito, débito o NFC (contactless). El balanceo se ofrece con el montaje y se cotiza antes de empezar, sin cargos ocultos.",
+        "Si traes más de 2 llantas del cliente, tienes $25 de descuento en la alineación. El balanceo se cotiza con el montaje, sin cargos ocultos."
       ]
     },
     {
       "heading": "Dónde se hace la instalación",
       "paragraphs": [
-        "El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Esos pueblos están a menos de 10 millas. Si no puedes mover el carro y las llantas ya están en esa dirección, llama y pregunta si un montaje móvil cabe dentro de las 10 millas. Confirmamos el lugar primero. Una entrada de casa no siempre es un sitio seguro para montar, y te lo decimos.",
+        "El taller está en 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Esos pueblos están en Palm Beach County. Si no puedes mover el carro y las llantas ya están en esa dirección, llama y pregunta si un montaje móvil cabe en Palm Beach County. Confirmamos el lugar primero. Una entrada de casa no siempre es un sitio seguro para montar, y te lo decimos.",
         "Sigue habiendo un solo taller. No busques una segunda dirección de Los Paisas. Teléfono (561) 429-4041, todos los días hasta las 7:00 PM."
       ],
       "nap": true
@@ -79,7 +81,19 @@
     },
     {
       "question": "¿Cuánto tarda la instalación de llantas del cliente?",
-      "answer": "Una instalación típica en Los Paisas Tires Shop toma menos de 45 minutos. El tiempo puede variar según cuántas llantas sean y cuánta gente haya — llama al (561) 429-4041 para confirmar."
+      "answer": "Los tiempos son aproximados y dependen de cuánta gente haya en el taller. Un juego completo con alineación suele tomar unas 2 horas; un plug o reparación de ponchadura unos 15–20 minutos; el balanceo unos 15–20 minutos; la alineación sola alrededor de 1 hora. Llama al (561) 429-4041 si quieres confirmar antes de venir."
+    },
+    {
+      "question": "¿Cuánto tarda una instalación típica?",
+      "answer": "Los tiempos son aproximados y dependen de cuánta gente haya en el taller. Un juego completo con alineación suele tomar unas 2 horas; un plug o reparación de ponchadura unos 15–20 minutos; el balanceo unos 15–20 minutos; la alineación sola alrededor de 1 hora. Llama al (561) 429-4041 si quieres confirmar antes de venir."
+    },
+    {
+      "question": "¿Hay descuento en la alineación si traigo mis llantas?",
+      "answer": "Sí. Si traes más de 2 llantas del cliente, tienes $25 de descuento en la alineación en Los Paisas Tires Shop, 1114 S Military Trl. Llama al (561) 429-4041."
+    },
+    {
+      "question": "¿Hay cargos extras por instalar mis llantas?",
+      "answer": "No. No hay cargos extras. El balanceo se cotiza antes de empezar, sin cargos ocultos."
     }
   ],
   "moreHeading": "Si todavía necesitas llantas nuestras",

@@ -35,7 +35,7 @@
     {
       "heading": "Qué hacemos con un clavo o una ponchadura",
       "paragraphs": [
-        "Si la llanta todavía aguanta aire para llegar con cuidado, ven al taller. Si ya va en el rin, no la sigas rodando. Un tramo corto así puede acabar una llanta que aún se podía reparar. Usa la de repuesto si la tienes, o llama y pregunta si la van puede encontrarte. Solo sale a 10 millas de 1114 S Military Trl, y confirmamos la dirección primero.",
+        "Si la llanta todavía aguanta aire para llegar con cuidado, ven al taller. Si ya va en el rin, no la sigas rodando. Un tramo corto así puede acabar una llanta que aún se podía reparar. Usa la de repuesto si la tienes, o llama y pregunta si la van puede encontrarte. Atiende Palm Beach County desde 1114 S Military Trl, y confirmamos la dirección primero.",
         "En el taller encontramos la fuga, decidimos reparar o cambiar, y volvemos a montar. Después es común balancear para que la rueda reparada no vibre, y ese precio se dice antes, sin cargos ocultos. Si el piso ya está demasiado bajo para salvarla, te enseñamos usadas y nuevas en la misma visita."
       ]
     },
@@ -49,8 +49,8 @@
     {
       "heading": "Cuándo venir y cuándo pedir la van",
       "paragraphs": [
-        "El taller abre siete días, de 8:00 AM a 7:00 PM. Una dirección: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs y Lake Worth Beach están dentro de las 10 millas, así que mucha gente simplemente llega al local. No inventamos un tiempo de camino. Si no estás seguro de que la llanta aguante, llama.",
-        "La reparación móvil es para un carro que debe quedarse quieto, dentro de ese mismo radio de 10 millas. No prometemos que cualquier estacionamiento sea un lugar seguro para trabajar. Si la calle no sirve, te pedimos que vengas al taller."
+        "El taller abre siete días, de 8:00 AM a 7:00 PM. Una dirección: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs y Lake Worth Beach están en Palm Beach County cerca del taller, así que mucha gente simplemente llega al local. No inventamos un tiempo de camino. Si no estás seguro de que la llanta aguante, llama.",
+        "La reparación móvil es para un carro que debe quedarse quieto, en Palm Beach County. No prometemos que cualquier estacionamiento sea un lugar seguro para trabajar. Si la calle no sirve, te pedimos que vengas al taller."
       ],
       "nap": true
     }
@@ -71,11 +71,19 @@
     },
     {
       "question": "¿Necesito cita para una reparación?",
-      "answer": "No. Puedes llegar sin cita los siete días, de 8:00 AM a 7:00 PM, a 1114 S Military Trl. Llama al (561) 429-4041 si el carro no rueda y necesitas móvil dentro de 10 millas."
+      "answer": "No. Puedes llegar sin cita los siete días, de 8:00 AM a 7:00 PM, a 1114 S Military Trl. Llama al (561) 429-4041 si el carro no rueda y necesitas móvil en Palm Beach County."
     },
     {
       "question": "¿Cómo pago una reparación?",
       "answer": "Efectivo, tarjeta de crédito, débito o NFC (contactless) en el taller."
+    },
+    {
+      "question": "¿Cuánto tarda reparar una ponchadura?",
+      "answer": "Un plug o reparación de ponchadura suele tomar unos 15–20 minutos. Los tiempos son aproximados y dependen de cuánta gente haya. Llama al (561) 429-4041."
+    },
+    {
+      "question": "¿La reparación es el mismo día?",
+      "answer": "Sí. Las reparaciones son servicio el mismo día cuando se puede salvar la llanta — eso es la rapidez del trabajo, no una garantía aparte. Llama al (561) 429-4041."
     }
   ],
   "moreHeading": "Si la llanta no se puede salvar",
@@ -90,7 +98,7 @@
     },
     {
       "href": "/servicios/servicio-movil",
-      "label": "Servicio móvil a 10 millas"
+      "label": "Servicio móvil en Palm Beach County"
     },
     {
       "href": "/blog/reparacion-vulcanizacion-llantas-west-palm-beach",

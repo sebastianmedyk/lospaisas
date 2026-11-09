@@ -5,7 +5,7 @@
   "parentPath": "/pl/uslugi/mobilny-serwis-opon",
   "parentLabel": "Mobilny serwis opon",
   "title": "Mobilny serwis opon w Greenacres | Los Paisas Tires",
-  "description": "Mobilny serwis opon w Greenacres, do 10 mil od 1114 S Military Trl. Zadzwoń, by potwierdzić adres. Otwarte codziennie 8 AM–7 PM. (561) 429-4041.",
+  "description": "Mobilny serwis opon w Greenacres, Palm Beach County. Warsztat przy 1114 S Military Trl, West Palm Beach. Zadzwoń, by potwierdzić adres. Otwarte codziennie 8 AM–7 PM. (561) 429-4041.",
   "h1": "Mobilny serwis opon w Greenacres",
   "eyebrow": "Jeden warsztat, przy S Military Trl",
   "serviceName": "Mobilny serwis opon w Greenacres",
@@ -14,7 +14,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "Mobilny serwis opon w Greenacres to ten sam van co w całym Los Paisas Tires Shop. Warsztat nie jest w Greenacres. Mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415, poza granicami Greenacres. Samo Greenacres leży w promieniu 10 mil od tego adresu, więc możesz poprosić o przyjazd do Greenacres. Zadzwoń pod (561) 429-4041, a potwierdzimy konkretny podjazd lub parking, zanim van wyjedzie.",
+    "Mobilny serwis opon w Greenacres to ten sam van co w całym Los Paisas Tires Shop. Warsztat nie jest w Greenacres. Mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415, poza granicami Greenacres. Samo Greenacres leży w Palm Beach County, więc możesz poprosić o przyjazd do Greenacres. Zadzwoń pod (561) 429-4041, a potwierdzimy konkretny podjazd lub parking, zanim van wyjedzie.",
     "Jeśli opona trzyma powietrze, wiele spraw w Greenacres i tak prowadzi przez Military Trl. Przyjazd na stanowisko jest często prostszy niż wizyta mobilna, bo używane opony, nowe opony i stanowisko do geometrii są w warsztacie. Nie podajemy minut. Ruch bywa różny."
   ],
   "sections": [
@@ -55,7 +55,7 @@
       "heading": "Przyjazd pod 1114 S Military Trl",
       "paragraphs": [
         "Warsztat stoi przy S Military Trl w West Palm Beach, a nie w Greenacres. Nie szukaj drugiego szyldu Los Paisas w mieście. Gdy opona trzyma powietrze, przyjedź pod 1114 S Military Trl. Tam możemy pokazać Ci oponę, wyważyć ją bez ukrytych opłat albo ustawić geometrię, jeśli auto ściąga.",
-        "Serwis mobilny tego nie zastępuje. Obejmuje sytuację, w której auto powinno zostać w Greenacres. Miasto jest w promieniu 10 mil. Adres i tak potwierdzamy przy każdym telefonie."
+        "Serwis mobilny tego nie zastępuje. Obejmuje sytuację, w której auto powinno zostać w Greenacres. Miasto jest w Palm Beach County. Adres i tak potwierdzamy przy każdym telefonie."
       ],
       "nap": true
     }
@@ -64,7 +64,7 @@
   "faqs": [
     {
       "question": "Czy warsztat jest w Greenacres?",
-      "answer": "Nie. Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415, obok Greenacres. Van może przyjechać do Greenacres, bo miasto jest w promieniu 10 mil."
+      "answer": "Nie. Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415, obok Greenacres. Van może przyjechać do Greenacres, bo miasto jest w Palm Beach County."
     },
     {
       "question": "Czy podajecie czas dojazdu z Melaleuca Lane?",
@@ -101,5 +101,6 @@
       "href": "/pl/blog/mobilny-serwis-opon-west-palm-beach",
       "label": "Co powiedzieć przy zamawianiu vana"
     }
-  ]
+  ],
+  "updated": "2026-11-09"
 }

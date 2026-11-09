@@ -16,7 +16,7 @@
   ],
   "intro": [
     "Las llantas nuevas en West Palm Beach empiezan con el carro enfrente, no con un lema. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. Vendemos nuevas y usadas, y te decimos cuándo una nueva es la compra correcta y cuándo una usada revisada alcanza.",
-    "Las llantas nuevas Cosmo cuestan desde $120 por llanta, de R15 a R18, incluyendo dos medidas LT y una C. La tabla completa de medidas y precios está en esta página, y el precio del catálogo incluye alineación y balanceo. Precios sujetos a cambio sin previo aviso: llama o escribe por WhatsApp al (561) 429-4041, de 8:00 AM a 7:00 PM todos los días, para confirmar que tu medida está disponible antes de venir. ¿Vienes desde Greenacres, Palm Springs o Lake Worth Beach? Esas zonas quedan a 10 millas o menos de este único taller en Military Trail."
+    "Las llantas nuevas Cosmo cuestan desde $120 por llanta, de R15 a R18, incluyendo dos medidas LT y una C. La tabla completa de medidas y precios está en esta página, y el precio del catálogo incluye alineación y balanceo. Si no tenemos tu medida, la podemos pedir. No hay cargos extras. Al comprar 4 llantas nuevas, la alineación es gratis. Precios sujetos a cambio sin previo aviso: llama o escribe por WhatsApp al (561) 429-4041, de 8:00 AM a 7:00 PM todos los días, para confirmar tu medida antes de venir. ¿Vienes desde Greenacres, Palm Springs o Lake Worth Beach? Esas zonas están en Palm Beach County, cerca de este único taller en Military Trail."
   ],
   "sections": [
     {
@@ -55,7 +55,7 @@
     {
       "heading": "El taller en S Military Trl",
       "paragraphs": [
-        "La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Los tres están dentro de las 10 millas del taller. Ven al local cuando el carro pueda rodar. Si una llanta ya está ponchada y no debes manejar, llama y pregunta por la van, que se queda dentro de esas 10 millas y no es otra dirección.",
+        "La única dirección es 1114 S Military Trl, West Palm Beach, FL 33415. Llega gente de Greenacres, Palm Springs y Lake Worth Beach. Los tres están en Palm Beach County cerca del taller. Ven al local cuando el carro pueda rodar. Si una llanta ya está ponchada y no debes manejar, llama y pregunta por la van, que atiende Palm Beach County y no es otra dirección.",
         "Somos un taller de llantas. El trabajo de esta página es llantas nuevas, montadas aquí. La alineación y el balanceo vienen incluidos con las llantas nuevas del catálogo; si solo necesitas alineación o balanceo en las llantas que ya tienes, es otro servicio y se cotiza en su propia página."
       ],
       "nap": true
@@ -97,11 +97,27 @@
     },
     {
       "question": "¿Ofrecen financiamiento para llantas?",
-      "answer": "Sí. Los Paisas Tires Shop ofrece financiamiento a través de Snap. La decisión de crédito suele llegar en unos 15 minutos. Pregunta en el mostrador en 1114 S Military Trl, West Palm Beach, o llama al (561) 429-4041."
+      "answer": "Sí. Los Paisas Tires Shop ofrece financiamiento a través de Snap. Llenas un formulario en línea y la decisión de crédito suele llegar en unos 15 minutos. Pregunta en el mostrador en 1114 S Military Trl, West Palm Beach, o llama al (561) 429-4041."
     },
     {
       "question": "¿Cuánto tarda un cambio de llantas típico?",
-      "answer": "Un cambio o montaje típico de llantas en Los Paisas Tires Shop toma menos de 45 minutos. El tiempo exacto depende del trabajo y de cuánta gente haya — llama al (561) 429-4041 si quieres confirmar antes de venir."
+      "answer": "Los tiempos son aproximados y dependen de cuánta gente haya en el taller. Un juego completo con alineación suele tomar unas 2 horas; un plug o reparación de ponchadura unos 15–20 minutos; el balanceo unos 15–20 minutos; la alineación sola alrededor de 1 hora. Llama al (561) 429-4041 si quieres confirmar antes de venir."
+    },
+    {
+      "question": "¿Qué garantía tienen las llantas nuevas?",
+      "answer": "Las llantas nuevas tienen garantía de 4 meses o 4,000 millas, lo que ocurra primero. Llama al (561) 429-4041."
+    },
+    {
+      "question": "¿La alineación es gratis al comprar 4 llantas nuevas?",
+      "answer": "Sí. Al comprar 4 llantas nuevas, la alineación es gratis. Las Cosmo del catálogo también incluyen alineación en el precio listado."
+    },
+    {
+      "question": "¿Pueden pedir una medida que no tienen?",
+      "answer": "Sí. Si no tenemos tu medida en stock, la podemos pedir. Las Cosmo nuevas empiezan en $120 con montaje y balanceo."
+    },
+    {
+      "question": "¿Hay cargos extras?",
+      "answer": "No. No hay cargos extras ni ocultos. El montaje y el balanceo van incluidos al comprar una llanta; el precio de catálogo Cosmo también incluye alineación."
     }
   ],
   "moreHeading": "Trabajo que cabe en la misma visita",

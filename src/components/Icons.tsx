@@ -130,7 +130,7 @@ export function WrenchIcon(props: IconProps) {
 export function TruckIcon(props: IconProps) {
   return (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden {...props}>
-      {/* Service van with tire mark — Mobile Within 10 Miles */}
+      {/* Service van with tire mark — Mobile Across Palm Beach County */}
       <path
         d="M2 15.5V7.5A1.5 1.5 0 0 1 3.5 6H14v9.5H2z"
         strokeLinecap="round"

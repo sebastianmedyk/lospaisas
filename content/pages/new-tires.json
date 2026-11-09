@@ -16,7 +16,7 @@
   ],
   "intro": [
     "New tires in West Palm Beach start with the car in front of us, not with a slogan. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. We sell new tires and used tires, and we will tell you when a new tire is the right buy and when a checked used tire is enough.",
-    "New Cosmo tires start at $120 per tire, R15 to R18, including two LT sizes and one C size. The full size and price table is on this page, and the catalog price includes alignment and balancing. Prices are subject to change without notice, so call or WhatsApp (561) 429-4041, any day from 8:00 AM to 7:00 PM, to confirm your size is in stock before you come. Driving in from Greenacres, Palm Springs, or Lake Worth Beach? Those areas are within 10 miles of this one shop on Military Trail."
+    "New Cosmo tires start at $120 per tire, R15 to R18, including two LT sizes and one C size. The full size and price table is on this page, and the catalog price includes alignment and balancing. If we do not have your size in stock, we can order it. There are no extra fees. Buy 4 new tires and alignment is free. Prices are subject to change without notice, so call or WhatsApp (561) 429-4041, any day from 8:00 AM to 7:00 PM, to confirm your size before you come. Driving in from Greenacres, Palm Springs, or Lake Worth Beach? Those areas are in Palm Beach County near this shop on Military Trail."
   ],
   "sections": [
     {
@@ -55,7 +55,7 @@
     {
       "heading": "The shop on S Military Trl",
       "paragraphs": [
-        "The only address is 1114 S Military Trl, West Palm Beach, FL 33415. People drive here from Greenacres, Palm Springs, and Lake Worth Beach. All three are inside the 10-mile area around the shop. Come to the bay when the car can roll. If a tire is already flat and you should not drive, call and ask about the mobile van, which stays within those 10 miles and is not a second address.",
+        "The only address is 1114 S Military Trl, West Palm Beach, FL 33415. People drive here from Greenacres, Palm Springs, and Lake Worth Beach. All three are in Palm Beach County near the shop. Come to the bay when the car can roll. If a tire is already flat and you should not drive, call and ask about the mobile van, which serves Palm Beach County and is not a second address.",
         "We are a tire shop. The work on this page is new tires, mounted here. Alignment and balancing are included with the listed catalog new tires; if you only need an alignment or balancing on tires you already have, that is a separate service, quoted on its own page."
       ],
       "nap": true
@@ -97,11 +97,27 @@
     },
     {
       "question": "Do you offer tire financing?",
-      "answer": "Yes. Los Paisas Tires Shop offers financing through Snap. The credit decision usually takes about 15 minutes. Ask at the counter at 1114 S Military Trl, West Palm Beach, or call (561) 429-4041."
+      "answer": "Yes. Los Paisas Tires Shop offers financing through Snap. You fill out an online form, and the credit decision usually takes about 15 minutes. Ask at the counter at 1114 S Military Trl, West Palm Beach, or call (561) 429-4041."
     },
     {
       "question": "How long does a typical tire change take?",
-      "answer": "A typical tire swap or install at Los Paisas Tires Shop takes under 45 minutes. Exact time depends on the job and how busy the bay is — call (561) 429-4041 if you want to check before you come."
+      "answer": "Times are approximate and depend on how busy the shop is. A full set of tires with alignment usually takes about 2 hours; a plug or puncture repair about 15–20 minutes; balancing about 15–20 minutes; alignment alone about 1 hour. Call (561) 429-4041 if you want to check before you come."
+    },
+    {
+      "question": "What warranty do new tires have?",
+      "answer": "New tires come with a warranty of 4 months or 4,000 miles, whichever comes first. Call (561) 429-4041 with questions."
+    },
+    {
+      "question": "Is alignment free when I buy 4 new tires?",
+      "answer": "Yes. Buy 4 new tires and alignment is free. Cosmo catalog tires also include alignment in the listed price."
+    },
+    {
+      "question": "Can you order a size you do not have?",
+      "answer": "Yes. If we do not have your size in stock, we can order it. New Cosmo tires start at $120 including mounting and balancing."
+    },
+    {
+      "question": "Are there extra fees?",
+      "answer": "No. There are no extra fees and no hidden fees. Mounting and balancing are included when you buy a tire; Cosmo catalog prices also include alignment."
     }
   ],
   "moreHeading": "Related work on the same visit",

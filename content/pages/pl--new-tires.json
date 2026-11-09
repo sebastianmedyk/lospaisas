@@ -16,7 +16,7 @@
   ],
   "intro": [
     "Nowe opony w West Palm Beach zaczynają się od auta, które mamy przed sobą, a nie od sloganu. Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Sprzedajemy nowe i używane opony i powiemy Ci, kiedy nowa opona to właściwy zakup, a kiedy wystarczy sprawdzona używana.",
-    "Nowe opony Cosmo kosztują od $120 za sztukę, od R15 do R18, w tym dwa rozmiary LT i jeden C. Pełna tabela rozmiarów i cen jest na tej stronie, a cena z katalogu obejmuje geometrię i wyważanie. Ceny mogą się zmienić bez uprzedzenia, więc zadzwoń lub napisz na WhatsApp (561) 429-4041, codziennie od 8:00 AM do 7:00 PM, żeby potwierdzić dostępność rozmiaru przed przyjazdem. Jedziesz z Greenacres, Palm Springs albo Lake Worth Beach? Te okolice są w promieniu 10 mil od tego jedynego warsztatu przy Military Trail."
+    "Nowe opony Cosmo kosztują od $120 za sztukę, od R15 do R18, w tym dwa rozmiary LT i jeden C. Pełna tabela rozmiarów i cen jest na tej stronie, a cena z katalogu obejmuje geometrię i wyważanie. Jeśli nie mamy Twojego rozmiaru, możemy go zamówić. Nie ma dodatkowych opłat. Przy zakupie 4 nowych opon geometria jest darmowa. Ceny mogą się zmienić bez uprzedzenia, więc zadzwoń lub napisz na WhatsApp (561) 429-4041, codziennie od 8:00 AM do 7:00 PM, żeby potwierdzić rozmiar przed przyjazdem. Jedziesz z Greenacres, Palm Springs albo Lake Worth Beach? Te okolice są w Palm Beach County, blisko tego jedynego warsztatu przy Military Trail."
   ],
   "sections": [
     {
@@ -55,7 +55,7 @@
     {
       "heading": "Warsztat przy S Military Trl",
       "paragraphs": [
-        "Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają tu z Greenacres, Palm Springs i Lake Worth Beach. Wszystkie trzy są w promieniu 10 mil od warsztatu. Przyjedź na stanowisko, gdy auto może jechać. Jeśli opona już siadła i nie powinieneś jechać, zadzwoń i zapytaj o van, który jeździ w tym promieniu 10 mil i nie jest drugim adresem.",
+        "Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Ludzie przyjeżdżają tu z Greenacres, Palm Springs i Lake Worth Beach. Wszystkie trzy są w Palm Beach County przy warsztacie. Przyjedź na stanowisko, gdy auto może jechać. Jeśli opona już siadła i nie powinieneś jechać, zadzwoń i zapytaj o van, który jeździ po Palm Beach County i nie jest drugim adresem.",
         "Jesteśmy warsztatem oponiarskim. Praca opisana na tej stronie to nowe opony montowane u nas. Geometria i wyważanie są wliczone w cenę nowych opon z katalogu; jeśli potrzebujesz tylko geometrii albo wyważania na oponach, które już masz, to osobna usługa, wyceniana na jej własnej stronie."
       ],
       "nap": true
@@ -97,11 +97,27 @@
     },
     {
       "question": "Czy oferujecie finansowanie opon?",
-      "answer": "Tak. Los Paisas Tires Shop oferuje finansowanie przez firmę Snap. Decyzja kredytowa zwykle pada w około 15 minut. Zapytaj przy ladzie pod adresem 1114 S Military Trl, West Palm Beach, albo zadzwoń pod (561) 429-4041."
+      "answer": "Tak. Los Paisas Tires Shop oferuje finansowanie przez firmę Snap. Wypełniasz formularz online, a decyzja kredytowa zwykle pada w około 15 minut. Zapytaj przy ladzie pod adresem 1114 S Military Trl, West Palm Beach, albo zadzwoń pod (561) 429-4041."
     },
     {
       "question": "Ile trwa typowa wymiana opon?",
-      "answer": "Typowa wymiana lub montaż opon w Los Paisas Tires Shop zajmuje poniżej 45 minut. Dokładny czas zależy od zlecenia i ruchu na stanowisku — zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem."
+      "answer": "Czasy są orientacyjne i zależą od tego, jak ruchliwy jest warsztat. Komplet opon z geometrią zwykle zajmuje około 2 godzin; łatka lub naprawa przebicia około 15–20 minut; wyważanie około 15–20 minut; sama geometria około 1 godziny. Zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem."
+    },
+    {
+      "question": "Jaką gwarancję mają nowe opony?",
+      "answer": "Nowe opony mają gwarancję 4 miesiące albo 4 000 mil — co nastąpi wcześniej. Zadzwoń pod (561) 429-4041."
+    },
+    {
+      "question": "Czy geometria jest darmowa przy 4 nowych oponach?",
+      "answer": "Tak. Przy zakupie 4 nowych opon geometria jest darmowa. W cenie katalogowej Cosmo geometria też jest wliczona."
+    },
+    {
+      "question": "Czy możecie zamówić rozmiar, którego nie macie?",
+      "answer": "Tak. Jeśli nie mamy rozmiaru na stanie, możemy go zamówić. Nowe Cosmo od $120 z montażem i wyważaniem."
+    },
+    {
+      "question": "Czy są dodatkowe opłaty?",
+      "answer": "Nie. Nie ma dodatkowych ani ukrytych opłat. Montaż i wyważanie są w cenie przy zakupie opony; ceny katalogowe Cosmo obejmują też geometrię."
     }
   ],
   "moreHeading": "Powiązane prace podczas tej samej wizyty",

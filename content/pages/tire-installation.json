@@ -43,13 +43,14 @@
       "heading": "Walk in with tires you already bought",
       "paragraphs": [
         "Walk-ins are welcome. Bring the tires and the car to 1114 S Military Trl any day, 8:00 AM to 7:00 PM. Calling (561) 429-4041 first with the size and how many tires you are bringing helps us plan the bay.",
-        "Payment is credit, debit, or NFC. Balancing is offered with the mount and quoted before we start, with no hidden fees."
+        "Payment is cash, credit, debit, or NFC. Balancing is offered with the mount and quoted before we start, with no hidden fees.",
+        "When you bring more than 2 customer-owned tires, you get $25 off the alignment. Balancing is quoted with the mount, with no hidden fees."
       ]
     },
     {
       "heading": "Where the install happens",
       "paragraphs": [
-        "The bay is at 1114 S Military Trl, West Palm Beach, FL 33415. People drive in from Greenacres, Palm Springs, and Lake Worth Beach. Those towns are within 10 miles of the shop. If you cannot move the car and the tires are already at that address, call and ask whether a mobile install is possible within the 10-mile area. We confirm the location first. A driveway is not always a safe place to mount tires, and we will say so.",
+        "The bay is at 1114 S Military Trl, West Palm Beach, FL 33415. People drive in from Greenacres, Palm Springs, and Lake Worth Beach. Those towns are in Palm Beach County near the shop. If you cannot move the car and the tires are already at that address, call and ask whether a mobile install is possible in Palm Beach County. We confirm the location first. A driveway is not always a safe place to mount tires, and we will say so.",
         "There is still only one shop. Do not look for a second Los Paisas address. Phone (561) 429-4041, every day until 7:00 PM."
       ],
       "nap": true
@@ -79,7 +80,15 @@
     },
     {
       "question": "How long does customer-tire installation usually take?",
-      "answer": "A typical install at Los Paisas Tires Shop takes under 45 minutes. Time can vary with the number of tires and bay traffic — call (561) 429-4041 if you need to confirm."
+      "answer": "Times are approximate and depend on how busy the shop is. A full set with alignment usually takes about 2 hours; balancing about 15–20 minutes; alignment alone about 1 hour. Call (561) 429-4041 if you need to confirm."
+    },
+    {
+      "question": "Do I get a discount on alignment when I bring my own tires?",
+      "answer": "Yes. When you bring more than 2 customer-owned tires, you get $25 off the alignment at Los Paisas Tires Shop, 1114 S Military Trl. Call (561) 429-4041."
+    },
+    {
+      "question": "Are there extra fees for installing my tires?",
+      "answer": "No. There are no extra fees. Balancing is quoted before we start, with no hidden fees."
     }
   ],
   "moreHeading": "If you still need tires from us",

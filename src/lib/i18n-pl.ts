@@ -48,8 +48,8 @@ export const pl: DictionaryShape = {
     statOpenLabel: "Dni w tygodniu",
     statHoursValue: "8–7",
     statHoursLabel: "Godziny",
-    statMobileValue: "10 mil",
-    statMobileLabel: "Zasięg dojazdu",
+    statMobileValue: "PBC",
+    statMobileLabel: "Obszar mobilny",
     floatingCall: "Zadzwoń",
     floatingCallAria: "Zadzwoń do Los Paisas Tires Shop",
   },
@@ -72,7 +72,7 @@ export const pl: DictionaryShape = {
     title: "Nasze usługi",
     subtitle: "Warsztat tylko od opon przy Military Trl — konkretna robota, bez oleju, hamulców i klimatyzacji.",
     teaser:
-      "Nowe opony, używane opony, naprawa, geometria, wyważanie, montaż i serwis mobilny. Każda usługa ma swoją stronę.",
+      "Nowe opony, używane opony, naprawa, geometria, wyważanie, montaż, serwis mobilny, a także pompowanie powietrza i czyszczenie felg. Każda główna usługa ma swoją stronę.",
     all: "Wszystkie usługi",
     view: "Zobacz usługę",
     items: [
@@ -82,7 +82,7 @@ export const pl: DictionaryShape = {
       { title: "Wyważanie kół", description: "Płynna jazda. Zakres pracy ustalamy przed startem — bez ukrytych opłat." },
       { title: "Naprawa i wulkanizacja", description: "Fachowa łatka i wulkanizacja, żebyś szybko wrócił na drogę." },
       { title: "Montaż Twoich opon", description: "Masz własne opony? Zamontujemy je starannie." },
-      { title: "Dojazd do 10 mil", description: "Nie możesz przyjechać? Dojedziemy do Ciebie w promieniu 10 mil od warsztatu." },
+      { title: "Dojazd w Palm Beach County", description: "Nie możesz przyjechać? Dojedziemy do Ciebie w Palm Beach County." },
     ],
   },
   whyUs: {
@@ -92,7 +92,7 @@ export const pl: DictionaryShape = {
       { title: "Uczciwe ceny", text: "Przejrzyste wyważanie — bez ukrytych opłat. Mówimy wprost." },
       { title: "Otwarte, kiedy nas potrzebujesz", text: "Siedem dni w tygodniu, 8 AM – 7 PM. Tak, również w niedzielę." },
       { title: "Tylko opony", text: "Nowe i używane opony, geometria, wyważanie, naprawa, dojazd — wyłącznie opony." },
-      { title: "Przyjedziemy do Ciebie", text: "Dojazd do 10 mil od 1114 S Military Trl — West Palm Beach i okolice." },
+      { title: "Przyjedziemy do Ciebie", text: "Dojazd w Palm Beach County — warsztat przy 1114 S Military Trl — West Palm Beach i okolice." },
     ],
   },
   location: {
@@ -112,7 +112,7 @@ export const pl: DictionaryShape = {
     directions: "Otwórz w Google Maps",
     mapTitle: "Mapa Los Paisas Tires Shop — S Military Trl, West Palm Beach",
     servingNote:
-      "Dojazd do 10 mil · West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice",
+      "Mobilny serwis w Palm Beach County · West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice",
   },
   contact: {
     title: "Kontakt",
@@ -142,7 +142,7 @@ export const pl: DictionaryShape = {
     title: "O Los Paisas Tires Shop",
     aboutHeading: "Kim jesteśmy",
     about:
-      "Los Paisas Tires Shop to warsztat zajmujący się wyłącznie oponami, pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Telefon: (561) 429-4041. Otwarte codziennie, także w niedzielę, 8:00 AM–7:00 PM. Usługi: nowe i używane opony (nowe opony Cosmo od $120; montaż, wyważanie i geometria w cenie katalogowej Cosmo), geometria, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd do 10 mil. Typowa wymiana opon poniżej 45 minut. Finansowanie przez Snap (ok. 15 minut). Przyjmujemy gotówkę, kartę kredytową, debetową i NFC. Ocena w Google: 4,4 gwiazdki na podstawie 282 opinii. Zespół mówi po angielsku i hiszpańsku.",
+      "Los Paisas Tires Shop to warsztat zajmujący się wyłącznie oponami, pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Telefon: (561) 429-4041. Otwarte codziennie, także w niedzielę, 8:00 AM–7:00 PM. Usługi: nowe i używane opony (nowe opony Cosmo od $120; montaż, wyważanie i geometria w cenie katalogowej Cosmo), geometria, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd w Palm Beach County. Czasy są orientacyjne i zależą od ruchu w warsztacie (komplet z geometrią ok. 2 godzin; łatka 15–20 minut; wyważanie 15–20 minut; geometria ok. 1 godziny). Finansowanie przez Snap — wypełniasz formularz online, decyzja kredytowa ok. 15 minut. Przyjmujemy gotówkę, kartę kredytową, debetową i NFC. Bez ukrytych opłat. Darmowa geometria przy zakupie 4 nowych opon. Nowe opony Cosmo; rozmiary, których nie mamy, możemy zamówić. Bez umawiania. Dostępne pompowanie powietrza i czyszczenie felg. Ocena w Google: 4,4 gwiazdki na podstawie 282 opinii. Zespół mówi po angielsku i hiszpańsku.",
     blocks: [
       {
         question: "Czy w West Palm Beach jest serwis opon otwarty w niedzielę?",
@@ -157,12 +157,12 @@ export const pl: DictionaryShape = {
       {
         question: "Czy oferujecie mobilny serwis opon w West Palm Beach?",
         answer:
-          "Tak. Los Paisas Tires Shop dojeżdża do 10 mil od 1114 S Military Trl — West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice Palm Beach County. Zadzwoń pod (561) 429-4041, żeby się umówić.",
+          "Tak. Los Paisas Tires Shop dojeżdża w Palm Beach County — warsztat przy 1114 S Military Trl — West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i okolice Palm Beach County. Zadzwoń pod (561) 429-4041, żeby się umówić.",
       },
       {
         question: "Jakie usługi oferuje Los Paisas Tires Shop?",
         answer:
-          "Los Paisas Tires Shop w West Palm Beach zajmuje się tylko oponami: nowe i używane opony, geometria kół, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd do 10 mil. Nie wymieniamy oleju, nie naprawiamy hamulców ani klimatyzacji.",
+          "Los Paisas Tires Shop w West Palm Beach zajmuje się tylko oponami: nowe i używane opony, geometria kół, wyważanie bez ukrytych opłat, naprawa i wulkanizacja, montaż opon klienta oraz dojazd w Palm Beach County. Nie wymieniamy oleju, nie naprawiamy hamulców ani klimatyzacji.",
       },
     ],
     servicesHeading: "Co oferujemy",
@@ -172,7 +172,8 @@ export const pl: DictionaryShape = {
       "Wyważanie kół — bez ukrytych opłat",
       "Naprawa i wulkanizacja opon",
       "Montaż opon klienta",
-      "Mobilny serwis opon do 10 mil",
+      "Mobilny serwis opon w Palm Beach County",
+      "Pompowanie powietrza i czyszczenie felg",
     ],
     napHeading: "Odwiedź nas",
     napLines: [
@@ -205,7 +206,7 @@ export const pl: DictionaryShape = {
       {
         question: "Czy macie mobilny serwis opon w West Palm Beach?",
         answer:
-          "Tak. Dojeżdżamy do 10 mil od warsztatu przy S Military Trl — West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i pobliskie miasta. Zadzwoń pod (561) 429-4041 i zapytaj o dojazd.",
+          "Tak. Dojeżdżamy w Palm Beach County przy S Military Trl — West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i pobliskie miasta. Zadzwoń pod (561) 429-4041 i zapytaj o dojazd.",
       },
       {
         question: "W jakich godzinach jesteście otwarci?",
@@ -215,7 +216,7 @@ export const pl: DictionaryShape = {
       {
         question: "Czy wymieniacie olej, hamulce albo serwisujecie klimatyzację?",
         answer:
-          "Nie. Zajmujemy się wyłącznie oponami: nowe i używane opony, geometria, wyważanie, naprawa i wulkanizacja, montaż opon klienta i dojazd do 10 mil. Olej, hamulce i klimatyzacja nie są w naszej ofercie.",
+          "Nie. Zajmujemy się wyłącznie oponami: nowe i używane opony, geometria, wyważanie, naprawa i wulkanizacja, montaż opon klienta i dojazd w Palm Beach County. Olej, hamulce i klimatyzacja nie są w naszej ofercie.",
       },
       {
         question: "Czy zespół mówi po angielsku i hiszpańsku?",
@@ -225,7 +226,7 @@ export const pl: DictionaryShape = {
       {
         question: "Czy zamontujecie opony, które już kupiłem?",
         answer:
-          "Tak. Los Paisas Tires Shop przy 1114 S Military Trl w West Palm Beach starannie montuje opony klienta i może je wyważyć w jasnej cenie, bez ukrytych opłat. Telefon: (561) 429-4041.",
+          "Tak. Los Paisas Tires Shop przy 1114 S Military Trl w West Palm Beach starannie montuje opony klienta i może je wyważyć w jasnej cenie, bez ukrytych opłat. Przy więcej niż 2 oponach masz $25 zniżki na geometrię. Telefon: (561) 429-4041.",
       },
       {
         question: "Jaką ocenę ma Los Paisas Tires Shop w Google?",
@@ -240,12 +241,12 @@ export const pl: DictionaryShape = {
       {
         question: "Czy oferujecie finansowanie opon?",
         answer:
-          "Tak. Los Paisas Tires Shop oferuje finansowanie przez firmę Snap. Decyzja kredytowa zwykle pada w około 15 minut. Zapytaj przy ladzie pod adresem 1114 S Military Trl, West Palm Beach, albo zadzwoń pod (561) 429-4041.",
+          "Tak. Los Paisas Tires Shop oferuje finansowanie przez firmę Snap. Wypełniasz formularz online, a decyzja kredytowa zwykle pada w około 15 minut. Zapytaj przy ladzie pod adresem 1114 S Military Trl, West Palm Beach, albo zadzwoń pod (561) 429-4041.",
       },
       {
         question: "Ile trwa typowa wymiana opon?",
         answer:
-          "Typowa wymiana lub montaż opon w Los Paisas Tires Shop zajmuje poniżej 45 minut. Dokładny czas zależy od zlecenia i ruchu na stanowisku — zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem.",
+          "Czasy są orientacyjne i zależą od tego, jak ruchliwy jest warsztat. Komplet opon z geometrią zwykle zajmuje około 2 godzin; łatka lub naprawa przebicia około 15–20 minut; wyważanie około 15–20 minut; sama geometria około 1 godziny. Zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem.",
       },
       {
         question: "Jakie formy płatności przyjmujecie?",
@@ -255,7 +256,38 @@ export const pl: DictionaryShape = {
       {
         question: "Co jest wliczone w cenę przy zakupie opony?",
         answer:
-          "Gdy kupujesz oponę w Los Paisas Tires Shop, w cenie jest montaż i wyważanie. W cenie katalogowej nowych opon Cosmo jest też geometria. Zadzwoń pod (561) 429-4041 w sprawie rozmiaru.",
+          "Gdy kupujesz oponę w Los Paisas Tires Shop, w cenie jest montaż i wyważanie — bez dodatkowych opłat. W cenie katalogowej nowych opon Cosmo jest też geometria. Przy zakupie 4 nowych opon geometria jest darmowa. Zadzwoń pod (561) 429-4041 w sprawie rozmiaru.",
+      },
+
+      {
+        question: "Jaką gwarancję dajecie na opony i naprawy?",
+        answer:
+          "Nowe opony z Los Paisas Tires Shop mają gwarancję 4 miesiące albo 4 000 mil — co nastąpi wcześniej. Używane opony są bez gwarancji. Naprawy opon to usługa tego samego dnia, gdy da się uratować oponę — chodzi o tempo pracy, a nie osobną gwarancję. Zadzwoń pod (561) 429-4041.",
+      },
+      {
+        question: "Czy oferujecie darmową geometrię?",
+        answer:
+          "Tak. Przy zakupie 4 nowych opon w Los Paisas Tires Shop geometria jest darmowa. W cenie katalogowej opon Cosmo geometria też jest wliczona. Zadzwoń pod (561) 429-4041 w sprawie rozmiaru.",
+      },
+      {
+        question: "Czy są dodatkowe albo ukryte opłaty?",
+        answer:
+          "Nie. W Los Paisas Tires Shop nie ma dodatkowych ani ukrytych opłat. Wyważanie i inne prace wyceniamy przed startem. Telefon: (561) 429-4041.",
+      },
+      {
+        question: "Czy możecie zamówić rozmiar, którego nie macie na stanie?",
+        answer:
+          "Tak. Nowe opony Cosmo od $120 z montażem i wyważaniem (rozmiary katalogowe R15–R18; cena katalogowa obejmuje geometrię). Jeśli nie mamy Twojego rozmiaru, możemy go zamówić. Zadzwoń pod (561) 429-4041.",
+      },
+      {
+        question: "Czy oferujecie pompowanie powietrza i czyszczenie felg?",
+        answer:
+          "Tak. Los Paisas Tires Shop oferuje pompowanie powietrza i czyszczenie felg pod adresem 1114 S Military Trl, West Palm Beach, obok usług oponiarskich. Telefon: (561) 429-4041.",
+      },
+      {
+        question: "Czy trzeba się umawiać?",
+        answer:
+          "Nie. Walk-in jest mile widziany codziennie, 8:00 AM–7:00 PM, pod adresem 1114 S Military Trl, West Palm Beach. Bez umawiania. Zadzwoń pod (561) 429-4041, jeśli chcesz sprawdzić przed przyjazdem.",
       },
     ],
   },
@@ -265,7 +297,7 @@ export const pl: DictionaryShape = {
     paragraphs: [
       "Los Paisas Tires Shop działa przy S Military Trl, pod adresem 1114 S Military Trl — wygodny przystanek dla kierowców z West Palm Beach, Greenacres, Palm Springs, Lake Worth Beach i Palm Beach County.",
       "Potrzebujesz używanych opon, naprawy gumy w niedzielę, uczciwego wyważania, geometrii, wulkanizacji albo montażu opon, które już masz? Zajmujemy się tylko oponami — bez dosprzedaży oleju, hamulców czy klimatyzacji.",
-      "Otwarte 7 dni, 8 AM–7 PM. Dojazd do 10 mil. Zadzwoń lub napisz na WhatsApp: (561) 429-4041, albo obserwuj @tireshop_lospaisas na Instagramie.",
+      "Otwarte 7 dni, 8 AM–7 PM. Dojazd w Palm Beach County. Zadzwoń lub napisz na WhatsApp: (561) 429-4041, albo obserwuj @tireshop_lospaisas na Instagramie.",
     ],
   },
   blog: {

@@ -35,7 +35,7 @@
     {
       "heading": "What we do with a nail or a flat",
       "paragraphs": [
-        "If the tire still holds enough air to drive safely, come to the shop. If it is going flat on the rim, do not keep rolling on it. A short limp to the bay can destroy a tire that was still repairable. Use a spare if you have one, or call and ask whether mobile service can meet you. The van only goes within 10 miles of 1114 S Military Trl, and we confirm the address first.",
+        "If the tire still holds enough air to drive safely, come to the shop. If it is going flat on the rim, do not keep rolling on it. A short limp to the bay can destroy a tire that was still repairable. Use a spare if you have one, or call and ask whether mobile service can meet you. The van serves Palm Beach County from 1114 S Military Trl, and we confirm the address first.",
         "At the shop we find the leak, decide repair or replace, and remount. Balancing afterward is common so the repaired wheel does not shake, and that price is given up front with no hidden fees. If the tread is already too thin to be worth saving, we will show you used and new options in the same visit."
       ]
     },
@@ -49,8 +49,8 @@
     {
       "heading": "When you should come in or call the van",
       "paragraphs": [
-        "The shop is open seven days, 8:00 AM to 7:00 PM. One address: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs, and Lake Worth Beach are inside the 10-mile area, so a lot of those drivers simply come to the bay. We will not invent a drive time. If you are not sure the tire will make it, call.",
-        "Mobile repair is for a car that should stay put, inside that same 10-mile circle. It is not a promise that every parking spot is a safe place to work. If the street is wrong, we will ask you to come to the shop."
+        "The shop is open seven days, 8:00 AM to 7:00 PM. One address: 1114 S Military Trl, West Palm Beach, FL 33415. Greenacres, Palm Springs, and Lake Worth Beach are in Palm Beach County, so a lot of those drivers simply come to the bay. We will not invent a drive time. If you are not sure the tire will make it, call.",
+        "Mobile repair is for a car that should stay put, across Palm Beach County. It is not a promise that every parking spot is a safe place to work. If the street is wrong, we will ask you to come to the shop."
       ],
       "nap": true
     }
@@ -71,11 +71,19 @@
     },
     {
       "question": "Do I need an appointment for a tire repair?",
-      "answer": "No. Walk-ins are welcome seven days a week, 8:00 AM to 7:00 PM, at 1114 S Military Trl. Call (561) 429-4041 if the car cannot roll and you need mobile help within 10 miles."
+      "answer": "No. Walk-ins are welcome seven days a week, 8:00 AM to 7:00 PM, at 1114 S Military Trl. Call (561) 429-4041 if the car cannot roll and you need mobile help in Palm Beach County."
     },
     {
       "question": "How do I pay for a repair?",
       "answer": "Cash, credit card, debit card, or NFC (contactless) at the shop."
+    },
+    {
+      "question": "How long does a puncture repair usually take?",
+      "answer": "A plug or puncture repair usually takes about 15–20 minutes. Times are approximate and depend on how busy the shop is. Call (561) 429-4041."
+    },
+    {
+      "question": "Is tire repair same-day?",
+      "answer": "Yes. Tire repairs are same-day service when we can save the tire — that is how quickly we work, not a separate warranty. Call (561) 429-4041."
     }
   ],
   "moreHeading": "If the tire cannot be saved",
@@ -90,7 +98,7 @@
     },
     {
       "href": "/en/services/mobile-tire-service",
-      "label": "Mobile tire service within 10 miles"
+      "label": "Mobile tire service across Palm Beach County"
     },
     {
       "href": "/en/blog/tire-repair-vulcanization-west-palm-beach",

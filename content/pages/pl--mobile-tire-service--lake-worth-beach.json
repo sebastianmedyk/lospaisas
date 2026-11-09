@@ -5,7 +5,7 @@
   "parentPath": "/pl/uslugi/mobilny-serwis-opon",
   "parentLabel": "Mobilny serwis opon",
   "title": "Mobilny serwis opon w Lake Worth Beach | Los Paisas",
-  "description": "Mobilny serwis opon w Lake Worth Beach, do 10 mil od 1114 S Military Trl. Zadzwoń, by potwierdzić miejsce. Codziennie 8 AM–7 PM. (561) 429-4041.",
+  "description": "Mobilny serwis opon w Lake Worth Beach, Palm Beach County. Warsztat przy 1114 S Military Trl, West Palm Beach. Zadzwoń, by potwierdzić miejsce. Codziennie 8 AM–7 PM. (561) 429-4041.",
   "h1": "Mobilny serwis opon w Lake Worth Beach",
   "eyebrow": "Na wschód od warsztatu, nadal jeden adres",
   "serviceName": "Mobilny serwis opon w Lake Worth Beach",
@@ -14,7 +14,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "Mobilny serwis opon w Lake Worth Beach jest dla auta, które nie powinno jechać na zachód do warsztatu. Los Paisas Tires Shop nie ma stanowiska w Lake Worth Beach. Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, nadmorskie miasto dawniej nazywane Lake Worth, leży na wschód od warsztatu, w stronę Dixie Highway i Intracoastal. Granice miasta są w promieniu 10 mil, więc możesz wezwać van. Zadzwoń pod (561) 429-4041, a potwierdzimy miejsce.",
+    "Mobilny serwis opon w Lake Worth Beach jest dla auta, które nie powinno jechać na zachód do warsztatu. Los Paisas Tires Shop nie ma stanowiska w Lake Worth Beach. Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach, nadmorskie miasto dawniej nazywane Lake Worth, leży na wschód od warsztatu, w stronę Dixie Highway i Intracoastal. Granice miasta są w Palm Beach County, więc możesz wezwać van. Zadzwoń pod (561) 429-4041, a potwierdzimy miejsce.",
     "Nie podamy liczby minut z plaży na Military Trl. Jeśli opona trzyma powietrze, najprostsza jest wizyta w warsztacie. Van to druga opcja, tylko w godzinach pracy warsztatu."
   ],
   "sections": [
@@ -53,7 +53,7 @@
     {
       "heading": "Jak potwierdzamy, że adres jest w zasięgu",
       "paragraphs": [
-        "Lake Worth Beach jako miasto jest w promieniu 10 mil od 1114 S Military Trl. Dlatego ta strona istnieje. To nie obietnica dotycząca każdej prywatnej drogi, parkingu przy marinie czy miejsca, w którym nie możemy pracować. Podaj adres. Jeśli jest w zasięgu i jest bezpieczny, przyjedziemy. Jeśli to nie miejsce na podnoszenie auta, powiemy to.",
+        "Lake Worth Beach jako miasto jest w Palm Beach County — warsztat przy 1114 S Military Trl. Dlatego ta strona istnieje. To nie obietnica dotycząca każdej prywatnej drogi, parkingu przy marinie czy miejsca, w którym nie możemy pracować. Podaj adres. Jeśli jest w zasięgu i jest bezpieczny, przyjedziemy. Jeśli to nie miejsce na podnoszenie auta, powiemy to.",
         "Nadal jest jeden numer telefonu, (561) 429-4041, i jeden warsztat. Nie szukaj w Lake Worth Beach punktu z naszą nazwą."
       ],
       "nap": true
@@ -63,7 +63,7 @@
   "faqs": [
     {
       "question": "Czy to wy jesteście warsztatem oponiarskim przy Dixie Highway?",
-      "answer": "Nie. Warsztat mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach jest w obszarze serwisu mobilnego, w promieniu 10 mil. To nie drugi adres."
+      "answer": "Nie. Warsztat mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Lake Worth Beach jest w obszarze serwisu mobilnego w Palm Beach County. To nie drugi adres."
     },
     {
       "question": "Czy Lake Worth to to samo co Lake Worth Beach?",
@@ -82,7 +82,7 @@
   "links": [
     {
       "href": "/pl/uslugi/mobilny-serwis-opon",
-      "label": "Mobilny serwis opon w promieniu 10 mil"
+      "label": "Mobilny serwis opon w Palm Beach County"
     },
     {
       "href": "/pl/uslugi/mobilny-serwis-opon/greenacres",
@@ -100,5 +100,6 @@
       "href": "/pl/blog/mobilny-serwis-opon-west-palm-beach",
       "label": "Czego potrzebujemy przy zamawianiu serwisu mobilnego"
     }
-  ]
+  ],
+  "updated": "2026-11-09"
 }

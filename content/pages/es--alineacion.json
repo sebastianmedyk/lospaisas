@@ -49,7 +49,7 @@
     {
       "heading": "Quién maneja hasta S Military Trl",
       "paragraphs": [
-        "El equipo está solo en el taller. Greenacres, Palm Springs y Lake Worth Beach quedan lo bastante cerca para venir, y los tres están dentro de 10 millas, pero la alineación no es un trabajo móvil. Si tienes una ponchadura y no puedes llegar, llama por el servicio móvil para la llanta. Para la geometría hay que venir al local.",
+        "El equipo está solo en el taller. Greenacres, Palm Springs y Lake Worth Beach quedan lo bastante cerca para venir, y los tres están en Palm Beach County, pero la alineación no es un trabajo móvil. Si tienes una ponchadura y no puedes llegar, llama por el servicio móvil para la llanta. Para la geometría hay que venir al local.",
         "No hay una segunda dirección. Usa 1114 S Military Trl, West Palm Beach, FL 33415, y el teléfono (561) 429-4041."
       ],
       "nap": true
@@ -67,7 +67,7 @@
     },
     {
       "question": "¿Pueden alinear el carro en mi casa?",
-      "answer": "No. La alineación se hace con el equipo en 1114 S Military Trl. El servicio móvil es trabajo de llantas a 10 millas, no de geometría."
+      "answer": "No. La alineación se hace con el equipo en 1114 S Military Trl. El servicio móvil es trabajo de llantas en Palm Beach County, no de geometría."
     },
     {
       "question": "¿Necesito cita para la alineación?",
@@ -76,6 +76,18 @@
     {
       "question": "¿Cómo pago la alineación?",
       "answer": "Efectivo, tarjeta de crédito, débito o NFC (contactless) en el taller."
+    },
+    {
+      "question": "¿Cuánto tarda una alineación?",
+      "answer": "La alineación sola suele tomar alrededor de 1 hora. Un juego completo con alineación unas 2 horas. Los tiempos son aproximados. Llama al (561) 429-4041."
+    },
+    {
+      "question": "¿La alineación es gratis con 4 llantas nuevas?",
+      "answer": "Sí. Al comprar 4 llantas nuevas, la alineación es gratis. Las Cosmo del catálogo también incluyen alineación en el precio listado."
+    },
+    {
+      "question": "¿Hay $25 de descuento en alineación con llantas del cliente?",
+      "answer": "Sí. Si traes más de 2 llantas del cliente para instalar, tienes $25 de descuento en la alineación."
     }
   ],
   "moreHeading": "Trabajo que suele ir con la alineación",

@@ -5,7 +5,7 @@
   "parentPath": "/pl/uslugi/mobilny-serwis-opon",
   "parentLabel": "Mobilny serwis opon",
   "title": "Mobilny serwis opon w Palm Springs | Los Paisas Tires",
-  "description": "Mobilny serwis opon w Palm Springs na Florydzie, do 10 mil od 1114 S Military Trl. Otwarte codziennie 8 AM–7 PM. Zadzwoń: (561) 429-4041.",
+  "description": "Mobilny serwis opon w Palm Springs na Florydzie (Palm Beach County). Warsztat przy 1114 S Military Trl, West Palm Beach. Otwarte codziennie 8 AM–7 PM. Zadzwoń: (561) 429-4041.",
   "h1": "Mobilny serwis opon w Palm Springs",
   "eyebrow": "Palm Beach County, nie Kalifornia",
   "serviceName": "Mobilny serwis opon w Palm Springs",
@@ -14,7 +14,7 @@
     "West Palm Beach"
   ],
   "intro": [
-    "Mobilny serwis opon w Palm Springs oznacza miejscowość (village) w Palm Beach County, tę między Greenacres a Lake Worth Beach, wzdłuż Congress Avenue aż do Military Trl. Nie chodzi o Palm Springs w Kalifornii. Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Miejscowość leży w promieniu 10 mil od warsztatu, a jej zachodnia granica biegnie wschodnią stroną Military Trl. Zadzwoń pod (561) 429-4041, jeśli auto nie powinno jechać.",
+    "Mobilny serwis opon w Palm Springs oznacza miejscowość (village) w Palm Beach County, tę między Greenacres a Lake Worth Beach, wzdłuż Congress Avenue aż do Military Trl. Nie chodzi o Palm Springs w Kalifornii. Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Miejscowość leży w Palm Beach County, a jej zachodnia granica biegnie wschodnią stroną Military Trl. Zadzwoń pod (561) 429-4041, jeśli auto nie powinno jechać.",
     "Ponieważ miejscowość jest tak blisko, przyjazd na stanowisko często załatwia sprawę, gdy opona wciąż trzyma powietrze. Van jest dla gumy, która nie wytrzyma drogi. Nie podajemy czasu dojazdu."
   ],
   "sections": [
@@ -35,7 +35,7 @@
       "heading": "Gdzie faktycznie leży Palm Springs",
       "paragraphs": [
         "Village of Palm Springs bardzo się powiększyło przez przyłączenia od końca lat 90. Według samej miejscowości jej granice biegną dziś od Congress Avenue w dół do Lake Worth Road, na zachód do Military Trail, na północ wschodnią stroną Military Trail do Forest Hill Boulevard i na wschód w stronę Florida Mango Road. Siedziba władz (Village Hall) mieści się pod adresem 226 Cypress Lane. Główne ulice handlowe to Congress Avenue i Lake Worth Road.",
-        "Z tego powodu wiele osób w Palm Springs wciąż podaje adres jako „Lake Worth” albo „West Palm Beach”. To w porządku. Potrzebujemy adresu i najbliższego skrzyżowania, a nie nazwy miasta. Jeśli nie wiesz, czy Twoja ulica leży w granicach miejscowości, na jej stronie jest mapa granic, ale dla nas to niczego nie zmienia: jeśli to w promieniu 10 mil od warsztatu i da się bezpiecznie pracować, możemy porozmawiać."
+        "Z tego powodu wiele osób w Palm Springs wciąż podaje adres jako „Lake Worth” albo „West Palm Beach”. To w porządku. Potrzebujemy adresu i najbliższego skrzyżowania, a nie nazwy miasta. Jeśli nie wiesz, czy Twoja ulica leży w granicach miejscowości, na jej stronie jest mapa granic, ale dla nas to niczego nie zmienia: jeśli to w Palm Beach County i da się bezpiecznie pracować, możemy porozmawiać."
       ],
       "bullets": [
         "Podaj adres i najbliższe skrzyżowanie",
@@ -53,7 +53,7 @@
     {
       "heading": "Wezwanie vana zamiast jazdy",
       "paragraphs": [
-        "Dzwoniąc, podaj ulicę, a nie tylko „Palm Springs”. Miejscowość jest w promieniu 10 mil od warsztatu, dlatego można tu zamówić serwis mobilny. Nadal potrzebujemy miejsca, w którym podniesiemy auto bez stania w ruchu. Ruchliwy pas na Congress to powód, by spotkać się w warsztacie.",
+        "Dzwoniąc, podaj ulicę, a nie tylko „Palm Springs”. Miejscowość jest w Palm Beach County, dlatego można tu zamówić serwis mobilny. Nadal potrzebujemy miejsca, w którym podniesiemy auto bez stania w ruchu. Ruchliwy pas na Congress to powód, by spotkać się w warsztacie.",
         "Ten sam numer co warsztat: (561) 429-4041. Te same godziny. Van to nie inna firma i nie jeździ po 7:00 PM."
       ],
       "nap": true
@@ -67,7 +67,7 @@
     },
     {
       "question": "Czy wasz warsztat jest przy Congress Avenue?",
-      "answer": "Nie. Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs jest w promieniu 10 mil, więc można wezwać van. Stanowisko się nie przenosi."
+      "answer": "Nie. Jedyny adres to 1114 S Military Trl, West Palm Beach, FL 33415. Palm Springs jest w Palm Beach County, więc można wezwać van. Stanowisko się nie przenosi."
     },
     {
       "question": "Przyjechać czy wezwać van?",
@@ -82,7 +82,7 @@
   "links": [
     {
       "href": "/pl/uslugi/mobilny-serwis-opon",
-      "label": "Mobilny serwis opon w promieniu 10 mil"
+      "label": "Mobilny serwis opon w Palm Beach County"
     },
     {
       "href": "/pl/uslugi/mobilny-serwis-opon/greenacres",
@@ -100,5 +100,6 @@
       "href": "/pl/blog/mobilny-serwis-opon-west-palm-beach",
       "label": "Jak wygląda wizyta vana"
     }
-  ]
+  ],
+  "updated": "2026-11-09"
 }
