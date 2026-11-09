@@ -119,10 +119,8 @@ export default function CatalogPage({ locale }: { locale: Locale }) {
       />
       <section className="section-pad-after-hero" aria-labelledby="catalog-heading">
         <div className="container-site">
-          <CatalogGrid labels={c.grid} />
-
-          <p className="mt-8 max-w-3xl text-sm leading-relaxed text-white/70">{c.disclaimer}</p>
-          <p className="mt-4 flex flex-wrap gap-4 text-sm font-bold uppercase tracking-[0.14em]">
+          <p className="max-w-3xl text-sm leading-relaxed text-white/70">{c.disclaimer}</p>
+          <p className="mt-4 mb-8 flex flex-wrap gap-4 text-sm font-bold uppercase tracking-[0.14em]">
             <a href={BUSINESS.phoneTel} className="inline-flex min-h-[44px] items-center text-brand-gold hover:underline">
               {BUSINESS.phoneDisplay}
             </a>
@@ -135,6 +133,7 @@ export default function CatalogPage({ locale }: { locale: Locale }) {
               {c.whatsapp}
             </a>
           </p>
+          <CatalogGrid labels={c.grid} />
         </div>
       </section>
     </BlogShell>
