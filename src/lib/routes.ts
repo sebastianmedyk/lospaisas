@@ -66,6 +66,7 @@ export const BLOG_SLUGS: LocalePaths[] = [
   { en: "used-tire-inspection-checklist", es: "revision-llantas-usadas-antes-de-montar", pl: "kontrola-uzywanych-opon-przed-montazem" },
   { en: "how-to-read-tire-size-on-sidewall", es: "como-leer-medida-llanta-costado", pl: "jak-odczytac-rozmiar-opony" },
   { en: "sidewall-bulge-or-cut-tire", es: "bulto-corte-costado-llanta", pl: "wybrzuszenie-lub-rozciecie-boku-opony" },
+  { en: "do-modern-tires-last-only-2-to-4-years", es: "duran-las-llantas-nuevas-solo-2-a-4-anos", pl: "czy-nowe-opony-wytrzymuja-tylko-2-4-lata" },
   { en: "slow-leak-after-storm-nails-debris", es: "llanta-pierde-aire-despues-tormenta", pl: "opona-traci-powietrze-po-burzy" },
   { en: "donut-spare-tire-limits", es: "llanta-de-repuesto-donut-limites", pl: "dojazdowka-kolo-zapasowe-ograniczenia" },
   { en: "full-set-four-tires-one-visit", es: "juego-cuatro-llantas-una-visita", pl: "komplet-czterech-opon-jedna-wizyta" },
