@@ -5,6 +5,7 @@ date: "2026-08-12"
 updated: "2026-10-19"
 locale: en
 slug: install-customer-tires-west-palm-beach
+faqSchema: true
 keywords:
   - install customer tires West Palm Beach
   - tire mounting Military Trl

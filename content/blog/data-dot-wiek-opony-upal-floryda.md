@@ -4,6 +4,7 @@ description: "Ostatnie cztery cyfry kodu DOT to tydzień i rok produkcji opony. 
 date: "2026-10-29"
 locale: pl
 slug: data-dot-wiek-opony-upal-floryda
+faqSchema: true
 keywords:
   - data DOT opony
   - wiek opony
@@ -40,7 +41,7 @@ Sprzedając **używane opony** (od $65), sprawdzamy datę DOT razem z głęboko�
 
 Strona usługi: [używane opony](/pl/uslugi/uzywane-opony). Powiązane: [używane czy nowe opony w upale](/pl/blog/uzywane-czy-nowe-opony-upal-floryda) i [ceny używanych opon](/pl/blog/ceny-uzywanych-opon-west-palm-beach).
 
-## Pytania
+## Najczęstsze pytania
 
 ### Co oznacza 1022 na mojej oponie?
 

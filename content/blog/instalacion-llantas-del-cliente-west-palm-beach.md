@@ -5,6 +5,7 @@ date: "2026-08-12"
 updated: "2026-10-19"
 locale: es
 slug: instalacion-llantas-del-cliente-west-palm-beach
+faqSchema: true
 keywords:
   - instalación de llantas del cliente West Palm Beach
   - montaje de llantas Military Trl

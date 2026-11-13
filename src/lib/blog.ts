@@ -22,10 +22,51 @@ export type BlogPostMeta = {
   absoluteTitle?: boolean;
 };
 
+export type BlogFaqItem = { question: string; answer: string };
+
 export type BlogPost = BlogPostMeta & {
   content: string;
   html: string;
+  /** Q&As from the post's visible FAQ section; set only when frontmatter has `faqSchema: true`. */
+  faq?: BlogFaqItem[];
 };
+
+const FAQ_HEADING = /faq|question|pregunta|pytani/i;
+
+function plainText(markdown: string): string {
+  return markdown
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+    .replace(/[*_`]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/**
+ * Reads the visible FAQ already in the post body: an H2 whose text matches
+ * FAQ_HEADING, with each H3 as a question and the paragraphs under it as the answer.
+ * Used for FAQPage JSON-LD, so the schema always mirrors what readers see.
+ */
+function extractFaq(content: string): BlogFaqItem[] {
+  const items: BlogFaqItem[] = [];
+  let inFaq = false;
+  let current: BlogFaqItem | null = null;
+  for (const token of marked.lexer(content)) {
+    if (token.type === "heading") {
+      if (token.depth <= 2) {
+        inFaq = token.depth === 2 && FAQ_HEADING.test(token.text);
+        current = null;
+      } else if (inFaq && token.depth === 3) {
+        current = { question: plainText(token.text), answer: "" };
+        items.push(current);
+      } else {
+        current = null;
+      }
+    } else if (inFaq && current && token.type === "paragraph") {
+      current.answer = [current.answer, plainText(token.text)].filter(Boolean).join(" ");
+    }
+  }
+  return items.filter((item) => item.question && item.answer);
+}
 
 const BLOG_DIR = path.join(process.cwd(), "content", "blog");
 
@@ -80,6 +121,7 @@ function parsePost(filePath: string): BlogPost | null {
   const absoluteTitle = data.absoluteTitle === true;
 
   const html = marked.parse(content.trim(), { async: false }) as string;
+  const faq = data.faqSchema === true ? extractFaq(content) : undefined;
 
   return {
     title,
@@ -93,6 +135,7 @@ function parsePost(filePath: string): BlogPost | null {
     absoluteTitle,
     content,
     html,
+    faq,
   };
 }
 

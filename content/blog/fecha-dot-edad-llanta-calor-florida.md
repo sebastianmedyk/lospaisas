@@ -4,6 +4,7 @@ description: "Los últimos cuatro dígitos del código DOT dicen la semana y el 
 date: "2026-10-29"
 locale: es
 slug: fecha-dot-edad-llanta-calor-florida
+faqSchema: true
 keywords:
   - fecha DOT llanta
   - edad de la llanta
@@ -40,7 +41,7 @@ Cuando compras **llantas usadas** con nosotros (desde $65), revisamos la fecha D
 
 Página del servicio: [llantas usadas](/servicios/llantas-usadas). Relacionado: [llantas usadas o nuevas con el calor de Florida](/blog/llantas-usadas-o-nuevas-calor-florida) y [precio de llantas usadas](/blog/precio-llantas-usadas-west-palm-beach).
 
-## Preguntas
+## Preguntas frecuentes
 
 ### ¿Qué significa 1022 en mi llanta?
 

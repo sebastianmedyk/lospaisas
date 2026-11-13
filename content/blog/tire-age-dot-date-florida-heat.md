@@ -4,6 +4,7 @@ description: "The last four digits of the DOT code show the week and year a tire
 date: "2026-10-29"
 locale: en
 slug: tire-age-dot-date-florida-heat
+faqSchema: true
 keywords:
   - DOT date tire age
   - how old is my tire
@@ -40,7 +41,7 @@ When you buy **used tires** from us (from $65), we check the DOT date along with
 
 Service page: [used tires](/en/services/used-tires). Related: [used vs. new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat) and [used tire prices](/en/blog/used-tire-prices-west-palm-beach).
 
-## Questions
+## FAQ
 
 ### What does 1022 mean on my tire?
 

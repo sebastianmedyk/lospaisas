@@ -1,9 +1,11 @@
 ---
-title: "Do Modern Tires Really Last Only 2–4 Years?"
+title: "How Long Do Tires Last in Florida Heat? Not Just 2–4 Years"
+absoluteTitle: true
 description: "Do new tires wear out in 2–4 years? Good ones still reach 40–70k miles with correct pressure and alignment. How Florida heat and the DOT date fit in."
 date: "2026-11-15"
 locale: en
 slug: do-modern-tires-last-only-2-to-4-years
+faqSchema: true
 keywords:
   - how long do tires last
   - do modern tires wear faster
@@ -13,7 +15,7 @@ keywords:
 
 ![Tires last less now? A new tire and a worn tire side by side – Los Paisas Tires Shop, West Palm Beach](/photos/tires-last-less-now-west-palm-beach-los-paisas.webp)
 
-Do modern tires really last only 2–4 years? Not as a rule. We hear the question a lot at **Los Paisas Tires Shop**, 1114 S Military Trl in West Palm Beach, and the honest answer is this: **newer compounds can wear a bit faster than the hard tires of years ago, but good tires still reach 40,000–70,000 miles when you keep the right pressure and alignment.** What shortens a tire's life in South Florida is usually low pressure, a car out of alignment, and heat and sun, not the calendar alone.
+How long do tires last in Florida heat, and do modern tires really last only 2–4 years? Not as a rule. We hear the question a lot at **Los Paisas Tires Shop**, 1114 S Military Trl in West Palm Beach, and the honest answer is this: **newer compounds can wear a bit faster than the hard tires of years ago, but good tires still reach 40,000–70,000 miles when you keep the right pressure and alignment.** What shortens a tire's life in South Florida is usually low pressure, a car out of alignment, and heat and sun, not the calendar alone.
 
 ## Why people feel tires wear out faster now
 
@@ -67,7 +69,7 @@ More on the trade-off in [used vs new tires in Florida heat](/en/blog/used-vs-ne
 
 Service pages: [new tires](/en/services/new-tires) and [used tires](/en/services/used-tires). Related: [how to read the DOT date](/en/blog/tire-age-dot-date-florida-heat), [used tire inspection checklist](/en/blog/used-tire-inspection-checklist), [used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat), and [tire pressure in Palm Beach summer](/en/blog/tire-pressure-palm-beach-summer).
 
-## Questions
+## FAQ
 
 ### Is it normal for new tires to wear out in 2–4 years?
 

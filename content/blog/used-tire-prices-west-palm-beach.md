@@ -1,22 +1,23 @@
 ---
-title: "What Used Tires Cost in West Palm Beach | Los Paisas"
-description: "Used tire prices in West Palm Beach depend on size and tread. This shop does not list a dollar amount. Call (561) 429-4041 at 1114 S Military Trl."
+title: "Used Tire Prices in West Palm Beach: From $65 | Los Paisas"
+description: "How much do used tires cost in West Palm Beach? From $65 at Los Paisas Tires Shop. Final price depends on size and tread. 1114 S Military Trl."
 date: "2026-07-26"
-updated: "2026-10-19"
+updated: "2026-11-13"
 locale: en
 slug: used-tire-prices-west-palm-beach
-h1: "Used Tire Cost in West Palm Beach"
+h1: "Used Tire Prices in West Palm Beach: From $65"
+faqSchema: true
 absoluteTitle: true
 keywords:
   - used tires West Palm Beach
   - used tire shop West Palm Beach
 ---
 
-People ask what used tires cost in West Palm Beach before they ever see a tire. Los Paisas Tires Shop is not going to invent a number on this page. There is no price list on the site. A used tire at [1114 S Military Trl](/en/services/used-tires) changes with the size the car takes and with the tread that is actually left on that casing. The number that matters is the one you get when you call **(561) 429-4041** or when you are standing at the counter.
+How much do used tires cost in West Palm Beach? At Los Paisas Tires Shop, **used tires start from $65**. The final price depends on the size the car takes and on the tread that is actually left on that casing. Brands vary with what is on the rack, and used tires come with no warranty. Every used tire at [1114 S Military Trl](/en/services/used-tires) is checked before it is sold. For the exact number in your size, call **(561) 429-4041** or come to the counter.
 
-## Why this page has no dollar amount
+## Why $65 is a starting price, not a flat price
 
-A printed price goes stale the week the rack changes. It also hides the only two facts that move the price: size and tread. A common compact-car size with deep tread is not the same object as a light-truck size with the wear bars showing. Quoting one figure for both would be a lie, and a range we made up would be a second lie. The shop has not posted a standing price, so this article will not pretend it has one.
+$65 is where used tires start. It is not one price for every car. A flat price would hide the only two facts that move the cost: size and tread. A common compact-car size with deep tread is not the same object as a light-truck size with the wear bars showing. That is why you get the starting figure here and the exact number once we know the size and can see the tire.
 
 If another page on the internet promises a flat used-tire deal for every car in Palm Beach County, treat it as advertising, not as our counter. We sell used tires and [new tires](/en/services/new-tires) from the same bay. You hear the real options for your car, not a slogan.
 
@@ -46,15 +47,19 @@ Greenacres, Palm Springs, and Lake Worth Beach are in Palm Beach County. People 
 
 Call or WhatsApp **(561) 429-4041**. Have the size if you know it. If you do not, bring the car. Hours are 8:00 AM to 7:00 PM, Monday through Sunday. The team works in English and Spanish. Instagram is [@tireshop_lospaisas](https://www.instagram.com/tireshop_lospaisas) if you want shop photos from the shop itself, not a stock picture of someone else's bay.
 
-There is still no price on this page after you finish reading it. That is on purpose. Size and tread decide the cost, and the person who can see the tire is the person who should say the number.
+Used tires start from $65. Size and tread decide the final cost, and the person who can see the tire is the person who should say the exact number.
 
 Related guides: [How to check a used tire before you buy](/en/blog/used-tires-west-palm-beach), [Used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat), and [Buying new tires: sizes and driving needs](/en/blog/new-tires-west-palm-beach-military-trail).
 
-## Questions about used tire cost
+## FAQ: used tire prices
 
-### Why won't you list even a starting price?
+### How much do used tires cost at Los Paisas Tires Shop?
 
-Because a starting price becomes the price people repeat, and it would not match the next size or the next tread depth. Call (561) 429-4041 and ask about the tire we would actually sell you.
+Used tires start from $65. The final price depends on the size and on the tread left on the tire. Call (561) 429-4041 with your size for the exact number.
+
+### Do used tires come with a warranty?
+
+No. Used tires have no warranty, and brands vary with what is on the rack. That is why we check tread, sidewalls and size before we mount one. New tires carry a 4-month / 4,000-mile warranty.
 
 ### Are cheap used tires the same as the tires on your rack?
 

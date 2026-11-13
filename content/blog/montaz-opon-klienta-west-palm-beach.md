@@ -5,6 +5,7 @@ date: "2026-08-12"
 updated: "2026-10-19"
 locale: pl
 slug: montaz-opon-klienta-west-palm-beach
+faqSchema: true
 keywords:
   - montaż opon klienta West Palm Beach
   - montaż opon Military Trl

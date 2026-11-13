@@ -5,7 +5,7 @@ export const pl: DictionaryShape = {
   meta: {
     title: "Serwis opon w West Palm Beach – nowe i używane opony | Los Paisas",
     description:
-      "Nowe i używane opony, geometria, wyważanie i naprawa opon przy 1114 S Military Trl w West Palm Beach. Bez umawiania, 7 dni w tygodniu, 8–19. (561) 429-4041.",
+      "Używane opony od $65, nowe od $120. Geometria, wyważanie, naprawa: 1114 S Military Trl, West Palm Beach. Także w niedzielę, 8–19. (561) 429-4041.",
     keywords: [
       "serwis opon West Palm Beach",
       "wulkanizacja West Palm Beach",

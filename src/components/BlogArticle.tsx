@@ -5,7 +5,7 @@ import { getDictionary } from "@/lib/i18n";
 import JsonLd from "@/components/JsonLd";
 import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
-import { articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
+import { articleJsonLd, breadcrumbJsonLd, faqPageJsonLd } from "@/lib/seo";
 import { blogSlugsFor, homePath, locationPath, servicesPath } from "@/lib/routes";
 
 const RELATED_HEADING = { en: "Related articles", es: "Artículos relacionados", pl: "Powiązane artykuły" } as const;
@@ -42,6 +42,7 @@ export default function BlogArticle({ post }: Props) {
           { name: post.title, url },
         ])}
       />
+      {post.faq?.length ? <JsonLd data={faqPageJsonLd(post.faq)} /> : null}
       <PageHero
   locale={post.locale}
         crumbs={[

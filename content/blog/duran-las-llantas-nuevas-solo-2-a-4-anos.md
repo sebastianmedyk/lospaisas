@@ -1,9 +1,11 @@
 ---
-title: "¿Las llantas nuevas duran solo 2 a 4 años?"
+title: "¿Las llantas duran solo 2 a 4 años con el calor de Florida?"
+absoluteTitle: true
 description: "¿Las llantas de hoy se gastan en 2 a 4 años? Las buenas llegan a 40–70 mil millas con la presión y la alineación correctas. El calor de Florida y la fecha DOT."
 date: "2026-11-16"
 locale: es
 slug: duran-las-llantas-nuevas-solo-2-a-4-anos
+faqSchema: true
 keywords:
   - cuánto duran las llantas
   - llantas nuevas se gastan rápido
@@ -13,7 +15,7 @@ keywords:
 
 ![¿Las llantas duran menos ahora? Una llanta nueva y una gastada lado a lado – Los Paisas Tires Shop, West Palm Beach](/photos/tires-last-less-now-west-palm-beach-los-paisas.webp)
 
-¿De verdad las llantas nuevas duran solo 2 a 4 años? No como regla. Lo escuchamos seguido en **Los Paisas Tires Shop**, 1114 S Military Trl en West Palm Beach, y la respuesta honesta es esta: **las mezclas nuevas pueden gastarse un poco más rápido que las llantas duras de antes, pero las buenas siguen llegando a 40 a 70 mil millas si mantienes la presión y la alineación correctas.** Lo que acorta la vida de una llanta en el sur de Florida casi siempre es la presión baja, la alineación desajustada y el calor y el sol, no solo el calendario.
+¿De verdad las llantas nuevas duran solo 2 a 4 años con el calor de Florida? No como regla. Lo escuchamos seguido en **Los Paisas Tires Shop**, 1114 S Military Trl en West Palm Beach, y la respuesta honesta es esta: **las mezclas nuevas pueden gastarse un poco más rápido que las llantas duras de antes, pero las buenas siguen llegando a 40 a 70 mil millas si mantienes la presión y la alineación correctas.** Lo que acorta la vida de una llanta en el sur de Florida casi siempre es la presión baja, la alineación desajustada y el calor y el sol, no solo el calendario.
 
 ## Por qué parece que las llantas duran menos
 
@@ -67,7 +69,7 @@ Más sobre esa decisión en [llantas usadas o nuevas con el calor de Florida](/b
 
 Páginas del servicio: [llantas nuevas](/servicios/llantas-nuevas) y [llantas usadas](/servicios/llantas-usadas). Relacionado: [cómo leer la fecha DOT](/blog/fecha-dot-edad-llanta-calor-florida), [revisión de llantas usadas antes de montarlas](/blog/revision-llantas-usadas-antes-de-montar), [llantas usadas o nuevas con el calor de Florida](/blog/llantas-usadas-o-nuevas-calor-florida) y [presión de llantas en verano](/blog/presion-llantas-verano-huracanes).
 
-## Preguntas
+## Preguntas frecuentes
 
 ### ¿Es normal que unas llantas nuevas se acaben en 2 a 4 años?
 

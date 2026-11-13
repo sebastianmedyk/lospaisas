@@ -5,6 +5,7 @@ date: "2026-07-20"
 updated: "2026-10-19"
 locale: en
 slug: used-tires-west-palm-beach
+faqSchema: true
 keywords:
   - used tires West Palm Beach
   - tire shop Military Trl
@@ -49,9 +50,9 @@ Related guides: [What used tires cost in West Palm Beach](/en/blog/used-tire-pri
 
 A used tire can be a sound buy when the tread, sidewalls, age, size, and load rating pass inspection. A casing that is cracked or bubbled is not mounted, no matter the price.
 
-### Do you list used tire prices?
+### How much do used tires cost?
 
-No. The price changes with the size and with the tread that is actually left on that tire. Call (561) 429-4041 with your size.
+Used tires start from $65. The final price changes with the size and with the tread that is actually left on that tire. Call (561) 429-4041 with your size.
 
 ### Can I compare used and new tires at the shop?
 

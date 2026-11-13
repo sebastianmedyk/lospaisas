@@ -4,6 +4,7 @@ description: "Un golpe fuerte contra la cuneta o un bache puede mover la alineac
 date: "2026-10-19"
 locale: es
 slug: alineacion-despues-de-golpe-bache-cuneta
+faqSchema: true
 keywords:
   - alineación después de un bache
   - golpe cuneta alineación West Palm Beach
@@ -39,9 +40,9 @@ El desgaste disparejo no se puede corregir. Una llanta gastada en un borde hay q
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (llamada o WhatsApp) · abierto **los 7 días, 8:00 AM – 7:00 PM**.
 
-Página del servicio: [alineación](/servicios/alineacion). Relacionado: [señales de que tu carro necesita alineación](/blog/alineacion-geometria-military-trail-west-palm-beach) y [el carro vibra en la carretera](/blog/carro-vibra-en-carretera-volante-asiento).
+Página del servicio: [alineación de carro](/servicios/alineacion). Relacionado: [señales de que tu carro necesita alineación](/blog/alineacion-geometria-military-trail-west-palm-beach) y [el carro vibra en la carretera](/blog/carro-vibra-en-carretera-volante-asiento).
 
-## Preguntas
+## Preguntas frecuentes
 
 ### El carro se siente bien después del bache. ¿Igual lo reviso?
 

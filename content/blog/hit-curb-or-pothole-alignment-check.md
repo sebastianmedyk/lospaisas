@@ -4,6 +4,7 @@ description: "One hard hit on a curb or pothole can shift wheel alignment. Signs
 date: "2026-10-19"
 locale: en
 slug: hit-curb-or-pothole-alignment-check
+faqSchema: true
 keywords:
   - alignment after pothole West Palm Beach
   - curb damage alignment
@@ -41,7 +42,7 @@ Uneven wear cannot be reversed. A tire that has worn down on one edge has to be 
 
 See the service page: [wheel alignment](/en/services/wheel-alignment). Related: [signs your car needs an alignment](/en/blog/wheel-alignment-military-trail-west-palm-beach) and [car shakes at highway speed](/en/blog/car-shakes-at-highway-speed-west-palm-beach).
 
-## Questions
+## FAQ
 
 ### The car feels fine after the pothole. Should I still check it?
 

@@ -44,7 +44,7 @@ Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de s
 
 ¿Volante torcido o desgaste irregular? Pasa por Military Trl en West Palm Beach y te ayudamos a enderezarlo.
 
-Para el servicio, mira [alineación en Los Paisas Tires Shop](/servicios/alineacion).
+Para el servicio, mira [alineación de carro en Los Paisas Tires Shop](/servicios/alineacion).
 
 Guías relacionadas: [Por qué se balancean las ruedas](/blog/balanceo-sin-sorpresas), [Presión de llantas en verano y huracanes](/blog/presion-llantas-verano-huracanes) y [Comprar llantas nuevas: medidas y tipo de manejo](/blog/llantas-nuevas-west-palm-beach-military-trail).
 

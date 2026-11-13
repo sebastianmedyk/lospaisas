@@ -4,6 +4,7 @@ description: "Jedno mocne uderzenie w krawężnik lub dziurę może przestawić 
 date: "2026-10-19"
 locale: pl
 slug: geometria-po-uderzeniu-w-kraweznik-lub-dziure
+faqSchema: true
 keywords:
   - geometria po uderzeniu w dziurę
   - krawężnik geometria West Palm Beach
@@ -41,7 +42,7 @@ Nierównego zużycia nie da się cofnąć. Oponę startą na jednej krawędzi tr
 
 Strona usługi: [ustawianie geometrii](/pl/uslugi/ustawianie-geometrii). Powiązane: [objawy złej geometrii](/pl/blog/ustawianie-geometrii-military-trail-west-palm-beach) i [auto drga przy dużej prędkości](/pl/blog/auto-drga-przy-duzej-predkosci-west-palm-beach).
 
-## Pytania
+## Najczęstsze pytania
 
 ### Po dziurze auto jedzie normalnie. Czy sprawdzać?
 

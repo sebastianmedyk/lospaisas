@@ -7,7 +7,7 @@ export const translations = {
     meta: {
       title: "Tire Shop in West Palm Beach – New & Used Tires | Los Paisas",
       description:
-        "New & used tires, alignment, balancing and tire repair at 1114 S Military Trl, West Palm Beach. Walk-ins welcome, open 7 days, 8 AM–7 PM. (561) 429-4041.",
+        "Used tires from $65, new from $120. Alignment, balancing & repair at 1114 S Military Trl, West Palm Beach. Open 7 days incl. Sunday, 8 AM–7 PM. (561) 429-4041.",
       keywords: [
         "tire shop West Palm Beach",
         "used tires Military Trl",
@@ -378,7 +378,7 @@ export const translations = {
     meta: {
       title: "Llantera en West Palm Beach: usadas y nuevas | Los Paisas",
       description:
-        "Llantas nuevas y usadas, alineación, balanceo y reparación en 1114 S Military Trl, West Palm Beach. Sin cita, abierto 7 días de 8 AM a 7 PM. (561) 429-4041.",
+        "Usadas desde $65, nuevas desde $120. Alineación, balanceo y reparación en 1114 S Military Trl, West Palm Beach. Abierto 7 días, también domingo, 8 AM–7 PM.",
       keywords: [
         "llantas West Palm Beach",
         "tienda de llantas cerca de mí West Palm Beach",
