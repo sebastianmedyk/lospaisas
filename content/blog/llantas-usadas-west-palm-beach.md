@@ -60,4 +60,4 @@ Sí. Los Paisas Tires Shop vende ambas en 1114 S Military Trl, así que puedes v
 
 ### ¿Pueden balancear las llantas usadas al montarlas?
 
-Sí. El balanceo está disponible en la misma visita y su precio se dice antes de empezar.
+Sí. Cuando compras las llantas usadas aquí, el montaje y el balanceo van incluidos en el precio, que empieza desde $65.

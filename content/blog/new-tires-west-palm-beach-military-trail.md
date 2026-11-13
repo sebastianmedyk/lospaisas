@@ -2,7 +2,7 @@
 title: "Buying New Tires: Sizes and Driving Needs Explained"
 description: "Shopping for new tires in West Palm Beach? Los Paisas Tires Shop on S Military Trl helps you compare sizes, ride needs, and clear install options — open 7 days."
 date: "2026-09-11"
-updated: "2026-10-19"
+updated: "2026-11-13"
 locale: en
 slug: new-tires-west-palm-beach-military-trail
 keywords:
@@ -27,7 +27,7 @@ Big-box browsing is fine for research. Local install on Military Trl keeps the f
 
 ## How do you choose the right new tire?
 
-We start with the size and load your vehicle calls for, then ask how you drive: mostly city streets, I-95 commuting, or mixed Palm Beach County errands. That shapes tread type and budget. We quote before we mount. Balancing is part of a proper new-tire job, and we keep that pricing transparent — no surprise add-ons after the wheels are on the machine.
+We start with the size and load your vehicle calls for, then ask how you drive: mostly city streets, I-95 commuting, or mixed Palm Beach County errands. That shapes tread type and budget. We quote before we mount. For new Cosmo tires from our catalog (from $120, R15–R18), the catalog price includes mounting, balancing and alignment — no surprise add-ons after the wheels are on the machine.
 
 If only one or two tires failed, we discuss matching the remaining tread so the car stays stable. Sometimes a full set is safer; sometimes a careful match works. We explain the tradeoffs without rushing you.
 
@@ -57,7 +57,7 @@ No. The price depends on the size your door placard calls for and on what you ne
 
 ### Is balancing part of a new-tire install?
 
-Yes. Balancing is part of a proper new-tire job, and its price is stated up front, with no surprise add-ons.
+Yes. For new Cosmo tires from our catalog, mounting, balancing and alignment are included in the catalog price, with no surprise add-ons.
 
 ### Do I have to replace all four tires?
 

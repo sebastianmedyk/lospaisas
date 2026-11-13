@@ -2,7 +2,7 @@
 title: "Ciśnienie w oponach latem w Palm Beach | Los Paisas Tires"
 description: "Ciśnienie w oponach latem i w sezonie huraganów w Palm Beach County: kieruj się tabliczką na drzwiach. Los Paisas, 1114 S Military Trl."
 date: "2026-10-11"
-updated: "2026-10-19"
+updated: "2026-11-13"
 locale: pl
 slug: cisnienie-w-oponach-latem-palm-beach
 h1: "Ciśnienie w oponach latem i w sezonie huraganów"
@@ -44,7 +44,7 @@ Przed burzą przydatna kontrola opon jest zwyczajna i konkretna:
 
 Mokra droga karze łysą oponę. Koło zapasowe, które też jest płaskie, to nie plan. Jeśli zapas jest dojazdowy, pamiętaj, że jest tymczasowy. Możemy go obejrzeć w warsztacie. Nie obiecamy na podstawie akapitu, że jest w porządku.
 
-Jeśli wahasz się między popękaną używaną oponą a czekaniem, załatw to, zanim prognoza się zaostrzy. [Używane czy nowe](/pl/blog/uzywane-czy-nowe-opony-upal-floryda) w tym upale to kwestia kontroli, a nie slogan. Nadal nie ma cennika. Zadzwoń i zapytaj o rozmiar.
+Jeśli wahasz się między popękaną używaną oponą a czekaniem, załatw to, zanim prognoza się zaostrzy. [Używane czy nowe](/pl/blog/uzywane-czy-nowe-opony-upal-floryda) w tym upale to kwestia kontroli, a nie slogan. Używane opony kosztują od $65, a nowe Cosmo od $120. Zadzwoń i zapytaj o swój rozmiar.
 
 ## Kiedy niskie ciśnienie to w rzeczywistości przebicie
 

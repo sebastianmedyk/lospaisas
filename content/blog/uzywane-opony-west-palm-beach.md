@@ -60,4 +60,4 @@ Tak. Los Paisas Tires Shop sprzedaje jedne i drugie pod adresem 1114 S Military 
 
 ### Czy wyważacie używane opony przy montażu?
 
-Tak. Wyważanie można zrobić podczas tej samej wizyty, a cenę podajemy przed rozpoczęciem pracy.
+Tak. Gdy kupujesz u nas używane opony, montaż i wyważanie są w cenie, która zaczyna się od $65.

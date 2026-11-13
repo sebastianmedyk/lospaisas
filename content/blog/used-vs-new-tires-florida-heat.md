@@ -1,8 +1,8 @@
 ---
 title: "Used vs New Tires in Florida Heat | Los Paisas Tires"
-description: "Used or new tires in Florida heat: what the sun does to rubber, and how Los Paisas chooses at 1114 S Military Trl. Call (561) 429-4041. No prices listed."
+description: "Used or new tires in Florida heat: what the sun does to rubber and how we choose at 1114 S Military Trl. Used from $65, new Cosmo from $120. (561) 429-4041."
 date: "2026-09-30"
-updated: "2026-10-19"
+updated: "2026-11-13"
 locale: en
 slug: used-vs-new-tires-florida-heat
 h1: "Used and New Tires in Florida Heat"
@@ -12,7 +12,7 @@ keywords:
   - new tires West Palm Beach
 ---
 
-West Palm Beach does not get a gentle summer. Pavement stays hot, cars sit in the sun, and a tire that was marginal in the spring can look worse by August. Los Paisas Tires Shop, at 1114 S Military Trl, sells both [used tires](/en/services/used-tires) and [new tires](/en/services/new-tires). This is how we talk about the choice when the heat is the reason you are asking. It is not a price sheet. The site does not list dollar amounts.
+West Palm Beach does not get a gentle summer. Pavement stays hot, cars sit in the sun, and a tire that was marginal in the spring can look worse by August. Los Paisas Tires Shop, at 1114 S Military Trl, sells both [used tires](/en/services/used-tires) and [new tires](/en/services/new-tires). This is how we talk about the choice when the heat is the reason you are asking. Used tires start from $65, with mounting and balancing included; the final price depends on size and tread, brands vary, and used tires have no warranty. New Cosmo tires run from $120 (R15–R18), and the catalog price includes mounting, balancing and alignment; prices can change.
 
 ## What South Florida heat does to rubber
 
@@ -38,7 +38,7 @@ A new tire in Florida still lives in the same sun. It is not maintenance-free. C
 
 ## How do used and new tires compare?
 
-A checked used tire covers a short-term or budget need, while a new tire is the safer buy when you need matched tires or long highway use. Both have to pass the same size and load check. This table shows what we weigh at the counter. It has no prices, because the site does not list them.
+A checked used tire covers a short-term or budget need, while a new tire is the safer buy when you need matched tires or long highway use. Both have to pass the same size and load check. This table shows what we weigh at the counter, including the starting prices.
 
 | What you are deciding | A checked used tire | A new tire |
 |---|---|---|
@@ -47,7 +47,7 @@ A checked used tire covers a short-term or budget need, while a new tire is the 
 | Sun and heat history | Unknown, so both sidewalls must pass a look for cracks | No previous time on a car in the sun |
 | Must still match | Size and load rating from the door placard | Size and load rating from the door placard |
 | Deal-breakers | Sidewall cracks, a bubble, a repair near the shoulder, cupped or feathered wear | Wrong size or load rating |
-| Price on this site | Not listed; call with your size | Not listed; call with your size |
+| Price | From $65, mounting and balancing included; final price depends on size and tread; no warranty | Cosmo from $120 (R15–R18); catalog price includes mounting, balancing and alignment; prices can change |
 
 ## Parking, pressure, and the afternoon pavement
 

@@ -2,7 +2,7 @@
 title: "Tire Pressure in Palm Beach Summer | Los Paisas Tires"
 description: "Summer tire pressure and hurricane season in Palm Beach County. Use your door placard, not a made-up number. Los Paisas, 1114 S Military Trl. (561) 429-4041."
 date: "2026-10-11"
-updated: "2026-10-19"
+updated: "2026-11-13"
 locale: en
 slug: tire-pressure-palm-beach-summer
 h1: "Tire Pressure in Summer and Hurricane Season"
@@ -44,7 +44,7 @@ Before a storm, the useful tire check is ordinary and specific:
 
 Wet roads punish a bald tire. A spare that is also flat is not a plan. If the spare is a temporary one, know that it is temporary. We can look at it at the shop. We will not promise it is fine from a paragraph.
 
-If you are choosing between a cracked used tire and waiting, do the errand before the forecast tightens. [Used versus new](/en/blog/used-vs-new-tires-florida-heat) in this heat is an inspection, not a slogan. There is still no price list. Call and ask about the size.
+If you are choosing between a cracked used tire and waiting, do the errand before the forecast tightens. [Used versus new](/en/blog/used-vs-new-tires-florida-heat) in this heat is an inspection, not a slogan. Used tires start from $65 and new Cosmo tires from $120. Call and ask about your size.
 
 ## When low pressure is actually a puncture
 

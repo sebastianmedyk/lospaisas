@@ -2,7 +2,7 @@
 title: "Presión de Llantas en el Verano de Florida | Los Paisas"
 description: "Presión de llantas en verano y en temporada de huracanes. Usa la placa de la puerta, no un número inventado. 1114 S Military Trl. (561) 429-4041."
 date: "2026-10-11"
-updated: "2026-10-19"
+updated: "2026-11-13"
 locale: es
 slug: presion-llantas-verano-huracanes
 h1: "Presión de Llantas en Verano y Huracanes"
@@ -44,7 +44,7 @@ Antes de una tormenta, la revisión útil es concreta:
 
 El piso mojado castiga una llanta pelona. Una de repuesto que también está ponchada no es un plan. Si la de repuesto es temporal, recuerda que es temporal. La podemos ver en el taller. No prometemos que está bien desde un párrafo.
 
-Si estás entre una usada cuarteada y esperar, haz el mandado antes de que el pronóstico se apriete. [Usada o nueva](/blog/llantas-usadas-o-nuevas-calor-florida) con este calor es una revisión, no un lema. Sigue sin haber lista de precios. Llama y pregunta por la medida.
+Si estás entre una usada cuarteada y esperar, haz el mandado antes de que el pronóstico se apriete. [Usada o nueva](/blog/llantas-usadas-o-nuevas-calor-florida) con este calor es una revisión, no un lema. Las usadas van desde $65 y las nuevas Cosmo desde $120. Llama y pregunta por tu medida.
 
 ## Cuándo la presión baja es en realidad una ponchadura
 

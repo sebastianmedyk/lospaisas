@@ -2,7 +2,7 @@
 title: "Kupno nowych opon: rozmiary i potrzeby kierowcy"
 description: "Szukasz nowych opon w West Palm Beach? Los Paisas Tires Shop przy S Military Trl pomaga porównać rozmiary, potrzeby i opcje montażu: otwarte 7 dni w tygodniu."
 date: "2026-09-11"
-updated: "2026-10-19"
+updated: "2026-11-13"
 locale: pl
 slug: nowe-opony-west-palm-beach-military-trail
 keywords:
@@ -27,7 +27,7 @@ Przeglądanie ofert dużych sieci wystarczy do rozeznania. Lokalny montaż przy 
 
 ## Jak wybrać właściwą nową oponę?
 
-Zaczynamy od rozmiaru i nośności, których wymaga Twoje auto, a potem pytamy, jak jeździsz: głównie po mieście, dojazdy I-95 czy mieszane sprawy po Palm Beach County. To decyduje o rodzaju bieżnika i budżecie. Wycenę podajemy przed montażem. Wyważanie to część porządnego montażu nowych opon i jego cena jest przejrzysta, bez niespodziewanych dopłat, gdy koła są już na maszynie.
+Zaczynamy od rozmiaru i nośności, których wymaga Twoje auto, a potem pytamy, jak jeździsz: głównie po mieście, dojazdy I-95 czy mieszane sprawy po Palm Beach County. To decyduje o rodzaju bieżnika i budżecie. Wycenę podajemy przed montażem. Przy nowych oponach Cosmo z katalogu (od $120, R15–R18) cena katalogowa obejmuje montaż, wyważanie i geometrię, bez niespodziewanych dopłat, gdy koła są już na maszynie.
 
 Jeśli zawiodła tylko jedna lub dwie opony, rozmawiamy o dopasowaniu do pozostałego bieżnika, żeby auto było stabilne. Czasem bezpieczniejszy jest pełny komplet, czasem wystarczy staranne dopasowanie. Tłumaczymy plusy i minusy bez pośpiechu.
 
@@ -57,7 +57,7 @@ Nie. Cena zależy od rozmiaru z tabliczki na drzwiach i od tego, czego oczekujes
 
 ### Czy wyważanie jest częścią montażu nowych opon?
 
-Tak. Wyważanie to część porządnego montażu nowych opon, a jego cenę podajemy z góry, bez niespodziewanych dopłat.
+Tak. Przy nowych oponach Cosmo z katalogu montaż, wyważanie i geometria są wliczone w cenę katalogową, bez niespodziewanych dopłat.
 
 ### Czy muszę wymienić wszystkie cztery opony?
 

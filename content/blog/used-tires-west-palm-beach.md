@@ -60,4 +60,4 @@ Yes. Los Paisas Tires Shop sells both at 1114 S Military Trl, so you can see a u
 
 ### Can you balance used tires when you mount them?
 
-Yes. Balancing is available on the same visit, and its price is stated before we start.
+Yes. When you buy used tires from us, mounting and balancing are included in the price, which starts from $65.

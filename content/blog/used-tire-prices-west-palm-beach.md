@@ -13,7 +13,7 @@ keywords:
   - used tire shop West Palm Beach
 ---
 
-How much do used tires cost in West Palm Beach? At Los Paisas Tires Shop, **used tires start from $65**. The final price depends on the size the car takes and on the tread that is actually left on that casing. Brands vary with what is on the rack, and used tires come with no warranty. Every used tire at [1114 S Military Trl](/en/services/used-tires) is checked before it is sold. For the exact number in your size, call **(561) 429-4041** or come to the counter.
+How much do used tires cost in West Palm Beach? At Los Paisas Tires Shop, **used tires start from $65, with mounting and balancing included**. The final price depends on the size the car takes and on the tread that is actually left on that casing. Brands vary with what is on the rack, and used tires come with no warranty. Every used tire at [1114 S Military Trl](/en/services/used-tires) is checked before it is sold. For the exact number in your size, call **(561) 429-4041** or come to the counter.
 
 ## Why $65 is a starting price, not a flat price
 
@@ -33,7 +33,7 @@ We also look at the sidewalls. Cracks, a bubble, or a repair in the shoulder tak
 
 You should see the tire before it goes on the wheel. The visit at 1114 S Military Trl, West Palm Beach, FL 33415, works like this: you call or you come in between 8:00 AM and 7:00 PM, any day including Sunday. We match the size. We show you what we have. If nothing on the rack is honest for that car, we say so. A new tire is the other choice, not a secret we spring at the end.
 
-Mounting is how the tire you buy from us gets on the car. Balancing is available on that stop, and the price of the balance is stated before we start. That is the same "no hidden fees" rule as the rest of the shop. It is not a dollar figure for the tire itself, and it is not a reason to skip the inspection.
+When you buy used tires from us, mounting and balancing are included in the price. That is the same "no hidden fees" rule as the rest of the shop, and it is not a reason to skip the inspection.
 
 If you already bought tires somewhere else, you do not need this article. You need [installation of tires you own](/en/services/tire-installation). We still will not mount a casing that is cracked or bubbled.
 
@@ -55,7 +55,7 @@ Related guides: [How to check a used tire before you buy](/en/blog/used-tires-we
 
 ### How much do used tires cost at Los Paisas Tires Shop?
 
-Used tires start from $65. The final price depends on the size and on the tread left on the tire. Call (561) 429-4041 with your size for the exact number.
+Used tires start from $65, with mounting and balancing included. The final price depends on the size and on the tread left on the tire. Call (561) 429-4041 with your size for the exact number.
 
 ### Do used tires come with a warranty?
 
