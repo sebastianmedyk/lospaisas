@@ -1,7 +1,7 @@
 ---
 title: "Jeździsz na dojazdówce? Poznaj jej ograniczenia"
 description: "Dojazdówka służy do dojechania do warsztatu, nie do codziennej jazdy. Jej limity prędkości i dystansu oraz jak szybko wrócić do pełnowymiarowej opony."
-date: "2026-11-26"
+date: "2026-11-28"
 locale: pl
 slug: dojazdowka-kolo-zapasowe-ograniczenia
 keywords:

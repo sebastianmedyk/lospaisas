@@ -1,7 +1,7 @@
 ---
 title: "¿Andas con la llanta de repuesto? Conoce sus límites"
 description: "La llanta de repuesto tipo donut sirve para llegar al taller, no para todos los días. Sus límites de velocidad y distancia y cómo volver a tu llanta normal."
-date: "2026-11-26"
+date: "2026-11-27"
 locale: es
 slug: llanta-de-repuesto-donut-limites
 keywords:

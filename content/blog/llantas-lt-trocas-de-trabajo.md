@@ -1,7 +1,7 @@
 ---
 title: "Llantas LT para trocas de trabajo y SUVs en West Palm Beach"
 description: "Las trocas de trabajo necesitan llantas LT, hechas para más carga. Diferencia entre LT y P, y medidas LT disponibles en Los Paisas, montadas y balanceadas."
-date: "2026-12-14"
+date: "2026-12-15"
 locale: es
 slug: llantas-lt-trocas-de-trabajo
 keywords:

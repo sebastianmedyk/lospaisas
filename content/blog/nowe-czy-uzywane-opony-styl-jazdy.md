@@ -1,7 +1,7 @@
 ---
 title: "Nowe czy używane opony? Zdecyduj według stylu jazdy"
 description: "Nowe czy używane opony: dużo autostrady i auto na lata to nowe; bezpieczna, tańsza opcja to sprawdzone używane opony od $65 w Los Paisas."
-date: "2026-12-08"
+date: "2026-12-10"
 locale: pl
 slug: nowe-czy-uzywane-opony-styl-jazdy
 keywords:

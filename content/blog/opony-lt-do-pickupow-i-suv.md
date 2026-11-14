@@ -1,7 +1,7 @@
 ---
 title: "Opony LT do pickupów roboczych i SUV w West Palm Beach"
 description: "Pickupy robocze potrzebują opon LT na większe obciążenia. Czym LT różni się od P i jakie rozmiary LT ma Los Paisas — z montażem i wyważaniem."
-date: "2026-12-14"
+date: "2026-12-16"
 locale: pl
 slug: opony-lt-do-pickupow-i-suv
 keywords:

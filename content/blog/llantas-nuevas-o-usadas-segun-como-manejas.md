@@ -1,7 +1,7 @@
 ---
 title: "¿Llantas nuevas o usadas? Decide según cómo manejas"
 description: "Nuevas o usadas: muchas millas en autopista y quedarte el carro años apuntan a nuevas; una opción segura y económica, a usadas revisadas desde $65."
-date: "2026-12-08"
+date: "2026-12-09"
 locale: es
 slug: llantas-nuevas-o-usadas-segun-como-manejas
 keywords:

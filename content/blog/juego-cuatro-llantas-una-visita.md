@@ -1,7 +1,7 @@
 ---
 title: "Las 4 llantas en una sola visita, sin cita"
 description: "¿Necesitas cambiar las cuatro llantas? En Los Paisas montamos y balanceamos el juego completo, nuevas o usadas, en una visita. Manda tu medida por WhatsApp."
-date: "2026-12-02"
+date: "2026-12-03"
 locale: es
 slug: juego-cuatro-llantas-una-visita
 keywords:

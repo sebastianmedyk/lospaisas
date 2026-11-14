@@ -1,7 +1,7 @@
 ---
 title: "Komplet czterech opon podczas jednej wizyty, bez umawiania"
 description: "Potrzebujesz wymienić wszystkie cztery opony? Los Paisas montuje i wyważa pełny komplet, nowy lub używany, w jednej wizycie. Wyślij rozmiar na WhatsApp."
-date: "2026-12-02"
+date: "2026-12-04"
 locale: pl
 slug: komplet-czterech-opon-jedna-wizyta
 keywords:
