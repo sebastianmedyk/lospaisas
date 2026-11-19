@@ -2,8 +2,8 @@
   "path": "/en/services/used-tires",
   "locale": "en",
   "kind": "service",
-  "title": "Used Tires in West Palm Beach | Los Paisas Tires Shop",
-  "description": "Used tires from $65 at 1114 S Military Trl, West Palm Beach. We check tread, sidewalls and size before mounting. Open daily 8 AM–7 PM. (561) 429-4041.",
+  "title": "Cheapest Used Tires in West Palm Beach from $65 | Los Paisas",
+  "description": "Cheapest used tires near me in West Palm Beach from $65. Each tire checked for tread, sidewalls and size. Mounting and balancing included. Open 7 days.",
   "h1": "Used Tires in West Palm Beach",
   "eyebrow": "S Military Trl · open 7 days",
   "serviceName": "Used tires",
@@ -33,6 +33,13 @@
       ]
     },
     {
+      "heading": "Cheapest used tires near me, open 7 days",
+      "paragraphs": [
+        "Looking for the cheapest used tires near me in West Palm Beach? Used tires here start from $65, and mounting and balancing are included when you buy the tire from us, with no hidden fees. We are open 7 days, 8:00 AM to 7:00 PM, Sunday included, and you can walk in without an appointment.",
+        "To compare every option side by side, used, new Cosmo and your own tires, see [cheapest used tires near me in West Palm Beach](/en/cheap-tires-west-palm-beach)."
+      ]
+    },
+    {
       "heading": "How a used-tire visit works",
       "paragraphs": [
         "Call first if you know the size, or just bring the car. Hours are Monday through Sunday, 8:00 AM to 7:00 PM. The team works in English and Spanish. We look at the tires that are on the car now, including the spare if that is the one that failed, and we say whether a used tire, a new tire, or a repair is the sensible job.",
@@ -56,7 +63,7 @@
     {
       "heading": "Coming from nearby towns",
       "paragraphs": [
-        "There is one shop address: 1114 S Military Trl, West Palm Beach, FL 33415. Drivers from Greenacres, Palm Springs, and Lake Worth Beach use that same bay. Those three towns sit in Palm Beach County near the shop, so you can drive in when the tire will hold air. We do not quote a minute count, because traffic on Military Trl is not a promise.",
+        "There is one shop address: 1114 S Military Trl, West Palm Beach, FL 33415 — the used tire shop on Military Trail with the Tires New & Used sign out front. Drivers from Greenacres, Palm Springs, and Lake Worth Beach use that same bay. Those three towns sit in Palm Beach County near the shop, so you can drive in when the tire will hold air. We do not quote a minute count, because traffic on Military Trl is not a promise.",
         "If the car should not be driven, ask about mobile tire service instead of guessing. The van serves Palm Beach County from this address, and we confirm the spot by phone before anyone rolls. The van is not a second store, and it does not replace a full look through the used tires in the shop when you are choosing a set."
       ],
       "nap": true
@@ -64,6 +71,10 @@
   ],
   "faqHeading": "Questions about used tires",
   "faqs": [
+    {
+      "question": "Are cheap used tires safe?",
+      "answer": "A cheap used tire is safe only after it is checked. Before mounting, we look at the tread across the tire, the sidewalls for cuts, bubbles or cracks, and the size and load rating for your car. If a used tire is not a safe way to save, we tell you. Used tires are sold without a warranty."
+    },
     {
       "question": "Do you sell new tires as well as used?",
       "answer": "Yes. Los Paisas Tires Shop at 1114 S Military Trl sells both. If a used tire is a poor match for the car, we say so and show you a new one."
@@ -108,6 +119,10 @@
   "moreHeading": "Other tire work at this shop",
   "links": [
     {
+      "href": "/en/cheap-tires-west-palm-beach",
+      "label": "Cheapest tires near me: used from $65"
+    },
+    {
       "href": "/en/services/new-tires",
       "label": "New tires in West Palm Beach"
     },
@@ -141,5 +156,5 @@
     "used tires near me",
     "used tire shop Military Trl"
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-19"
 }

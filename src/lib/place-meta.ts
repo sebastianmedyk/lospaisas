@@ -54,15 +54,15 @@ const COPY = {
 
 const CATALOG_COPY = {
   en: {
-    title: "New Tire Catalog from $120 | Los Paisas Tires Shop, West Palm Beach",
+    title: "New Tire Prices from $120 – Cosmo Catalog | Los Paisas",
     description:
-      "Cosmo new tires R15–R18, from $120 per tire. Catalog price includes alignment and balancing. Los Paisas Tires Shop, West Palm Beach. Call or WhatsApp (561) 429-4041 to confirm stock.",
+      "Cosmo new tire prices from $120 per tire, R15–R18 and SUV/LT. Mounting and balancing included. Call or WhatsApp to confirm your size is in stock.",
     ogAlt: "Cosmo new tire catalog at Los Paisas Tires Shop, West Palm Beach",
   },
   es: {
-    title: "Catálogo de llantas nuevas desde $120 | Los Paisas Tires Shop, West Palm Beach",
+    title: "Precios de llantas nuevas desde $120 | Los Paisas",
     description:
-      "Llantas nuevas Cosmo R15–R18, desde $120 por llanta. El precio incluye alineación y balanceo. Los Paisas Tires Shop, West Palm Beach. Llama o escribe por WhatsApp al (561) 429-4041.",
+      "Precios de llantas nuevas Cosmo desde $120 por llanta, R15–R18 y SUV/LT. Montaje y balanceo incluidos. Llama o escribe por WhatsApp por tu medida.",
     ogAlt: "Catálogo de llantas nuevas Cosmo en Los Paisas Tires Shop, West Palm Beach",
   },
   pl: {

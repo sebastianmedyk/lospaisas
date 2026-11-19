@@ -5,6 +5,7 @@ import { getPost, liveLocalesForPost } from "@/lib/blog";
 import {
   BLOG_SLUGS,
   blogPath,
+  cheapHubPath,
   homePath,
   languageAlternates,
   LOCALES,
@@ -14,6 +15,7 @@ import {
   type LocalePaths,
 } from "@/lib/routes";
 import { absoluteUrl, SITE_URL } from "@/lib/site";
+import { CHEAP_HUB } from "@/lib/cheap-hub";
 
 const SITE_NAME = "Los Paisas Tires Shop";
 const OG_IMG = { url: "/brand/promo-sunday.jpg", width: 1200, height: 900 } as const;
@@ -117,23 +119,26 @@ export function homeMetadata(locale: Locale): Metadata {
 
 const SERVICES_COPY = {
   es: {
-    title: "Servicios de llantas en West Palm Beach",
+    title: "Servicios de llantas en West Palm Beach | Los Paisas",
+    absolute: true,
     description:
-      "Llantas nuevas y usadas, reparación, alineación, balanceo, instalación y servicio móvil en Palm Beach County, desde 1114 S Military Trl. Abierto 7 días, 8 AM–7 PM.",
+      "Llantas nuevas y usadas, reparación, alineación, balanceo e instalación en 1114 S Military Trl. Domicilio en Palm Beach. Abierto 7 días, 8 AM–7 PM.",
     og: "Servicios de llantas | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "Llantas nuevas y usadas, reparación, alineación, balanceo, instalación y servicio móvil en S Military Trl.",
     alt: "Servicios de Los Paisas Tires Shop — S Military Trl, West Palm Beach",
   },
   en: {
-    title: "Tire Services on S Military Trl, West Palm Beach",
+    title: "Tire Services in West Palm Beach | Los Paisas Tires",
+    absolute: true,
     description:
-      "New and used tires, repair, alignment, balancing, installation and mobile service across Palm Beach County from 1114 S Military Trl. Open 7 days, 8 AM–7 PM.",
+      "New and used tires, repair, alignment, balancing and installation at 1114 S Military Trl. Mobile across Palm Beach. Open 7 days, 8 AM–7 PM.",
     og: "Tire Services | Los Paisas Tires Shop, West Palm Beach",
     ogDescription: "New tires, used tires, repair, alignment, balancing, install, and mobile service on S Military Trl.",
     alt: "Los Paisas Tires Shop services — S Military Trl, West Palm Beach",
   },
   pl: {
     title: "Usługi oponiarskie w West Palm Beach",
+    absolute: false,
     description:
       "Nowe i używane opony, naprawa, geometria, wyważanie, montaż i serwis mobilny w Palm Beach County — warsztat przy 1114 S Military Trl. Otwarte 7 dni, 8 AM–7 PM.",
     og: "Usługi oponiarskie | Los Paisas Tires Shop, West Palm Beach",
@@ -144,7 +149,7 @@ const SERVICES_COPY = {
 
 export function servicesIndexMetadata(locale: Locale): Metadata {
   const c = SERVICES_COPY[locale];
-  return pageMeta({ locale, paths: all(servicesPath), title: c.title, description: c.description, ogTitle: c.og, ogDescription: c.ogDescription, ogAlt: c.alt });
+  return pageMeta({ locale, paths: all(servicesPath), title: c.title, absolute: c.absolute, description: c.description, ogTitle: c.og, ogDescription: c.ogDescription, ogAlt: c.alt });
 }
 
 const BLOG_COPY = {
@@ -196,5 +201,21 @@ export function blogPostMetadata(locale: Locale, slug: string): Metadata {
     type: "article",
     publishedTime: post.date,
     ogAlt: "Los Paisas Tires Shop — S Military Trl, West Palm Beach",
+  });
+}
+
+export function cheapHubMetadata(locale: Locale): Metadata {
+  const c = CHEAP_HUB[locale];
+  return pageMeta({
+    locale,
+    paths: all(cheapHubPath),
+    title: c.title,
+    absolute: true,
+    description: c.description,
+    ogAlt: {
+      es: "Letrero Tires New & Used de Los Paisas Tires Shop en S Military Trl, West Palm Beach",
+      en: "Tires New & Used sign at Los Paisas Tires Shop on S Military Trl, West Palm Beach",
+      pl: "Szyld Tires New & Used przy Los Paisas Tires Shop, S Military Trl, West Palm Beach",
+    }[locale],
   });
 }

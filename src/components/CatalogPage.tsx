@@ -2,6 +2,7 @@ import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
 import JsonLd from "@/components/JsonLd";
 import CatalogGrid from "@/components/CatalogGrid";
+import { rich } from "@/components/RichText";
 import { BUSINESS } from "@/lib/constants";
 import { getDictionary, type Locale } from "@/lib/i18n";
 import { NEW_TIRE_MIN_PRICE } from "@/lib/new-tire-catalog";
@@ -17,6 +18,7 @@ const COPY: Record<
     crumb: string;
     h1: string;
     promo: string;
+    cheapest: string;
     disclaimer: string;
     whatsapp: string;
     serviceName: string;
@@ -28,6 +30,7 @@ const COPY: Record<
     crumb: "Catalog",
     h1: "New Tire Catalog",
     promo: `Cosmo new tires from $${NEW_TIRE_MIN_PRICE}, R15–R18. Catalog price includes alignment and balancing.`,
+    cheapest: "Looking for the cheapest option? [Used tires start at $65](/en/services/used-tires), mounting and balancing included. Compare everything on [cheapest tires near me in West Palm Beach](/en/cheap-tires-west-palm-beach).",
     disclaimer: `Prices subject to change without notice. Call or WhatsApp ${BUSINESS.phoneDisplay} to confirm your size is in stock before you come.`,
     whatsapp: "WhatsApp for availability",
     serviceName: "New tires (Cosmo catalog)",
@@ -44,6 +47,7 @@ const COPY: Record<
     crumb: "Catálogo",
     h1: "Catálogo de llantas nuevas",
     promo: `Llantas nuevas Cosmo desde $${NEW_TIRE_MIN_PRICE}, R15–R18. El precio del catálogo incluye alineación y balanceo.`,
+    cheapest: "¿Buscas la opción más barata? [Las llantas usadas empiezan en $65](/servicios/llantas-usadas), con montaje y balanceo incluidos. Compara todo en [las llantas más baratas cerca de mí](/llantas-baratas-west-palm-beach).",
     disclaimer: `Precios sujetos a cambio sin previo aviso. Llama o escribe por WhatsApp al ${BUSINESS.phoneDisplay} para confirmar que tu medida está disponible antes de venir.`,
     whatsapp: "WhatsApp para disponibilidad",
     serviceName: "Llantas nuevas (catálogo Cosmo)",
@@ -60,6 +64,7 @@ const COPY: Record<
     crumb: "Katalog",
     h1: "Katalog nowych opon",
     promo: `Nowe opony Cosmo od $${NEW_TIRE_MIN_PRICE}, R15–R18. Cena z katalogu obejmuje geometrię i wyważanie.`,
+    cheapest: "Szukasz najtańszej opcji? [Używane opony od $65](/pl/uslugi/uzywane-opony), z montażem i wyważeniem w cenie. Porównaj wszystko na stronie [najtańsze opony w West Palm Beach](/pl/tanie-opony-west-palm-beach).",
     disclaimer: `Ceny mogą się zmienić bez uprzedzenia. Zadzwoń lub napisz na WhatsApp ${BUSINESS.phoneDisplay}, żeby potwierdzić dostępność rozmiaru przed przyjazdem.`,
     whatsapp: "WhatsApp — dostępność",
     serviceName: "Nowe opony (katalog Cosmo)",
@@ -115,7 +120,12 @@ export default function CatalogPage({ locale }: { locale: Locale }) {
         breadcrumbLabel={t.a11y.breadcrumb}
         title={c.h1}
         titleId="catalog-heading"
-        intro={<p>{c.promo}</p>}
+        intro={
+          <>
+            <p>{c.promo}</p>
+            <p className="text-base">{rich(c.cheapest)}</p>
+          </>
+        }
       />
       <section className="section-pad-after-hero" aria-labelledby="catalog-heading">
         <div className="container-site">

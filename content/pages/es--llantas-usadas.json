@@ -2,8 +2,8 @@
   "path": "/servicios/llantas-usadas",
   "locale": "es",
   "kind": "service",
-  "title": "Llantas Usadas en West Palm Beach | Los Paisas Tires Shop",
-  "description": "Llantas usadas desde $65 en 1114 S Military Trl, West Palm Beach. Revisamos piso, costados y medida antes de montar. Abierto 8 AM–7 PM. (561) 429-4041.",
+  "title": "Las llantas usadas más baratas en West Palm Beach desde $65",
+  "description": "Las llantas usadas más baratas en West Palm Beach desde $65. Revisamos piso, costados y medida. Montaje y balanceo incluidos. Abierto 7 días, sin cita.",
   "h1": "Llantas Usadas en West Palm Beach",
   "eyebrow": "S Military Trl · 7 días",
   "serviceName": "Llantas usadas",
@@ -33,6 +33,13 @@
       ]
     },
     {
+      "heading": "Las llantas usadas más baratas cerca de mí, abierto 7 días",
+      "paragraphs": [
+        "¿Buscas las llantas usadas más baratas cerca de ti en West Palm Beach? Aquí las usadas van desde $65, y el montaje y el balanceo están incluidos cuando nos compras la llanta, sin cargos ocultos. Abrimos los 7 días, de 8:00 AM a 7:00 PM, también el domingo, y puedes llegar sin cita.",
+        "Para comparar todas las opciones, usadas, Cosmo nuevas o tus propias llantas, mira [las llantas más baratas cerca de mí](/llantas-baratas-west-palm-beach)."
+      ]
+    },
+    {
       "heading": "Cómo es la visita por llantas usadas",
       "paragraphs": [
         "Llama si ya sabes la medida, o trae el carro. El horario es de lunes a domingo, de 8:00 AM a 7:00 PM. Atendemos en español y en inglés. Vemos las llantas que traes puestas, incluida la de repuesto si esa fue la que falló, y te decimos si conviene una usada, una nueva o una reparación.",
@@ -56,7 +63,7 @@
     {
       "heading": "Quién llega desde los pueblos de al lado",
       "paragraphs": [
-        "Hay una sola dirección: 1114 S Military Trl, West Palm Beach, FL 33415. De Greenacres, Palm Springs y Lake Worth Beach se viene a ese mismo taller. Los tres pueblos están en Palm Beach County cerca del local, así que puedes manejar si la llanta aguanta aire. No prometemos minutos, porque el tráfico en Military Trl no se adivina.",
+        "Hay una sola dirección: 1114 S Military Trl, West Palm Beach, FL 33415, la llantera de llantas usadas en Military Trail con el letrero Tires New & Used. De Greenacres, Palm Springs y Lake Worth Beach se viene a ese mismo taller. Los tres pueblos están en Palm Beach County cerca del local, así que puedes manejar si la llanta aguanta aire. No prometemos minutos, porque el tráfico en Military Trl no se adivina.",
         "Si el carro no debe rodar, pregunta por el servicio móvil en vez de arriesgarte. La van atiende Palm Beach County desde esta dirección y confirmamos el lugar por teléfono. No es una segunda tienda, y no sustituye ver las usadas en el taller cuando estás escogiendo un juego."
       ],
       "nap": true
@@ -64,6 +71,10 @@
   ],
   "faqHeading": "Preguntas sobre llantas usadas",
   "faqs": [
+    {
+      "question": "¿Son seguras las llantas usadas baratas?",
+      "answer": "Una llanta usada barata es segura solo si se revisa antes. Antes de montarla miramos el piso en toda la llanta, los costados (cortes, chichones o grietas) y que la medida y la carga correspondan a tu carro. Si una usada no es buena forma de ahorrar, te lo decimos. Las usadas se venden sin garantía."
+    },
     {
       "question": "¿También venden llantas nuevas?",
       "answer": "Sí. En 1114 S Military Trl hay nuevas y usadas. Si la usada no le queda bien al carro, te lo decimos y te enseñamos una nueva."
@@ -112,6 +123,10 @@
   "moreHeading": "Otro trabajo de llantas en el taller",
   "links": [
     {
+      "href": "/llantas-baratas-west-palm-beach",
+      "label": "Las llantas más baratas cerca de mí: usadas desde $65"
+    },
+    {
       "href": "/servicios/llantas-nuevas",
       "label": "Llantas nuevas en West Palm Beach"
     },
@@ -145,5 +160,5 @@
     "llantas usadas cerca de mí",
     "taller de llantas usadas Military Trl"
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-19"
 }

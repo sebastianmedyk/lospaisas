@@ -2,8 +2,8 @@
   "path": "/servicios/reparacion-de-llantas",
   "locale": "es",
   "kind": "service",
-  "title": "Reparación de Llantas en West Palm Beach | Los Paisas",
-  "description": "Reparación de llantas en West Palm Beach: clavo, parche o plug. Vulcanización si la llanta se puede salvar. 1114 S Military Trl. Llama al (561) 429-4041.",
+  "title": "Reparación de llantas barata en West Palm Beach",
+  "description": "Reparación y vulcanización el mismo día, sin cita. Parche aprox. 15–20 min según el tráfico. Si no se puede salvar, te lo decimos. Abierto 7 días.",
   "h1": "Reparación de Llantas en West Palm Beach",
   "eyebrow": "Parche, plug, vulcanización",
   "serviceName": "Reparación de llantas y vulcanización",
@@ -121,5 +121,5 @@
       "label": "¿Le dijeron que necesita cuatro llantas? Cuándo basta reparar"
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-19"
 }

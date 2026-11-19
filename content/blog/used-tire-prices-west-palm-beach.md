@@ -2,7 +2,7 @@
 title: "Used Tire Prices in West Palm Beach: From $65 | Los Paisas"
 description: "How much do used tires cost in West Palm Beach? From $65 at Los Paisas Tires Shop. Final price depends on size and tread. 1114 S Military Trl."
 date: "2026-07-26"
-updated: "2026-11-13"
+updated: "2026-11-19"
 locale: en
 slug: used-tire-prices-west-palm-beach
 h1: "Used Tire Prices in West Palm Beach: From $65"
@@ -48,6 +48,8 @@ Greenacres, Palm Springs, and Lake Worth Beach are in Palm Beach County. People 
 Call or WhatsApp **(561) 429-4041**. Have the size if you know it. If you do not, bring the car. Hours are 8:00 AM to 7:00 PM, Monday through Sunday. The team works in English and Spanish. Instagram is [@tireshop_lospaisas](https://www.instagram.com/tireshop_lospaisas) if you want shop photos from the shop itself, not a stock picture of someone else's bay.
 
 Used tires start from $65. Size and tread decide the final cost, and the person who can see the tire is the person who should say the exact number.
+
+Want to compare cheap tire prices across used, new and your own tires? See [cheapest tires near me in West Palm Beach](/en/cheap-tires-west-palm-beach) for what each option includes.
 
 Related guides: [How to check a used tire before you buy](/en/blog/used-tires-west-palm-beach), [Used vs new tires in Florida heat](/en/blog/used-vs-new-tires-florida-heat), and [Buying new tires: sizes and driving needs](/en/blog/new-tires-west-palm-beach-military-trail).
 

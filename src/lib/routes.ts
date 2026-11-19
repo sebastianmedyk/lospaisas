@@ -38,6 +38,8 @@ export const MOBILE_CITIES = ["greenacres", "lake-worth-beach", "palm-springs"] 
 const LOCATION_SEGMENT: LocalePaths = { es: "ubicacion", en: "location", pl: "lokalizacja" };
 const CONTACT_SEGMENT: LocalePaths = { es: "contacto", en: "contact", pl: "kontakt" };
 const CATALOG_SEGMENT: LocalePaths = { es: "catalogo", en: "catalog", pl: "katalog" };
+/** Cheap / cheapest tires price hub (2026-11-19). */
+const CHEAP_HUB_SEGMENT: LocalePaths = { es: "llantas-baratas-west-palm-beach", en: "cheap-tires-west-palm-beach", pl: "tanie-opony-west-palm-beach" };
 
 /** Blog slug per locale, one entry per article. */
 export const BLOG_SLUGS: LocalePaths[] = [
@@ -73,6 +75,15 @@ export const BLOG_SLUGS: LocalePaths[] = [
   { en: "new-or-used-tires-by-how-you-drive", es: "llantas-nuevas-o-usadas-segun-como-manejas", pl: "nowe-czy-uzywane-opony-styl-jazdy" },
   { en: "lt-tires-work-trucks-suvs", es: "llantas-lt-trocas-de-trabajo", pl: "opony-lt-do-pickupow-i-suv" },
   { en: "thanksgiving-road-trip-tire-check", es: "revisar-llantas-antes-de-viajar-thanksgiving", pl: "sprawdz-opony-przed-podroza-thanksgiving" },
+  // Cheap-tires cluster (2026-11-19): EN + ES only. The PL slug has no file, so PL never goes live
+  // (liveLocalesForPost / sitemap skip it) and the language switcher hides it.
+  { en: "compare-cheap-tire-prices-west-palm-beach", es: "comparar-precios-llantas-baratas-west-palm-beach", pl: "porownanie-cen-tanich-opon-west-palm-beach" },
+  { en: "gomas-llantas-neumaticos-spanish-tire-words", es: "gomas-baratas-west-palm-beach", pl: "gomas-llantas-neumaticos-slownik" },
+  { en: "cheap-tires-open-sunday-west-palm-beach", es: "llantas-baratas-abierto-domingo-west-palm-beach", pl: "tanie-opony-w-niedziele-west-palm-beach" },
+  { en: "are-cheap-used-tires-safe", es: "son-seguras-llantas-usadas-baratas", pl: "czy-tanie-uzywane-opony-sa-bezpieczne" },
+  { en: "cheap-set-of-4-tires-free-alignment", es: "4-llantas-baratas-alineacion-gratis", pl: "tani-komplet-4-opon-geometria-gratis" },
+  { en: "tire-financing-west-palm-beach-snap", es: "llantas-a-credito-west-palm-beach-snap", pl: "opony-na-raty-snap-west-palm-beach" },
+  { en: "cheap-tire-repair-patch-or-replace", es: "reparar-o-comprar-llanta-parche-barato", pl: "tania-naprawa-opony-latka-czy-nowa" },
 ];
 
 export const servicesPath = (l: Locale) => `${prefix(l)}/${SERVICES_SEGMENT[l]}`;
@@ -81,6 +92,7 @@ export const cityHref = (l: Locale, city: string) => `${serviceHref(l, MOBILE_SE
 export const locationPath = (l: Locale) => `${prefix(l)}/${LOCATION_SEGMENT[l]}`;
 export const contactPath = (l: Locale) => `${prefix(l)}/${CONTACT_SEGMENT[l]}`;
 export const catalogPath = (l: Locale) => `${prefix(l)}/${CATALOG_SEGMENT[l]}`;
+export const cheapHubPath = (l: Locale) => `${prefix(l)}/${CHEAP_HUB_SEGMENT[l]}`;
 export const blogPath = (l: Locale, slug?: string) => `${prefix(l)}/blog${slug ? `/${slug}` : ""}`;
 
 const all = (fn: (l: Locale) => string): LocalePaths => ({ es: fn("es"), en: fn("en"), pl: fn("pl") });
@@ -92,6 +104,7 @@ export const PAGE_GROUPS: LocalePaths[] = [
   ...SERVICE_SLUGS.map((_, i) => all((l) => serviceHref(l, i))),
   ...MOBILE_CITIES.map((c) => all((l) => cityHref(l, c))),
   all(catalogPath),
+  all(cheapHubPath),
   all(locationPath),
   all(contactPath),
   all((l) => blogPath(l)),

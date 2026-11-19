@@ -14,6 +14,7 @@ import { homePath, servicesPath } from "@/lib/routes";
 import type { Locale } from "@/lib/i18n";
 import { absoluteUrl } from "@/lib/site";
 import PhotoStrip from "@/components/PhotoStrip";
+import { rich } from "@/components/RichText";
 import { SERVICE_PHOTOS } from "@/lib/photos";
 
 export default function LocalPageView({ page }: { page: LocalPage }) {
@@ -58,7 +59,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
           eyebrow={page.eyebrow}
           title={page.h1}
           intro={page.intro.map((paragraph, index) => (
-            <p key={index}>{paragraph}</p>
+            <p key={index}>{rich(paragraph)}</p>
           ))}
           cta
         />
@@ -81,7 +82,7 @@ export default function LocalPageView({ page }: { page: LocalPage }) {
               <SectionHeading title={section.heading} />
               <div className="mt-5 space-y-4 text-base leading-relaxed text-white/80">
                 {section.paragraphs.map((paragraph, index) => (
-                  <p key={index}>{paragraph}</p>
+                  <p key={index}>{rich(paragraph)}</p>
                 ))}
               </div>
               {section.bullets && section.bullets.length > 0 ? (

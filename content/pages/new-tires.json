@@ -2,8 +2,8 @@
   "path": "/en/services/new-tires",
   "locale": "en",
   "kind": "service",
-  "title": "New Tires from $120 in West Palm Beach | Los Paisas Tires Shop",
-  "description": "New Cosmo tires from $120 (R15–R18) at 1114 S Military Trl, West Palm Beach. Catalog price includes alignment and balancing. Open 7 days, 8 AM–7 PM. (561) 429-4041.",
+  "title": "Affordable New Tires in West Palm Beach from $120",
+  "description": "New Cosmo tires from $120 (R15–R18), mounting and balancing included. Free alignment with 4 new tires. 1114 S Military Trl. Open 7 days.",
   "h1": "New Tires in West Palm Beach",
   "eyebrow": "Tire shop on S Military Trl",
   "serviceName": "New tires",
@@ -16,7 +16,8 @@
   ],
   "intro": [
     "New tires in West Palm Beach start with the car in front of us, not with a slogan. Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. We sell new tires and used tires, and we will tell you when a new tire is the right buy and when a checked used tire is enough.",
-    "New Cosmo tires start at $120 per tire, R15 to R18, including two LT sizes and one C size. The full size and price table is on this page, and the catalog price includes alignment and balancing. If we do not have your size in stock, we can order it. There are no extra fees. Buy 4 new tires and alignment is free. Prices are subject to change without notice, so call or WhatsApp (561) 429-4041, any day from 8:00 AM to 7:00 PM, to confirm your size before you come. Driving in from Greenacres, Palm Springs, or Lake Worth Beach? Those areas are in Palm Beach County near this shop on Military Trail."
+    "New Cosmo tires start at $120 per tire, R15 to R18, including two LT sizes and one C size. The full size and price table is on this page, and the catalog price includes alignment and balancing. If we do not have your size in stock, we can order it. There are no extra fees. Buy 4 new tires and alignment is free. Prices are subject to change without notice, so call or WhatsApp (561) 429-4041, any day from 8:00 AM to 7:00 PM, to confirm your size before you come. Driving in from Greenacres, Palm Springs, or Lake Worth Beach? Those areas are in Palm Beach County near this shop on Military Trail.",
+    "Looking for affordable new tires in West Palm Beach? New Cosmo tires start from $120 with mounting and balancing included, and you get free alignment with 4 new tires. To compare new against used tires from $65, see [cheapest tires near me in West Palm Beach](/en/cheap-tires-west-palm-beach)."
   ],
   "sections": [
     {
@@ -123,6 +124,10 @@
   "moreHeading": "Related work on the same visit",
   "links": [
     {
+      "href": "/en/cheap-tires-west-palm-beach",
+      "label": "Cheapest tires near me: used from $65, new from $120"
+    },
+    {
       "href": "/en/services/used-tires",
       "label": "Used tires when a new set is more than you need"
     },
@@ -152,5 +157,5 @@
     "new tires near me",
     "new tire installation Military Trl"
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-19"
 }

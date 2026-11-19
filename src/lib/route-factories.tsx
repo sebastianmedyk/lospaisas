@@ -5,13 +5,14 @@ import ServicesListing from "@/components/ServicesListing";
 import LocalPageView from "@/components/LocalPageView";
 import PlacePage from "@/components/PlacePage";
 import CatalogPage from "@/components/CatalogPage";
+import CheapTiresHub from "@/components/CheapTiresHub";
 import BlogListing from "@/components/BlogListing";
 import BlogArticle from "@/components/BlogArticle";
 import RootDocument from "@/components/RootDocument";
 import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
 import { getLocalPage, localPageMetadata, localParams } from "@/lib/local-pages";
 import { catalogMetadata, placeMetadata } from "@/lib/place-meta";
-import { baseMetadata, blogIndexMetadata, blogPostMetadata, homeMetadata, servicesIndexMetadata } from "@/lib/page-meta";
+import { baseMetadata, cheapHubMetadata, blogIndexMetadata, blogPostMetadata, homeMetadata, servicesIndexMetadata } from "@/lib/page-meta";
 import { servicesPath, type Locale } from "@/lib/routes";
 
 /*
@@ -106,4 +107,8 @@ export function blogPostRoute(locale: Locale) {
       return <BlogArticle post={post} />;
     },
   };
+}
+
+export function cheapHubRoute(locale: Locale) {
+  return { metadata: cheapHubMetadata(locale), Page: () => <CheapTiresHub locale={locale} /> };
 }

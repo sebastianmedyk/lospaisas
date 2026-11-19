@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { servicesPath } from "@/lib/routes";
+import { cheapHubPath, pick, servicesPath } from "@/lib/routes";
 import SectionHeading from "./SectionHeading";
 import ServiceCards, { type ServiceLayout } from "./ServiceCards";
 
@@ -37,6 +37,28 @@ export default function Services({ layout = "default" }: { layout?: ServiceLayou
             </div>
             <div className="lg:col-span-8">
               <ServiceCards layout="list" />
+              <Link
+                href={cheapHubPath(locale)}
+                className="group mt-6 flex items-center justify-between gap-4 border border-brand-gold/50 p-5 transition hover:border-brand-gold focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold"
+              >
+                <span>
+                  <span className="headline block text-s2 font-bold text-white group-hover:text-brand-gold sm:text-s3">
+                    {pick(locale, {
+                      en: "Cheapest tires near me",
+                      es: "Las llantas más baratas",
+                      pl: "Najtańsze opony w pobliżu",
+                    })}
+                  </span>
+                  <span className="mt-1 block text-sm text-white/70">
+                    {pick(locale, {
+                      en: "Used from $65, new Cosmo from $120. Mounting and balancing included.",
+                      es: "Usadas desde $65, Cosmo nuevas desde $120. Montaje y balanceo incluidos.",
+                      pl: "Używane od $65, nowe Cosmo od $120. Montaż i wyważenie w cenie.",
+                    })}
+                  </span>
+                </span>
+                <span aria-hidden className="text-2xl text-brand-gold">→</span>
+              </Link>
             </div>
           </div>
         ) : (

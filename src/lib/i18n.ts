@@ -5,9 +5,9 @@ import { pl } from "@/lib/i18n-pl";
 export const translations = {
   en: {
     meta: {
-      title: "Tire Shop in West Palm Beach – New & Used Tires | Los Paisas",
+      title: "Cheapest Tires Near Me | West Palm Beach | Los Paisas",
       description:
-        "Used tires from $65, new from $120. Alignment, balancing & repair at 1114 S Military Trl, West Palm Beach. Open 7 days incl. Sunday, 8 AM–7 PM. (561) 429-4041.",
+        "Cheapest tires near me in West Palm Beach: used from $65, new from $120. Mounting and balancing included. Open 7 days incl. Sunday at 1114 S Military Trl.",
       keywords: [
         "tire shop West Palm Beach",
         "used tires Military Trl",
@@ -235,6 +235,11 @@ export const translations = {
             "Los Paisas Tires Shop is at 1114 S Military Trl, West Palm Beach, FL 33415. Drivers from Greenacres, Palm Springs, Lake Worth Beach, and Palm Beach County can reach the shop easily on the Military Trl corridor. Call (561) 429-4041.",
         },
         {
+          question: "Where can I get the cheapest tires near me in West Palm Beach?",
+          answer:
+            "At Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415. Used tires start from $65 and new Cosmo tires from $120, with mounting and balancing included and no hidden fees. Open 7 days, 8:00 AM–7:00 PM, including Sunday.",
+        },
+        {
           question: "Is Los Paisas Tires Shop open on Sunday in West Palm Beach?",
           answer:
             "Yes. Los Paisas Tires Shop is open seven days a week, including Sunday, from 8:00 AM to 7:00 PM at 1114 S Military Trl, West Palm Beach. Call or WhatsApp (561) 429-4041 for same-day tire help.",
@@ -376,9 +381,9 @@ export const translations = {
   },
   es: {
     meta: {
-      title: "Llantera en West Palm Beach: usadas y nuevas | Los Paisas",
+      title: "Las llantas más baratas en West Palm Beach | Los Paisas",
       description:
-        "Usadas desde $65, nuevas desde $120. Alineación, balanceo y reparación en 1114 S Military Trl, West Palm Beach. Abierto 7 días, también domingo, 8 AM–7 PM.",
+        "Las llantas más baratas cerca de mí en West Palm Beach: usadas desde $65, nuevas desde $120, montaje y balanceo incluidos. Abierto 7 días, también domingo.",
       keywords: [
         "llantas West Palm Beach",
         "tienda de llantas cerca de mí West Palm Beach",
@@ -600,6 +605,11 @@ export const translations = {
       subtitle:
         "Preguntas frecuentes de conductores en West Palm Beach.",
       items: [
+        {
+          question: "¿Dónde encuentro las llantas más baratas cerca de mí?",
+          answer:
+            "En Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415. Usadas desde $65 y Cosmo nuevas desde $120, con montaje y balanceo incluidos y sin cargos ocultos. Abierto los 7 días, de 8:00 AM a 7:00 PM, también el domingo.",
+        },
         {
           question: "¿Dónde está Los Paisas Tires Shop?",
           answer:

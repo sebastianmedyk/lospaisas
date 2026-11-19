@@ -4,7 +4,7 @@ import { blogPath } from "@/lib/routes";
 import Link from "next/link";
 import { BUSINESS } from "@/lib/constants";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { catalogPath, contactPath, locationPath } from "@/lib/routes";
+import { catalogPath, cheapHubPath, contactPath, locationPath, pick } from "@/lib/routes";
 import { servicesPath } from "@/lib/routes";
 import {
   FacebookIcon,
@@ -52,6 +52,9 @@ export default function Footer() {
               </Link>
               <Link href={catalogPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.catalog}
+              </Link>
+              <Link href={cheapHubPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
+                {pick(locale, { es: "Llantas baratas", en: "Cheap tires", pl: "Tanie opony" })}
               </Link>
               <Link href={locationPath(locale)} className="inline-flex min-h-[44px] min-w-[44px] items-center hover:text-brand-gold">
                 {t.nav.location}

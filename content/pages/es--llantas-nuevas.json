@@ -2,8 +2,8 @@
   "path": "/servicios/llantas-nuevas",
   "locale": "es",
   "kind": "service",
-  "title": "Llantas Nuevas desde $120 en West Palm Beach | Los Paisas Tires Shop",
-  "description": "Llantas nuevas Cosmo desde $120 (R15–R18) en 1114 S Military Trl, West Palm Beach. Precio incluye alineación y balanceo. Abierto 7 días, 8 AM–7 PM. (561) 429-4041.",
+  "title": "Llantas nuevas baratas en West Palm Beach desde $120",
+  "description": "Llantas nuevas Cosmo desde $120 (R15–R18), montaje y balanceo incluidos. Alineación gratis con 4 nuevas. 1114 S Military Trl. Abierto 7 días.",
   "h1": "Llantas Nuevas en West Palm Beach",
   "eyebrow": "Taller en S Military Trl",
   "serviceName": "Llantas nuevas",
@@ -16,7 +16,8 @@
   ],
   "intro": [
     "Las llantas nuevas en West Palm Beach empiezan con el carro enfrente, no con un lema. Los Paisas Tires Shop está en 1114 S Military Trl, West Palm Beach, FL 33415. Vendemos nuevas y usadas, y te decimos cuándo una nueva es la compra correcta y cuándo una usada revisada alcanza.",
-    "Las llantas nuevas Cosmo cuestan desde $120 por llanta, de R15 a R18, incluyendo dos medidas LT y una C. La tabla completa de medidas y precios está en esta página, y el precio del catálogo incluye alineación y balanceo. Si no tenemos tu medida, la podemos pedir. No hay cargos extras. Al comprar 4 llantas nuevas, la alineación es gratis. Precios sujetos a cambio sin previo aviso: llama o escribe por WhatsApp al (561) 429-4041, de 8:00 AM a 7:00 PM todos los días, para confirmar tu medida antes de venir. ¿Vienes desde Greenacres, Palm Springs o Lake Worth Beach? Esas zonas están en Palm Beach County, cerca de este único taller en Military Trail."
+    "Las llantas nuevas Cosmo cuestan desde $120 por llanta, de R15 a R18, incluyendo dos medidas LT y una C. La tabla completa de medidas y precios está en esta página, y el precio del catálogo incluye alineación y balanceo. Si no tenemos tu medida, la podemos pedir. No hay cargos extras. Al comprar 4 llantas nuevas, la alineación es gratis. Precios sujetos a cambio sin previo aviso: llama o escribe por WhatsApp al (561) 429-4041, de 8:00 AM a 7:00 PM todos los días, para confirmar tu medida antes de venir. ¿Vienes desde Greenacres, Palm Springs o Lake Worth Beach? Esas zonas están en Palm Beach County, cerca de este único taller en Military Trail.",
+    "¿Buscas llantas nuevas baratas en West Palm Beach? Las Cosmo nuevas van desde $120 con montaje y balanceo incluidos, y con 4 llantas nuevas la alineación es gratis. Para compararlas con las usadas desde $65, mira [las llantas más baratas cerca de mí](/llantas-baratas-west-palm-beach)."
   ],
   "sections": [
     {
@@ -123,6 +124,10 @@
   "moreHeading": "Trabajo que cabe en la misma visita",
   "links": [
     {
+      "href": "/llantas-baratas-west-palm-beach",
+      "label": "Las llantas más baratas: usadas desde $65, nuevas desde $120"
+    },
+    {
       "href": "/servicios/llantas-usadas",
       "label": "Llantas usadas cuando no hace falta un juego nuevo"
     },
@@ -152,5 +157,5 @@
     "llantas nuevas cerca de mí",
     "instalación de llantas nuevas Military Trl"
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-19"
 }

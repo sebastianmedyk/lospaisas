@@ -4,7 +4,7 @@ import { blogPath, homePath, languageAlternates, LOCALES, PAGE_GROUPS, servicesP
 import { SITE_URL } from "@/lib/site";
 
 /** Last content change of home / hub / location / contact pages. Bump when they change. */
-const SITE_PAGES_UPDATED = "2026-10-29";
+const SITE_PAGES_UPDATED = "2026-11-19";
 
 const abs = (path: string) => (path === "/" ? SITE_URL : `${SITE_URL}${path}`);
 

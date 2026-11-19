@@ -2,8 +2,8 @@
   "path": "/servicios/servicio-movil",
   "locale": "es",
   "kind": "service",
-  "title": "Servicio Móvil de Llantas en West Palm Beach | Los Paisas",
-  "description": "Servicio móvil de llantas en Palm Beach County desde nuestro taller en 1114 S Military Trl, West Palm Beach. Llama primero y confirmamos la dirección. Abierto 8 AM–7 PM. (561) 429-4041.",
+  "title": "Servicio de llantas a domicilio en West Palm Beach",
+  "description": "Servicio de llantas a domicilio en todo Palm Beach desde 1114 S Military Trl. Llevamos la llanta y la herramienta. Llama primero. Abierto 7 días.",
   "h1": "Servicio Móvil de Llantas en West Palm Beach",
   "eyebrow": "En Palm Beach County",
   "serviceName": "Servicio móvil de llantas",
@@ -111,5 +111,5 @@
       "label": "¿Llanta ponchada el domingo? Qué puede hacer el taller"
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-19"
 }

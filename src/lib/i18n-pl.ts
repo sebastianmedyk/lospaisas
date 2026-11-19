@@ -189,6 +189,11 @@ export const pl: DictionaryShape = {
     subtitle: "Pytania, które najczęściej zadają kierowcy z West Palm Beach.",
     items: [
       {
+        question: "Gdzie znajdę najtańsze opony w pobliżu w West Palm Beach?",
+        answer:
+          "W Los Paisas Tires Shop, 1114 S Military Trl, West Palm Beach, FL 33415. Używane od $65 i nowe Cosmo od $120, z montażem i wyważeniem w cenie, bez ukrytych opłat. Otwarte 7 dni, 8:00 AM–7:00 PM, także w niedzielę.",
+      },
+      {
         question: "Gdzie znajduje się Los Paisas Tires Shop?",
         answer:
           "Los Paisas Tires Shop mieści się pod adresem 1114 S Military Trl, West Palm Beach, FL 33415. Kierowcy z Greenacres, Palm Springs, Lake Worth Beach i całego Palm Beach County łatwo dojadą tu wzdłuż Military Trl. Telefon: (561) 429-4041.",
