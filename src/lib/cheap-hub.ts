@@ -83,7 +83,7 @@ export const CHEAP_HUB: Record<Locale, HubCopy> = {
         id: "compare",
         heading: "Compare the full price, not just the tire",
         paragraphs: [
-          "The cheapest place to get tires mounted and balanced is not always the one with the lowest number on the sign. A tire price that leaves out mounting, balancing or a fee at the end can cost more by the time you drive away. Before you pay anywhere, ask the same short list of questions and compare the total.",
+          "The cheapest place to get tires mounted and balanced is not always the one with the lowest number on the sign. A tire price that leaves out mounting, balancing or a fee at the end can cost more by the time you drive away. Before you pay anywhere, ask the same short list of questions and compare the total. Our guide to [how to compare cheap tire prices in West Palm Beach](/en/blog/compare-cheap-tire-prices-west-palm-beach) walks through it.",
           "At Los Paisas Tires Shop the answer is simple: when you buy the tire from us, mounting and balancing are in the price and there are no hidden fees. Used tires start from $65 and new Cosmo tires from $120.",
         ],
         bullets: [
