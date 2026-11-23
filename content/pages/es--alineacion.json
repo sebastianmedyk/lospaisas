@@ -2,8 +2,8 @@
   "path": "/servicios/alineacion",
   "locale": "es",
   "kind": "service",
-  "title": "Alineación de carro y balanceo en West Palm Beach | Los Paisas",
-  "description": "Alineación de carro en 1114 S Military Trl, West Palm Beach, para que vaya derecho. Balanceo en la misma visita. Abierto 7 días, 8 AM–7 PM. (561) 429-4041.",
+  "title": "Alineación de carro en West Palm Beach | Los Paisas",
+  "description": "Alineación de carro en 1114 S Military Trl, West Palm Beach: gratis al comprar 4 llantas nuevas. Sin cita, 7 días, 8 AM–7 PM. (561) 429-4041.",
   "h1": "Alineación de carro y balanceo en West Palm Beach",
   "eyebrow": "Alineación y geometría",
   "serviceName": "Alineación",
@@ -30,6 +30,13 @@
         "Desgaste del hombro interior o exterior",
         "Una revisión después de llantas nuevas, para no gastar el piso",
         "Geometría, si así le dices en la casa"
+      ]
+    },
+    {
+      "heading": "Alineación de carro gratis con 4 llantas nuevas",
+      "paragraphs": [
+        "Si compras 4 llantas nuevas en Los Paisas Tires Shop, la alineación de carro va gratis. Así el juego nuevo empieza derecho y no se come un borde en los primeros meses. Las llantas nuevas Cosmo empiezan desde $120 con montaje y balanceo incluidos.",
+        "Si solo necesitas la alineación de carro, sin llantas nuevas, también la hacemos. El precio depende del carro y te lo decimos antes de empezar, en español o inglés."
       ]
     },
     {
@@ -109,5 +116,5 @@
       "label": "Alineación en Military Trl"
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-23"
 }

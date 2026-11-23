@@ -5,9 +5,9 @@ import { pl } from "@/lib/i18n-pl";
 export const translations = {
   en: {
     meta: {
-      title: "Cheapest Tires Near Me | West Palm Beach | Los Paisas",
+      title: "Tire Shop West Palm Beach – Cheap Used Tires from $65 | Los Paisas",
       description:
-        "Cheapest tires near me in West Palm Beach: used from $65, new from $120. Mounting and balancing included. Open 7 days incl. Sunday at 1114 S Military Trl.",
+        "Tire shop in West Palm Beach with cheap used tires from $65 and new from $120, mounting and balancing included. Open 7 days, Sunday too, at 1114 S Military Trl.",
       keywords: [
         "tire shop West Palm Beach",
         "used tires Military Trl",
@@ -381,10 +381,11 @@ export const translations = {
   },
   es: {
     meta: {
-      title: "Las llantas más baratas en West Palm Beach | Los Paisas",
+      title: "Llantera en West Palm Beach: llantas baratas desde $65",
       description:
-        "Las llantas más baratas cerca de mí en West Palm Beach: usadas desde $65, nuevas desde $120, montaje y balanceo incluidos. Abierto 7 días, también domingo.",
+        "Llantera en West Palm Beach con llantas baratas: usadas desde $65, nuevas desde $120, montaje y balanceo incluidos. Abierto 7 días, también domingo.",
       keywords: [
+        "llantera West Palm Beach",
         "llantas West Palm Beach",
         "tienda de llantas cerca de mí West Palm Beach",
         "llantas usadas Military Trl",

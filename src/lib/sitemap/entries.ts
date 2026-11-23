@@ -60,12 +60,14 @@ export function sitemapEntries(): SitemapEntry[] {
       ? LOCALES
       : LOCALES.filter((l) => posts.some((p) => p.locale === l && blogPath(l, p.slug) === group[l]));
 
+  // A merged post can appear in two groups (same EN URL); list each URL once, first group wins.
+  const seen = new Set<string>();
   return PAGE_GROUPS.flatMap((group) => {
     const live = liveLocales(group);
     const languages = Object.fromEntries(
       Object.entries(languageAlternates(group, live)).map(([k, v]) => [k, abs(v)]),
     );
-    return live.map((locale) => {
+    return live.filter((locale) => !seen.has(group[locale]) && (seen.add(group[locale]), true)).map((locale) => {
       const modified = lastModified(group[locale], locale);
       return {
         url: abs(group[locale]),

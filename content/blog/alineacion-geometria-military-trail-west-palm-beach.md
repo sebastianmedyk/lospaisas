@@ -2,7 +2,7 @@
 title: "Señales de que tu carro necesita alineación"
 description: "¿Necesitas alineación en West Palm Beach? En S Military Trl revisamos desvío, desgaste irregular y geometría. Abiertos 7 días, precios claros."
 date: "2026-07-22"
-updated: "2026-10-19"
+updated: "2026-11-23"
 locale: es
 slug: alineacion-geometria-military-trail-west-palm-beach
 keywords:
@@ -11,7 +11,7 @@ keywords:
   - alineación de llantas West Palm Beach
 ---
 
-Si el volante se va de lado, queda torcido al ir recto o la banda se gasta de forma irregular, puede ser hora de una **alineación** — también llamada **geometría**. En **Los Paisas Tires Shop** en **S Military Trl, West Palm Beach**, alineamos como parte del cuidado enfocado en llantas, con el precio explicado antes de empezar.
+Si el volante se va de lado, queda torcido al ir recto o la banda se gasta de forma irregular, puede ser hora de una **[alineación de carro](/servicios/alineacion)** — también llamada **geometría**. En **Los Paisas Tires Shop** en **S Military Trl, West Palm Beach**, alineamos como parte del cuidado enfocado en llantas, con el precio explicado antes de empezar.
 
 ## ¿Cuáles son las señales de que necesitas alineación?
 
@@ -34,7 +34,7 @@ También montamos y balanceamos **llantas nuevas** o **usadas**, reparamos y vul
 
 Las ruedas desalineadas gastan la banda de forma irregular, así que saltar la alineación después de montar llantas nuevas, o después de un golpe fuerte, puede acabar las llantas antes de tiempo. Las calles de Palm Beach County castigan las llantas: calor, frenadas y pavimento irregular. Revisar la geometría en un taller de barrio mantiene la charla personal y la cotización honesta.
 
-Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de solo días hábiles. Llama o WhatsApp **(561) 429-4041**, o mira [servicios](/servicios/alineacion) y [ubicación](/ubicacion). Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
+Abrimos **7 días a la semana, 8:00 AM – 7:00 PM**. Sin cuello de botella de solo días hábiles. Llama o WhatsApp **(561) 429-4041**, o mira [alineación de carro en West Palm Beach](/servicios/alineacion) y [ubicación](/ubicacion). Sigue **[@tireshop_lospaisas](https://instagram.com/tireshop_lospaisas)**.
 
 ## Alineación en Los Paisas en resumen
 
@@ -56,7 +56,7 @@ Normalmente no. Una vibración a velocidad de carretera que se va al bajar la ve
 
 ### ¿Debo alinear cuando pongo llantas nuevas?
 
-Si las llantas viejas se gastaron de forma irregular o el carro jala, pregunta por la alineación cuando monten las nuevas, para que el juego nuevo no se gaste igual.
+Si las llantas viejas se gastaron de forma irregular o el carro jala, pregunta por la alineación cuando monten las nuevas, para que el juego nuevo no se gaste igual. Con 4 llantas nuevas, la [alineación de carro](/servicios/alineacion) es gratis.
 
 ### ¿Hacen alineación el domingo?
 

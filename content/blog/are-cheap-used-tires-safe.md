@@ -24,7 +24,7 @@ A tire does not become dangerous just because someone drove on it before. It bec
 - **The sidewall.** Cuts, bulges, bubbles and cracks on the side of the tire are serious. The sidewall flexes with every turn, and damage there cannot be safely repaired. You can read more in [bulge or cut on the tire sidewall](/en/blog/sidewall-bulge-or-cut-tire).
 - **Repairs in the wrong place.** A patch in the tread area is normal. A repair near the shoulder or on the sidewall is a reason to say no.
 - **Size and load rating.** A tire that "almost fits" is not the same tire. Size and load rating need to match what your car calls for.
-- **Age.** Rubber ages, especially in heat. The DOT code on the sidewall shows when the tire was made. Our guide on [tire age and the DOT date in Florida heat](/en/blog/tire-age-dot-date-florida-heat) explains how to read it.
+- **Age.** Rubber ages, especially in heat. The DOT code on the sidewall shows when the tire was made. Our guide on [tire age and the DOT date in Florida heat](/en/blog/do-modern-tires-last-only-2-to-4-years) explains how to read it.
 - **Uneven wear.** Cupping or one worn edge can mean the tire came off a car with an alignment or suspension problem. That tire may not wear evenly on yours either.
 
 ## What we check before mounting, and when we say no

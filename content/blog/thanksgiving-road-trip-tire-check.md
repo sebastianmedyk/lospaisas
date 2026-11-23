@@ -31,7 +31,7 @@ We repair a puncture in the tread, **balance a tire that shakes**, check your al
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (call or WhatsApp) · open **7 days a week, 8:00 AM – 7:00 PM**.
 
-Service page: [wheel balancing](/en/services/tire-balancing). Related: [car shakes at highway speed](/en/blog/car-shakes-at-highway-speed-west-palm-beach) and [how to read the DOT date](/en/blog/tire-age-dot-date-florida-heat).
+Service page: [wheel balancing](/en/services/tire-balancing). Related: [car shakes at highway speed](/en/blog/car-shakes-at-highway-speed-west-palm-beach) and [how to read the DOT date](/en/blog/do-modern-tires-last-only-2-to-4-years).
 
 ## Questions
 

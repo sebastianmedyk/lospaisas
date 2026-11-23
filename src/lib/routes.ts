@@ -64,11 +64,14 @@ export const BLOG_SLUGS: LocalePaths[] = [
   { en: "hit-curb-or-pothole-alignment-check", es: "alineacion-despues-de-golpe-bache-cuneta", pl: "geometria-po-uderzeniu-w-kraweznik-lub-dziure" },
   { en: "hurricane-season-tire-prep-palm-beach-county", es: "temporada-huracanes-llantas-palm-beach", pl: "sezon-huraganow-opony-palm-beach" },
   { en: "new-tire-sizes-r15-r18-lt-west-palm-beach", es: "medidas-llantas-nuevas-r15-r18-lt", pl: "nowe-opony-r15-r18-lt-west-palm-beach" },
-  { en: "tire-age-dot-date-florida-heat", es: "fecha-dot-edad-llanta-calor-florida", pl: "data-dot-wiek-opony-upal-floryda" },
   { en: "used-tire-inspection-checklist", es: "revision-llantas-usadas-antes-de-montar", pl: "kontrola-uzywanych-opon-przed-montazem" },
   { en: "how-to-read-tire-size-on-sidewall", es: "como-leer-medida-llanta-costado", pl: "jak-odczytac-rozmiar-opony" },
   { en: "sidewall-bulge-or-cut-tire", es: "bulto-corte-costado-llanta", pl: "wybrzuszenie-lub-rozciecie-boku-opony" },
   { en: "do-modern-tires-last-only-2-to-4-years", es: "duran-las-llantas-nuevas-solo-2-a-4-anos", pl: "czy-nowe-opony-wytrzymuja-tylko-2-4-lata" },
+  // 2026-11-23: the EN DOT-date post (tire-age-dot-date-florida-heat) was merged into the EN post above
+  // (301 in next.config.ts). Its ES/PL posts stay; their EN alternate points at the merged post.
+  // Must stay AFTER the entry above so BLOG_SLUGS.find / groupForPath for the EN slug return its own pair.
+  { en: "do-modern-tires-last-only-2-to-4-years", es: "fecha-dot-edad-llanta-calor-florida", pl: "data-dot-wiek-opony-upal-floryda" },
   { en: "slow-leak-after-storm-nails-debris", es: "llanta-pierde-aire-despues-tormenta", pl: "opona-traci-powietrze-po-burzy" },
   { en: "donut-spare-tire-limits", es: "llanta-de-repuesto-donut-limites", pl: "dojazdowka-kolo-zapasowe-ograniczenia" },
   { en: "full-set-four-tires-one-visit", es: "juego-cuatro-llantas-una-visita", pl: "komplet-czterech-opon-jedna-wizyta" },

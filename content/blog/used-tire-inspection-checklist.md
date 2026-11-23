@@ -36,7 +36,7 @@ The sidewall cannot be repaired. We look on both sides for:
 
 ## 3. DOT date code: how old is the tire?
 
-Every tire has a DOT code on the sidewall. The **last four digits** are the week and year it was made. For example, **2421** means the 24th week of 2021. Rubber ages even when the tread looks good, and Florida heat speeds that up, so the age is part of the decision. More on this in [how to read the DOT date](/en/blog/tire-age-dot-date-florida-heat).
+Every tire has a DOT code on the sidewall. The **last four digits** are the week and year it was made. For example, **2421** means the 24th week of 2021. Rubber ages even when the tread looks good, and Florida heat speeds that up, so the age is part of the decision. More on this in [how to read the DOT date](/en/blog/do-modern-tires-last-only-2-to-4-years).
 
 ## 4. Inside and bead
 
@@ -57,7 +57,7 @@ We mount and balance it at the shop. You can ask to see the tread, sidewall, and
 
 **Los Paisas Tires Shop**, **1114 S Military Trl, West Palm Beach, FL 33415** · **(561) 429-4041** (call or WhatsApp) · open **Mon–Sun, 8:00 AM – 7:00 PM**.
 
-Service page: [used tires](/en/services/used-tires). Related: [used tire prices](/en/blog/used-tire-prices-west-palm-beach) and [how to read the DOT date](/en/blog/tire-age-dot-date-florida-heat).
+Service page: [used tires](/en/services/used-tires). Related: [used tire prices](/en/blog/used-tire-prices-west-palm-beach) and [how to read the DOT date](/en/blog/do-modern-tires-last-only-2-to-4-years).
 
 ## Questions
 

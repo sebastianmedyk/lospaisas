@@ -30,6 +30,9 @@ const REDIRECTS: { source: string; destination: string }[] = [
   { source: `/${MOBILE.en}/:city`, destination: `/en/services/${MOBILE.en}/:city` },
   ...ES_SERVICE.map((slug) => ({ source: `/es/${slug}`, destination: `/servicios/${slug}` })),
   { source: `/es/${MOBILE.es}/:city`, destination: `/servicios/${MOBILE.es}/:city` },
+  // 2026-11-23: EN DOT-date post merged into the Florida tire-life post
+  { source: "/en/blog/tire-age-dot-date-florida-heat", destination: "/en/blog/do-modern-tires-last-only-2-to-4-years" },
+  { source: "/blog/tire-age-dot-date-florida-heat", destination: "/en/blog/do-modern-tires-last-only-2-to-4-years" },
   // Old static-site index
   { source: "/index.html", destination: "/" },
   // Former design previews

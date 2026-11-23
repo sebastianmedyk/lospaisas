@@ -3,9 +3,9 @@ import type { DictionaryShape } from "@/lib/i18n";
 /** Polish UI dictionary. NAP (name, address, phone, hours) stays in US format. */
 export const pl: DictionaryShape = {
   meta: {
-    title: "Serwis opon w West Palm Beach – nowe i używane opony | Los Paisas",
+    title: "Wulkanizacja West Palm Beach – tanie opony od $65 | Los Paisas",
     description:
-      "Używane opony od $65, nowe od $120. Geometria, wyważanie, naprawa: 1114 S Military Trl, West Palm Beach. Także w niedzielę, 8–19. (561) 429-4041.",
+      "Wulkanizacja i tanie opony w West Palm Beach: używane od $65, nowe od $120, montaż i wyważanie w cenie. 1114 S Military Trl, także w niedzielę, 8–19.",
     keywords: [
       "serwis opon West Palm Beach",
       "wulkanizacja West Palm Beach",
