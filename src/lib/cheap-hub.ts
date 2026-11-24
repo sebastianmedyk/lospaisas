@@ -235,7 +235,7 @@ export const CHEAP_HUB: Record<Locale, HubCopy> = {
         id: "compare",
         heading: "Compara el precio completo, no solo la llanta",
         paragraphs: [
-          "El lugar más barato para montar y balancear llantas no siempre es el que pone el número más bajo en el letrero. Si el precio no incluye montaje, balanceo o hay un cargo al final, la llanta “barata” sale cara. Antes de pagar en cualquier taller, haz estas preguntas y compara el total.",
+          "El lugar más barato para montar y balancear llantas no siempre es el que pone el número más bajo en el letrero. Si el precio no incluye montaje, balanceo o hay un cargo al final, la llanta “barata” sale cara. Antes de pagar en cualquier taller, haz estas preguntas y compara el total. Nuestra guía para [comparar precios de llantas baratas en West Palm Beach](/blog/comparar-precios-llantas-baratas-west-palm-beach) lo explica paso a paso.",
           "En Los Paisas Tires Shop la respuesta es corta: si nos compras la llanta, el montaje y el balanceo van incluidos y no hay cargos ocultos. Usadas desde $65 y Cosmo nuevas desde $120.",
         ],
         bullets: [
