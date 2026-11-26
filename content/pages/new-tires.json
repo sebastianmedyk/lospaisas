@@ -150,6 +150,30 @@
     {
       "href": "/en/blog/tire-shop-spanish-creole-west-palm-beach",
       "label": "Tire choices explained in Spanish or English"
+    },
+    {
+      "href": "/en/catalog",
+      "label": "New tire prices: Cosmo catalog from $120"
+    },
+    {
+      "href": "/en/blog/new-tire-sizes-r15-r18-lt-west-palm-beach",
+      "label": "New tire sizes R15–R18 and LT"
+    },
+    {
+      "href": "/en/blog/do-modern-tires-last-only-2-to-4-years",
+      "label": "Do modern tires last only 2 to 4 years?"
+    },
+    {
+      "href": "/en/blog/how-to-read-tire-size-on-sidewall",
+      "label": "How to read the tire size on the sidewall"
+    },
+    {
+      "href": "/en/blog/compare-cheap-tire-prices-west-palm-beach",
+      "label": "How to compare cheap tire prices"
+    },
+    {
+      "href": "/en/location",
+      "label": "Shop location and hours: open 7 days, Sunday too"
     }
   ],
   "keywords": [
@@ -157,5 +181,5 @@
     "new tires near me",
     "new tire installation Military Trl"
   ],
-  "updated": "2026-11-19"
+  "updated": "2026-11-26"
 }

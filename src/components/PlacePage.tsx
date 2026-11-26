@@ -5,6 +5,7 @@ import BlogShell from "@/components/BlogShell";
 import PageHero from "@/components/PageHero";
 import Reviews from "@/components/Reviews";
 import JsonLd from "@/components/JsonLd";
+import PlaceExtra from "@/components/PlaceExtra";
 import PromoPanel from "@/components/PromoPanel";
 import {
   AppleMapsIcon,
@@ -97,6 +98,7 @@ export default function PlacePage({ locale, kind }: Props) {
           </p>
         </div>
       </section>
+      <PlaceExtra kind={kind} locale={locale} />
       {kind === "location" ? <Reviews locale={locale} /> : null}
     </BlogShell>
   );

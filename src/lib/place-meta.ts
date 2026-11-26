@@ -12,9 +12,9 @@ const OG = {
 const COPY = {
   location: {
     en: {
-      title: "Shop Location in West Palm Beach | Los Paisas Tires",
+      title: "Tire Shop on S Military Trl, West Palm Beach – Open Sunday",
       description:
-        "Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415. Open Mon–Sun 8:00 AM–7:00 PM. Mobile across Palm Beach County. Call (561) 429-4041.",
+        "Tire shop at 1114 S Military Trl, West Palm Beach, FL 33415, open 7 days incl. Sunday, 8 AM–7 PM. Used tires from $65, new Cosmo from $120. Call (561) 429-4041.",
       ogAlt: "Los Paisas Tires Shop map — S Military Trl, West Palm Beach",
     },
     es: {

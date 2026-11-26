@@ -103,7 +103,15 @@
     {
       "href": "/en/cheap-tires-west-palm-beach",
       "label": "Cheapest tires near Lake Worth Beach: used from $65"
+    },
+    {
+      "href": "/en/services/used-tires",
+      "label": "Used tires from $65 at the shop"
+    },
+    {
+      "href": "/en/location",
+      "label": "Shop location and hours: open 7 days, Sunday too"
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-26"
 }

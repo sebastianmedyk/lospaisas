@@ -172,6 +172,16 @@ export const CHEAP_HUB: Record<Locale, HubCopy> = {
       },
       { question: "Is mounting and balancing included?", answer: "Yes, when you buy the tire from us." },
       { question: "Are you open on Sunday?", answer: "Yes, 7 days a week, 8:00 AM–7:00 PM." },
+      {
+        question: "Is there a tire shop open on Sunday near Military Trail in West Palm Beach?",
+        answer:
+          "Yes. Los Paisas Tires Shop at 1114 S Military Trl, West Palm Beach, FL 33415 is open Monday through Sunday, 8:00 AM–7:00 PM, and Sunday is a normal workday. Walk in with no appointment, or call (561) 429-4041 with your tire size. Used tires from $65, new Cosmo tires from $120.",
+      },
+      {
+        question: "Do you sell used tires near Military Trail?",
+        answer:
+          "Yes, used tires from $65 at 1114 S Military Trl. Mounting and balancing are included when you buy the tire from us, and each used tire is checked before it goes on.",
+      },
       { question: "Do I need an appointment?", answer: "No, walk in. Same-day repairs." },
       {
         question: "Do used tires have a warranty?",

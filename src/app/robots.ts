@@ -3,12 +3,18 @@ import { SITE_URL } from "@/lib/site";
 
 /** Allow all crawlers including major AI / generative-engine bots (do not block). */
 const AI_BOTS = [
+  "Googlebot",
+  "Bingbot",
+  "Applebot",
   "GPTBot",
   "ChatGPT-User",
   "OAI-SearchBot",
   "Google-Extended",
   "PerplexityBot",
+  "Perplexity-User",
   "ClaudeBot",
+  "Claude-SearchBot",
+  "Claude-User",
   "anthropic-ai",
   "Bytespider",
   "Applebot-Extended",

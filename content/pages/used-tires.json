@@ -149,6 +149,22 @@
     {
       "href": "/en/blog/tire-shop-no-appointment-walk-in",
       "label": "No appointment needed: walk in for tires"
+    },
+    {
+      "href": "/en/catalog",
+      "label": "New tire prices: Cosmo catalog from $120"
+    },
+    {
+      "href": "/en/location",
+      "label": "Shop location and hours: open 7 days, Sunday too"
+    },
+    {
+      "href": "/en/blog/flat-tire-sunday-military-trail",
+      "label": "Flat tire on Sunday? Open 7 days on Military Trl"
+    },
+    {
+      "href": "/en/blog/used-tire-inspection-checklist",
+      "label": "Used tire inspection checklist"
     }
   ],
   "keywords": [
@@ -156,5 +172,5 @@
     "used tires near me",
     "used tire shop Military Trl"
   ],
-  "updated": "2026-11-19"
+  "updated": "2026-11-26"
 }
